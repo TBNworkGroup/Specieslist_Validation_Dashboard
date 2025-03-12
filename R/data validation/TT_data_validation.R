@@ -189,8 +189,6 @@ for (i in seq_len(nrow(df_TTsubset))) {
 # (B2) 將錯誤清單轉成 DataFrame
 df_errors <- do.call(rbind, lapply(errors_list, as.data.frame))
 df_errors <- as.data.frame(df_errors, stringsAsFactors = FALSE)
-df_errors$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_errors$taxonUUID)
-
 
 check_string_vers_detail <- function(string, columnname) {
   # 回傳違反規則的字串 (若沒錯誤 => "")
@@ -259,6 +257,8 @@ for (i in seq_len(nrow(df_errors))) {
     # flagged_cols 長度是 0 => 找不到出錯欄位, 可能都 NA => 不做事
   }
 }
+df_errors$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_errors$taxonUUID)
+
 
 # (B3) 輸出到csv
 fwrite(df_errors, "../../data/output/TT_errortypes_result.csv")
