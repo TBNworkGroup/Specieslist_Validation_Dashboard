@@ -2,8 +2,6 @@ taxonUUID,taxonRank,kingdom,simplifiedScientificName,scientificName,dup_simplifi
 c81c2d9d-6ab5-461f-ba33-48c46fd7a98f,domain,"",Bacteria,Bacteria,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/c81c2d9d-6ab5-461f-ba33-48c46fd7a98f
 04a87524-3ed5-495d-ab3e-a5689ba55487,order,Animalia,Pholidota,Pholidota,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/04a87524-3ed5-495d-ab3e-a5689ba55487
 fe0b9853-61fa-47f3-8850-e8aa646cb9cb,order,Animalia,Heteropoda,Heteropoda,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/fe0b9853-61fa-47f3-8850-e8aa646cb9cb
-856a1a16-e8ac-436a-9ad2-ac5aff334344,family,Animalia,Centriscidae,Centriscidae,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/856a1a16-e8ac-436a-9ad2-ac5aff334344
-ed03b9bc-c719-4bb9-8add-e9657bfbf7b1,family,Animalia,Centriscidae,Centriscidae,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/ed03b9bc-c719-4bb9-8add-e9657bfbf7b1
 79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,Plecoptera,Plecoptera,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
 b97f04e6-e040-43c4-a957-4c1d09c2094f,kingdom,Cryptista,Cryptista,Cryptista,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/b97f04e6-e040-43c4-a957-4c1d09c2094f
 37612a37-510c-4623-98d7-c9988cae908a,kingdom,Fungi,Fungi,Fungi,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/37612a37-510c-4623-98d7-c9988cae908a
@@ -141,8 +139,6 @@ f6bbac27-487d-40fb-8c95-fe877c56c396,species,Plantae,Kurzia pauciflora,Kurzia pa
 228b1460-935d-4fb4-91aa-0e60b1a0202c,species,Animalia,Ficus variegata,Ficus variegata,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/228b1460-935d-4fb4-91aa-0e60b1a0202c
 e08cbb7f-de61-4c3a-a5cd-169762de34bb,species,Animalia,Tetraneura akinire,Tetraneura akinire,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/e08cbb7f-de61-4c3a-a5cd-169762de34bb
 37cb96c4-1502-471c-ba6b-6e0010f36040,species,Animalia,Tetraneura akinire,Tetraneura akinire,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/37cb96c4-1502-471c-ba6b-6e0010f36040
-0568ac1c-c087-4962-b9b2-b37a1cda6483,species,Animalia,Scolia superciliaris,Scolia superciliaris,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/0568ac1c-c087-4962-b9b2-b37a1cda6483
-aa8a4987-bbac-447a-be4f-0241f859e59f,species,Animalia,Scolia superciliaris,Scolia superciliaris,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/aa8a4987-bbac-447a-be4f-0241f859e59f
 e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
 ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) Spring,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
 6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,Tectaria multicaudata,Tectaria multicaudata Ching,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
