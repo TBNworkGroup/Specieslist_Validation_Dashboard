@@ -6,7 +6,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250305"  # 舉例
+modified_date <- "20250312"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -129,6 +129,15 @@ check_string_vers <- function(string, columnname) {
 # 模仿 Python 的 iterrows()，逐列 + 逐欄檢查
 errors_list <- list()  # 收集所有錯誤紀錄
 
+
+df_TTsubset <- df_TTsplist %>%
+  select(
+    taxonUUID, taxonRank, kingdom, phylum, class, order, family,
+    genus, specificEpithet, subspecies, variety, form, cultigen,
+    simplifiedScientificName
+  )
+
+
 for (i in seq_len(nrow(df_TTsubset))) {
   row_data <- df_TTsubset[i, ]
   
@@ -180,18 +189,83 @@ for (i in seq_len(nrow(df_TTsubset))) {
 # (B2) 將錯誤清單轉成 DataFrame
 df_errors <- do.call(rbind, lapply(errors_list, as.data.frame))
 df_errors <- as.data.frame(df_errors, stringsAsFactors = FALSE)
+df_errors$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_errors$taxonUUID)
 
-# (可選) 若需要去重複
-# df_errors <- distinct(df_errors, taxonUUID, simplifiedScientificName, .keep_all = TRUE)
 
-# (B3) 輸出到 Excel
-write.xlsx(df_errors,
-           file = "D:\\TBN_ver2\\M2.5 TaxaTree auto develop - compare to new TaiCOL\\compare to newTaiCOL_taxon\\TTsplist_columnError.xlsx",
-           overwrite = TRUE)
+check_string_vers_detail <- function(string, columnname) {
+  # 回傳違反規則的字串 (若沒錯誤 => "")
+  reasons <- character(0)
+  
+  # 1. 括號前後空白 & 特定符號
+  if (str_detect(string, " \\)") ||
+      str_detect(string, "\\( ") ||
+      str_detect(string, "&")    ||
+      str_detect(string, "_")    ||
+      str_detect(string, "\\.")) {
+    reasons <- c(reasons, "錯誤符號與括號前後空格")
+  }
+  
+  # 2. 頭尾或連續空白
+  if (str_starts(string, " ")) reasons <- c(reasons, "文字前空格")
+  if (str_ends(string, " "))   reasons <- c(reasons, "文字後空格")
+  if (str_detect(string, "  ")) reasons <- c(reasons, "連續空格")
+  
+  # 3. 大小寫檢查
+  if (!check_string_lower(string, columnname)) {
+    reasons <- c(reasons, "大小寫錯誤")
+  }
+  
+  if (length(reasons) == 0) {
+    return("")
+  } else {
+    return(paste(unique(reasons), collapse=";"))
+  }
+}
+
+# 先新增欄位 errortypes
+df_errors$errortypes <- NA_character_
+
+# 遍歷 df_errors 的每一列, 找出哪個欄位是出錯欄位(即有值), 
+# 然後用 check_string_vers_detail() 取得錯誤種類
+for (i in seq_len(nrow(df_errors))) {
+  # 這行數據
+  row_data <- df_errors[i, ]
+  
+  # 假設只有1個欄位(除了 taxonUUID, taxonRank, TT_URL... ) 會存到值
+  # 先找出 "非 NA" 的欄位
+  non_na_cols <- colnames(row_data)[which(!is.na(row_data) & row_data != "")]
+  
+  # 排除不需要檢查的欄位 (taxonUUID, taxonRank, TT_URL, simplifiedScientificName等)
+  # 你可自行增減排除清單
+  exclude_cols <- c("taxonUUID","taxonRank","TT_URL","simplifiedScientificName")
+  flagged_cols <- setdiff(non_na_cols, exclude_cols)
+  
+  if (length(flagged_cols) == 1) {
+    # 就用這個欄位為 "出錯欄位"
+    colname <- flagged_cols[1]
+    val <- row_data[[colname]]
+    
+    # 執行加強版檢查 -> 回傳一串錯誤描述
+    error_str <- check_string_vers_detail(val, colname)
+    df_errors$errortypes[i] <- error_str
+  } else if (length(flagged_cols) > 1) {
+    # 若不只1個欄位(理論上不該發生, 因為你 break 了),
+    # 這裡可以自行決定怎麼處理, 例如只檢查第一個
+    colname <- flagged_cols[1]
+    val <- row_data[[colname]]
+    error_str <- check_string_vers_detail(val, colname)
+    df_errors$errortypes[i] <- error_str
+  } else {
+    # flagged_cols 長度是 0 => 找不到出錯欄位, 可能都 NA => 不做事
+  }
+}
+
+# (B3) 輸出到csv
+fwrite(df_errors, "../../data/output/TT_errortypes_result.csv")
 
 
 # === 確認結果 ===
-# A: 重複學名 -> df_repeated
+# A: 重複學名 -> df_duplicates_result
 # B: 欄位錯誤 -> df_errors
-print(df_repeated)
+print(df_duplicates_result)
 print(df_errors)
