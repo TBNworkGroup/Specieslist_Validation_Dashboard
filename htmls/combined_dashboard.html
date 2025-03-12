@@ -66,11 +66,6 @@
   -->
   <h1>Species Error Types Dashboard</h1>
   <div class="filter-section">
-    <label for="error-kingdom-select">篩選 Kingdom:</label>
-    <select id="error-kingdom-select">
-      <option value="All" selected>All</option>
-      <!-- kingdom 選項動態填入 -->
-    </select>
 
     <label for="errortypes-select">錯誤樣態:</label>
     <select id="errortypes-select">
@@ -216,29 +211,13 @@
   let myDataTable2 = null;
 
   (function initErrorsDashboard(){
-    populateKingdomDropdownForErrors();
     populateErrorTypesDropdown();
     initDataTableErrors(errorsData);
 
-    document.getElementById("error-kingdom-select")
-            .addEventListener("change", updateDataTableErrors);
     document.getElementById("errortypes-select")
             .addEventListener("change", updateDataTableErrors);
   })();
 
-  // 動態填入 kingdom (第二個 dashboard)
-  function populateKingdomDropdownForErrors(){
-    const kingdoms = errorsData.map(d => d.kingdom).filter(k => k);
-    const uniqueKingdoms = [...new Set(kingdoms)].sort();
-    const selectEl = document.getElementById("error-kingdom-select");
-
-    uniqueKingdoms.forEach(k => {
-      const opt = document.createElement("option");
-      opt.value = k;
-      opt.textContent = k;
-      selectEl.appendChild(opt);
-    });
-  }
 
   // 動態填入 errortypes 下拉
   function populateErrorTypesDropdown(){
@@ -299,15 +278,9 @@
   }
 
   function updateDataTableErrors(){
-    const selectedKingdom = document.getElementById("error-kingdom-select").value;
     const selectedErrortype = document.getElementById("errortypes-select").value;
 
     let filtered = errorsData;
-
-    // 篩選 kingdom
-    if (selectedKingdom !== "All") {
-      filtered = filtered.filter(d => d.kingdom === selectedKingdom);
-    }
 
     // 篩選 errortypes (完全匹配)
     if (selectedErrortype !== "All") {
