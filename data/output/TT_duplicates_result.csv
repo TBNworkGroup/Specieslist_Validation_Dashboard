@@ -9,9 +9,7 @@ b97f04e6-e040-43c4-a957-4c1d09c2094f,kingdom,Cryptista,Cryptista,Cryptista,TRUE,
 7e7d991e-7e79-4bc1-ae27-9e10aaa37159,phylum,Fungi,Basidiomycota,Basidiomycota,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/7e7d991e-7e79-4bc1-ae27-9e10aaa37159
 f2746330-97f2-46d7-8b3a-4c48d364dfe2,phylum,Fungi,Ascomycota,Ascomycota,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/f2746330-97f2-46d7-8b3a-4c48d364dfe2
 34ded212-a618-4d6c-bf75-b61bf92a390c,genus,Fungi,Rhopographus,Rhopographus,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/34ded212-a618-4d6c-bf75-b61bf92a390c
-d8f9be56-5c4e-4e67-b2b5-58a5ee458246,genus,Fungi,Phaeofabraea,Phaeofabraea,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/d8f9be56-5c4e-4e67-b2b5-58a5ee458246
 963beb97-6539-43f0-9d59-79e39037cb65,genus,Fungi,Japonia,Japonia,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/963beb97-6539-43f0-9d59-79e39037cb65
-a8d55bab-368f-4fba-ac6a-9008d9c6738e,genus,Fungi,Leptothyrium,Leptothyrium,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/a8d55bab-368f-4fba-ac6a-9008d9c6738e
 07162fa8-253e-4db2-bd80-9299cf011b7a,genus,Animalia,Scaphidium,Scaphidium,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/07162fa8-253e-4db2-bd80-9299cf011b7a
 de1d8bfb-3271-428b-86cc-303471dc4040,kingdom,Bacteria,Bacteria,Bacteria,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/de1d8bfb-3271-428b-86cc-303471dc4040
 3316e7dc-d682-465d-8816-6b3c01f755a9,genus,Animalia,Gustavia,Gustavia,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/3316e7dc-d682-465d-8816-6b3c01f755a9
@@ -112,24 +110,16 @@ d82cfda6-d2dd-449a-9c91-b4cbf5158119,genus,Plantae,Thunbergia,Thunbergia,TRUE,FA
 1f391583-50ca-4996-8944-8791ab04c3dc,genus,Plantae,Acmella,Acmella,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/1f391583-50ca-4996-8944-8791ab04c3dc
 3befaa5f-1e3f-43c4-90f8-20d2cb1abb73,genus,Plantae,Glossocardia,Glossocardia,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/3befaa5f-1e3f-43c4-90f8-20d2cb1abb73
 b8964a85-fb1b-405a-a0de-5fd5cee8f2a2,genus,Plantae,Oenanthe,Oenanthe,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/b8964a85-fb1b-405a-a0de-5fd5cee8f2a2
-977ce51e-cd6d-48eb-ae2d-a30b8d98e26b,genus,Chromista,Pseudo-nitzschia,Pseudo-nitzschia,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/977ce51e-cd6d-48eb-ae2d-a30b8d98e26b
-67a7d9a6-539c-4618-a32b-9bda8ad40c22,genus,Chromista,Pseudo-nitzschia,Pseudo-nitzschia,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/67a7d9a6-539c-4618-a32b-9bda8ad40c22
 1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3,genus,Chromista,Cerataulina,Cerataulina,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3
 22e4a532-0df1-4099-89b8-c19aed9d59db,genus,Fungi,Lactarius,Lactarius,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/22e4a532-0df1-4099-89b8-c19aed9d59db
 2e7dc2ac-65d4-4376-b5df-17168aa8b507,genus,Fungi,Galera,Galera,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/2e7dc2ac-65d4-4376-b5df-17168aa8b507
 78dd11b2-0d00-4042-a026-01d4d95a2337,genus,Fungi,Empusa,Empusa,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/78dd11b2-0d00-4042-a026-01d4d95a2337
 c5240f80-353d-4af8-a643-d9bfe728bd6d,genus,Fungi,Stenella,Stenella,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/c5240f80-353d-4af8-a643-d9bfe728bd6d
 7bdc16af-01a4-41ad-ba41-61f1839be722,genus,Fungi,Graphium,Graphium,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/7bdc16af-01a4-41ad-ba41-61f1839be722
-b62abbcf-4f01-4267-adf4-72a14f6636cb,genus,Fungi,Phaeofabraea,Phaeofabraea,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/b62abbcf-4f01-4267-adf4-72a14f6636cb
-0e0d450c-a555-4379-925b-90f21256f4fe,genus,Fungi,Leptothyrium,Leptothyrium,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/0e0d450c-a555-4379-925b-90f21256f4fe
 951152dd-d47c-4d57-be62-fe409daa912f,genus,Animalia,Rhytisma,Rhytisma,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/951152dd-d47c-4d57-be62-fe409daa912f
 e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,Platypleura,Platypleura,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b
 781a4282-cfb9-458a-8f26-d06b3b6689b4,genus,Protozoa,Epistominella,Epistominella,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/781a4282-cfb9-458a-8f26-d06b3b6689b4
 c7439a13-33da-4e3f-a943-8988dd48d97c,genus,Protozoa,Epistominella,Epistominella,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/c7439a13-33da-4e3f-a943-8988dd48d97c
-66c884ef-ce79-4e4a-9cc5-a3fdf8305e3d,genus,Protozoa,Oolina,Oolina,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/66c884ef-ce79-4e4a-9cc5-a3fdf8305e3d
-a4fe3a7d-5990-4f12-ae45-dc9997d9cdbb,genus,Protozoa,Oolina,Oolina,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/a4fe3a7d-5990-4f12-ae45-dc9997d9cdbb
-98cbd53a-6ad3-4562-be9f-89f7f463206d,genus,Protozoa,Gyroidina,Gyroidina,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/98cbd53a-6ad3-4562-be9f-89f7f463206d
-ea472c11-dff0-4138-a724-7d9e43367ee0,genus,Protozoa,Gyroidina,Gyroidina,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/ea472c11-dff0-4138-a724-7d9e43367ee0
 3dac74c4-6ee5-4ee2-89ea-f456295a3f33,genus,Animalia,Lactarius,Lactarius,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/3dac74c4-6ee5-4ee2-89ea-f456295a3f33
 77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,Enteropogon,Enteropogon,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/77492479-c45b-46d6-a0d3-796e32b00be7
 6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2,genus,Animalia,Linaria,Linaria,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2
@@ -137,8 +127,6 @@ ea472c11-dff0-4138-a724-7d9e43367ee0,genus,Protozoa,Gyroidina,Gyroidina,TRUE,TRU
 d1677f87-b574-41a5-93d7-ac169ae5cc98,species,Plantae,Kurzia borneensis,Kurzia borneensis,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/d1677f87-b574-41a5-93d7-ac169ae5cc98
 f6bbac27-487d-40fb-8c95-fe877c56c396,species,Plantae,Kurzia pauciflora,Kurzia pauciflora,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/f6bbac27-487d-40fb-8c95-fe877c56c396
 228b1460-935d-4fb4-91aa-0e60b1a0202c,species,Animalia,Ficus variegata,Ficus variegata,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/228b1460-935d-4fb4-91aa-0e60b1a0202c
-e08cbb7f-de61-4c3a-a5cd-169762de34bb,species,Animalia,Tetraneura akinire,Tetraneura akinire,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/e08cbb7f-de61-4c3a-a5cd-169762de34bb
-37cb96c4-1502-471c-ba6b-6e0010f36040,species,Animalia,Tetraneura akinire,Tetraneura akinire,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/37cb96c4-1502-471c-ba6b-6e0010f36040
 e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
 ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) Spring,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
 6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,Tectaria multicaudata,Tectaria multicaudata Ching,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
@@ -154,7 +142,6 @@ b7bfe221-18d8-42c6-a779-31bb710ab0f7,genus,Plantae,Chondria,Chondria,TRUE,FALSE,
 a47ce978-5b75-4790-8101-d2f809d87e15,genus,Animalia,Cerataulina,Cerataulina,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/a47ce978-5b75-4790-8101-d2f809d87e15
 9f92662d-1859-49e7-a0be-9272a8ab6e80,superphylum,Podiata,Fungi,Fungi,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/9f92662d-1859-49e7-a0be-9272a8ab6e80
 8b0940fe-40aa-4acc-b97f-30b14769046a,genus,Plantae,Sarcophyton,Sarcophyton,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/8b0940fe-40aa-4acc-b97f-30b14769046a
-b7e06812-0a74-40ed-bef4-387a289a3d8b,family,Fungi,Sympoventuriaceae,Sympoventuriaceae,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/b7e06812-0a74-40ed-bef4-387a289a3d8b
 c836597e-913b-4239-9a6b-9e735e09c0ea,genus,Animalia,Rhopographus,Rhopographus,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/c836597e-913b-4239-9a6b-9e735e09c0ea
 8ab253d4-d6bc-4b4b-9ee0-21fce9f55984,genus,Fungi,Scaphidium,Scaphidium,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/8ab253d4-d6bc-4b4b-9ee0-21fce9f55984
 035202e4-ed3f-44e5-84dc-f86ed9044141,genus,Fungi,Rhytisma,Rhytisma,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/035202e4-ed3f-44e5-84dc-f86ed9044141
@@ -167,7 +154,6 @@ a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Plantae,Tectaria multicaudata,Tecta
 6f795206-cd88-4cd3-bb85-fc9b780cdf37,species,Plantae,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Steph.,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/6f795206-cd88-4cd3-bb85-fc9b780cdf37
 842ad359-abc6-44ec-8c63-ddfc3606c98c,species,Plantae,Kurzia borneensis,Kurzia borneensis Mizut.,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/842ad359-abc6-44ec-8c63-ddfc3606c98c
 b152bcf1-afc5-4a80-8125-2de3eebd3e8c,species,Plantae,Kurzia pauciflora,Kurzia pauciflora (Dicks.) Grolle,TRUE,TRUE,FALSE,https://taxatree.tbn.org.tw/taxa/b152bcf1-afc5-4a80-8125-2de3eebd3e8c
-f609f637-f160-40be-bd6b-1e7e78050833,family,Fungi,Sympoventuriaceae,Sympoventuriaceae,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/f609f637-f160-40be-bd6b-1e7e78050833
 f28abec8-e3e7-4da9-8ee5-b869a445d597,genus,Animalia,Manulea,Manulea,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/f28abec8-e3e7-4da9-8ee5-b869a445d597
 2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,Anisophyllum,Anisophyllum,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/2892f3ca-35f9-4b07-b812-87241d263efb
 aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,Anisophyllum,Anisophyllum,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/aeadab76-407e-478b-906d-a012472b1f0f

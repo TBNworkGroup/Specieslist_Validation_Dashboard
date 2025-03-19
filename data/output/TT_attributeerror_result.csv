@@ -1,0 +1,838 @@
+taxonUUID,taxonRank,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason
+141f9909-7470-46b8-8943-c474230b94f4,species,Ectostroma oryzae,"","","","","","",種與種下原生性空白
+48d47ce2-4a32-4094-8ddd-47938c12f875,species,Isthmotricladia gombakiensis,"","","","","","",種與種下原生性空白
+62877461-af8f-4dd5-826f-6f26f19d92ee,species,Scutisporus brunneus,"","","","","","",種與種下原生性空白
+c4e2a4e3-89b4-485c-83c2-2bd1093ad78a,species,Spegazzinia sundara,"","","","","","",種與種下原生性空白
+f838e73e-58e5-4b70-b353-704866421fd5,species,Spegazzinia deightonii,"","","","","","",種與種下原生性空白
+b3bb4468-a896-4fe0-97c5-0db437c3b510,species,Naganishia albida,"","","","","","",種與種下原生性空白
+abcf389a-6b0d-4677-8c45-140fdb8180bf,species,Cryptococcus neoformans,"","","","","","",種與種下原生性空白
+9a3f9c34-ee53-46e9-ae35-875a0817cf46,species,Cryptococcus magnus,"","","","","","",種與種下原生性空白
+2fc04a61-791c-40ca-9bbc-a3d921dde034,species,Cryptococcus flavus,"","","","","","",種與種下原生性空白
+a6c62c7f-0fc2-4bb4-ab75-e5f0c6dfcc4c,species,Cryptococcus luteolus,"","","","","","",種與種下原生性空白
+f13b8f71-117e-477f-a3f5-b77d6b4c6a0c,species,Cryptococcus laurentii,"","","","","","",種與種下原生性空白
+258bb27f-2d04-4183-a091-b5659faba001,species,Coronosphaera mediterranea,"","","","","","",種與種下原生性空白
+ade8ec95-3d1c-478f-af4c-bd9abc2787e5,species,Florisphaera profunda,"","","","","","",種與種下原生性空白
+ac3f998e-5799-4370-9996-81c4ce40b24b,species,Sporotrichum aurantiacum,"","","","","","",種與種下原生性空白
+645a2a19-c99c-4649-b954-4462b6f111bd,species,Acaromyces ingoldii,"","","","","","",種與種下原生性空白
+fb5b2900-68be-4c42-8d63-0d3e570cadbf,species,Wiesneriomyces laurinus,"","","","","","",種與種下原生性空白
+04d877f8-bca8-41cf-9bf4-5f9885de23d9,infraspecies,Cryptococcus neoformans sinensis,"","","","","","",種與種下原生性空白
+da9c58ad-75cc-4f96-b38f-69588105dd3f,species,Theophormis callipilium,"","","","","","",種與種下原生性空白
+9231f03f-8a03-40e7-b823-795ecaad36ab,species,Theopilium tricostatum,"","","","","","",種與種下原生性空白
+92865cdf-d0ca-4181-bdf6-6fd02f438fb6,species,Trichogalumna nipponica,"","","","","","",種與種下原生性空白
+8369c7c1-8781-48e4-b994-db3110b97168,infraspecies,Florisphaera profunda elongata,"","","","","","",種與種下原生性空白
+711fef16-0999-46ca-a045-ecd23bc63ddd,infraspecies,Florisphaera profunda profunda,"","","","","","",種與種下原生性空白
+fd6dd3a4-8602-42e5-ad3f-c6fcf70a9bbc,species,Kephyrion rubri-claustri,"","","","","","",種與種下原生性空白
+634b0241-b580-42bb-90a8-9299d87fd8df,species,Odontella regia,"","","","","","",種與種下原生性空白
+84f44b31-d713-4ce7-a62d-ca22c159943f,species,Tetraplektron laevis,"","","","","","",種與種下原生性空白
+9773b8e1-b5ac-4460-b327-1e43c022519c,species,Trichodesmium hildebrandtii,"","","","","","",種與種下原生性空白
+523b896e-0cb1-428f-8ea6-c50a9cb780d0,species,Trichodesmium thiebautii,"","","","","","",種與種下原生性空白
+f66de29d-6bf5-4d50-b8d4-3b982fcccd97,species,Centritractus belanophorus,"","","","","","",種與種下原生性空白
+122ad365-7a86-4dbb-b93a-fe69ce2dc7dc,species,Centritractus brunneus,"","","","","","",種與種下原生性空白
+79fbb540-2229-42ea-af02-6fc353ed3df2,species,Phanerochaete magnoliae,"","","","","","",種與種下原生性空白
+2cfb7569-1e1f-4ab6-aa95-9d6273cc8b9c,species,Gloeocystidiellum luridum,"","","","","","",種與種下原生性空白
+935972a8-a048-4d58-8b72-8965062370f2,species,Leucosporidiella creatinivora,"","","","","","",種與種下原生性空白
+42fabc97-40ad-45e9-95c2-6ffd4816a536,species,Daedaleopsis purpurea,"","","","","","",種與種下原生性空白
+30b1632c-bbb6-4bae-b559-610e7f982ee3,species,Dispira cornuta,"","","","","","",種與種下原生性空白
+da48a58b-6eaa-4b19-b917-25b8928200f3,species,Dispira simplex,"","","","","","",種與種下原生性空白
+e3ba7c8c-107c-4caf-a095-e7b3cbacc75b,species,Apoa petrakii,"","","","","","",種與種下原生性空白
+467d774e-b9d9-48f5-929a-84c8da7433f2,species,Cocconia placenta,"","","","","","",種與種下原生性空白
+bfd8cd3c-2472-4dbe-b404-b651e4c26157,species,Dictyocyclus hydrangeae,"","","","","","",種與種下原生性空白
+11352c6f-60b8-438d-89c0-dd26731a3ef8,species,Kentingia corticola,"","","","","","",種與種下原生性空白
+bab2cf9e-627f-43b9-9b74-7a86968e25a7,species,Parmulina japonica,"","","","","","",種與種下原生性空白
+cb1e509a-f5f9-4ca2-8508-acbf697428d1,species,Armata macrospora,"","","","","","",種與種下原生性空白
+7346eda3-387e-434f-9ae3-85c21cc9a3e9,species,Micropeltis symploci,"","","","","","",種與種下原生性空白
+425eba39-2eb8-4ffa-b33a-967a75a08eaa,species,Rhytidenglerula trematis,"","","","","","",種與種下原生性空白
+8a64ef5c-f12e-48b4-8d65-1abe3d02fab3,species,Hemicorynespora mitrata,"","","","","","",種與種下原生性空白
+27e7723d-f43b-46e1-a2e1-f288245db481,species,Piricauda taiwanensis,"","","","","","",種與種下原生性空白
+7e399ad3-65c2-41bb-9f54-dd2ef2b7cb59,species,Solosympodiella palmicola,"","","","","","",種與種下原生性空白
+449bae86-b489-4a41-a1bb-cf612c74ccaf,species,Solosympodiella phyllostachydis,"","","","","","",種與種下原生性空白
+9462dfe8-6d62-4b59-93eb-267fdf295b35,species,Speiropsis pedatospora,"","","","","","",種與種下原生性空白
+a4b6a45f-acb8-4f5d-8a9f-42b5c3ba827e,species,Stachybotrys chartarum,"","","","","","",種與種下原生性空白
+cc225914-5ce4-4302-887b-dbd5d33516d6,species,Stilbella buloloensis,"","","","","","",種與種下原生性空白
+4e8ecfa3-969e-4f91-a448-5fd88310e942,species,Stilbella jaapii,"","","","","","",種與種下原生性空白
+c6e10b47-c03d-4b2b-beed-d00f99fb1078,species,Ophiocordyceps buquetii,"","","","","","",種與種下原生性空白
+e71e06e6-b54a-43c7-8b50-e72ee0cab5a3,species,Glomerella cinnamomi,"","","","","","",種與種下原生性空白
+e90ab2a7-68a5-4dee-bc25-a614cb30bbbb,species,Glomerella gossypii,"","","","","","",種與種下原生性空白
+f0c52a6a-4ca7-47c1-b445-c54f29461cbb,species,Glomerella mori,"","","","","","",種與種下原生性空白
+5495858a-fe92-454c-b7d9-444062a3e8bb,species,Glomerella stephaniae,"","","","","","",種與種下原生性空白
+7252aa21-5eba-4a38-8a36-30ccf5d19bf5,species,Coprotus glaucellus,"","","","","","",種與種下原生性空白
+d2469321-6db9-475d-bed6-4acbaa11fd26,species,Coprotus leucopocillum,"","","","","","",種與種下原生性空白
+4a2238f9-8a61-4930-a3fb-1d3fa898b5c6,species,Coprotus marginatus,"","","","","","",種與種下原生性空白
+12cb5645-0d5c-42e6-a6be-d8720c5787ad,species,Coprotus niveus,"","","","","","",種與種下原生性空白
+3972526e-9a41-41f5-904f-cdf5f26ce4b8,species,Coprotus ochraceus,"","","","","","",種與種下原生性空白
+75e8fc05-318b-4153-b478-43ecb0c88b63,species,Coprotus sexdecimsporus,"","","","","","",種與種下原生性空白
+002fbff7-6171-4c28-b8e4-bf9492190b02,species,Coprotus uncinatus,"","","","","","",種與種下原生性空白
+6575bf99-62d8-4bc5-a3d1-c89af2345353,species,Lasiobolus cuniculi,"","","","","","",種與種下原生性空白
+1ac57a7c-9a71-4431-9e1b-de08dc394cc4,species,Lasiobolus microsporus,"","","","","","",種與種下原生性空白
+de1843a2-7b65-46f5-a53d-8c829408bc23,species,Lasiobolus intermedius,"","","","","","",種與種下原生性空白
+8a468e60-7c53-4f18-af66-631449ea6f5f,species,Apiospora montagnei,"","","","","","",種與種下原生性空白
+18e38c8f-c05b-4066-aba9-71769a348724,species,Pyricularia grisea,"","","","","","",種與種下原生性空白
+3e2c30e8-4f4c-47b9-8f58-bf7f9dde78b6,species,Pyricularia zingiberis,"","","","","","",種與種下原生性空白
+607750a4-a82c-4d35-b186-0830b54e130f,species,Thyridium vestitum,"","","","","","",種與種下原生性空白
+b8d9d8b0-d416-457e-8d68-57af27ade869,species,Vialaea minutella,"","","","","","",種與種下原生性空白
+ed4caa52-a163-4ba5-87f1-954423365c7b,species,Debaryozyma hansenii,"","","","","","",種與種下原生性空白
+c481ecfd-69a3-4383-880b-594de346a790,species,Candida rugosa,"","","","","","",種與種下原生性空白
+4a5acb5a-0e07-45ff-839a-ae42a032356f,species,Candida tropicalis,"","","","","","",種與種下原生性空白
+06c67f88-729a-4871-a33d-3d037382b56d,species,Candida zeylanoides,"","","","","","",種與種下原生性空白
+21c8f558-cc6d-477e-a781-0020873146c9,species,Eupatorium cannabinum,"","","","","","",種與種下原生性空白
+8625eb13-be70-4a83-9b42-7be07609743f,species,Desmodium laxum,"","","","","","",種與種下原生性空白
+6178a4bc-0816-4024-adbe-85fa8405e7d9,species,Desmodium podocarpum,"","","","","","",種與種下原生性空白
+10479fc8-3e9b-441e-a34f-875ce412704f,species,Desmodium incanum,"","","","","","",種與種下原生性空白
+1a1e825c-da83-4891-a345-dddafac332fd,species,Myersina yangii,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4bc44e6a-586e-49ca-a385-e9dc9706d440,species,Rhinogobius formosanus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+85ed0f4f-a781-45b9-93ad-66969a5be55a,species,Macropodus opercularis,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6bc30079-1e4d-4c47-a6ae-c992a9080494,species,Culter alburnus,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3e1bd674-c707-46c5-9f03-41f85c41f249,species,Microphysogobio brevirostris,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e1c2ea0e-1cd5-4aca-b8ef-59a793511996,species,Onychostoma barbatulum,"",原生 Native,"","接近受脅（NT, Near Threatened）","資料缺乏（DD, Data Deficient）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fa5000e5-2ad6-4315-9d5a-0f3b004749c0,species,Silurus asotus,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e28430a2-6add-4229-97ee-928730430945,species,Sinobdella sinensis,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0a686200-57ef-43a7-8ddc-74fb69c68aa8,species,Salanx acuticeps,"",原生 Native,"","滅絕（EX, Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+42815eea-f398-4c52-a399-b7675052113e,species,Plecoglossus altivelis,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","資料缺乏（DD, Data Deficient）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a077c0bf-a835-4a9c-97a9-db1cc2553037,species,Pyrrhula owstoni,台灣特有,原生 Native,"","易危（VU, Vulnerable）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2e269b3e-f070-43fd-b118-42667e65ae98,species,Fulvetta formosana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+59f07053-6baf-4e5b-8080-158d9a8bb7ec,species,Pericrocotus solaris,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+afff8ca8-60e5-408f-b56b-18913d053c3a,species,Locustella alishanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+29fc16ff-90ba-4308-b815-05d77a4b1c5f,species,Numenius minutus,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3f8c00a3-5ec0-4b25-933c-4cc1e3ff7a2a,species,Tringa brevipes,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+faa3e92c-4cd3-468a-b5c4-e07c789c417f,species,Charadrius leschenaultii,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5aee8378-a6f8-44de-accf-f1922307c575,species,Haematopus ostralegus,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b938af4a-88e3-40a9-ba72-52455dfd5b45,species,Calonectris leucomelas,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+92cf552d-708b-45c4-833a-499e8b4732a1,species,Hydrobates monorhis,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+86c6e158-6df6-4eb8-b46e-a7c5bdeeb815,species,Halcyon smyrnensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ba6cb1e8-7585-42d8-a693-ba280ef44cea,species,Trimerodytes percarinatus,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+11721a8e-f075-4999-9c66-83c73a6c46ab,species,Emoia atrocostata,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4e4ae164-8878-4163-9687-d09e72ccfb24,species,Chodsigoa sodalis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","資料缺乏（DD, Data Deficient）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+92f6f0db-3fda-4fa1-bc81-d6ce529ceb0d,species,Eothenomys colurnus,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3c2ebbcf-3e4d-44f1-93f3-fc74ff493023,species,Microtus kikuchii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+02226548-3724-4043-beee-ea24b83df50a,species,Harpiocephalus harpia,"",原生 Native,"","接近受脅（NT, Near Threatened）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+11685854-83a2-4017-b07c-67210a80686f,species,Myotis soror,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","資料缺乏（DD, Data Deficient）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6057b08a-9292-4858-b69b-97ca6f636b7d,species,Plecotus taivanus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+adde0a74-1e78-4b42-9a22-62f2f444852e,species,Rana longicrus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1d3ea5e8-66ae-42db-8d80-a20f84ad82e8,infraspecies,Rhodeus ocellatus ocellatus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ca2b07d8-03bc-42b2-b824-6f8bcae73e8c,infraspecies,Plecoglossus altivelis altivelis,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1f7663d2-62ae-49d2-ad7d-758ff643c641,infraspecies,Sinosuthora webbiana bulomacha,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+03519181-616a-4f5b-87dd-36be6d1d7228,infraspecies,Horornis acanthizoides concolor,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a16f0b8d-92b3-4dd5-9e0b-65df3699c9e9,infraspecies,Prinia striata striata,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+dcc62a9a-a73f-4381-abe0-2dc4572941cc,infraspecies,Troglodytes troglodytes taivanus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+93e0a410-8c67-4013-a039-c9f2d2c46ef6,infraspecies,Lewinia striata taiwana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+becab61b-4ad1-4e86-861d-8cc74d78a9f5,infraspecies,Trimerodytes percarinatus suriki,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8b461c34-774b-4f26-a1bb-9068c5d13c33,species,Phlegmariurus cryptomerianus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+21818665-1cb1-48e6-a5da-d56ec2fce801,species,Selaginella boninensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b814d402-0524-4a24-a8da-40b4c613902a,species,Selaginella ciliaris,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c4492b5e-5822-45b1-a95b-a8da575d8b84,species,Selaginella devolii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8f072035-8fb8-4e2b-824e-483b9cff10ae,species,Selaginella helvetica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5df4fe35-eb6b-4637-b2a0-75f94fe0d6af,species,Botrychium formosanum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2f58b0f7-2971-416c-bf41-54df35ca606a,species,Botrychium lunaria,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+69773077-5c48-4c2c-bc8a-428e970f6715,species,Ophioglossum thermale,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+70f6becc-97d2-4837-9387-36e4ab3bc591,species,Hymenophyllum denticulatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+96da2e70-e303-470b-a26d-c1e6137cf21f,species,Hymenophyllum javanicum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b6c65453-33e1-45e9-9212-7d1e9b77f970,species,Hymenophyllum nitidulum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6b0336db-cfb1-41bb-8fd5-df148dcbaae7,species,Cephalomanes javanicum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c9fd0e2b-14b3-4103-a5a2-fb4d488452cc,species,Cephalomanes thysanostomum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a99dcdd6-be34-48eb-96bd-093360b27ccd,species,Abrodictyum clathratum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8de65d99-be77-46f5-aae9-474d20ffd84f,species,Abrodictyum cumingii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b657481f-6cbc-45f4-a21b-542afb741da9,species,Didymoglossum motleyi,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+47779365-eeb0-40ee-9d6f-6f946272ed6d,species,Didymoglossum sublimbatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bcb651a6-8981-4b94-8d6b-1c30396b9d58,species,Crepidomanes grande,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+14bafde9-c974-41b2-adf5-47975185b830,species,Crepidomanes kurzii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+793c1f19-cfbc-4f16-8055-731453e77ae5,species,Crepidomanes rupicola,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b94e6332-ba46-45ef-9c15-b3df52ebeac8,species,Alsophila acaulis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+90b6e628-1eff-4ed8-a873-2475bf78cf0c,species,Alsophila loheri,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2c5a851a-51ad-4d30-9836-5afa83c12e5c,species,Odontosoria gracilis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+23714a9f-5f89-4503-beaa-910f43cd8671,species,Lindsaea ensifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f547eaf6-a05a-44cb-aa95-51bbc7ca1f8a,species,Lindsaea obtusa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4be6d255-b6e8-46a5-983c-a43a2298f09e,species,Microlepia trichocarpa,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+397490aa-ad26-48b9-be81-1c1e26a6dbc7,species,Cryptogramma stelleri,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3c767ad9-7da1-4efa-80a5-2912edcd8ce6,species,Anogramma leptophylla,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f73935dd-7d6f-4832-9cfb-e4931babdcdf,species,Onychium siliculosum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6328956f-bba9-42dd-b2b7-c5c5229279a6,species,Pteris bella,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4bf19c3e-d43d-46f5-b27f-2b55c88cb0dd,species,Pteris kidoi,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0dabb041-f09f-47e4-a9c9-49ee8a785099,species,Pteris pellucidifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+984eb53c-8def-49ef-87ad-37bb1b988229,species,Pteris ryukyuensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+14128fc3-6b1b-4ceb-8fde-8cd4bf8776f7,species,Cheilanthes hirsuta,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+77443795-c655-4b98-8923-30a6f3987a67,species,Antrophyum sessilifolium,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7caef50d-7e15-4377-bf9a-d39313d24892,species,Vaginularia junghuhnii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+09db3227-20b7-456f-bbc6-04b20591c032,species,Hymenasplenium obscurum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+97b0ade6-7d73-46c1-b3dc-12987427adc9,species,Asplenium bullatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a8be5346-af87-4f07-86aa-0700fa3eb385,species,Asplenium pulcherrimum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f2a7c4ad-f46f-4a34-9f94-8364f36ed614,species,Asplenium septentrionale,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0abdcb67-ef92-475f-b3d7-0c86b1c08d44,species,Asplenium serricula,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+faedbc17-44b7-44a8-8c77-02fe042fd2d6,species,Asplenium tenerum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e8cbc69d-b0cc-4173-a069-f0910e028e44,species,Cyclosorus interruptus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e9b4a95b-f927-4c07-988a-0cd0bfd684da,species,Cyclosorus papilio,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a2453fc0-0dc7-4f0f-86d9-7e8ef64ef38e,species,Pseudocyclosorus tylodes,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+63a11eec-fcba-45c1-acb0-d5d8c63ddd79,species,Rhachidosorus pulcher,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+eaa3063f-e267-4a95-b151-89756d25f889,species,Woodwardia harlandii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8b35a88f-6906-41e4-81b5-48ff3ea12852,species,Anisocampium cumingianum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+266544f3-56a1-45a0-bfdd-3d4ec4086f79,species,Anisocampium niponicum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+99104e70-9ffe-4b14-b16f-e1041a6a38f7,species,Athyrium otophorum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b3daf82e-c459-4af1-983c-63c735fba77b,species,Diplazium chioui,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d27843aa-16eb-4050-98bd-da31b7d5f8ea,species,Diplazium lobatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b9e50e29-b1b1-44cc-b533-82238cd5d9fb,species,Arachniodes globisora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7244ff67-aa92-4a4a-8a7a-82ac5966b6cb,species,Arachniodes nigrospinosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1a8beeaf-7827-452e-9523-f360d924d668,species,Dryopteris indusiata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+40ed5be1-7ca8-419b-90c9-ecf6855f2a45,species,Polystichum thomsonii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+50e2b67d-5468-4d2c-ae12-480e8e72acf4,species,Bolbitis rhizophylla,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c360333a-7f06-40f4-b7bb-027f3f314368,species,Lastreopsis tenera,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7150f106-595e-4bb7-88c5-680f648e36d3,species,Lomariopsis spectabilis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+002403b5-f916-4915-933a-767d808a6c3a,species,Tectaria dubia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Tectaria multicaudata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9c8e8bb1-19e4-4b9c-a54e-52047667bb73,species,Davallia chrysanthemifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c1149760-7bb8-4d40-ac9b-d570d12c4317,species,Davallia repens,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e84e0338-15f2-4b5b-8861-8ad8c999dd73,species,Loxogramme grammitoides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6fede434-0dc5-4620-9145-abd36f7b823b,species,Aglaomorpha meyeniana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d02ef503-30b9-4745-8184-3fd5508daf3d,species,Selliguea yakushimensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c1b9f09c-454c-4d76-aa04-7acc6d837da9,species,Selliguea rhynchophylla,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ce2bb46c-f911-4005-ae20-bfef107ee29a,species,Lepisorus miyoshianus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a43bdeef-bcd5-4d14-9bb0-a68f5c6e8a76,species,Calymmodon oligotrichus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+712d72f0-8ec5-4748-b417-02330e38f1a2,species,Oreogrammitis reinwardtii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f23154c4-a6cb-4399-8a76-56ff4fc92f80,species,Prosaptia urceolaris,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9c1353eb-1910-4aad-8e37-1b2762138b96,species,Radiogrammitis beddomeana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0b818170-991e-4c35-9f9a-caf1acaa2ff8,species,Tomophyllum subfalcatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+24fa9bad-196a-4518-bfcd-990109c5a9d2,species,Chamaecyparis formosensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ba45b621-bba2-42c5-bff3-a1096de56ac1,species,Kadsura philippinensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d2716959-a563-4d3e-afa7-41eac037d25d,species,Kadsura oblongifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1247658e-4278-4635-9cf7-bd66adfeacb4,species,Aristolochia foveolata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1f888440-3376-483f-a5a6-5d64d5f601d0,species,Aristolochia zollingeriana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fbf16533-6d06-4262-beda-aa485ce236cc,species,Cinnamomum osmophloeum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6d03050a-662a-4b45-b2a1-997c4f5efdea,species,Cinnamomum reticulatum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+54a2d206-a526-4327-9275-fe452c9a0370,species,Cinnamomum tenuifolium,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5e89fae3-6afd-4b4f-85f8-de40da8aeef2,species,Neolitsea daibuensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+19dfb3ec-96f0-4ab2-ab69-504424f22487,species,Sassafras randaiense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fb6a1128-a7b9-4b33-acc0-8a2c39b32750,species,Alocasia cucullata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6a1354f2-6f5c-4c6d-9f83-e7719770dfb2,species,Homalomena philippinensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+14a72b5d-934d-424f-bba0-306e380c13fb,species,Pothoidium lobbianum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a2871634-ff2b-49f6-b4ca-57adc01ec759,species,Blyxa aubertii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a12a7f35-5d2d-4073-86c7-c91b63cb7f42,species,Blyxa echinosperma,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+66e9fd20-d1c4-4264-9ea6-fd781cf85ecd,species,Blyxa japonica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f0e56680-47c8-4244-8316-bdfd5193e937,species,Hydrocharis dubia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+49ca1959-d7e1-4f5b-912a-49fbf424acfb,species,Najas ancistrocarpa,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3247c6d4-2d02-44c7-bea9-371b330c42fe,species,Najas marina,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9e9b1d86-1f0f-4030-935d-260dfae956bb,species,Ottelia alismoides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d500b25f-aa51-46a8-a765-b3aff7335adf,species,Burmannia itoana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0652fe15-45a8-4c17-8c5e-5f70d6d0970b,species,Thismia huangii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ee48551a-7cf3-4b3b-b5fe-a48c73fa498f,species,Trillium tschonoskii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+088491d3-0efc-4509-b8c3-87e5ff2f6d43,species,Ania penangiana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a0e7b88a-35f7-49c7-bf04-e2629c9d7673,species,Appendicula fenixii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+392dee29-b3a9-4449-9c80-9f0bd2ba02ad,species,Bulbophyllum hymenanthum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7f36285b-e333-4ac8-9487-b59ee750cab8,species,Bulbophyllum setaceum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c873247f-e79c-4bf1-8286-c9f367260a72,species,Bulbophyllum taiwanense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+31153896-5217-4178-833e-a399510417be,species,Bulbophyllum tokioi,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0b4965f6-5674-4da1-a2c1-6692867f7d2a,species,Calanthe striata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+938f62f1-7e58-4328-998c-9606e537d955,species,Calanthe tricarinata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+258b704e-ace1-48b7-8e2d-6f4e52c0c553,species,Cephalantheropsis longipes,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+00e3de5a-73c9-47e5-9fa1-3306881800e8,species,Cheirostylis tortilacinia,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a1b7f58d-5ce1-4c95-bee3-9596cf98d7c0,species,Chiloschista segawae,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+dfe15e90-df42-4402-81a0-bbc0299ac3b3,species,Cymbidium macrorhizon,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9c286529-2411-49ac-bc33-2f66570dc9ba,species,Cymbidium sinense,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+19e254ca-2adb-43e6-8dcb-f68e24009de2,species,Cymbidium tortisepalum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ca67cd5d-4b9b-4b14-a7bc-e5d730216b81,species,Cypripedium debile,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6b1e0fe0-5caf-4e48-98bd-bdeba9c522c4,species,Dendrobium comatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+eb6d8531-4085-44f9-9355-3e0262419999,species,Dendrobium equitans,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d63cb1d7-2024-4f9c-a98d-d99c1d44f553,species,Dendrobium falconeri,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+eddadc59-2eb1-43d4-8ff1-255bdd6c13cc,species,Dendrobium goldschmidtianum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4b3eb608-5efc-4056-8449-8806e597760d,species,Dendrobium xantholeucum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+47269db3-5067-4bf1-9605-9a1adbb8b3c2,species,Didymoplexiella siamensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d9db12c0-0c9f-40ed-9aa6-b9fde1adb31b,species,Epipogium aphyllum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+64342a1f-d8b2-494b-8a10-fdb76bccc9fc,species,Epipogium japonicum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f8639c2a-430f-460f-87f0-88feddc4d6f7,species,Epipogium taiwanense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4fdce36d-afad-4f66-a446-2576b1e89bb2,species,Eulophia graminea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1a357afb-286c-4129-8b52-338b4d32721a,species,Gastrochilus ciliaris,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5827d990-f75e-422c-b97d-0b9ff3fb1946,species,Gastrochilus matsudae,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+47351819-7033-49f2-a4f5-70669a660c82,species,Gastrochilus raraensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+531119ab-007f-44c6-9ed5-3e559c343a28,species,Gastrodia albida,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f9ceb658-bded-4267-a82a-3e2075a136f6,species,Gastrodia callosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b7fdb2ca-57bf-4a69-9bcb-3edd8fc6a397,species,Gastrodia nipponica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0d0b195c-f140-4de2-875e-092b6000937c,species,Gastrodia theana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4789479b-b91d-41eb-b2c9-7655bdab3720,species,Gastrodia uraiensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+78f3e5e2-89c2-403f-9565-209912eabc19,species,Goodyera matsumurana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8194ac62-135c-4b5d-97ca-0a7f65a15bb6,species,Goodyera pusilla,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b3c347ba-af2d-420c-b8b3-bf5d7c137dae,species,Habenaria iyoensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e8e000e3-7da5-4c93-a282-657e0d68ce29,species,Haraella retrocalla,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9ffec31b-0e08-45c2-8968-49c22eae8475,species,Hayata tabiyahanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+51bcb5b1-0966-400b-8857-caf7766a6543,species,Hemipilia gracilis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3b559261-ad1f-45f8-a124-18c873410c5a,species,Holcoglossum quasipinifolium,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7aa9ab19-03d3-4dcc-92fc-c4eb27e39f02,species,Hylophila nipponica,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+288fb7e9-9f8f-4a54-b83b-35c1e99d7731,species,Lecanorchis cerina,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+900c0aaf-6aee-4be3-9652-cd39dec347e8,species,Lecanorchis suginoana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1ca9f3fa-a7f2-4177-8962-02eef5d25b3d,species,Lecanorchis trachycaula,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f9bb7d52-23ca-465d-816f-9c876c0a91b4,species,Lecanorchis vietnamica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7fed109e-1bdf-4c86-819a-598c72a9ebdf,species,Liparis barbata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7350bc9c-6656-4d9a-a6f5-7b2fa3ec2ef6,species,Liparis ferruginea,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+016e8fb3-fe28-4e88-ae63-88c7f249275f,species,Liparis grossa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8a11de5d-5e21-45d3-aee2-441eb9e025ac,species,Neottia hohuanshanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fe43b915-fc30-4598-8e7c-c7bdf150197b,species,Neottia piluchiensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+49125d84-1baa-4a5d-b050-28c1a32f64ed,species,Neottia shenlengiana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+dde5c60b-f3da-4ac4-976c-db6693e65534,species,Nervilia alishanensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+207341eb-4f7b-44d1-9f73-0e9038f0ee03,species,Nervilia crociformis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+07106bab-6364-401c-9bb2-94f24d957ad9,species,Nervilia lanyuensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0064d8c6-ae31-492a-ab5f-9d9e1bca1f34,species,Nervilia purpureotincta,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1804843e-b0f2-4c79-b77d-22b0d02b0db7,species,Odontochilus nanlingensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+79b1d746-2f2e-4fd0-bf33-b0ebb80c26b7,species,Oeceoclades pulchra,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c4599a5a-85fc-4e9e-b584-a2900ed521b4,species,Oreorchis indica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+761cf6dc-3bc9-40bc-89d0-8e567479cfc1,species,Oreorchis patens,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4e7c68cd-c988-4bb0-b0d9-b014a99c1850,species,Peristylus lacertifer,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+36fef6f7-d210-4728-af71-2dc49b30059c,species,Phaius tancarvilleae,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+484064b1-6aa6-45f7-a1ef-913b0c87e00b,species,Phreatia taiwaniana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+dd726bab-606a-4ad6-8f18-e2538a5096ed,species,Platanthera formosana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6b66b961-2864-4293-9cd7-de6986e2aa5d,species,Platanthera taiwanensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4556007b-9229-4356-801d-7dbc727b7d7c,species,Platanthera yangmeiensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+081afc01-a75e-424c-8ed9-99f220506f7a,species,Pleione bulbocodioides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fe6ea973-bd28-4a7e-aa8d-e9ae6c88ffad,species,Pomatocalpa acuminata,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0b2b5bb2-30b3-45d3-a5d8-ba4cd142f52b,infraspecies,Hemipilia takasagomontana taitungensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+96dab65e-3b31-446e-a71a-85c1cae55223,species,Spiranthes × hongkongensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c0da8950-6a0c-4402-9a6a-109b87f074cc,species,Taeniophyllum compactum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c6901562-7a99-4a1e-b70a-8c242695417e,species,Taeniophyllum complanatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fbcb2a7c-cc1a-4416-891c-1d5f06b49a6f,species,Taeniophyllum glandulosum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5e058594-ddf5-46b6-b941-7b944e3431cb,species,Thrixspermum fantasticum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+56385b80-92e0-4fd2-a69e-35f6c7be586c,species,Thrixspermum laurisilvaticum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+27a3f16f-276a-4461-a748-fd29853509ca,species,Tipularia cunninghamii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c1039f71-8a05-402d-aba0-525fde1f060e,species,Tipularia odorata,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a714d68b-34bb-46b4-bfe7-dec567e10d17,species,Trichoglottis rosea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e2a7a6bc-9f9a-4d27-9239-1f331f25f6c3,species,Zeuxine odorate,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ac37c1e7-dd24-49df-92ea-4289f9f2e6a7,species,Calamus siphonospathus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4ac672e1-83fb-4653-9951-8bfefece8ef7,species,Belosynapsis kawakamii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e170fe54-18b0-43ba-b9c1-b8b863e0907d,species,Floscopa scandens,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2f826038-1124-4a9c-8eb6-08dbf9e55137,species,Philydrum lanuginosum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b9070e95-6219-4c97-9757-e878a71ed4d7,species,Musa yamiensis,"",原生 Native,"","野外滅絕（EW, Extinct in the Wild）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+874dad82-03d8-4bd2-97e0-a074037fb209,species,Luzula multiflora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e5ddbfd9-fae2-401d-b84c-c7f929a011c1,species,Actinoscirpus grossus,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+45c160cb-1d5e-44ca-91a8-c6afce243cd3,species,Carex alliiformis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f030110e-6436-4fa3-b27e-e5a9e6348469,species,Carex brevicuspis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fcdfd066-2b02-462d-b90b-e1a79d15b02d,species,Carex capillacea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9ce35bc9-fdd1-4727-9908-05c16a05e921,species,Carex echinata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f5218aac-9b2e-46f0-9c59-73965a1c583f,species,Carex jisaburo-ohwiana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bc1e90d1-a088-400a-b2c5-c8abb6c9410b,species,Carex metallica,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f6b8d4a1-71ff-4527-a685-197525af22f9,species,Carex mollicula,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2d140f79-4ed5-48fb-8b4a-92cc77cc288d,species,Carex nemostachys,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a3b7ecfc-c986-4bac-84f2-4dd0bb974f2a,species,Carex rafflesiana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+40331f24-8ecb-4911-a88f-5de60eb881ac,species,Carex scabrifolia,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9712cd0c-4f5a-466b-af0f-306bebd04a5e,species,Carex tsushimensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1a6d2892-1825-41df-9041-1e470fca1bc4,species,Cyperus compactus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7d15f700-a295-4a9f-bb64-98d997e42162,species,Cyperus digitatus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d58b7549-cff1-4bbc-b3ec-6be0ef37e7b3,species,Cyperus procerus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8a2ffa3b-af0f-4dda-92e1-039db20f1262,species,Cyperus serotinus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6e0be81f-ef19-4920-886d-2f7e947c7364,species,Cyperus unioloides,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+cbda4559-732b-4bfd-968e-06454e718acd,species,Eleocharis acutangula,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+23d4bdd3-6d39-4827-adc4-78cfcabbe2db,species,Fimbristylis acuminata,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+31acf3e3-2b97-4700-8900-d1a1172b49d2,species,Fimbristylis microcarya,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+641ae447-4b61-4f3f-8dc9-18b1d7b1818d,species,Fimbristylis stolonifera,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8879ded5-ab0f-4e68-8fd6-d14542b3306f,species,Fimbristylis tetragona,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3de1906a-f543-4628-a642-ab17bc45e204,species,Fuirena ciliaris,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+dfd5f6f3-8d4d-4ff0-b9ae-6bd81ce84745,species,Gahnia tristis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1e20796c-88a4-434b-a81b-88d0dc09bd36,species,Rhynchospora chinensis,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2594c22e-a940-463f-8558-cd52888db970,species,Schoenoplectiella wallichii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d8413ed9-e5ed-4b34-9bca-906742d37c90,species,Schoenoplectus triqueter,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+00391947-88e0-4fba-81c8-b47d7bcf8ce5,species,Schoenus falcatus,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+837cf7f3-266f-452e-8951-580f59f10dff,species,Arundinella hirta,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a716a49a-0910-4c18-a598-2c74ec91f4e8,species,Bromus formosanus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+662324cc-49f0-48c6-821a-1f9d2dc1d331,species,Capillipedium kwashotensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+12d6ad7b-5f02-43e9-801d-c807f5e3cb68,species,Centotheca lappacea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f79cb601-fdb5-49b5-9cb9-0a6b3b5b7014,species,Chloris formosana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a68eff2d-f865-4fe0-990a-7bdb0ecd363f,species,Deyeuxia suizanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+556468e2-0900-4e2b-b852-01e6454c5216,species,Deyeuxia pyramidalis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d53b8c05-2ccc-4290-ab41-a216e5abcb17,species,Digitaria fauriei,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5ff4354c-097b-4d58-a5ba-13fcb02ffc3b,species,Eragrostis japonica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c9b2cbf3-75c4-4b02-83d9-f2ce8818bce7,species,Saccharum formosanum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ad278010-8024-4d9e-809c-4f38cfd807ed,species,Hygroryza aristata,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+62491ce0-9782-4e81-8e0f-b34448222738,species,Isachne nipponensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5b0e5706-caa5-4135-b354-66dcf024e38b,species,Ischaemum setaceum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+028a75ba-883f-42b8-9abe-3b62af424f8e,species,Melica onoei,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a9fd0937-8dca-4806-89ca-14c12ea3c50c,species,Narenga porphyrocoma,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+68c1ddf7-85e7-4993-8ead-217a0fb520bf,species,Neyraudia arundinacea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c6311d0f-b2de-40ae-86e6-2fd6bdae3e14,species,Oryza rufipogon,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+13ea8ddd-ccd9-4764-9ec3-1508008e401d,species,Poa tenuicula,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c7439d1b-1255-4992-a35b-f72b2f1552dc,species,Polypogon monspeliensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+25985d2d-04cf-4bba-81ca-017f67aa3d0b,species,Schizachyrium brevifolium,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bbb23772-259b-4e2b-b692-bea7d1e77864,species,Setaria faberi,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+cb75d038-6227-442e-b1e6-0d2e15fe70a6,species,Urochloa glumaris,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a6960e44-1304-4882-b146-dc797dd46aa1,species,Zoysia pacifica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+84f99d4c-b9ce-4663-8416-0d867e813adb,species,Macleaya cordata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+479ccc69-d15e-44de-8aa6-256e9185a8c5,species,Akebia trifoliata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5170c387-aed7-4956-9cef-c00839b02c08,infraspecies,Akebia trifoliata australis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+54662294-3dcb-4d5b-b8f5-bbdc2118be1d,species,Berberis brevisepala,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+629e88de-dc74-45d2-a4c7-588fea811b90,species,Berberis hayatana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+24a5898c-d0a1-4b15-8db3-0551e2acf407,species,Berberis kawakamii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f5094bb7-902d-4179-98b9-2c23077b5b19,species,Berberis pengii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1a81f039-35f9-40f9-aa20-354bc738faf5,species,Berberis schaaliae,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a3b965fd-0bf5-4288-b2e4-7c0cd4a663ba,species,Dysosma pleiantha,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b66f7a21-d651-45dd-8413-9a00271fa9f0,species,Cimicifuga simplex,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c18a27ca-c2cb-4035-9573-9c880c23b707,species,Cimicifuga taiwanensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ca2d8f9b-cd7f-42c7-9cff-c024aabcf2d0,species,Clematis akoensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+57880e1b-46c2-4427-b4c8-00e866f0ee03,species,Clematis formosana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d71c977a-1ce3-44ef-a19f-d20769d8dbd7,species,Clematis pseudootophora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+91487970-f96a-47c0-b55a-01233b830634,species,Clematis tamurae,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c3d4e200-d07d-4f60-9e0e-a1d65e086070,species,Dichocarpum adiantifolium,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3147a4b7-97ab-4191-a1e1-66dee15a5134,species,Ranunculus cheirophyllus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+59855d5b-bd87-47eb-b4e2-a2758ef61250,species,Ranunculus japonicus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d2e1fde1-9611-4fd3-8067-4abfb20ee306,species,Ranunculus junipericola,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+dc5764c7-7a5c-449b-9ea2-cc37ebd26cfe,species,Thalictrum sessile,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+59bc0aa8-0886-47f1-a5cc-a39d7fc9cbef,species,Buxus liukiuensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+de9144b0-ef2e-4194-bb8b-077ab095526d,species,Sarcococca saligna,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2165a799-2cf9-4c77-9800-701bccbe14dc,species,Corylopsis pauciflora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7e7cc419-f730-47cb-b079-b264d49f2c7d,species,Sedum uniflorum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c0cc0299-7d20-415b-9cd6-f6231453800b,species,Cayratia maritima,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+da3d2f34-afe6-45ef-98db-bbb1e453f529,species,Cissus adnata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+01ffcca0-c8cb-419d-ba81-97251c12eb0c,species,Cissus pteroclada,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4424ae5b-52da-4e35-95f7-1f5a64b9a7b0,species,Cissus lanyuensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4c082248-aa55-48d4-8962-5c077698e640,species,Leea philippinensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8ecf0b57-a4d7-45da-be45-afba5cd5172c,species,Tetrastigma lanyuense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a61ccd2a-8845-427e-89fa-923fe61bc790,species,Vitis flexuosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+50ca25c8-4a25-4c70-a16f-b78b2fde513a,species,Vitis kelungensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fd1f4d2d-d620-474d-b34e-8fba18d05624,species,Tribulus taiwanense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1d33ae97-a734-49d3-8668-8cf9da37e37e,species,Dunbaria rotundifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6a8073fc-b8bc-4a60-998f-91e8423a47ba,species,Dysolobium pilosum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e9edcc2a-37ac-4032-afb7-34fec093ef6e,species,Ormosia hengchuniana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e04cd0b3-5a62-4ced-8a7e-300224f40446,species,Cotoneaster apiculatus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+756bd4ae-e5ad-466b-80a2-12cf39ebe15f,species,Cotoneaster horizontalis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1e69bd5b-f6bb-4023-8966-7a6dc288b114,species,Cotoneaster rosiflorus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a10eb983-8c99-4963-89d0-93ad6f4f8ea5,species,Potentilla discolor,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8dd65950-6bd9-434e-8826-efa8cfddc9f6,species,Prunus transarisanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3d3c785f-2a6c-4efa-a42a-8296e06330af,species,Rubus amphidasys,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bb59c7a7-cce9-4c58-b4d8-67d3378df205,species,Rubus fraxinifolius,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5ddb3e72-75a7-43a6-bfa1-97ba9045f9d7,species,Rubus lanyuensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ede8a7cf-7ea6-4541-9565-eb55a1829c53,species,Rubus rolfei,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d2cb1a57-c4ba-4db8-8876-aebcb44dc023,species,Rubus rufus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b5c068d8-fa08-4446-a008-80c3a63d3a70,species,Elaeagnus triflora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d16b29f7-8709-4785-905b-c484fa1df346,species,Ulmus parvifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+67e72cb2-f9c1-4892-b9ce-69922afcf2e7,species,Celtis nervosa,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5b156e55-ccad-4584-b6fb-b7a74e1e44a0,species,Ficus pubinervis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1569d05e-d587-40c2-ae24-cd3184a6576f,species,Cypholophus moluccanus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9667d759-9e3e-4dc7-ba6a-dcef4f5f1863,species,Dendrocnide kotoensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+18f1c1c9-1080-4271-bea2-80fc820ca1d4,species,Elatostema edule,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+67506501-4b29-46a6-84a5-7e2cb15580fa,species,Elatostema subcoriaceum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+cb9010bb-f388-42ec-9f4c-45f96d441c31,species,Castanopsis indica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+442012cb-6270-4eaf-87ce-0b56d1402017,species,Castanopsis kawakamii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+cf018d30-93ff-4392-87ba-fc7bb1f1ec0c,species,Quercus hypophaea,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+49bd13f7-d599-480f-a5b8-579276b56a7f,species,Begonia fenicis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d6c52335-5f23-4f3c-aeb0-2c5248d75c43,species,Begonia pinglinensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7501df71-d45d-4b9b-9fde-680c4d64693d,species,Begonia ravenii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+36a13f4d-4b0a-47cc-bbb9-86503d63f1cb,species,Euonymus cochinchinensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+69c72755-8f80-4dff-bab2-14c8689dfe5c,species,Euonymus oxyphyllus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8c3b965b-b6c4-4437-91a9-dcfe8adafa0d,species,Maytenus emarginata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+51aec2a0-fcc4-4122-a648-2a4ad4e4194d,species,Tripterygium wilfordii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+71816b32-e006-4e5b-b0b9-d764d44d854b,species,Bruguiera gymnorhiza,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+04f5f6aa-4a7b-441d-99f2-f7ac7ad6a699,species,Ceriops tagal,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+de69ab47-8e12-4501-b79b-a2a9db375e83,species,Kandelia obovata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c709dd03-61b7-4807-a1a9-02d03e0e3d96,species,Garcinia linii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2a448fde-548a-40e8-89c7-7747ead55828,species,Hypericum formosanum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7e0c27ed-fefa-4a3a-b966-1a8ae80a8978,species,Liodendron formosanum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ec9ecf7c-4d69-4cfd-a9d4-03415959219f,species,Bergia ammannioides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a594817a-ef9d-4492-a13c-9a2e5aa5a55a,species,Hybanthus enneaspermus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+25cc97a4-737b-41f3-b00a-0a69fa18cd1e,species,Viola biflora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7c3aee27-4d82-4d20-8fb1-14dd025e0def,species,Flacourtia rukam,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7c189d6b-a315-449a-a74f-14bb4d85d815,species,Homalium cochinchinensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e5be2761-2380-4217-bb53-b4f45dbc5f64,species,Claoxylon brachyandrum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+78c43b57-5fb8-4666-9abc-7417ef671e8f,species,Euphorbia formosana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1a812f3e-1fbf-40a2-8eeb-1c83c7aac339,species,Homonoia riparia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2f252928-118d-4d6a-98e7-8e4a30c31891,species,Macaranga sinensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ee78be6c-6ee2-4d59-b4a8-db2e310aaf3f,species,Antidesma hiiranense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e5a78fd9-7da2-420e-958b-95be6c058fde,species,Glochidion ovalifolium,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+64e048cd-241a-4373-aaf8-3a0f1bc929c0,species,Geranium wilfordii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+18c67757-acc9-4e79-9f4f-6e743f22f4d7,species,Lumnitzera racemosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+40953258-0755-438a-9755-8d9902ed40c9,species,Circaea glabrescens,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fab26144-4a03-49fe-90c5-a08f07d8c70c,species,Syzygium acuminatissimum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+aa1eef52-a04a-4844-99bf-48ca6c5d516e,species,Syzygium kusukusense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+da6eb96e-294a-49bd-9664-9a756cae1b5e,species,Syzygium simile,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+322c9725-7ebc-40cb-96fe-0fa028625924,species,Syzygium tripinnatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8d4eccf9-7d96-4d41-b379-11a448609249,species,Turpinia ovalifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+413596b2-6719-4c14-81d1-933f919d10a7,species,Buchanania arborescens,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+41b9e6fc-88d0-4b4a-8b4c-69d7f63dfb3d,species,Rhus sylvestris,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8bbc37cd-be15-4728-a57f-fecd921d87b8,species,Semecarpus gigantifolius,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+589a4eaa-aedf-46db-ad21-8bfdbbee8510,species,Zanthoxylum armatum,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+791fab85-3202-4e82-892a-1e008f98107d,species,Dysoxylum cumingianum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d5eb147a-c0ad-4a53-87b8-a37f32fc1191,species,Reevesia formosana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4952b7ff-ba25-41ec-9d4e-e2ca1dccc84f,species,Daphne morrisonensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e5b7fb3c-988c-4cc5-acaa-dc6e7eb96b30,species,Wikstroemia lanceolata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b4391959-fb5e-4ba5-8768-30805ebac42b,species,Arabis serrata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+facb8d95-7f74-4321-9d1a-482a178f04d0,species,Rorippa globosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e54a4fbd-6d44-4c29-af28-c96b62606e51,species,Yinshania rivulorum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+cb7cbf18-27f6-4526-8236-4922b0df9705,species,Viscum angulatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9a08e484-a491-422f-b4a0-c4a3b25b011b,species,Viscum multinerve,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d310d4b4-74ef-41ba-841d-3ac182ebce85,species,Schoepfia jasminodora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b743c9de-12d7-4fab-8c86-2c181aca9b09,species,Loranthus kaoi,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+11f8c649-16e3-44c6-9c9b-0cbcd81949de,species,Taxillus matsudae,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d3d3769a-5ab7-4549-85ad-82653ac9d915,species,Koenigia delicatula,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+276f487b-9de1-4dad-84b3-3a71406a2794,species,Koenigia nepalensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1005c649-6143-482a-b871-ead30d170839,species,Persicaria filiformis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+59132b75-6686-41ec-a73f-91d9faa9b306,species,Persicaria hydropiper,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b5737b12-4e7d-48e3-bb07-d674faf449de,species,Persicaria japonica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ec39dc80-1f0e-4940-8973-c4b98810ece1,species,Persicaria praetermissa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ec99b4a2-3691-4574-9bd1-c5bdc6d60871,species,Spergularia marina,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+727c7ec4-8702-475e-b6d3-23498d373997,species,Portulaca psammotropha,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8122b022-1afb-48cc-98d5-5cbf6e33d063,species,Swida controversa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d20bcc42-059f-4ef6-ac32-9fc631b473a1,species,Eurya japonica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3e96e39d-1486-471c-89a8-985d032f93bc,species,Diospyros blancoi,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0db4534b-fc2b-4680-8948-c9b696f86ed3,species,Ardisia elliptica,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2f7a4366-d3a7-427a-97fc-15ef13fa9394,species,Ardisia violacea,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e567e88a-876c-4afb-8464-6f77d452b9f2,species,Lysimachia candida,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4e8555c0-3c12-42aa-ba8e-be1c187c729e,species,Camellia formosensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ebd6c466-06d6-48d9-8872-b40c4802526c,species,Camellia salicifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c571f8fd-5723-416e-9205-71eadc0bb9ed,species,Actinidia latifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+da5e951d-e956-4474-a3cc-732e76ca8ffb,species,Vaccinium kengii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fc9d63be-13ff-44d6-8f09-e06c6a9bdc10,species,Rhododendron farrerae,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e4ed96cf-133a-4854-9acd-76984fb37ac2,species,Rhododendron kanehirae,台灣特有,原生 Native,"","野外滅絕（EW, Extinct in the Wild）","野外滅絕（EW, Extinct in the Wild）","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d3dd62d7-358b-4606-b5e2-9f320191b86e,species,Rhododendron kawakamii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ffcc50a3-205c-4d49-99d5-13ae67cf93c8,species,Rhododendron ovatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c2d09935-08a1-4d2f-a25d-9fe2c7331a35,species,Rhododendron simsii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bd891d69-3b8f-4a2c-9b22-942dda7f2443,species,Nothapodytes nimmoniana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bdbcbbd2-31a9-480b-9380-672f023f8eed,species,Psychotria cephalophora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7301ae54-b9cb-4c44-b46f-6e24979a8f96,species,Psychotria manillensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2872acbd-a14f-4ad8-b73d-17904007bceb,species,Galium paradoxum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+aba79f5f-1023-4356-b9e3-303a3bb6f51e,species,Galium trifidum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9c3d1f8f-4d5f-437c-bdc4-9092b97d97fb,species,Mussaenda macrophylla,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+36a24b1b-8681-4366-871d-0f02f4de9f05,species,Serissa serissoides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+70cf55ca-1fa2-4399-a586-2cfe74f2741b,species,Canthium gynochodes,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+50244305-0c1d-4513-9c2e-59fb4620967f,species,Knoxia corymbosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4bf67bdc-d55c-499d-8507-61c45a7fb445,species,Sinoadina racemosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5f0b7c51-b28c-4eba-9406-104570d4fbe9,species,Gentiana itzershanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+62a00780-3af3-4962-a926-81e5c23e6733,species,Gentiana kaohsiungensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+749d1674-9216-427b-91cf-82d43ca7190e,species,Gentiana tenuissima,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f700b111-82e5-4485-a929-8f368f0223b1,species,Swertia shintenensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+87e9e38b-447b-4c4c-b9c8-a8f9fce81e82,species,Tripterospermum microphyllum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+09cb1205-cf14-4645-b5bb-3ce33cd997b3,species,Strychnos cathayensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c9c1b442-a74a-4420-b452-a40f560e2ded,species,Tabernaemontana subglobosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2864e938-d6c5-42dd-86cb-5aea29dadd8f,species,Cynanchum lanhsuense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d68ff420-7333-4a81-8468-00c9c5183773,species,Alyxia sibuyanensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b3dd99d3-762c-4938-a57d-ff62b95fa1b8,species,Alyxia taiwanensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a420e3c4-baf9-425f-b390-6f92bb26650c,species,Tylophora taiwanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8483829b-7c94-4dde-bc8c-499ff65f73c9,species,Cynoglossum alpestre,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c50ba29f-6356-4818-ac87-9b2443b109d2,species,Trigonotis nankotaizanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3f37fa64-5208-46ec-ab02-9230ab20a6be,species,Ipomoea violacea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+82208138-1b48-4e92-a098-fa424dae42a0,species,Calystegia soldanella,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1fa84408-e936-45ab-984f-336a0971c2db,species,Solanum miyakojimense,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b911f9d0-fe00-41e0-a701-acf909939a72,species,Chionanthus ramiflorus,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5aea1944-aeaf-4a3f-b7cd-e7d5c0193c0c,species,Ligustrum morrisonense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+65830d85-7716-4261-aa12-fd8fc34ef67c,species,Conandron ramondioides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+dd528321-a970-4168-a9af-e88b1ddebef8,species,Rhynchotechum formosanum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+865e172b-969b-4039-b8d6-5549eb6d5db6,species,Limnophila aromaticoides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+27625380-1952-4fe2-9e19-b9e707cb69f7,species,Limnophila heterophylla,"",原生 Native,"","野外滅絕（EW, Extinct in the Wild）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c6328849-ec97-496c-93c5-af7903ca6f03,species,Limnophila taoyuanensis,"",原生 Native,"","野外滅絕（EW, Extinct in the Wild）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+cd021989-fbff-4b35-9722-4282b8c1a864,species,Dopatrium junceum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+fa27d7e1-5491-44e0-8cee-ee774bd89d0b,species,Microcarpaea minima,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6658d283-459a-4aeb-9001-1feeda6a2a10,species,Lindernia nummularifolia,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+239aed86-f60d-42ed-9795-d9ffc7f33f4c,species,Torenia violacea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+97633f87-c8f9-4c80-b850-f7737facde84,species,Hygrophila salicifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3b48c612-d7b4-4330-834a-3a91a764c126,species,Lepidagathis stenophylla,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+aca19cdd-36ae-4118-b3ff-e71ca6dfad51,species,Utricularia striatula,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+43e1f888-9327-4f13-8645-2d73446f928c,species,Utricularia uliginosa,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+daa8a3b6-87cd-48e4-a0c5-edfea19262e1,species,Scutellaria hsiehii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a74c4334-e19b-4025-9195-789e9c0ca1e9,species,Premna hengchunensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3cb43eec-a133-475c-9321-ae7aabecf510,species,Premna octonervia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+39ba396c-bbf0-442e-a185-ee8cb97560ce,species,Callicarpa longissima,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+89d3ef96-abb5-45be-b2bc-11a5eab3cbdd,species,Callicarpa remotiflora,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2db157ec-bb11-479a-9375-b3521e39a886,species,Agastache rugosa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+661bb571-1404-4968-bc09-8a105138c279,species,Pedicularis ikomae,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+cb6b4948-a5f6-4074-84e6-12156f8e1cce,species,Euphrasia nankotaizanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5106fd69-0591-41eb-a7c7-37fdae0f21ae,species,Centranthera cochinchinensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+aeb9f9b8-4711-4a51-9377-d41fbebec550,species,Lathraea purpurea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8bb61ede-292c-4fc6-8086-e88919ad93b2,species,Phtheirospermum japonicum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6f51ba6b-f018-41bd-83da-639cbaef99ce,species,Ilex crenata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+98d85459-e589-40bd-9055-e307e483d5ba,species,Ilex kusanoi,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+deb1bd95-304c-4c7f-8242-b46e65aa70d3,species,Ilex pubescens,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2a61ba78-381b-454e-b5d4-dbd51c318b4a,species,Ilex suzukii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+652b4888-c511-41c2-8aab-cb79e81cd2f0,species,Campanula dimorphantha,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+14b66037-d797-48d5-8ff3-e8cbe07aea6f,species,Nymphoides lungtanensis,台灣特有,原生 Native,"","野外滅絕（EW, Extinct in the Wild）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+c793b5d4-020f-4b38-80a6-3202843472de,species,Eupatorium hualienense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+03aa0ad3-4004-4de1-a435-cc93e0a3316b,species,Artemisia annua,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+061444ed-dc7e-4106-affa-4c54fb1687c4,species,Artemisia anomala,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5c07b401-fe77-4e95-9667-82d4c77a76f3,species,Aster takasagomontanus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+385cf856-ce13-42f8-8263-04dbd3636b63,species,Conyza leucantha,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+3ead31bc-68c1-4d0a-bf7f-8b3adb4653ce,species,Dendranthema morii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0ff94574-48c6-4c7c-9052-d171c9511d73,species,Carpesium divaricatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f23cf17f-98ca-4f51-b08d-30c98832e115,species,Crepidiastrum taiwanianum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+80f17851-a645-4e11-a526-62598f7ef121,species,Ixeris repens,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+afe4491f-1c76-4118-bc12-aa19a84f05f8,species,Syneilesis subglabrata,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+549c5c0f-f323-47de-a135-f7d6fa3367c9,species,Tephroseris kirilowii,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+98eb7ce2-4733-4c17-a0b8-d07518b95468,species,Lonicera apodantha,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5d5de24f-151c-49c2-9ade-ad7c53bd5f61,species,Hydrocotyle keelungensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+033eaf01-963d-4c73-bd91-e34704ecd7e6,species,Aralia cordata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+adf6e1cc-d8de-45c0-b3ca-08a1be3a0e9d,species,Osmoxylon pectinatum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+8cce9577-f251-4f4e-a434-1c9f18765e15,species,Pentapanax castanopsisicola,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+48197926-8c6f-4296-b1c6-439345fdec00,species,Pimpinella diversifolia,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d1c77b2c-9aad-4a7e-81a7-b1e819485186,species,Oenanthe pterocaulon,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7ce7631f-ce89-4b9e-8dcd-4ea080052e64,infraspecies,Selaginella helvetica helvetica,"",外來栽培 Cultivated (non-native),"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6b69656a-3767-47f1-9d23-f60d112cd289,infraspecies,Selaginella helvetica pseudonipponica,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+64da5b48-51ca-4504-bd2e-ac61f4330946,infraspecies,Cephalomanes javanicum asplenioides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7520bae5-578e-4a9e-8a37-5c61e05e6983,infraspecies,Dryopteris enneaphylla pseudosieboldii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+11118108-8b1f-4aa9-bd4d-6063ce37da7b,infraspecies,Chamaecyparis obtusa formosana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f4c05dc1-53f6-4961-89b3-4264c885172e,infraspecies,Litsea akoensis sasakii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+20eacfbe-c8e3-47a8-a2cb-611daa765af4,infraspecies,Arisaema thunbergii autumnale,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bcfd456a-a449-41b2-809d-173e09ea752b,infraspecies,Bulbophyllum kuanwuense peitawuense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f82da938-5cea-4072-bded-0a82b1e284f8,infraspecies,Bulbophyllum setaceum setaceum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+07747009-1211-44f4-a0ad-5b74cbcdfd57,infraspecies,Bulbophyllum setaceum pilusiense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+edfaae65-cff3-44c8-8633-53888ea22ba2,infraspecies,Cephalantheropsis obcordata obcordata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4a745b30-3d55-4fd2-8cd9-9b976a621e8a,infraspecies,Cymbidium formosanum formosanum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6d4bad02-33d1-4bf9-971e-8b5e0ad77053,infraspecies,Cymbidium lancifolium syunitianum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+292ba8bc-2c9e-4df0-b727-a5024b4ee0e9,infraspecies,Epipactis helleborine helleborine,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+0c6ad874-f975-4d29-9738-a2f9ef35676a,infraspecies,Goodyera foliosa taoana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+028fff62-ea73-416a-a78d-90317a9f1c96,infraspecies,Lecanorchis nigricans nigricans,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e1d40ddf-1f4f-4bc0-ba68-429290c72cb3,infraspecies,Lecanorchis nigricans yakusimensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6a802a9f-b594-4faf-9f4e-5f0356c6d4bb,infraspecies,Neottia fukuyamae fukuyamae,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4fbbe8c6-4087-4cfc-9e93-c2cd30f85121,infraspecies,Neottia fukuyamae chilaiensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e7964ad5-8011-4e21-90a5-f03d8e32040c,infraspecies,Peristylus lacertifer lacertifer,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2dcc414f-d92f-4a1f-8e64-933d192fdc92,species,Schoenoplectiella lateriflora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+656bf0e8-512c-4fbe-984c-bd78d971fab1,infraspecies,Anthoxanthum horsfieldii formosanum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+83d1ad87-fb49-4535-aea6-bef25f2bf812,infraspecies,Bambusa pachinensis hirsutissima,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e91b6121-ca14-43ef-b4a2-e71e48d4e2ef,infraspecies,Poa sphondylodes kelungensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+968786d0-f30d-4963-8a2b-543ac4a68105,infraspecies,Aconitum fukutomei fukutomei,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+4de1c747-f831-431a-852e-f29ca34bbe44,infraspecies,Clematis chinensis tatushanensis,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2f4d4a4a-a1b9-4d13-8db3-a3952a2d4364,infraspecies,Clematis henryi morii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+1aaecb7a-8ce6-4590-b276-80e0f69398b7,infraspecies,Clematis parviloba bartlettii,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+91e468ef-191e-43eb-8f7b-16842a5fd2db,infraspecies,Vitis thunbergii thunbergii,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bf5da380-3f57-4510-86bf-45df3bc993dd,species,Rhaphiolepis umbellata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2ed45ccd-88bd-454e-884d-dceead0cbb29,infraspecies,Ficus ruficaulis antaoensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ad53cc3f-e067-4b59-b1b4-f8c25e3302b0,infraspecies,Ficus trichocarpa obtusa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+19223db1-182a-4eb7-958a-39657524e9d4,infraspecies,Droguetia iners urticoides,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d4a15c10-bad7-455e-9029-e63504b80eef,infraspecies,Elaeocarpus sphaericus hayatae,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+bd6b75cb-d062-4381-926a-6d33789f5a71,infraspecies,Salix taiwanalpina taiwanalpina,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+26197cd5-f129-41a2-89ee-64737fd96b73,infraspecies,Salix taiwanalpina morrisonicola,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+5c6dd4e2-d050-4536-ba35-a83dde98cc3e,infraspecies,Syzygium densinervium insulare,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+de6bb8e6-4a9c-4daf-969b-55861b2f0c5a,infraspecies,Bredia hirsuta rotundifolia,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9d35e43a-e48f-4d9a-9792-3bfe1842d73e,infraspecies,Glycosmis parviflora parviflora,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+ff5f1cd2-3577-40cb-b186-4c11b5d9237d,species,Murraya omphalocarpa,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9305e0f1-5f41-4f9b-aa1a-130e7c3c4219,infraspecies,Capparis sikkimensis formosana,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2030b709-0f0e-47d4-a9d1-cb3d70003ecc,infraspecies,Eurya nitida nitida,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+39be2b2d-8a56-4892-8260-5f2bc5b01ff8,infraspecies,Eurya nitida nanjenshanensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+7ea9847e-fbe8-4908-9aad-35e7d4f75c6f,infraspecies,Shortia rotundifolia transalpine,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+2996767e-4bfa-4a98-b6c1-04429912be0b,infraspecies,Rhododendron ovatum lamprophyllum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a170a6aa-7ae8-48e1-b892-9bfdff66847a,infraspecies,Uncaria lanosa appendiculata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+554e735c-bf41-4e0b-bc49-33f6d7071084,infraspecies,Lepistemon binectariferum trichocarpum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+9a468d01-7bf0-4033-8eb5-40fd8d5e38c3,infraspecies,Callitriche palustris palustris,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+82d1c318-3360-4e45-869b-dd4c66850529,infraspecies,Clinopodium laxiflorum taiwanianum,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+381dc5b6-2789-485b-90f2-ac1f18004ce7,infraspecies,Euphrasia transmorrisonensis durietziana,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+f3a872c4-2d78-474f-91ee-48ac342406c6,infraspecies,Ilex lonicerifolia lonicerifolia,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6d84a39b-144e-4d19-9767-43e2e937fe60,infraspecies,Artemisia somae batakensis,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d523f3ba-ba54-43b5-894e-6dbecad73610,infraspecies,Farfugium japonicum japonicum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e3e12028-3dde-4020-94e7-c3965bc6a8d5,infraspecies,Viburnum plicatum formosanum,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6c2051b7-5bab-43c1-b3a0-df186fa3950c,species,Daphniphyllum luzonense,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Tectaria multicaudata,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+e39c4749-891a-4c34-bf15-6e472bdabe58,species,Vincetoxicum chinense,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+b209899e-4b8e-4618-a00f-c5f713ffba41,species,Vincetoxicum taiwanense,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d2f09a9a-5397-422d-875e-1f22a49e0154,infraspecies,Cheirostylis tortilacinia tortilacinia,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+6eba6578-f4b2-443c-8550-97b87fa66c16,species,Spiranthes nivea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+40e2cf45-c788-41d4-a0b8-25ffd1e1d1e7,infraspecies,Spiranthes nivea nivea,"",原生 Native,"","接近受脅（NT, Near Threatened）","","",敏感狀態=無的國內紅皮書等級高於VU的物種
+d4a4a2b6-f048-4c30-8c44-1988a7134784,species,Python reticulatus,"",外來 Non-native,珍貴稀有保育類野生動物,"","","",敏感狀態=無的保育類
+92a9e60b-d074-4188-845f-de90db8bb56e,species,Caridina formosae,台灣特有,原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e52f4ee7-77d0-44db-aa03-448ce2dd9a04,species,Caridina pseudodenticulata,台灣特有,原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+053a8e34-3f84-4ef2-bc80-76846825f46b,species,Caridina serrata,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+8e071969-f9c2-49d0-b3f8-29e31cc51ecb,species,Geothelphusa lanyu,"",原生 Native,"","","極危（CR, Critically Endangered）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7659216d-9f4e-4000-a89a-8d1d50a64578,species,Geothelphusa lutao,"",原生 Native,"","","極危（CR, Critically Endangered）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+76f20f98-067d-477f-b58e-254cad23671d,species,Geothelphusa miyazakii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7434615c-d080-4dde-bc9d-618d3865e999,species,Geothelphusa nanao,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+bad2fd3a-52ed-4071-914a-43be21a5c1e4,species,Geothelphusa pingtung,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+24769a0e-8c44-4999-b401-fea6fac63489,species,Geothelphusa takuan,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+9f841952-a6d5-4512-b2ca-eea06f33a60a,species,Geothelphusa taroko,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+835ad819-37f7-4cc5-88c9-ceca0cf5d03b,species,Geothelphusa wangi,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7d5193ad-7d28-4989-94f6-8d4c979c4e53,species,Geothelphusa wutai,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+ef0f3dc8-66a0-4a87-bb41-cd9ac95ec7a1,species,Nanhaipotamon formosanum,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f428cd44-81d5-4fa9-a19e-436dc4a03ff5,species,Somanniathelphusa taiwanensis,"",原生 Native,"","","瀕危（EN, Endangered）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7dd01438-f9fe-4d9b-8574-886d563825f8,species,Takifugu ocellatus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+2a3651de-88a3-4072-a39b-92d834c11615,species,Takifugu rubripes,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7714c3f2-5d08-4a95-b77d-e47643111c6e,species,Takifugu vermicularis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b5b443ff-1af5-45fa-994a-a27faf67bd64,species,Scomberomorus commerson,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a1a3719b-480d-4c57-9bf2-104008fe35aa,species,Scomberomorus niphonius,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3ce97728-d569-4722-bd50-74b10b28b22a,species,Scomberomorus sinensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+65f36e29-5ad6-4ce6-a5ec-43b85f6fa63a,species,Thunnus orientalis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a761a8d3-4f87-45c7-8695-a1f204fd1a2c,species,Bryaninops natans,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+fb193700-0201-4fba-8050-3f5a94bee99c,species,Gobiodon fulvus,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+9becef6b-4efb-46ef-8c04-b9b64beedc3e,species,Acanthopagrus chinshira,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+597e3e9b-9ad1-4ce3-b47a-645539b84b6d,species,Trachurus japonicus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e54cf0df-2c96-46c8-959c-cc60fa5ea0ef,species,Choerodon schoenleinii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+53e956ac-b9bb-42bf-8535-78d1c91564a9,species,Protonibea diacanthus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f9726846-7488-43a4-a3f6-d57b65eebf14,species,Chlorurus bowersi,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+32a5fb83-9ca1-411f-afc5-865f867b8048,species,Scarus hypselopterus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+556d4510-febf-49f0-b828-ca3e98f187c1,species,Enneapterygius leucopunctatus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+0f22443b-3671-4292-9caa-bbfba267f73d,species,Chaetodon trifascialis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+932fba4b-c040-4ef3-9ea0-7729a41938f7,species,Xiphias gladius,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f84b9381-2b2e-4a4d-9beb-d81f822149de,species,Cirrhinus molitorella,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7c2b8583-2416-417b-ab49-f803a1d930b2,species,Hypophthalmichthys molitrix,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a66bd903-1297-4af7-b83e-1ed3262e7d94,species,Harpadon nehereus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e9b7275c-a209-489b-bd82-260ef47dae0c,species,Sardinella lemuru,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+1c250d99-5cd3-48ec-aa5e-3c29bce28430,species,Anguilla bicolor,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+233a25cd-bac6-4bb2-94bb-a4b4c173c218,species,Acridotheres javanicus,"",外來 Non-native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a81e0b1e-629d-4653-bcd2-ff35b786d80e,species,Bombycilla japonica,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+c504ae0f-1d12-417d-b2d3-9ffe6d6c2016,species,Cyanoptila cumatilis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+68950a5d-93e1-43af-84a2-e88df8dd0276,species,Larvivora komadori,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b0ed4157-806f-4feb-b9e8-01e4058496ea,species,Emberiza yessoensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+99137504-52a5-4a74-a698-d88031d37ad2,species,Gallinago hardwickii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+cd167c34-7d76-47fa-b6dc-6dbe87ea59f8,species,Limnodromus scolopaceus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3f8c00a3-5ec0-4b25-933c-4cc1e3ff7a2a,species,Tringa brevipes,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+1353c6f7-ea3d-4e3f-b079-81779ecab17b,species,Arenaria interpres,"",原生 Native,"","暫無危機（LC, Least Concern）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+d90a0e93-be79-4ab1-ab3b-94f269b5ed5d,species,Vanellus vanellus,"",原生 Native,"","暫無危機（LC, Least Concern）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+5aee8378-a6f8-44de-accf-f1922307c575,species,Haematopus ostralegus,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+33d836b8-ba00-4200-bd09-e8648e583d52,species,Aythya nyroca,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+2a371bc3-6dce-4433-8885-7e92f1dadf87,species,Zapornia paykullii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+bb5b2524-5817-4ded-99e1-d1b9c5a5442b,species,Coturnix japonica,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e27c95e1-1ef3-4287-a19f-1dd3992ea441,species,Ardenna carneipes,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+24497e2e-d2cd-4a34-9118-203a3301d4d7,species,Ardenna grisea,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b938af4a-88e3-40a9-ba72-52455dfd5b45,species,Calonectris leucomelas,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3eb425b9-85a9-42b4-b7c4-a4bfde6c14da,species,Pseudobulweria rostrata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+92cf552d-708b-45c4-833a-499e8b4732a1,species,Hydrobates monorhis,"",原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+5e24ac51-e693-49ce-9793-5a81a87d293f,species,Hydrobates leucorhous,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+98ba2fc8-cea0-4096-b4fb-8d62801b9487,species,Phoebastria immutabilis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+550e3196-93ce-4e19-9752-86e59e93a263,species,Gavia adamsii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+34b52900-53c4-422f-b353-5d2de3f1f60f,species,Ptyas korros,"",原生 Native,"","暫無危機（LC, Least Concern）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3fb85da7-dfee-4808-9b8e-6e14978b486b,species,Laticauda semifasciata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b5da1edb-8f56-4e4a-bcf1-71533779231d,species,Diploderma polygonatum,"",原生 Native,"","暫無危機（LC, Least Concern）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+d4df2150-da18-420c-b3b5-20ac90905006,species,Python regius,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a42ad6a9-7a83-4d65-a0b9-a29fd1cb1894,species,Hemitrygon akajei,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3371fa25-aac9-4a0f-aad3-bb470fae6798,species,Cephaloscyllium umbratile,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+ea263afa-cedf-4e01-94fb-b69285c492fc,species,Carcharhinus altimus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b0c196ec-2131-4ef2-905f-99c69c26cb4b,species,Carcharhinus macloti,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e32f4caa-aff9-486a-a2b3-a6a18b493c1f,species,Carcharhinus sorrah,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+d6117ad3-4613-4a27-8da2-4878f44b1588,species,Galeocerdo cuvier,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+13725170-02dc-4bd6-89c0-53fab784485f,species,Loxodon macrorhinus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f3582923-c7b4-4dc5-9d06-ed801b581a69,species,Prionace glauca,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+52f26a64-4823-4e4f-ac14-ec59c24f31a2,species,Scoliodon laticaudus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a6edaf20-7298-4b55-84e9-031ca8203ce5,species,Bathyraja trachouros,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+27ac54fb-6589-4380-811f-1cafd631ab31,species,Dipturus macrocauda,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+ee47ce0d-33f7-4f77-97a4-cd2b688c5c8b,species,Dipturus tengu,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+fdab2b7c-b905-45c1-ae0c-9e9b2c72545d,species,Dipturus gigas,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+02c76654-339a-4a37-85e0-fb85e7dd8f16,species,Rhynchobatus palpebratus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+85c35039-dc6d-4070-9890-33dafc7fdf3f,species,Deania calcea,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+6e0b74cc-adb4-4ef8-999f-1e96141d4648,species,Deania profundorum,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e3819fc0-e248-48f9-8121-35c274666c9c,species,Somniosus pacificus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7af7bf3d-c1eb-48a6-b0dd-9765b238652e,species,Chiloscyllium punctatum,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+418f04f9-7a3e-4ff9-88f7-35c54cb4aea1,species,Orectolobus leptolineatus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+322416b5-d81c-4ac5-b81b-27f2a8f014d1,species,Hydrolagus mitsukurii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+beba7fe9-bf96-4e67-8196-058402455ec5,species,Heptranchias perlo,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+c4bf8ab0-f952-4184-8602-364eb9f2bec8,species,Hexanchus griseus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e38b72a9-3fc8-4054-b02a-8cdf0e744204,species,Hexanchus nakamurai,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+6057b08a-9292-4858-b69b-97ca6f636b7d,species,Plecotus taivanus,台灣特有,原生 Native,"","接近受脅（NT, Near Threatened）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e8644abf-22a4-4936-95e4-4061ff4ba427,species,Eptatretus burgeri,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+bea6763c-4ff3-4f59-9a41-971bcd1543ff,species,Acanthastrea hillae,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+c7a89d24-cb33-40dd-8aef-e883c138ad50,species,Cynarina lacrymalis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+c339203b-e3b1-4b3a-8004-aa45be01bf4f,species,Galaxea fascicularis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f9a721f7-410e-413f-900d-b02c498b37e7,species,Acropora austera,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+586e8f3c-343b-418f-add2-7c9467c2de5f,species,Acropora digitifera,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b47bc972-9582-49d1-9478-b9ef6bf69e6e,species,Acropora divaricata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+8764ca90-5611-417a-afae-375abdd0624a,species,Acropora florida,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+4f1f4bf9-d66a-469c-8a29-ea28a10b188a,species,Acropora glauca,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+d5c7e732-f7c5-4329-9a9f-61fe405d5691,species,Acropora humilis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+2a493c0a-b045-4892-9999-a35ea0ea5fe4,species,Acropora hyacinthus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+585cd6af-8b55-4972-947d-5d182e7dfddc,species,Acropora lutkeni,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a22aca27-fcd2-41dc-bb39-a9663c0f9e39,species,Acropora millepora,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+4b0718d4-0687-4be2-836d-737d47ecbc9f,species,Acropora nana,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f644b9ef-3d0f-4f86-a35d-9475a4deaed6,species,Acropora nasuta,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b353175b-dad2-4f62-b293-1a003bc8921b,species,Acropora secale,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7849a822-923f-45e0-b116-5cb63e32880b,species,Acropora tenuis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f86653cb-3673-4a7e-a3f3-4666f60fb3de,species,Acropora carduus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f64f0316-9fd2-4551-91a9-14dc7fed8153,species,Acropora monticulosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f1e3f505-5d49-449e-ac5b-aa9661079ecc,species,Acropora granulosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+6bda95a1-4ac6-431d-9c5c-a0b3c7385574,species,Acropora loripes,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+c64531bb-7f29-4282-8f2d-93e162879f89,species,Alveopora spongiosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a12f1158-4470-410c-9088-ef067c7911f7,species,Astreopora expansa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+9b7d9453-b433-415c-bd5b-d52719c0bf72,species,Isopora palifera,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+56e9aeb2-b8ec-4572-9ae5-c9d6828ed504,species,Montipora efflorescens,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+70a7a369-fd89-4f81-a766-f1cd233011d3,species,Montipora foliosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+527ebf8d-cc44-4b57-a8fa-cc941c58262e,species,Montipora foveolata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+ff190e97-84ff-4fb7-bd91-7e61e3dbec01,species,Montipora incrassata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+c3ffd1ce-6744-4b09-8575-3b527026a95f,species,Montipora nodosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+8e96721e-15a2-4f36-8b47-a4f1648fcbbb,species,Montipora peltiformis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+13e1a6c8-6f26-4470-877b-64c84e2f1892,species,Montipora undata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+d097fa64-69c7-4dc9-b6b9-0e345f6c1d91,species,Montipora venosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+aebb042d-76da-4d89-8bd5-ec2789332d3c,species,Euphyllia glabrescens,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+f8f9bbb9-4efa-41b9-9d16-36a05242dbed,species,Fimbriaphyllia divisa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+1dd40ea0-67c2-4b5a-b106-df3c203062a7,species,Echinopora mammiformis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+43dea3d5-adca-40a4-a93a-0915622f75a4,species,Dipsastraea laxa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+247e354e-9ccd-4928-9f70-035a540d238b,species,Dipsastraea maritima,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+48ccb474-0c76-44dd-b37a-f3a7b89b246c,species,Favites rotundata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+fdfe209e-968f-459f-ad10-df749bf2ada6,species,Goniastrea stelligera,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+4c1c460c-3de6-42d9-8dae-4c79ea05f108,species,Dipsastraea lizardensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+1a95c4d8-b53e-4c02-9705-d375ee52201d,species,Dipsastraea matthaii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3c34a532-f0c5-4ee6-bb6e-6063f61210c5,species,Dipsastraea vietnamensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a36bdb68-eaba-4fdb-90db-9dc4e03a30fd,species,Favites abdita,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a78c5b34-50e9-4b53-a0ca-77e344dfe7ca,species,Favites chinensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a733db2d-e9ed-496a-a58d-341d2c0e2b63,species,Favites complanata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+784e608b-e17d-4cce-9c77-8ec0f7f55315,species,Favites flexuosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+14a20a4c-ffa7-424e-80a6-f257aeab38b2,species,Favites halicora,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+6d540725-8d7d-44a9-b4e5-77f5d5e4b474,species,Favites russelli,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+0cb22b50-2f90-43ca-8b95-ac1184c5c076,species,Goniastrea favulus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+07b69b8b-7c62-4e86-87da-cb9e55c41e81,species,Hydnophora exesa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+5fe01640-23c8-4857-a45f-54cd94ac6f35,species,Hydnophora microconos,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+223f3d68-df7c-43c7-8dc0-a0a18a06571b,species,Leptoria phrygia,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+bf214d5d-54f5-4e8d-a203-648780415448,species,Favites magnistellata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+67f667a6-8bc6-457b-9274-eec213fa7cb9,species,Favites valenciennesii,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+9857cd57-0bba-45d2-8f0c-9ee73a2d5057,species,Astrea annuligera,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+74adfa8d-4f29-4ae7-bad9-4e716dbe751a,species,Oulophyllia crispa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a037c944-b4c7-4dd0-b64a-e3d926597045,species,Oulophyllia bennettae,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+04b81e3c-b7c5-4327-af34-ea6fd108640b,species,Platygyra lamellina,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a0cf5033-18da-43c3-a2d2-a6d888426dc5,species,Platygyra ryukyuensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+4a19db0b-a2e5-440c-be23-6160637d0f9c,species,Trachyphyllia geoffroyi,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+12b2427e-6f93-415b-87f0-cedd87d48321,species,Blastomussa wellsi,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a616e950-febf-42d3-8463-5549a5ab81c1,species,Plerogyra sinuosa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+8f21768e-3641-4376-8634-8e7b35a91766,species,Pachyseris gemmae,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+6f2d8ca8-fb7c-4d40-af4a-a960171808f7,species,Pavona minuta,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+fbf7ffb8-9cb8-4a26-a523-09bb5144b28c,species,Coscinaraea crassa,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7630600d-7266-463c-a369-27dc151796e0,species,Fungia fungites,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+9c07a9b7-7153-4fb7-a7e9-3c716c4f9e8a,species,Leptastrea inaequalis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+06776a3e-b7fd-483e-8e3c-bdd54408ef47,species,Leptastrea bewickensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+4c2f5478-1792-4332-b032-1cbfcb6dacd1,species,Lithophyllon undulatum,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+83cd9fbc-9baa-4ca2-8398-4d76405db0c8,species,Psammocora contigua,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+26050fad-41aa-4db2-b326-37b8f22890ad,species,Psammocora digitata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+1562a3ae-56c5-475c-8500-797ccde8d9d2,species,Diploastrea heliopora,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e4022f7a-3136-489d-befb-a09188170f02,species,Goniopora columna,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+5d6c2565-18f1-4a92-bb51-022f3b35762d,species,Goniopora lobata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+5ea3fec7-18e7-4838-8b57-b5d41d7fe2a0,species,Goniopora minor,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+deaee875-7043-412b-aa08-3217487a0f64,species,Porites annae,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+8fa0f68c-a953-4c03-a64e-6f837ccd0d17,species,Porites cylindrica,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+b7ea5168-ee21-42ba-b638-66ba33a81158,species,Porites lobata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+2f74d42f-250c-4c0f-af26-30603c58ea03,species,Porites murrayensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+2c77d4ea-1505-4d9f-ad0f-4f944f9da5d1,species,Porites negrosensis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a8a3d07c-a0be-4cfa-afbd-8c00b086f00f,species,Porites stephensoni,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3708161a-35b7-4f1e-b3a5-95288fe06e27,species,Porites deformis,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+8804cc05-371a-4557-bf30-d2d9385b291f,species,Pectinia paeonia,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e55164ef-624f-4443-be40-807d03a715bc,species,Seriatopora caliendrum,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7b140e31-bc14-48b5-a809-6858102d314a,species,Seriatopora stellata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+51d8ec07-3b14-4947-8a8c-b8d4bc8d49ef,species,Stylophora pistillata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+279ffc3c-6001-4382-8385-519ce2425d49,species,Tubipora musica,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+6cd8e205-2b4e-43c1-b774-ffa4d7e8b4a9,species,Echinus esculentus,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+a71fad2a-1d85-42b3-8928-4d34884c0f01,infraspecies,Arenaria interpres interpres,"",原生 Native,"","暫無危機（LC, Least Concern）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+8da960a7-8e82-43ea-a6af-6589b4184c47,infraspecies,Hydrobates leucorhous leucorhous,"",原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+76646403-513b-46b2-9847-e08556c6d6aa,species,Plestiodon leucostictus,台灣特有,原生 Native,"","暫無危機（LC, Least Concern）","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+49930973-c9c0-4ff9-bda0-8f1c15f12851,species,Euploea swainson,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e9288328-4187-4059-abb5-da2d78eeb0ed,species,Luehdorfia japonica,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+d759478a-de21-4d10-ae38-b373f98e02b2,species,Mortonagrion selenion,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+7b64cfce-b461-4873-979e-8fb5b53e2bda,species,Mortonagrion hirosei,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+df8d1a1d-124c-4607-b9c2-533ae2d6460d,species,Chlorogomphus brevistigma,台灣特有,原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+ab7a0135-9af2-497a-bf17-5f1a4e4b4941,species,Dianemobius kimurae,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e4ed96cf-133a-4854-9acd-76984fb37ac2,species,Rhododendron kanehirae,台灣特有,原生 Native,"","野外滅絕（EW, Extinct in the Wild）","野外滅絕（EW, Extinct in the Wild）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+709e051f-ae8c-49a0-9f26-18eec79fa49d,species,Hygrocybe coccineocrenata,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+68cc9ebe-03b2-41c4-a2cc-b798f78b1b7e,species,Pseudoplectania melaena,"",原生 Native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+060c8136-2fe0-4478-8f68-c2d1a85b413d,species,Centrochelys sulcata,"",外來 Non-native,"","","瀕危（EN, Endangered）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+27a64f78-79a7-4cae-a71d-bc27a58dd45d,species,Pistacia vera,"",外來栽培 Cultivated (non-native),"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+59ee7a82-d97b-46ff-b242-23d21e25b2b1,species,Malayemys subtrijuga,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+bfec0ecc-b0ad-4b04-9f55-a8e4d760796d,species,Agapornis fischeri,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e74e163c-ed0b-4267-ba67-6504901c45fa,species,Geokichla dohertyi,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+2a2a5e09-0cc1-4ea0-8876-d3a1add0bbbd,species,Psittacara erythrogenys,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+39e34c7e-d0d8-4c3f-8185-a45387fbfe70,species,Encephalartos munchii,"",外來栽培 Cultivated (non-native),"","未評估（NE, Not Evaluated）","極危（CR, Critically Endangered）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+e06f03b0-9445-4ff4-9e97-e05c89d7eb1d,species,Capra aegagrus,"",外來 Non-native,"","","接近受脅（NT, Near Threatened）","",敏感狀態=無的國際紅皮書等級高於VU的物種
+3bdb493f-a4aa-419c-a843-258c5f2b8cf7,species,Oreochromis mossambicus,"",外來 Non-native,"","","易危（VU, Vulnerable）",輕度,敏感狀態不等於無的外來種
+978988f1-f2d8-4bef-a071-68f0ea980406,species,Carassius cuvieri,"",外來 Non-native,"","","瀕危（EN, Endangered）",輕度,敏感狀態不等於無的外來種
+5bd5f91c-faaa-45d4-aa6c-e1d7f669ef27,species,Poecilia velifera,"",外來 Non-native,"","","易危（VU, Vulnerable）",輕度,敏感狀態不等於無的外來種
+94e11be7-aea5-4fb2-bdf4-ffd50423d3b7,species,Gracula religiosa,"",外來 Non-native,珍貴稀有保育類野生動物,"","暫無危機（LC, Least Concern）",輕度,敏感狀態不等於無的外來種
+0b16d184-e6e6-4fcf-a1f5-2ddbd8ca43bd,species,Garrulax canorus,"",外來 Non-native,珍貴稀有保育類野生動物,"暫無危機（LC, Least Concern）","暫無危機（LC, Least Concern）",輕度,敏感狀態不等於無的外來種
+0d962ac3-9c74-446f-bfce-cc24461abf69,species,Leiothrix lutea,"",外來 Non-native,珍貴稀有保育類野生動物,"","暫無危機（LC, Least Concern）",輕度,敏感狀態不等於無的外來種
+59e13b41-f852-4e9a-968a-97f2288802f0,species,Leiothrix argentauris,"",外來 Non-native,珍貴稀有保育類野生動物,"","暫無危機（LC, Least Concern）",輕度,敏感狀態不等於無的外來種
+4ee8b393-0321-443c-9243-6456ce0478f8,species,Lonchura oryzivora,"",外來 Non-native,"","","瀕危（EN, Endangered）",輕度,敏感狀態不等於無的外來種
+926dab31-c7de-4084-be50-12de35254405,species,Paroaria coronata,"",外來 Non-native,珍貴稀有保育類野生動物,"","暫無危機（LC, Least Concern）",輕度,敏感狀態不等於無的外來種
+965f9a14-efab-470e-9e42-d035638c8daf,species,Ara ararauna,"",外來 Non-native,珍貴稀有保育類野生動物,"","暫無危機（LC, Least Concern）",輕度,敏感狀態不等於無的外來種
+c24cf121-0cdd-460a-94db-95ce58023e8a,species,Psittacus erithacus,"",外來 Non-native,瀕臨絕種保育類野生動物,"","瀕危（EN, Endangered）",輕度,敏感狀態不等於無的外來種
+632f098f-76bb-43c3-8b1f-b7da8fbd37c0,species,Cacatua alba,"",外來 Non-native,珍貴稀有保育類野生動物,"","瀕危（EN, Endangered）",輕度,敏感狀態不等於無的外來種
+fd4b7847-e68c-443f-a7a5-ce7414e95767,species,Cacatua galerita,"",外來 Non-native,珍貴稀有保育類野生動物,"","暫無危機（LC, Least Concern）",輕度,敏感狀態不等於無的外來種
+f70b5c4f-b073-47c4-8ea5-a5489c5cf2e4,species,Cacatua goffiniana,"",外來 Non-native,瀕臨絕種保育類野生動物,"","接近受脅（NT, Near Threatened）",輕度,敏感狀態不等於無的外來種
+96d8481d-7748-4733-a64e-0e793321208f,species,Cacatua moluccensis,"",外來 Non-native,瀕臨絕種保育類野生動物,"","易危（VU, Vulnerable）",輕度,敏感狀態不等於無的外來種
+6e241dcb-dca3-4fcd-9ea2-8a3546ffe925,species,Clemmys guttata,"",外來 Non-native,"","","瀕危（EN, Endangered）",輕度,敏感狀態不等於無的外來種
+3eaeb37f-ae03-4a8f-8fc5-5af6a39fd2b7,species,Malaclemys terrapin,"",外來 Non-native,"","","易危（VU, Vulnerable）",輕度,敏感狀態不等於無的外來種
+b09551a8-b711-4cde-bc58-444a41e633d7,species,Mauremys japonica,"",外來 Non-native,珍貴稀有保育類野生動物,"","接近受脅（NT, Near Threatened）",輕度,敏感狀態不等於無的外來種
+d172ef75-341a-412e-a8c4-9aefbe0b9637,species,Geochelone elegans,"",外來 Non-native,"","","易危（VU, Vulnerable）",輕度,敏感狀態不等於無的外來種
+23e7cfbb-7342-496e-8223-969a3790dd54,species,Indotestudo elongata,"",外來 Non-native,"","","極危（CR, Critically Endangered）",輕度,敏感狀態不等於無的外來種
+60d89991-2e5c-429c-b2c1-511d9010dfd5,species,Haliotis rufescens,"",外來 Non-native,"","","極危（CR, Critically Endangered）",輕度,敏感狀態不等於無的外來種
+23fcb4b1-9b76-4f2e-a9fa-b8f576448571,species,Acropora turaki,"",外來栽培 Cultivated (non-native),"","","易危（VU, Vulnerable）",輕度,敏感狀態不等於無的外來種
+099552d8-6b9d-4f92-9667-a690fe0c286c,infraspecies,Lonchura atricapilla sinensis,"",外來 Non-native,其他應予保育之野生動物,"","",輕度,敏感狀態不等於無的外來種
+1dc2ca35-a992-4753-b6e8-d609774848dc,infraspecies,Lonchura atricapilla jagori,"",外來 Non-native,其他應予保育之野生動物,"","",輕度,敏感狀態不等於無的外來種
+69e21abf-b727-4b43-8fe6-d5fd3adf1ad5,infraspecies,Lonchura atricapilla deignani,"",外來 Non-native,其他應予保育之野生動物,"","",輕度,敏感狀態不等於無的外來種
+58c022b9-5598-44ca-93c5-514bbf212e49,infraspecies,Oriolus chinensis maculatus,"",外來 Non-native,珍貴稀有保育類野生動物,"易危（VU, Vulnerable）","",輕度,敏感狀態不等於無的外來種
+2e65d1d4-a0fd-441f-b2ef-485fa2612cf6,species,Aratinga solstitialis,"",外來 Non-native,"","","瀕危（EN, Endangered）",輕度,敏感狀態不等於無的外來種
+f3bb3294-f26a-4d6c-ab70-23f5b0667481,species,Physignathus cocincinus,"",外來 Non-native,"",不適用,"易危（VU, Vulnerable）",輕度,敏感狀態不等於無的外來種

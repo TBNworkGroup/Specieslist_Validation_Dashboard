@@ -1,12 +1,9 @@
-taxonUUID,taxonRank,kingdom,phylum,class,order,family,genus,specificEpithet,subspecies,variety,form,cultigen,simplifiedScientificName,TT_URL,errortypes
-fa561dd6-3909-42f3-9bc2-e4444c64c707,species,,,,,,,sp.,,,,,,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707,錯誤符號與括號前後空格
-885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,,,,,,,,,,,'Array',,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519,大小寫錯誤
-d4462017-0b38-4b00-9bd5-5505d8668eac,species,,,,,,,sinensis formosae × Pycnonotus taivanus,,,,,,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac,大小寫錯誤
-a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,,,,,,,canorus × Garrulax taewanus,,,,,,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,大小寫錯誤
-ae9f7e22-26cd-4e30-a788-e380bdabcbb0,family,,,,,Euphyllophytes familia incertae sedis ,,,,,,,,https://taxatree.tbn.org.tw/taxa/ae9f7e22-26cd-4e30-a788-e380bdabcbb0,文字後空格
-b7d03fe1-5230-4e0c-8c1e-d7bdb5aa8dd4,genus,,,,,Euphyllophytes familia incertae sedis ,,,,,,,,https://taxatree.tbn.org.tw/taxa/b7d03fe1-5230-4e0c-8c1e-d7bdb5aa8dd4,文字後空格
-6966ef1a-e73a-47a3-ba99-b3f99c3015e6,species,,,,,Euphyllophytes familia incertae sedis ,,,,,,,,https://taxatree.tbn.org.tw/taxa/6966ef1a-e73a-47a3-ba99-b3f99c3015e6,文字後空格
-8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,,,,,,,,,,,'Big Purple',,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd,大小寫錯誤
-3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,,,,,,,,,,,'Shu',,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a,大小寫錯誤
-3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,,,,,,,,,,,'Baimiao',,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da,大小寫錯誤
-e7fcc177-ddde-4e80-8519-e09dd930bb17,species,,,,,,,fuscoguttatus × Epinephelus lanceolatus,,,,,,https://taxatree.tbn.org.tw/taxa/e7fcc177-ddde-4e80-8519-e09dd930bb17,大小寫錯誤
+taxonUUID,taxonRank,kingdom,phylum,class,order,family,genus,specificEpithet,subspecies,variety,form,cultigen,simplifiedScientificName,errortypes,TT_URL
+fa561dd6-3909-42f3-9bc2-e4444c64c707,species,,,,,,,sp.,,,,,,錯誤符號與括號前後空格,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707
+885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,,,,,,,,,,,'Array',,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519
+d4462017-0b38-4b00-9bd5-5505d8668eac,species,,,,,,,sinensis formosae × Pycnonotus taivanus,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac
+a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,,,,,,,canorus × Garrulax taewanus,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379
+8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,,,,,,,,,,,'Big Purple',,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd
+3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,,,,,,,,,,,'Shu',,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a
+3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,,,,,,,,,,,'Baimiao',,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da
+e7fcc177-ddde-4e80-8519-e09dd930bb17,species,,,,,,,fuscoguttatus × Epinephelus lanceolatus,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/e7fcc177-ddde-4e80-8519-e09dd930bb17

@@ -6,7 +6,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250312"  # 舉例
+modified_date <- "20250319"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -262,6 +262,24 @@ df_errors$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_errors$tax
 
 # (B3) 輸出到csv
 fwrite(df_errors, "../../data/output/TT_errortypes_result.csv")
+
+# ------------------------------------------------------------------
+# Part C: 原生性與敏感狀態比對（重複的 simplifiedScientificName）
+# ------------------------------------------------------------------
+# 這部份只要偵測原生性與敏感狀態有問題的分類群
+# 第一階段：檢查「種」與「種下」階層是否有原生性（TT）是空白的分類群
+# 第二階段：挑出敏感狀態 = 無的保育類
+# 第三階段：挑出敏感狀態 = 無的國內紅皮書等級高於「VU（含）」的物種
+# 第四階段：挑出敏感狀態 = 無的國際紅皮書等級高於「VU（含）」的物種
+# 第五階段：檢查外來種的敏感狀態（TT專屬）：挑出敏感狀態 /= 無的外來種
+# 最後輸出一張表 TT_repeated
+
+df_TTrepeated <- df_TTsplist %>%
+  select(
+    taxonUUID, taxonRank, kingdom,
+    simplifiedScientificName, scientificName
+  )
+
 
 
 # === 確認結果 ===
