@@ -24,115 +24,128 @@
       border: none;
       border-top: 1px solid #ccc;
     }
+    /* 讓 <summary> 更明顯可點 */
+    summary {
+      font-size: 1.2em;
+      font-weight: bold;
+      cursor: pointer;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    /* 可視需求: 讓 details 預設收合 or 展開 */
+    details {
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
-  <!-- 大標題 -->
   <h1>TT Validation Dashboard – version type 20250319</h1>
 
-  <!-- 
-    第一個 Dashboard: Duplicates
-  -->
-  <h1>Species Duplicates Dashboard</h1>
-  <div class="filter-section">
-    <label for="dup-type-select">重複類型:</label>
-    <select id="dup-type-select">
-      <option value="SimplifiedKingdom" selected>學名重複</option>
-      <option value="ScientificKingdom">學名+命名者重複</option>
-    </select>
+  <!-- ===== 第1個 Dashboard: 直接放進 <details> ===== -->
+  <details open>  <!-- open: 預設展開; 若想預設收合就拿掉 open -->
+    <summary>Species Duplicates Dashboard</summary>
 
-    <label for="kingdom-select">篩選 Kingdom:</label>
-    <select id="kingdom-select">
-      <option value="All" selected>All</option>
-      <!-- kingdom 選項動態填入 -->
-    </select>
-  </div>
+    <div class="filter-section">
+      <label for="dup-type-select">重複類型:</label>
+      <select id="dup-type-select">
+        <option value="SimplifiedKingdom" selected>學名重複</option>
+        <option value="ScientificKingdom">學名+命名者重複</option>
+      </select>
 
-  <table id="duplicates-table" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>taxonUUID</th>
-        <th>taxonRank</th>
-        <th>kingdom</th>
-        <th>simplifiedScientificName</th>
-        <th>scientificName</th>
-        <th>TT_URL</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+      <label for="kingdom-select">篩選 Kingdom:</label>
+      <select id="kingdom-select">
+        <option value="All" selected>All</option>
+        <!-- kingdom 選項動態生成 -->
+      </select>
+    </div>
 
-  <hr/>
-
-  <!-- 
-    第二個 Dashboard: Species Error Types
-  -->
-  <h1>Species Error Types Dashboard</h1>
-  <div class="filter-section">
-    <label for="errortypes-select">錯誤樣態:</label>
-    <select id="errortypes-select">
-      <option value="All" selected>All</option>
-      <!-- 動態填入 -->
-    </select>
-  </div>
-
-  <table id="errors-table" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>taxonUUID</th>
-        <th>taxonRank</th>
-        <th>kingdom</th>
-        <th>phylum</th>
-        <th>class</th>
-        <th>order</th>
-        <th>family</th>
-        <th>genus</th>
-        <th>specificEpithet</th>
-        <th>subspecies</th>
-        <th>variety</th>
-        <th>form</th>
-        <th>cultigen</th>
-        <th>simplifiedScientificName</th>
-        <th>TT_URL</th>
-        <th>errortypes</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+    <table id="duplicates-table" class="display" style="width:100%">
+      <thead>
+        <tr>
+          <th>taxonUUID</th>
+          <th>taxonRank</th>
+          <th>kingdom</th>
+          <th>simplifiedScientificName</th>
+          <th>scientificName</th>
+          <th>TT_URL</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </details>
 
   <hr/>
 
-  <!-- 
-    第三個 Dashboard: Species Attribute Error 
-    (依 reason 做篩選；TT_URL 顯示超連結)
-  -->
-  <h1>Species Attribute Error Dashboard</h1>
-  <div class="filter-section">
-    <label for="reason-select">錯誤原因:</label>
-    <select id="reason-select">
-      <option value="All" selected>All</option>
-      <!-- 動態填入 -->
-    </select>
-  </div>
+  <!-- ===== 第2個 Dashboard ===== -->
+  <details>
+    <summary>Species Error Types Dashboard</summary>
 
-  <table id="attribute-table" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>taxonUUID</th>
-        <th>taxonRank</th>
-        <th>simplifiedScientificName</th>
-        <th>endemism</th>
-        <th>nativeness</th>
-        <th>protectedStatusTW</th>
-        <th>categoryRedlistTW</th>
-        <th>categoryIUCN</th>
-        <th>sensitiveCategory</th>
-        <th>TT_URL</th>
-        <th>reason</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+    <div class="filter-section">
+      <label for="errortypes-select">錯誤樣態:</label>
+      <select id="errortypes-select">
+        <option value="All" selected>All</option>
+        <!-- 動態填入 -->
+      </select>
+    </div>
+
+    <table id="errors-table" class="display" style="width:100%">
+      <thead>
+        <tr>
+          <th>taxonUUID</th>
+          <th>taxonRank</th>
+          <th>kingdom</th>
+          <th>phylum</th>
+          <th>class</th>
+          <th>order</th>
+          <th>family</th>
+          <th>genus</th>
+          <th>specificEpithet</th>
+          <th>subspecies</th>
+          <th>variety</th>
+          <th>form</th>
+          <th>cultigen</th>
+          <th>simplifiedScientificName</th>
+          <th>TT_URL</th>
+          <th>errortypes</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </details>
+
+  <hr/>
+
+  <!-- ===== 第3個 Dashboard ===== -->
+  <details>
+    <summary>Species Attribute Error Dashboard</summary>
+
+    <div class="filter-section">
+      <label for="reason-select">錯誤原因:</label>
+      <select id="reason-select">
+        <option value="All" selected>All</option>
+        <!-- 動態填入 -->
+      </select>
+    </div>
+
+    <table id="attribute-table" class="display" style="width:100%">
+      <thead>
+        <tr>
+          <th>taxonUUID</th>
+          <th>taxonRank</th>
+          <th>simplifiedScientificName</th>
+          <th>endemism</th>
+          <th>nativeness</th>
+          <th>protectedStatusTW</th>
+          <th>categoryRedlistTW</th>
+          <th>categoryIUCN</th>
+          <th>sensitiveCategory</th>
+          <th>TT_URL</th>
+          <th>reason</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </details>
 
 <script>
   // ========== 注入的三份資料 ==========
