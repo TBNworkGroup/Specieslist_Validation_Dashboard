@@ -1,7 +1,6 @@
 taxonUUID,taxonRank,kingdom,simplifiedScientificName,scientificName,dup_simplifiedGlobal,dup_simplifiedKingdom,dup_scientificKingdom,TT_URL
 c81c2d9d-6ab5-461f-ba33-48c46fd7a98f,domain,"",Bacteria,Bacteria,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/c81c2d9d-6ab5-461f-ba33-48c46fd7a98f
 04a87524-3ed5-495d-ab3e-a5689ba55487,order,Animalia,Pholidota,Pholidota,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/04a87524-3ed5-495d-ab3e-a5689ba55487
-fe0b9853-61fa-47f3-8850-e8aa646cb9cb,order,Animalia,Heteropoda,Heteropoda,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/fe0b9853-61fa-47f3-8850-e8aa646cb9cb
 79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,Plecoptera,Plecoptera,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
 b97f04e6-e040-43c4-a957-4c1d09c2094f,kingdom,Cryptista,Cryptista,Cryptista,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/b97f04e6-e040-43c4-a957-4c1d09c2094f
 37612a37-510c-4623-98d7-c9988cae908a,kingdom,Fungi,Fungi,Fungi,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/37612a37-510c-4623-98d7-c9988cae908a
@@ -13,7 +12,6 @@ f2746330-97f2-46d7-8b3a-4c48d364dfe2,phylum,Fungi,Ascomycota,Ascomycota,TRUE,FAL
 07162fa8-253e-4db2-bd80-9299cf011b7a,genus,Animalia,Scaphidium,Scaphidium,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/07162fa8-253e-4db2-bd80-9299cf011b7a
 de1d8bfb-3271-428b-86cc-303471dc4040,kingdom,Bacteria,Bacteria,Bacteria,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/de1d8bfb-3271-428b-86cc-303471dc4040
 3316e7dc-d682-465d-8816-6b3c01f755a9,genus,Animalia,Gustavia,Gustavia,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/3316e7dc-d682-465d-8816-6b3c01f755a9
-fad124e1-2d9f-474d-9def-fbaf62753713,genus,Animalia,Heteropoda,Heteropoda,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/fad124e1-2d9f-474d-9def-fbaf62753713
 fa5a85b7-9570-4bcf-89c7-ba6249b7967a,genus,Animalia,Actaea,Actaea,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/fa5a85b7-9570-4bcf-89c7-ba6249b7967a
 dd7858f4-5dc2-42ca-ab01-85b356179aae,genus,Animalia,Ione,Ione,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/dd7858f4-5dc2-42ca-ab01-85b356179aae
 9a1555e2-fb63-4063-8bec-6a755f824ba1,genus,Animalia,Kurzia,Kurzia,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/9a1555e2-fb63-4063-8bec-6a755f824ba1
@@ -118,8 +116,6 @@ c5240f80-353d-4af8-a643-d9bfe728bd6d,genus,Fungi,Stenella,Stenella,TRUE,FALSE,FA
 7bdc16af-01a4-41ad-ba41-61f1839be722,genus,Fungi,Graphium,Graphium,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/7bdc16af-01a4-41ad-ba41-61f1839be722
 951152dd-d47c-4d57-be62-fe409daa912f,genus,Animalia,Rhytisma,Rhytisma,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/951152dd-d47c-4d57-be62-fe409daa912f
 e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,Platypleura,Platypleura,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b
-781a4282-cfb9-458a-8f26-d06b3b6689b4,genus,Protozoa,Epistominella,Epistominella,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/781a4282-cfb9-458a-8f26-d06b3b6689b4
-c7439a13-33da-4e3f-a943-8988dd48d97c,genus,Protozoa,Epistominella,Epistominella,TRUE,TRUE,TRUE,https://taxatree.tbn.org.tw/taxa/c7439a13-33da-4e3f-a943-8988dd48d97c
 3dac74c4-6ee5-4ee2-89ea-f456295a3f33,genus,Animalia,Lactarius,Lactarius,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/3dac74c4-6ee5-4ee2-89ea-f456295a3f33
 77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,Enteropogon,Enteropogon,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/77492479-c45b-46d6-a0d3-796e32b00be7
 6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2,genus,Animalia,Linaria,Linaria,TRUE,FALSE,FALSE,https://taxatree.tbn.org.tw/taxa/6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2

@@ -1,3 +1,4 @@
+rm(list=ls())
 
 usepackage <- c("jsonlite", "tidyverse", "data.table")
 install.packages(usepackage[!(usepackage %in% installed.packages()[,1])])
@@ -6,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250319"  # 舉例
+modified_date <- "20250401"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -264,26 +265,190 @@ df_errors$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_errors$tax
 fwrite(df_errors, "../../data/output/TT_errortypes_result.csv")
 
 # ------------------------------------------------------------------
-# Part C: 原生性與敏感狀態比對（重複的 simplifiedScientificName）
+# Part C: 原生性與敏感狀態比對
 # ------------------------------------------------------------------
 # 這部份只要偵測原生性與敏感狀態有問題的分類群
 # 第一階段：檢查「種」與「種下」階層是否有原生性（TT）是空白的分類群
 # 第二階段：挑出敏感狀態 = 無的保育類
 # 第三階段：挑出敏感狀態 = 無的國內紅皮書等級高於「VU（含）」的物種
 # 第四階段：挑出敏感狀態 = 無的國際紅皮書等級高於「VU（含）」的物種
-# 第五階段：檢查外來種的敏感狀態（TT專屬）：挑出敏感狀態 /= 無的外來種
-# 最後輸出一張表 TT_repeated
+# 第五階段：檢查外來種的敏感狀態（TT專屬）：挑出敏感狀態 != 無的外來種
+# 最後輸出一張表df_TT_attribute_error
 
-df_TTrepeated <- df_TTsplist %>%
+df_TT_attribute <- df_TTsplist %>%
   select(
-    taxonUUID, taxonRank, kingdom,
-    simplifiedScientificName, scientificName
+    taxonUUID, taxonRank, simplifiedScientificName, 
+    endemism, nativeness,               
+    protectedStatusTW, categoryRedlistTW, categoryIUCN, sensitiveCategory
+    )
+
+df_TT_undertaxon <- df_TT_attribute %>%
+  filter(
+    taxonRank %in% c("species", "infraspecies"),
+    nativeness == ""
+  )
+df_TT_undertaxon$reason <- "種與種下原生性空白"
+
+df_TT_protected <- df_TT_attribute %>%
+  filter(
+    sensitiveCategory =="",
+    protectedStatusTW != ""
+  )
+
+df_TT_protected$reason <- "敏感狀態=無的保育類"
+
+df_TT_redlist <- df_TT_attribute %>%
+  filter(
+    sensitiveCategory == "",
+    categoryRedlistTW %in% c(
+      "易危（VU, Vulnerable）",
+      "區域滅絕（RE, Regionally Extinct）",
+      "野外滅絕（EW, Extinct in the Wild）",
+      "極危（CR, Critically Endangered）",
+      "滅絕（EX, Extinct）",
+      "瀕危（EN, Endangered）"
+    )
   )
 
 
+df_TT_redlist$reason <- "敏感狀態=無的國內紅皮書等級高於VU的物種"
 
-# === 確認結果 ===
+df_TT_IUCN <- df_TT_attribute %>%
+  filter(
+    sensitiveCategory == "",
+    categoryIUCN %in% c(
+      "易危（VU, Vulnerable）",
+      "野外滅絕（EW, Extinct in the Wild）",
+      "極危（CR, Critically Endangered）",
+      "瀕危（EN, Endangered）"
+    )
+  )
+
+
+df_TT_IUCN$reason <- "敏感狀態=無的國際紅皮書等級高於VU的物種"
+
+df_TT_invasive <- df_TT_attribute %>%
+  filter(
+    sensitiveCategory != "",
+    nativeness %like% "外"
+  )
+
+df_TT_invasive$reason <- "敏感狀態不等於無的外來種"
+
+df_TT_attribute_error <- rbind(df_TT_undertaxon, df_TT_redlist, df_TT_protected, df_TT_IUCN, df_TT_invasive)
+
+df_TT_attribute_error$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_attribute_error$taxonUUID)
+fwrite(df_TT_attribute_error, "../../data/output/TT_attributeerror_result.csv")
+
+
+# ------------------------------------------------------------------
+# Part D: 沒有種以下階層的分類觀點
+# ------------------------------------------------------------------
+# 這部份只要偵測分類群沒有子階層的「屬」以上階層的分類群
+# 第一階段：檢查沒有「種」與「種下」階層的分類群
+# 最後輸出一張表df_TT_without_species
+
+df_TT_taxon <- df_TTsplist %>%
+  select(
+    taxonUUID, taxonRank, parentUUID, simplifiedScientificName
+  )
+
+
+df_TT_without_species <- df_TT_taxon %>%
+  # 1. 留下 taxonUUID 不在 parentUUID 集合裡
+  filter(! taxonUUID %in% df_TT_taxon$parentUUID) %>%
+  # 2. 先排除 rank 是 species、subspecies
+  filter(! taxonRank %in% c("species", "infraspecies")) 
+
+df_TT_without_species$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_without_species$taxonUUID)
+
+
+fwrite(df_TT_without_species, "../../data/output/TT_without_species.csv")
+
+
+# ------------------------------------------------------------------
+# Part E: 種與種下階層的命名法規
+# ------------------------------------------------------------------
+# 這部份只要偵測種與種下階層的命名法規
+# 第一階段：檢查植物「種」與「種下」階層的命名法規
+# 第一階段：檢查動物「種」與「種下」階層的命名法規
+# 第一階段：檢查「種」與「種下」階層的命名法規有不同的
+# 最後輸出一張表df_TT_nomenclaturalCode
+
+df_TT_species_attribute <- df_TTsplist %>%
+  filter( taxonRank %in% c("species", "infraspecies")) %>% 
+  select(
+    taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
+    nomenclaturalCode
+  )
+
+df_TT_plant_attribute <- df_TT_species_attribute %>%
+  # 1. 留下 taxonUUID 不在 parentUUID 集合裡
+  filter( kingdom %in% "Plantae") %>%
+  # 2. 先排除 rank 是 species、subspecies
+  filter(! nomenclaturalCode %in% c("ICN", "ICNCP"))
+df_TT_plant_attribute$reason <- "命名法規錯誤地的植物"
+
+df_TT_animal_attribute <- df_TT_species_attribute %>%
+  # 1. 留下 taxonUUID 不在 parentUUID 集合裡
+  filter( kingdom %in% "Animalia") %>%
+  # 2. 先排除 rank 是 species、subspecies
+  filter(! nomenclaturalCode %in% c("三名法、二名法"))
+df_TT_animal_attribute$reason <- "命名法規錯誤地的動物"
+
+df_species_list <- df_TT_species_attribute %>%
+  # 1. 留下 taxonUUID 不在 parentUUID 集合裡
+  filter(taxonUUID %in% df_TT_species_attribute$parentUUID|taxonRank %in% "infraspecies") %>%
+  # 新增 groupID
+  mutate(
+    groupID = case_when(
+      taxonRank == "species" ~ taxonUUID,
+      taxonRank == "infraspecies" ~ parentUUID
+    )
+  ) %>%
+  # 依 groupID 分組並 split
+  split(., .$groupID)
+
+has_differences <- function(df) {
+  # 只檢查 nomenclaturalCode
+  columns_to_check <- c("nomenclaturalCode")
+  
+  for (col in columns_to_check) {
+    # 取得該欄位所有值 (含 NA, "" 等)
+    distinct_vals <- unique(df[[col]])
+    
+    # 不刪 NA 或空字串 => 全部都保留
+    
+    # 若該欄位在此 group 裡有多種值 => 判定有差異
+    if (length(distinct_vals) > 1) {
+      return(TRUE)
+    }
+  }
+  
+  # 如果只有一種值(不管是空字串或實際字串)，則無差異
+  return(FALSE)
+}
+
+
+df_species_list_mismatch <- Filter(has_differences, df_species_list)
+df_species_nomenclaturalCode_mismatch <- bind_rows(df_species_list_mismatch, .id = "groupID")
+df_species_nomenclaturalCode_mismatch$reason <- "種與種下命名法規不同"
+
+df_TT_nomenclaturalCode <- bind_rows(df_species_nomenclaturalCode_mismatch, df_TT_animal_attribute, df_TT_plant_attribute)
+
+df_TT_nomenclaturalCode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_nomenclaturalCode$taxonUUID)
+
+fwrite(df_TT_nomenclaturalCode, "../../data/output/TT_nomenclaturalCode.csv")
+
+
+#### === 確認結果 ===
 # A: 重複學名 -> df_duplicates_result
 # B: 欄位錯誤 -> df_errors
+# C: 屬性資料錯誤 <- df_TT_attribute_error
+# D: 沒有種階層分類群 <- df_TT_without_species
+# E: 種與種下階層的命名法規與保育等級 <- df_TT_species_attribute
 print(df_duplicates_result)
 print(df_errors)
+print(df_TT_attribute_error)
+print(df_TT_without_species)
+print(df_TT_species_attribute)
