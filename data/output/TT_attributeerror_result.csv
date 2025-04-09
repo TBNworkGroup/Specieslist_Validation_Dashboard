@@ -1,4 +1,5 @@
 taxonUUID,taxonRank,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,TT_URL
+0017916e-47e7-43d0-8528-511dc20986df,species,Saporlegnia terrestris,"","","","","","",種與種下原生性空白,https://taxatree.tbn.org.tw/taxa/0017916e-47e7-43d0-8528-511dc20986df
 141f9909-7470-46b8-8943-c474230b94f4,species,Ectostroma oryzae,"","","","","","",種與種下原生性空白,https://taxatree.tbn.org.tw/taxa/141f9909-7470-46b8-8943-c474230b94f4
 48d47ce2-4a32-4094-8ddd-47938c12f875,species,Isthmotricladia gombakiensis,"","","","","","",種與種下原生性空白,https://taxatree.tbn.org.tw/taxa/48d47ce2-4a32-4094-8ddd-47938c12f875
 62877461-af8f-4dd5-826f-6f26f19d92ee,species,Scutisporus brunneus,"","","","","","",種與種下原生性空白,https://taxatree.tbn.org.tw/taxa/62877461-af8f-4dd5-826f-6f26f19d92ee
@@ -112,10 +113,7 @@ c6328849-ec97-496c-93c5-af7903ca6f03,species,Limnophila taoyuanensis,"",原生 N
 14b66037-d797-48d5-8ff3-e8cbe07aea6f,species,Nymphoides lungtanensis,台灣特有,原生 Native,"","野外滅絕（EW, Extinct in the Wild）","","",敏感狀態=無的國內紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/14b66037-d797-48d5-8ff3-e8cbe07aea6f
 03aa0ad3-4004-4de1-a435-cc93e0a3316b,species,Artemisia annua,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/03aa0ad3-4004-4de1-a435-cc93e0a3316b
 549c5c0f-f323-47de-a135-f7d6fa3367c9,species,Tephroseris kirilowii,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","","",敏感狀態=無的國內紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/549c5c0f-f323-47de-a135-f7d6fa3367c9
-32df7ca2-38c1-4ce4-9ba7-3f54e82cacd8,infraspecies,Prionailurus bengalensis euptilurus,"",原生 Native,瀕臨絕種保育類野生動物,"瀕危（EN, Endangered）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/32df7ca2-38c1-4ce4-9ba7-3f54e82cacd8
 c31735ef-67a2-4213-aa89-d0dea419f1e8,species,Distoechodon compressus,"",原生 Native,"","易危（VU, Vulnerable）","暫無危機（LC, Least Concern）","",敏感狀態=無的國內紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/c31735ef-67a2-4213-aa89-d0dea419f1e8
-d4a4a2b6-f048-4c30-8c44-1988a7134784,species,Python reticulatus,"",外來 Non-native,珍貴稀有保育類野生動物,"","","",敏感狀態=無的保育類,https://taxatree.tbn.org.tw/taxa/d4a4a2b6-f048-4c30-8c44-1988a7134784
-32df7ca2-38c1-4ce4-9ba7-3f54e82cacd8,infraspecies,Prionailurus bengalensis euptilurus,"",原生 Native,瀕臨絕種保育類野生動物,"瀕危（EN, Endangered）","暫無危機（LC, Least Concern）","",敏感狀態=無的保育類,https://taxatree.tbn.org.tw/taxa/32df7ca2-38c1-4ce4-9ba7-3f54e82cacd8
 e52f4ee7-77d0-44db-aa03-448ce2dd9a04,species,Caridina pseudodenticulata,台灣特有,原生 Native,"","","易危（VU, Vulnerable）","",敏感狀態=無的國際紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/e52f4ee7-77d0-44db-aa03-448ce2dd9a04
 8e071969-f9c2-49d0-b3f8-29e31cc51ecb,species,Geothelphusa lanyu,"",原生 Native,"","","極危（CR, Critically Endangered）","",敏感狀態=無的國際紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/8e071969-f9c2-49d0-b3f8-29e31cc51ecb
 7659216d-9f4e-4000-a89a-8d1d50a64578,species,Geothelphusa lutao,"",原生 Native,"","","極危（CR, Critically Endangered）","",敏感狀態=無的國際紅皮書等級高於VU的物種,https://taxatree.tbn.org.tw/taxa/7659216d-9f4e-4000-a89a-8d1d50a64578

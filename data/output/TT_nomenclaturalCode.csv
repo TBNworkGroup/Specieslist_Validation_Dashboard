@@ -1,24 +1,18 @@
-taxonUUID,taxonRank,parentUUID,kingdom,simplifiedScientificName,nomenclaturalCode,groupID,reason,TT_URL
-6b78b501-ae66-458f-91e5-d20bec1ee674,species,6e48fed8-a286-49a3-b0cc-3d575f86cb56,Animalia,Brachionus calyciflorus,三名法、二名法,6b78b501-ae66-458f-91e5-d20bec1ee674,種與種下命名法規不同,https://taxatree.tbn.org.tw/taxa/6b78b501-ae66-458f-91e5-d20bec1ee674
-a29932dd-4e93-4c1c-9f52-bc5f025aab35,infraspecies,6b78b501-ae66-458f-91e5-d20bec1ee674,Animalia,Brachionus calyciflorus amphiceros,三名法、二名法,6b78b501-ae66-458f-91e5-d20bec1ee674,種與種下命名法規不同,https://taxatree.tbn.org.tw/taxa/a29932dd-4e93-4c1c-9f52-bc5f025aab35
-3ef294c4-85df-47f0-afdf-674676d50697,infraspecies,6b78b501-ae66-458f-91e5-d20bec1ee674,Animalia,Brachionus calyciflorus anuraeiformis,三名法、二名法,6b78b501-ae66-458f-91e5-d20bec1ee674,種與種下命名法規不同,https://taxatree.tbn.org.tw/taxa/3ef294c4-85df-47f0-afdf-674676d50697
-af59e69a-90da-43b2-89bf-b62dc41799f0,infraspecies,6b78b501-ae66-458f-91e5-d20bec1ee674,Animalia,Brachionus calyciflorus dorcas nosus,ICN,6b78b501-ae66-458f-91e5-d20bec1ee674,種與種下命名法規不同,https://taxatree.tbn.org.tw/taxa/af59e69a-90da-43b2-89bf-b62dc41799f0
-db7f52f4-ccef-48e4-ae69-ef0d2565d1f4,species,07aaa509-21a0-4ecc-9911-9f2f442582e4,Plantae,Aechmea ×hybrida,ICN,db7f52f4-ccef-48e4-ae69-ef0d2565d1f4,種與種下命名法規不同,https://taxatree.tbn.org.tw/taxa/db7f52f4-ccef-48e4-ae69-ef0d2565d1f4
-885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,db7f52f4-ccef-48e4-ae69-ef0d2565d1f4,Plantae,Aechmea ×hybrida Array,ICNCP,db7f52f4-ccef-48e4-ae69-ef0d2565d1f4,種與種下命名法規不同,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519
-28674894-1d4a-46b5-be26-f44924b52139,species,1645ffb5-62ee-4938-93ca-287ba5d3bee4,Animalia,Japonia formosana,ICN,,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/28674894-1d4a-46b5-be26-f44924b52139
-8bd1cce0-9ca6-4def-8e9b-e3090c20c28e,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium flavomaculatum,ICN,,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/8bd1cce0-9ca6-4def-8e9b-e3090c20c28e
-3b2c9aa8-adb5-4260-85ed-020167ceb432,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium formosanum,ICN,,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/3b2c9aa8-adb5-4260-85ed-020167ceb432
-ad31e720-45e9-422f-ad75-508a6c824cde,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium grande,ICN,,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/ad31e720-45e9-422f-ad75-508a6c824cde
-7797bafc-ca55-49ca-bf5f-1ac39ac02a42,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium nigrocinctulum,ICN,,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/7797bafc-ca55-49ca-bf5f-1ac39ac02a42
-af59e69a-90da-43b2-89bf-b62dc41799f0,infraspecies,6b78b501-ae66-458f-91e5-d20bec1ee674,Animalia,Brachionus calyciflorus dorcas nosus,ICN,,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/af59e69a-90da-43b2-89bf-b62dc41799f0
-51efe2ba-60d4-47e8-9c3a-c9fe815c68a4,species,88877f38-f77d-4b3a-98e2-e7cf4ce77ab5,Animalia,Ordgarius hobsoni,"",,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/51efe2ba-60d4-47e8-9c3a-c9fe815c68a4
-d1677f87-b574-41a5-93d7-ac169ae5cc98,species,2e7d8185-2c71-4c7e-8b54-4e783dda440e,Plantae,Kurzia borneensis,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/d1677f87-b574-41a5-93d7-ac169ae5cc98
-f6bbac27-487d-40fb-8c95-fe877c56c396,species,2e7d8185-2c71-4c7e-8b54-4e783dda440e,Plantae,Kurzia pauciflora,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/f6bbac27-487d-40fb-8c95-fe877c56c396
-0eb797c1-83bc-4234-9a14-66e57a76e58c,species,2df7cbfe-3b6c-44fb-8b61-5d8b96fdfdfd,Plantae,Tydemania expeditionis,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/0eb797c1-83bc-4234-9a14-66e57a76e58c
-780d72a4-853f-40ba-929d-e3e2866f3f03,species,1b490559-113c-45d9-ac33-5492d0bdf9d1,Plantae,Ganonema farinosum,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/780d72a4-853f-40ba-929d-e3e2866f3f03
-447443ec-207c-4889-877f-8f8578fbef03,species,38434328-b9b3-49b1-b4bc-2d75cf7f17d2,Plantae,Ahnfeltiopsis flabelliformis,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/447443ec-207c-4889-877f-8f8578fbef03
-97465a75-83d3-449b-858b-7a7c5b86a7bb,species,797fa3a4-90b3-4cb2-adf4-59572fd87207,Plantae,Amphiroa fragilissima,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/97465a75-83d3-449b-858b-7a7c5b86a7bb
-c88b0fd2-4a7b-4c4c-9193-9b4fc224e972,species,d2d80f64-835f-4246-bd03-9cccd932ed7b,Plantae,Avrainvillea erecta,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/c88b0fd2-4a7b-4c4c-9193-9b4fc224e972
-876d2c00-86c1-422e-85e5-17373033e465,species,74956ac0-1916-4847-a7b9-2905cf5e425e,Plantae,Bangia atropurpurea,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/876d2c00-86c1-422e-85e5-17373033e465
-7c8eec66-7f08-48ac-8190-1c4445ff136c,species,7ac4c59b-3a02-4200-a766-a58784f3a977,Plantae,Caulacanthus okamurae,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/7c8eec66-7f08-48ac-8190-1c4445ff136c
-8baf1ab3-189b-4a29-94f6-38f9af3f76f7,species,d1a6fb16-445b-4493-b09a-62866c013ea6,Plantae,Codium fragile,三名法、二名法,,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/8baf1ab3-189b-4a29-94f6-38f9af3f76f7
+taxonUUID,taxonRank,parentUUID,kingdom,simplifiedScientificName,nomenclaturalCode,reason,TT_URL
+28674894-1d4a-46b5-be26-f44924b52139,species,1645ffb5-62ee-4938-93ca-287ba5d3bee4,Animalia,Japonia formosana,ICN,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/28674894-1d4a-46b5-be26-f44924b52139
+8bd1cce0-9ca6-4def-8e9b-e3090c20c28e,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium flavomaculatum,ICN,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/8bd1cce0-9ca6-4def-8e9b-e3090c20c28e
+3b2c9aa8-adb5-4260-85ed-020167ceb432,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium formosanum,ICN,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/3b2c9aa8-adb5-4260-85ed-020167ceb432
+ad31e720-45e9-422f-ad75-508a6c824cde,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium grande,ICN,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/ad31e720-45e9-422f-ad75-508a6c824cde
+7797bafc-ca55-49ca-bf5f-1ac39ac02a42,species,07162fa8-253e-4db2-bd80-9299cf011b7a,Animalia,Scaphidium nigrocinctulum,ICN,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/7797bafc-ca55-49ca-bf5f-1ac39ac02a42
+af59e69a-90da-43b2-89bf-b62dc41799f0,infraspecies,6b78b501-ae66-458f-91e5-d20bec1ee674,Animalia,Brachionus calyciflorus dorcas nosus,ICN,命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/af59e69a-90da-43b2-89bf-b62dc41799f0
+51efe2ba-60d4-47e8-9c3a-c9fe815c68a4,species,88877f38-f77d-4b3a-98e2-e7cf4ce77ab5,Animalia,Ordgarius hobsoni,"",命名法規錯誤地的動物,https://taxatree.tbn.org.tw/taxa/51efe2ba-60d4-47e8-9c3a-c9fe815c68a4
+d1677f87-b574-41a5-93d7-ac169ae5cc98,species,2e7d8185-2c71-4c7e-8b54-4e783dda440e,Plantae,Kurzia borneensis,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/d1677f87-b574-41a5-93d7-ac169ae5cc98
+f6bbac27-487d-40fb-8c95-fe877c56c396,species,2e7d8185-2c71-4c7e-8b54-4e783dda440e,Plantae,Kurzia pauciflora,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/f6bbac27-487d-40fb-8c95-fe877c56c396
+0eb797c1-83bc-4234-9a14-66e57a76e58c,species,2df7cbfe-3b6c-44fb-8b61-5d8b96fdfdfd,Plantae,Tydemania expeditionis,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/0eb797c1-83bc-4234-9a14-66e57a76e58c
+780d72a4-853f-40ba-929d-e3e2866f3f03,species,1b490559-113c-45d9-ac33-5492d0bdf9d1,Plantae,Ganonema farinosum,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/780d72a4-853f-40ba-929d-e3e2866f3f03
+447443ec-207c-4889-877f-8f8578fbef03,species,38434328-b9b3-49b1-b4bc-2d75cf7f17d2,Plantae,Ahnfeltiopsis flabelliformis,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/447443ec-207c-4889-877f-8f8578fbef03
+97465a75-83d3-449b-858b-7a7c5b86a7bb,species,797fa3a4-90b3-4cb2-adf4-59572fd87207,Plantae,Amphiroa fragilissima,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/97465a75-83d3-449b-858b-7a7c5b86a7bb
+c88b0fd2-4a7b-4c4c-9193-9b4fc224e972,species,d2d80f64-835f-4246-bd03-9cccd932ed7b,Plantae,Avrainvillea erecta,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/c88b0fd2-4a7b-4c4c-9193-9b4fc224e972
+876d2c00-86c1-422e-85e5-17373033e465,species,74956ac0-1916-4847-a7b9-2905cf5e425e,Plantae,Bangia atropurpurea,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/876d2c00-86c1-422e-85e5-17373033e465
+7c8eec66-7f08-48ac-8190-1c4445ff136c,species,7ac4c59b-3a02-4200-a766-a58784f3a977,Plantae,Caulacanthus okamurae,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/7c8eec66-7f08-48ac-8190-1c4445ff136c
+8baf1ab3-189b-4a29-94f6-38f9af3f76f7,species,d1a6fb16-445b-4493-b09a-62866c013ea6,Plantae,Codium fragile,三名法、二名法,命名法規錯誤地的植物,https://taxatree.tbn.org.tw/taxa/8baf1ab3-189b-4a29-94f6-38f9af3f76f7

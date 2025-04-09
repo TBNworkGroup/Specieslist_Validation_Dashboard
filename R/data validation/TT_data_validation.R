@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250401"  # 舉例
+modified_date <- "20250409"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -126,6 +126,27 @@ check_string_vers <- function(string, columnname) {
   return(check)
 }
 
+check_higher_rank_format <- function(string, columnname) {
+  # 只對 kingdom 到 genus 檢查
+  if (!columnname %in% c("kingdom", "phylum", "class", "order", "family", "genus")) {
+    return(FALSE)  # 不檢查
+  }
+  
+  # 包含 incertae sedis 則視為合法
+  if (str_detect(str_to_lower(string), "incertae sedis")) {
+    return(FALSE)
+  }
+  
+  # 字串內若出現多個詞（空白分隔 > 1），則不合法
+  word_count <- str_count(string, "\\S+")
+  if (word_count > 1) {
+    return(TRUE)
+  } else {
+    return(FALSE)
+  }
+}
+
+
 # (B1) 對非 simplifiedScientificName 欄位執行檢查
 # 模仿 Python 的 iterrows()，逐列 + 逐欄檢查
 errors_list <- list()  # 收集所有錯誤紀錄
@@ -163,6 +184,14 @@ for (i in seq_len(nrow(df_TTsubset))) {
     check_result <- FALSE
     
     check_result <- tryCatch({
+      # 加入新的檢查邏輯
+      if (check_higher_rank_format(val, colname)) {
+        error_record[["taxonUUID"]] <- row_data[["taxonUUID"]]
+        error_record[["taxonRank"]] <- row_data[["taxonRank"]]
+        error_record[[colname]]     <- val
+        errors_list <- append(errors_list, list(error_record))
+        break
+      }
       check_string_vers(val, colname)
     }, error = function(e) {
       # 如果函式本身執行時出錯，就回傳 NA 讓後面好判斷
@@ -191,35 +220,31 @@ for (i in seq_len(nrow(df_TTsubset))) {
 df_errors <- do.call(rbind, lapply(errors_list, as.data.frame))
 df_errors <- as.data.frame(df_errors, stringsAsFactors = FALSE)
 
-check_string_vers_detail <- function(string, columnname) {
-  # 回傳違反規則的字串 (若沒錯誤 => "")
+check_string_vers_detail_extended <- function(string, columnname) {
   reasons <- character(0)
   
-  # 1. 括號前後空白 & 特定符號
-  if (str_detect(string, " \\)") ||
-      str_detect(string, "\\( ") ||
-      str_detect(string, "&")    ||
-      str_detect(string, "_")    ||
-      str_detect(string, "\\.")) {
+  # 舊有邏輯
+  if (str_detect(string, " \\)") || str_detect(string, "\\( ") ||
+      str_detect(string, "&") || str_detect(string, "_") || str_detect(string, "\\.")) {
     reasons <- c(reasons, "錯誤符號與括號前後空格")
   }
-  
-  # 2. 頭尾或連續空白
   if (str_starts(string, " ")) reasons <- c(reasons, "文字前空格")
-  if (str_ends(string, " "))   reasons <- c(reasons, "文字後空格")
+  if (str_ends(string, " ")) reasons <- c(reasons, "文字後空格")
   if (str_detect(string, "  ")) reasons <- c(reasons, "連續空格")
+  if (!check_string_lower(string, columnname)) reasons <- c(reasons, "大小寫錯誤")
   
-  # 3. 大小寫檢查
-  if (!check_string_lower(string, columnname)) {
-    reasons <- c(reasons, "大小寫錯誤")
+  # 新增邏輯
+  if (check_higher_rank_format(string, columnname)) {
+    reasons <- c(reasons, "高階層欄位出現多詞格式")
   }
   
   if (length(reasons) == 0) {
     return("")
   } else {
-    return(paste(unique(reasons), collapse=";"))
+    return(paste(unique(reasons), collapse = ";"))
   }
 }
+
 
 # 先新增欄位 errortypes
 df_errors$errortypes <- NA_character_
@@ -245,14 +270,14 @@ for (i in seq_len(nrow(df_errors))) {
     val <- row_data[[colname]]
     
     # 執行加強版檢查 -> 回傳一串錯誤描述
-    error_str <- check_string_vers_detail(val, colname)
+    error_str <- check_string_vers_detail_extended(val, colname)
     df_errors$errortypes[i] <- error_str
   } else if (length(flagged_cols) > 1) {
     # 若不只1個欄位(理論上不該發生, 因為你 break 了),
     # 這裡可以自行決定怎麼處理, 例如只檢查第一個
     colname <- flagged_cols[1]
     val <- row_data[[colname]]
-    error_str <- check_string_vers_detail(val, colname)
+    error_str <- error_str <- check_string_vers_detail_extended(val, colname)
     df_errors$errortypes[i] <- error_str
   } else {
     # flagged_cols 長度是 0 => 找不到出錯欄位, 可能都 NA => 不做事
