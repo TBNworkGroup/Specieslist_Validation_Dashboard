@@ -375,7 +375,7 @@ fwrite(df_TT_attribute_error, "../../data/output/TT_attributeerror_result.csv")
 
 df_TT_taxon <- df_TTsplist %>%
   select(
-    taxonUUID, taxonRank, parentUUID, simplifiedScientificName
+    taxonUUID, taxonRank, parentUUID, simplifiedScientificName, kingdom, class
   )
 
 
@@ -396,15 +396,15 @@ fwrite(df_TT_without_species, "../../data/output/TT_without_species.csv")
 # ------------------------------------------------------------------
 # 這部份只要偵測種與種下階層的命名法規
 # 第一階段：檢查植物「種」與「種下」階層的命名法規
-# 第一階段：檢查動物「種」與「種下」階層的命名法規
-# 第一階段：檢查「種」與「種下」階層的命名法規有不同的
+# 第二階段：檢查動物「種」與「種下」階層的命名法規
+# 第三階段：檢查「種」與「種下」階層的命名法規有不同的
 # 最後輸出一張表df_TT_nomenclaturalCode
 
 df_TT_species_attribute <- df_TTsplist %>%
   filter( taxonRank %in% c("species", "infraspecies")) %>% 
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
-    nomenclaturalCode
+    nomenclaturalCode 
   )
 
 df_TT_plant_attribute <- df_TT_species_attribute %>%
@@ -421,7 +421,32 @@ df_TT_animal_attribute <- df_TT_species_attribute %>%
   filter(! nomenclaturalCode %in% c("三名法、二名法"))
 df_TT_animal_attribute$reason <- "命名法規錯誤地的動物"
 
-df_species_list <- df_TT_species_attribute %>%
+df_TT_nomenclaturalCode <- bind_rows(df_TT_animal_attribute, df_TT_plant_attribute)
+
+df_TT_nomenclaturalCode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_nomenclaturalCode$taxonUUID)
+
+fwrite(df_TT_nomenclaturalCode, "../../data/output/TT_nomenclaturalCode.csv")
+
+# ------------------------------------------------------------------
+# Part F: 種與種下階層的屬性資料是否一致
+# ------------------------------------------------------------------
+# 這部份只要偵測種與種下階層的命名法規
+# 第一階段：檢查「種」與「種下」階層的命名法規有不同的
+# 第二階段：檢查「種」與「種下」階層的敏感狀態有不同的
+# 第三階段：檢查「種」與「種下」階層的保育等級有不同的
+# 第四階段：檢查「種」與「種下」階層的國際紅皮書有不同的
+# 第五階段：檢查「種」與「種下」階層的國內紅皮書有不同的
+# 最後輸出一張表df_TT_nomenclaturalCode
+
+df_TT_speciesinfraspecies_attribute <- df_TTsplist %>%
+  filter( taxonRank %in% c("species", "infraspecies")) %>% 
+  select(
+    taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
+    nomenclaturalCode, sensitiveCategory, protectedStatusTW, categoryRedlistTW, categoryIUCN
+  )
+
+
+df_species_list <- df_TT_speciesinfraspecies_attribute %>%
   # 1. 留下 taxonUUID 不在 parentUUID 集合裡
   filter(taxonUUID %in% df_TT_species_attribute$parentUUID|taxonRank %in% "infraspecies") %>%
   # 新增 groupID
@@ -434,36 +459,11 @@ df_species_list <- df_TT_species_attribute %>%
   # 依 groupID 分組並 split
   split(., .$groupID)
 
-has_differences <- function(df) {
-  # 只檢查 nomenclaturalCode
-  columns_to_check <- c("nomenclaturalCode")
-  
-  for (col in columns_to_check) {
-    # 取得該欄位所有值 (含 NA, "" 等)
-    distinct_vals <- unique(df[[col]])
-    
-    # 不刪 NA 或空字串 => 全部都保留
-    
-    # 若該欄位在此 group 裡有多種值 => 判定有差異
-    if (length(distinct_vals) > 1) {
-      return(TRUE)
-    }
-  }
-  
-  # 如果只有一種值(不管是空字串或實際字串)，則無差異
-  return(FALSE)
-}
+# 🔁 每個 group 做檢查：每個欄位的差異產生一筆紀錄
+records <- list()
 
-
-df_species_list_mismatch <- Filter(has_differences, df_species_list)
-df_species_nomenclaturalCode_mismatch <- bind_rows(df_species_list_mismatch, .id = "groupID")
-df_species_nomenclaturalCode_mismatch$reason <- "種與種下命名法規不同"
-
-df_TT_nomenclaturalCode <- bind_rows(df_species_nomenclaturalCode_mismatch, df_TT_animal_attribute, df_TT_plant_attribute)
-
-df_TT_nomenclaturalCode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_nomenclaturalCode$taxonUUID)
-
-fwrite(df_TT_nomenclaturalCode, "../../data/output/TT_nomenclaturalCode.csv")
+df_speciesinfraspecies_attribute_mismatch$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_speciesinfraspecies_attribute_mismatch$taxonUUID)
+fwrite(df_speciesinfraspecies_attribute_mismatch, "../../data/output/TT_speciesinfraspecies_attribute_mismatch.csv")
 
 
 #### === 確認結果 ===
@@ -472,8 +472,10 @@ fwrite(df_TT_nomenclaturalCode, "../../data/output/TT_nomenclaturalCode.csv")
 # C: 屬性資料錯誤 <- df_TT_attribute_error
 # D: 沒有種階層分類群 <- df_TT_without_species
 # E: 種與種下階層的命名法規與保育等級 <- df_TT_species_attribute
+# F: 種與種下階層的屬性資料是否一致 <- df_speciesinfraspecies_attribute_mismatch
 print(df_duplicates_result)
 print(df_errors)
 print(df_TT_attribute_error)
 print(df_TT_without_species)
 print(df_TT_species_attribute)
+print(df_speciesinfraspecies_attribute_mismatch)

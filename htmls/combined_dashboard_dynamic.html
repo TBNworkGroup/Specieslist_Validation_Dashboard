@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TT Validation Dashboard – version type 20250401</title>
+  <title>TT Validation Dashboard – version type 20250409</title>
 
   <!-- jQuery & DataTables CDN -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -43,7 +43,7 @@
   </style>
 </head>
 <body>
-  <h1>TT Validation Dashboard – version type 20250401</h1>
+  <h1>TT Validation Dashboard – version type 20250409</h1>
 
   <!-- =================== Dashboard #1: Duplicates =================== -->
   <details open>
@@ -149,27 +149,27 @@
 
   <!-- =================== Dashboard #4: Without Under Taxon =================== -->
   <details>
-    <summary>Without Under Taxon Dashboard</summary>
-    <div class="filter-section">
-      <label for="taxonRank-select">篩選 taxonRank:</label>
-      <select id="taxonRank-select">
-        <option value="All" selected>All</option>
-      </select>
-    </div>
+  <summary>Without Under Taxon Dashboard</summary>
+  <div class="filter-section">
+    <label for="taxonRank-select">篩選 taxonRank:</label>
+    <select id="taxonRank-select">
+      <option value="All" selected>All</option>
+    </select>
+  </div>
 
-    <table id="without-table" class="display" style="width:100%">
-      <thead>
-        <tr>
-          <th>taxonUUID</th>
-          <th>taxonRank</th>
-          <th>parentUUID</th>
-          <th>simplifiedScientificName</th>
-          <th>TT_URL</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
-  </details>
+  <table id="without-table" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>taxonUUID</th>
+        <th>taxonRank</th>
+        <th>parentUUID</th>
+        <th>simplifiedScientificName</th>
+        <th>TT_URL</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</details>
 
   <hr/>
 
@@ -205,6 +205,44 @@
       <tbody></tbody>
     </table>
   </details>
+<hr/>
+
+<!-- =================== Dashboard #6: Species/Infraspecies Attribute Conflict =================== -->
+<details>
+  <summary>Species/Infraspecies Attribute Conflict Dashboard</summary>
+  <div class="filter-section">
+    <label for="conflict-reason-select">篩選 reason:</label>
+    <select id="conflict-reason-select">
+      <option value="All" selected>All</option>
+    </select>
+
+    <label for="conflict-groupid-select">篩選 groupID:</label>
+    <select id="conflict-groupid-select">
+      <option value="All" selected>All</option>
+    </select>
+  </div>
+
+  <table id="conflict-table" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>taxonUUID</th>
+        <th>taxonRank</th>
+        <th>parentUUID</th>
+        <th>kingdom</th>
+        <th>simplifiedScientificName</th>
+        <th>nomenclaturalCode</th>
+        <th>sensitiveCategory</th>
+        <th>protectedStatusTW</th>
+        <th>categoryRedlistTW</th>
+        <th>categoryIUCN</th>
+        <th>groupID</th>
+        <th>reason</th>
+        <th>TT_URL</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</details>
 
 <script>
   // ======== GitHub Raw CSV URLs (依需求替換) ========
@@ -213,6 +251,8 @@
   const CSV_URL_3 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_attributeerror_result.csv";
   const CSV_URL_4 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_without_species.csv";
   const CSV_URL_5 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_nomenclaturalCode.csv";
+  const CSV_URL_6 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_speciesinfraspecies_attribute_mismatch.csv";
+
 
   // 全域變數
   let duplicatesData = [];
@@ -220,6 +260,8 @@
   let attributeData = [];
   let withoutData = [];
   let nomenclErrorData = [];
+  let conflictData = [];
+
 
   // (1) 下載 duplicates CSV
   Papa.parse(CSV_URL_1, {
@@ -290,6 +332,20 @@
       console.error("Error loading nomenclErrorData CSV:", err);
     }
   });
+  // (6) 下載 species‑infraspecies conflict CSV
+  Papa.parse(CSV_URL_6, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      conflictData = results.data;
+      initConflictDashboard();
+    },
+    error: function(err) {
+      console.error("Error loading conflictData CSV:", err);
+    }
+  });
+
 
   // ================== Dashboard #1: Duplicates ==================
   let myDataTable1 = null;
@@ -624,6 +680,101 @@
     fillTableBodyNomencl(filtered);
     myDataTable5 = $('#nomencl-error-table').DataTable({ pageLength: 10 });
   }
+  // ================== Dashboard #6: Species/Infraspecies Attribute Conflict ==================
+let myDataTable6 = null;
+
+function initConflictDashboard(){
+  populateConflictReasonFilter();          // 只先 reason
+  populateConflictGroupFilter("All");      // 依 reason 塞 groupID
+
+  initDataTableConflict(conflictData);
+
+  document.getElementById("conflict-reason-select")
+          .addEventListener("change", function(){
+              populateConflictGroupFilter(this.value);
+              updateDataTableConflict();
+          });
+
+  document.getElementById("conflict-groupid-select")
+          .addEventListener("change", updateDataTableConflict);
+}
+
+function populateConflictReasonFilter(){
+  const reasons = conflictData.map(d=>d.reason).filter(x=>x);
+  const unique=[...new Set(reasons)].sort();
+  const sel=document.getElementById("conflict-reason-select");
+  unique.forEach(r=>{
+    const opt=document.createElement("option");
+    opt.value=r; opt.textContent=r;
+    sel.appendChild(opt);
+  });
+}
+
+function populateConflictGroupFilter(selectedReason){
+  const gSel=document.getElementById("conflict-groupid-select");
+  gSel.innerHTML = '<option value="All" selected>All</option>';
+
+  let pool = conflictData;
+  if(selectedReason!=="All") {
+    pool = pool.filter(d => d.reason === selectedReason);
+  }
+  const groups = pool.map(d=>d.groupID).filter(x=>x);
+  const unique=[...new Set(groups)].sort();
+  unique.forEach(g=>{
+    const opt=document.createElement("option");
+    opt.value=g; opt.textContent=g;
+    gSel.appendChild(opt);
+  });
+}
+
+function initDataTableConflict(dataArray){
+  fillTableBodyConflict(dataArray);
+  myDataTable6 = $('#conflict-table').DataTable({ pageLength: 10 });
+}
+
+function fillTableBodyConflict(dataArray){
+  const tbody = document.querySelector('#conflict-table tbody');
+  tbody.innerHTML = '';
+  const fields = [
+    "taxonUUID","taxonRank","parentUUID","kingdom","simplifiedScientificName",
+    "nomenclaturalCode","sensitiveCategory","protectedStatusTW","categoryRedlistTW",
+    "categoryIUCN","groupID","reason","TT_URL"
+  ];
+  dataArray.forEach(row=>{
+    const tr=document.createElement('tr');
+    fields.forEach(f=>{
+      const val=row[f] || "";
+      const td=document.createElement('td');
+      if(f==="TT_URL" && val){
+        const a=document.createElement('a');
+        a.href=val; a.target="_blank"; a.textContent=val;
+        td.appendChild(a);
+      }else{ td.textContent=val; }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+function updateDataTableConflict(){
+  const selReason = document.getElementById("conflict-reason-select").value;
+  const selGroup  = document.getElementById("conflict-groupid-select").value;
+
+  let filtered = conflictData;
+  if(selReason!=="All") {
+    filtered = filtered.filter(d => d.reason === selReason);
+  }
+  if(selGroup!=="All") {
+    filtered = filtered.filter(d => d.groupID === selGroup);
+  }
+
+  if(myDataTable6) {
+    myDataTable6.clear().destroy();
+  }
+  fillTableBodyConflict(filtered);
+  myDataTable6 = $('#conflict-table').DataTable({ pageLength: 10 });
+}
+
 </script>
 </body>
 </html>
