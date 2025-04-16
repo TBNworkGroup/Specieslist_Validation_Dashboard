@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250409"  # 舉例
+modified_date <- "20250416"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -412,14 +412,14 @@ df_TT_plant_attribute <- df_TT_species_attribute %>%
   filter( kingdom %in% "Plantae") %>%
   # 2. 先排除 rank 是 species、subspecies
   filter(! nomenclaturalCode %in% c("ICN", "ICNCP"))
-df_TT_plant_attribute$reason <- "命名法規錯誤地的植物"
+df_TT_plant_attribute$reason <- "命名法規錯誤的植物"
 
 df_TT_animal_attribute <- df_TT_species_attribute %>%
   # 1. 留下 taxonUUID 不在 parentUUID 集合裡
   filter( kingdom %in% "Animalia") %>%
   # 2. 先排除 rank 是 species、subspecies
   filter(! nomenclaturalCode %in% c("三名法、二名法"))
-df_TT_animal_attribute$reason <- "命名法規錯誤地的動物"
+df_TT_animal_attribute$reason <- "命名法規錯誤的動物"
 
 df_TT_nomenclaturalCode <- bind_rows(df_TT_animal_attribute, df_TT_plant_attribute)
 
@@ -436,13 +436,14 @@ fwrite(df_TT_nomenclaturalCode, "../../data/output/TT_nomenclaturalCode.csv")
 # 第三階段：檢查「種」與「種下」階層的保育等級有不同的
 # 第四階段：檢查「種」與「種下」階層的國際紅皮書有不同的
 # 第五階段：檢查「種」與「種下」階層的國內紅皮書有不同的
+# 第六階段：檢查「種」與「種下」階層的原生性有不同的
 # 最後輸出一張表df_TT_nomenclaturalCode
 
 df_TT_speciesinfraspecies_attribute <- df_TTsplist %>%
   filter( taxonRank %in% c("species", "infraspecies")) %>% 
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
-    nomenclaturalCode, sensitiveCategory, protectedStatusTW, categoryRedlistTW, categoryIUCN
+    nativeness, nomenclaturalCode, sensitiveCategory, protectedStatusTW, categoryRedlistTW, categoryIUCN
   )
 
 

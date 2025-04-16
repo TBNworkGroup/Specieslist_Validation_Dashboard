@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TT Validation Dashboard – version type 20250409</title>
+  <title>TT Validation Dashboard – version type 20250416</title>
 
   <!-- jQuery & DataTables CDN -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -43,7 +43,7 @@
   </style>
 </head>
 <body>
-  <h1>TT Validation Dashboard – version type 20250409</h1>
+  <h1>TT Validation Dashboard – version type 20250416</h1>
 
   <!-- =================== Dashboard #1: Duplicates =================== -->
   <details open>
@@ -75,10 +75,44 @@
       <tbody></tbody>
     </table>
   </details>
+  <hr/>
+
+  <!-- =================== Dashboard #2: Nomenclatural Error =================== -->
+  <details>
+    <summary>Nomenclatural Error Dashboard</summary>
+    <div class="filter-section">
+      <label for="nom-reason-select">篩選 reason:</label>
+      <select id="nom-reason-select">
+        <option value="All" selected>All</option>
+      </select>
+
+      <label for="groupid-select">篩選 groupID:</label>
+      <select id="groupid-select">
+        <option value="All" selected>All</option>
+      </select>
+    </div>
+
+    <table id="nomencl-error-table" class="display" style="width:100%">
+      <thead>
+        <tr>
+          <th>taxonUUID</th>
+          <th>taxonRank</th>
+          <th>parentUUID</th>
+          <th>kingdom</th>
+          <th>simplifiedScientificName</th>
+          <th>nomenclaturalCode</th>
+          <th>groupID</th>
+          <th>reason</th>
+          <th>TT_URL</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </details>
 
   <hr/>
 
-  <!-- =================== Dashboard #2: Errors =================== -->
+  <!-- =================== Dashboard #3: Errors =================== -->
   <details>
     <summary>Species Error Types Dashboard</summary>
     <div class="filter-section">
@@ -115,7 +149,7 @@
 
   <hr/>
 
-  <!-- =================== Dashboard #3: Attribute =================== -->
+  <!-- =================== Dashboard #4: Attribute =================== -->
   <details>
     <summary>Species Attribute Error Dashboard</summary>
     <div class="filter-section">
@@ -146,68 +180,7 @@
   </details>
 
   <hr/>
-
-  <!-- =================== Dashboard #4: Without Under Taxon =================== -->
-  <details>
-  <summary>Without Under Taxon Dashboard</summary>
-  <div class="filter-section">
-    <label for="taxonRank-select">篩選 taxonRank:</label>
-    <select id="taxonRank-select">
-      <option value="All" selected>All</option>
-    </select>
-  </div>
-
-  <table id="without-table" class="display" style="width:100%">
-    <thead>
-      <tr>
-        <th>taxonUUID</th>
-        <th>taxonRank</th>
-        <th>parentUUID</th>
-        <th>simplifiedScientificName</th>
-        <th>TT_URL</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
-</details>
-
-  <hr/>
-
-  <!-- =================== Dashboard #5: Nomenclatural Error =================== -->
-  <details>
-    <summary>Nomenclatural Error Dashboard</summary>
-    <div class="filter-section">
-      <label for="nom-reason-select">篩選 reason:</label>
-      <select id="nom-reason-select">
-        <option value="All" selected>All</option>
-      </select>
-
-      <label for="groupid-select">篩選 groupID:</label>
-      <select id="groupid-select">
-        <option value="All" selected>All</option>
-      </select>
-    </div>
-
-    <table id="nomencl-error-table" class="display" style="width:100%">
-      <thead>
-        <tr>
-          <th>taxonUUID</th>
-          <th>taxonRank</th>
-          <th>parentUUID</th>
-          <th>kingdom</th>
-          <th>simplifiedScientificName</th>
-          <th>nomenclaturalCode</th>
-          <th>groupID</th>
-          <th>reason</th>
-          <th>TT_URL</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
-  </details>
-<hr/>
-
-<!-- =================== Dashboard #6: Species/Infraspecies Attribute Conflict =================== -->
+<!-- =================== Dashboard #5: Species/Infraspecies Attribute Conflict =================== -->
 <details>
   <summary>Species/Infraspecies Attribute Conflict Dashboard</summary>
   <div class="filter-section">
@@ -243,6 +216,37 @@
     <tbody></tbody>
   </table>
 </details>
+
+
+  <hr/>
+
+
+
+  <!-- =================== Dashboard #6: Without Under Taxon =================== -->
+  <details>
+  <summary>Without Under Taxon Dashboard</summary>
+  <div class="filter-section">
+    <label for="taxonRank-select">篩選 taxonRank:</label>
+    <select id="taxonRank-select">
+      <option value="All" selected>All</option>
+    </select>
+  </div>
+
+  <table id="without-table" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>taxonUUID</th>
+        <th>taxonRank</th>
+        <th>parentUUID</th>
+        <th>simplifiedScientificName</th>
+        <th>TT_URL</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</details>
+
+
 
 <script>
   // ======== GitHub Raw CSV URLs (依需求替換) ========
