@@ -35,6 +35,9 @@
   <div class="filter-section">
     <label for="reason-dup-select">重複樣態 (reason):</label>
     <select id="reason-dup-select"><option value="All" selected>All</option></select>
+
+    <label for="kingdom-dup-select">Kingdom:</label>
+    <select id="kingdom-dup-select"><option value="All" selected>All</option></select>
   </div>
   <table id="duplicates-table" class="display" style="width:100%">
     <thead>
@@ -271,48 +274,81 @@ function initSummaryTable() {
   section.innerHTML = html;
 }
 
-
-
-// ======== Dashboard #1: Duplicates (reason 版) ========
+// ================== Dashboard #1: Duplicates ==================
 let myDataTable1 = null;
+
 function initDuplicatesDashboard() {
-  populateDuplicateReasonDropdown();
+  populateReasonDropdownDuplicates();
+  populateKingdomDropdownDuplicates("All");  // 預設顯示全部
+
   initDataTableDuplicates(duplicatesData);
+
   document.getElementById("reason-dup-select")
+          .addEventListener("change", () => {
+            const r = document.getElementById("reason-dup-select").value;
+            populateKingdomDropdownDuplicates(r);
+            updateDataTableDuplicates();
+          });
+
+  document.getElementById("kingdom-dup-select")
           .addEventListener("change", updateDataTableDuplicates);
 }
-function populateDuplicateReasonDropdown() {
-  const allReasons = duplicatesData.map(d => d.reason).filter(x => x);
-  const unique = [...new Set(allReasons)].sort();
+
+function populateReasonDropdownDuplicates() {
   const sel = document.getElementById("reason-dup-select");
-  unique.forEach(r => {
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  const values = duplicatesData.map(d => d.reason).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  unique.forEach(val => {
     const opt = document.createElement("option");
-    opt.value = r; opt.textContent = r;
+    opt.value = val;
+    opt.textContent = val;
     sel.appendChild(opt);
   });
 }
+
+function populateKingdomDropdownDuplicates(reasonVal) {
+  const sel = document.getElementById("kingdom-dup-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  let data = duplicatesData;
+  if (reasonVal !== "All") {
+    data = data.filter(d => (d.reason || "").trim() === reasonVal);
+  }
+  const kingdoms = data.map(d => d.kingdom).filter(Boolean);
+  const unique = [...new Set(kingdoms)].sort();
+  unique.forEach(k => {
+    const opt = document.createElement("option");
+    opt.value = k;
+    opt.textContent = k;
+    sel.appendChild(opt);
+  });
+}
+
 function initDataTableDuplicates(dataArray) {
   fillTableBodyDuplicates(dataArray);
   myDataTable1 = $('#duplicates-table').DataTable({
-    pageLength: 10, order: [[3, 'asc']]
+    pageLength: 10,
+    order: [[3, 'asc']]
   });
 }
+
 function fillTableBodyDuplicates(dataArray) {
   const tbody = document.querySelector('#duplicates-table tbody');
   tbody.innerHTML = '';
-  const fields = [
-    "taxonUUID", "taxonRank", "kingdom",
-    "simplifiedScientificName", "scientificName", "reason", "TT_URL"
+  const displayFields = [
+    "taxonUUID", "taxonRank", "kingdom", "simplifiedScientificName", "scientificName", "reason", "TT_URL"
   ];
   dataArray.forEach(row => {
     const tr = document.createElement('tr');
-    fields.forEach(f => {
-      const val = row[f] || "";
+    displayFields.forEach(field => {
+      const val = row[field] || "";
       const td = document.createElement('td');
-      if (f === "TT_URL" && val) {
-        const a = document.createElement('a');
-        a.href = val; a.target = "_blank"; a.textContent = val;
-        td.appendChild(a);
+      if (field === "TT_URL" && val) {
+        const link = document.createElement('a');
+        link.href = val;
+        link.target = "_blank";
+        link.textContent = val;
+        td.appendChild(link);
       } else {
         td.textContent = val;
       }
@@ -321,18 +357,26 @@ function fillTableBodyDuplicates(dataArray) {
     tbody.appendChild(tr);
   });
 }
+
 function updateDataTableDuplicates() {
-  const selectedReason = document.getElementById("reason-dup-select").value;
+  const reasonVal = document.getElementById("reason-dup-select").value;
+  const kingdomVal = document.getElementById("kingdom-dup-select").value;
+
   let filtered = duplicatesData;
-  if (selectedReason !== "All") {
-    filtered = filtered.filter(d => d.reason === selectedReason);
+  if (reasonVal !== "All") {
+    filtered = filtered.filter(d => (d.reason || "").trim() === reasonVal);
   }
+  if (kingdomVal !== "All") {
+    filtered = filtered.filter(d => (d.kingdom || "").trim() === kingdomVal);
+  }
+
   if (myDataTable1) {
     myDataTable1.clear().destroy();
   }
   fillTableBodyDuplicates(filtered);
   myDataTable1 = $('#duplicates-table').DataTable({
-    pageLength: 10, order: [[3, 'asc']]
+    pageLength: 10,
+    order: [[3, 'asc']]
   });
 }
 
