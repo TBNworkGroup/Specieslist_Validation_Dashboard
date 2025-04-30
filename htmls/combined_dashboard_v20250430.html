@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TT Validation Dashboard – version type 20250416</title>
+  <title>TT Validation Dashboard – version type 20250430</title>
 
   <!-- jQuery & DataTables -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -25,12 +25,12 @@
   </style>
 </head>
 <body>
-  <h1>TT Validation Dashboard – version type 20250416</h1>
+  <h1>TT Validation Dashboard – version type 20250430</h1>
   <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
 
 
 <!-- ========== Dashboard #1: Species Duplicates Dashboard ========== -->
-<details open>
+<details id="dashboard-1">
   <summary>1. Species Duplicates Dashboard</summary>
   <div class="filter-section">
     <label for="reason-dup-select">重複樣態 (reason):</label>
@@ -48,7 +48,7 @@
 </details><hr/>
 
 <!-- ========== Dashboard #2: Nomenclatural Error Dashboard ========== -->
-<details>
+<details id="dashboard-2">
   <summary>2. Nomenclatural Error Dashboard</summary>
   <div class="filter-section">
     <label for="nom-reason-select">篩選 reason:</label>
@@ -66,7 +66,7 @@
 </details><hr/>
 
 <!-- ========== Dashboard #3: Species Error Types Dashboard ========== -->
-<details>
+<details id="dashboard-3">
   <summary>3. Species Error Types Dashboard</summary>
   <div class="filter-section">
     <label for="errortypes-select">錯誤樣態:</label>
@@ -83,7 +83,7 @@
 </details><hr/>
 
 <!-- ========== Dashboard #4: Species Attribute Error Dashboard ========== -->
-<details>
+<details id="dashboard-4">
   <summary>4. Species Attribute Error Dashboard</summary>
   <div class="filter-section">
     <label for="reason-select">錯誤原因:</label>
@@ -100,7 +100,7 @@
 </details><hr/>
 
 <!-- ========== Dashboard #5: Species/Infraspecies Attribute Conflict ========== -->
-<details>
+<details id="dashboard-5">
   <summary>5. Species/Infraspecies Attribute Conflict Dashboard</summary>
   <div class="filter-section">
     <label for="conflict-reason-select">篩選 reason:</label>
@@ -119,16 +119,18 @@
 </details><hr/>
 
 <!-- ========== Dashboard #6: Without Under Taxon Dashboard ========== -->
-<details>
+<details id="dashboard-6">
   <summary>6. Without Under Taxon Dashboard</summary>
   <div class="filter-section">
-    <label for="taxonRank-select">篩選 taxonRank:</label>
-    <select id="taxonRank-select"><option value="All" selected>All</option></select>
+    <label for="kingdom-select">篩選 kingdom:</label>
+    <select id="kingdom-select"><option value="All" selected>All</option></select>
+    <label for="class-select">篩選 class:</label>
+    <select id="class-select"><option value="All" selected>All</option></select>
   </div>
   <table id="without-table" class="display" style="width:100%">
     <thead>
       <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th>
-          <th>simplifiedScientificName</th><th>TT_URL</th></tr>
+          <th>simplifiedScientificName</th><th>kingdom</th><th>class</th><th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -149,6 +151,33 @@
   let withoutData = [];
   let nomenclErrorData = [];
   let conflictData = [];
+  
+  const expectedReasonsMap = {
+  "1. Duplicates Error": [
+    "學名重複",
+    "相同Kingdom學名重複",
+    "相同Kingdom學名加命名者重複"
+  ],
+  "2. Nomenclatural Error": [
+    "命名法規錯誤的植物",
+    "命名法規錯誤的動物",
+    "種與種下命名法規不同"
+  ],
+  "3. Errors": [
+    "錯誤符號與括號前後空格", "文字前空格", "文字後空格", "連續空格", "大小寫錯誤", "高階層欄位出現多詞格式"
+  ],
+  "4. Attribute Errors": [
+    "種與種下原生性空白",
+    "敏感狀態=無的保育類",
+    "敏感狀態=無的國內紅皮書等級高於VU的物種",
+    "敏感狀態=無的國際紅皮書等級高於VU的物種",
+    "敏感狀態不等於無的外來種"
+  ],
+  "5. Conflict": [
+    "保育等級不同", "國內紅皮書不同", "IUCN紅皮書不同"
+  ]
+  };
+
 
 
   // (1) 下載 duplicates CSV
@@ -260,10 +289,21 @@ function initSummaryTable() {
       countMap[val] = (countMap[val] || 0) + 1;
     });
 
-    const entries = Object.entries(countMap).sort((a, b) => b[1] - a[1]);
+    const expectedList = expectedReasonsMap[d.name];
+    let entries = [];
+
+    if (expectedList) {
+      expectedList.forEach(reason => {
+        const count = countMap[reason] || 0;
+        entries.push([reason, count]);
+      });
+    } else {
+      entries = Object.entries(countMap).sort((a, b) => b[1] - a[1]);
+    }
+
     entries.forEach(([key, val], idx) => {
       html += `<tr>
-        <td>${idx === 0 ? d.name : ""}</td>
+        <td>${idx === 0 ? `<a href="#dashboard-${d.name[0]}" class="dashboard-link">${d.name}</a>` : ""}</td>
         <td>${key}</td>
         <td style='text-align: right;'>${val}</td>
       </tr>`;
@@ -272,7 +312,26 @@ function initSummaryTable() {
 
   html += "</tbody></table>";
   section.innerHTML = html;
+
+  // 🔁 綁定點擊事件：收起所有 details，只展開目標 dashboard
+  setTimeout(() => {
+    document.querySelectorAll('.dashboard-link').forEach(link => {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        const targetID = this.getAttribute('href').substring(1);  // e.g., "dashboard-2"
+        const allDetails = document.querySelectorAll('details');
+
+        allDetails.forEach(d => d.open = false);  // 關閉全部
+        const target = document.getElementById(targetID);
+        if (target) {
+          target.open = true;
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  }, 0);
 }
+
 
 // ================== Dashboard #1: Duplicates ==================
 let myDataTable1 = null;
@@ -504,63 +563,97 @@ function updateDataTableDuplicates() {
     });
   }
 
-  // ================== Dashboard #4: Without Under Taxon ==================
-  let myDataTable4 = null;
-  function initWithoutDashboard(){
-    populateTaxonRankDropdown();
-    initDataTableWithout(withoutData);
-    document.getElementById("taxonRank-select")
-            .addEventListener("change", updateDataTableWithout);
-  }
-  function populateTaxonRankDropdown(){
-    const ranks = withoutData.map(d => d.taxonRank).filter(x => x);
-    const uniqueRanks = [...new Set(ranks)].sort();
-    const selectEl = document.getElementById("taxonRank-select");
-    uniqueRanks.forEach(r => {
-      const opt = document.createElement("option");
-      opt.value = r; opt.textContent = r;
-      selectEl.appendChild(opt);
+// ================== Dashboard #4: Without Under Taxon ==================
+let myDataTable4 = null;
+
+function initWithoutDashboard() {
+  populateKingdomDropdown();
+  populateClassDropdown();
+  initDataTableWithout(withoutData);
+
+  document.getElementById("kingdom-select")
+          .addEventListener("change", updateDataTableWithout);
+  document.getElementById("class-select")
+          .addEventListener("change", updateDataTableWithout);
+}
+
+function populateKingdomDropdown() {
+  const values = withoutData.map(d => d.kingdom).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  const sel = document.getElementById("kingdom-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  unique.forEach(v => {
+    const opt = document.createElement("option");
+    opt.value = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+function populateClassDropdown() {
+  const values = withoutData.map(d => d.class).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  const sel = document.getElementById("class-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  unique.forEach(v => {
+    const opt = document.createElement("option");
+    opt.value = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+function initDataTableWithout(dataArray) {
+  fillTableBodyWithout(dataArray);
+  myDataTable4 = $('#without-table').DataTable({ pageLength: 10 });
+}
+
+function fillTableBodyWithout(dataArray) {
+  const tbody = document.querySelector('#without-table tbody');
+  tbody.innerHTML = '';
+  const displayFields = [
+    "taxonUUID", "taxonRank", "parentUUID", "simplifiedScientificName",
+    "kingdom", "class", "TT_URL"
+  ];
+  dataArray.forEach(row => {
+    const tr = document.createElement('tr');
+    displayFields.forEach(field => {
+      const val = row[field] || "";
+      const td = document.createElement('td');
+      if (field === "TT_URL" && val) {
+        const link = document.createElement('a');
+        link.href = val;
+        link.target = "_blank";
+        link.textContent = val;
+        td.appendChild(link);
+      } else {
+        td.textContent = val;
+      }
+      tr.appendChild(td);
     });
+    tbody.appendChild(tr);
+  });
+}
+
+function updateDataTableWithout() {
+  const selKingdom = document.getElementById("kingdom-select").value;
+  const selClass = document.getElementById("class-select").value;
+
+  let filtered = withoutData;
+
+  if (selKingdom !== "All") {
+    filtered = filtered.filter(d => (d.kingdom || "") === selKingdom);
   }
-  function initDataTableWithout(dataArray){
-    fillTableBodyWithout(dataArray);
-    myDataTable4 = $('#without-table').DataTable({ pageLength: 10 });
+  if (selClass !== "All") {
+    filtered = filtered.filter(d => (d.class || "") === selClass);
   }
-  function fillTableBodyWithout(dataArray){
-    const tbody = document.querySelector('#without-table tbody');
-    tbody.innerHTML = '';
-    const displayFields = [
-      "taxonUUID","taxonRank","parentUUID","simplifiedScientificName","TT_URL"
-    ];
-    dataArray.forEach(row => {
-      const tr = document.createElement('tr');
-      displayFields.forEach(field => {
-        const val = row[field] || "";
-        const td  = document.createElement('td');
-        if (field === "TT_URL" && val) {
-          const link = document.createElement('a');
-          link.href = val; link.target = "_blank"; link.textContent = val;
-          td.appendChild(link);
-        } else {
-          td.textContent = val;
-        }
-        tr.appendChild(td);
-      });
-      tbody.appendChild(tr);
-    });
+
+  if (myDataTable4) {
+    myDataTable4.clear().destroy();
   }
-  function updateDataTableWithout(){
-    const selectedRank = document.getElementById("taxonRank-select").value;
-    let filtered = withoutData;
-    if (selectedRank !== "All") {
-      filtered = filtered.filter(d => d.taxonRank === selectedRank);
-    }
-    if (myDataTable4) {
-      myDataTable4.clear().destroy();
-    }
-    fillTableBodyWithout(filtered);
-    myDataTable4 = $('#without-table').DataTable({ pageLength: 10 });
-  }
+  fillTableBodyWithout(filtered);
+  myDataTable4 = $('#without-table').DataTable({ pageLength: 10 });
+}
 
   // ================== Dashboard #5: Nomenclatural Error ==================
   let myDataTable5 = null;

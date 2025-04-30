@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250416"  # 舉例
+modified_date <- "20250429"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -404,28 +404,54 @@ fwrite(df_TT_without_species, "../../data/output/TT_without_species.csv")
 # 第三階段：檢查「種」與「種下」階層的命名法規有不同的
 # 最後輸出一張表df_TT_nomenclaturalCode
 
-df_TT_species_attribute <- df_TTsplist %>%
+df_TT_species_nomenclaturalCode <- df_TTsplist %>%
   filter( taxonRank %in% c("species", "infraspecies")) %>% 
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
     nomenclaturalCode 
   )
 
-df_TT_plant_attribute <- df_TT_species_attribute %>%
+df_TT_plant_nomenclaturalCode <- df_TT_species_nomenclaturalCode %>%
   # 1. 留下 taxonUUID 不在 parentUUID 集合裡
   filter( kingdom %in% "Plantae") %>%
   # 2. 先排除 rank 是 species、subspecies
   filter(! nomenclaturalCode %in% c("ICN", "ICNCP"))
-df_TT_plant_attribute$reason <- "命名法規錯誤的植物"
+df_TT_plant_nomenclaturalCode$reason <- "命名法規錯誤的植物"
 
-df_TT_animal_attribute <- df_TT_species_attribute %>%
+df_TT_animal_nomenclaturalCode <- df_TT_species_nomenclaturalCode %>%
   # 1. 留下 taxonUUID 不在 parentUUID 集合裡
   filter( kingdom %in% "Animalia") %>%
   # 2. 先排除 rank 是 species、subspecies
   filter(! nomenclaturalCode %in% c("三名法、二名法"))
-df_TT_animal_attribute$reason <- "命名法規錯誤的動物"
+df_TT_animal_nomenclaturalCode$reason <- "命名法規錯誤的動物"
 
-df_TT_nomenclaturalCode <- bind_rows(df_TT_animal_attribute, df_TT_plant_attribute)
+# 新增 groupID 欄位：species 用 taxonUUID，自身是 infraspecies 的用 parentUUID
+df_species_grouped <- df_TT_species_nomenclaturalCode %>%
+  filter(taxonUUID %in% parentUUID | taxonRank == "infraspecies") %>%
+  mutate(
+    groupID = case_when(
+      taxonRank == "species" ~ taxonUUID,
+      taxonRank == "infraspecies" ~ parentUUID
+    )
+  ) %>%
+  split(., .$groupID)
+
+# 定義一個函式：檢查 nomenclaturalCode 是否一致
+has_nomenclaturalCode_difference <- function(df) {
+  length(unique(df$nomenclaturalCode)) > 1
+}
+
+# 找出有差異的 group，並加入 reason
+conflict_groups <- Filter(has_nomenclaturalCode_difference, df_species_grouped)
+df_species_nomenclaturalCode_mismatch <- bind_rows(conflict_groups, .id = "groupID") %>%
+  mutate(reason = "種與種下命名法規不同")
+
+
+
+
+
+
+df_TT_nomenclaturalCode <- bind_rows(df_TT_animal_nomenclaturalCode, df_TT_plant_nomenclaturalCode, df_species_nomenclaturalCode_mismatch)
 
 df_TT_nomenclaturalCode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_nomenclaturalCode$taxonUUID)
 
@@ -447,7 +473,7 @@ df_TT_speciesinfraspecies_attribute <- df_TTsplist %>%
   filter( taxonRank %in% c("species", "infraspecies")) %>% 
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
-    nativeness, nomenclaturalCode, sensitiveCategory, protectedStatusTW, categoryRedlistTW, categoryIUCN
+    nativeness, protectedStatusTW, categoryRedlistTW, categoryIUCN
   )
 
 
@@ -467,6 +493,32 @@ df_species_list <- df_TT_speciesinfraspecies_attribute %>%
 # 🔁 每個 group 做檢查：每個欄位的差異產生一筆紀錄
 records <- list()
 
+# 要比對的欄位與對應原因
+check_columns <- list(
+  protectedStatusTW = "保育等級不同",
+  categoryRedlistTW = "國內紅皮書不同",
+  categoryIUCN = "IUCN紅皮書不同"
+)
+
+# 遍歷每一組 group
+for (group_id in names(df_species_list)) {
+  group_df <- df_species_list[[group_id]]
+  
+  for (col in names(check_columns)) {
+    distinct_vals <- unique(group_df[[col]])
+    # 保留 NA 與空字串以便檢查完整差異
+    if (length(distinct_vals) > 1) {
+      group_df$reason <- check_columns[[col]]
+      group_df$check_column <- col  # 可選擇是否保留這個輔助欄
+      records[[length(records) + 1]] <- group_df
+    }
+  }
+}
+
+# 將所有有問題的 group 綁在一起
+df_speciesinfraspecies_attribute_mismatch <- bind_rows(records)
+
+
 df_speciesinfraspecies_attribute_mismatch$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_speciesinfraspecies_attribute_mismatch$taxonUUID)
 fwrite(df_speciesinfraspecies_attribute_mismatch, "../../data/output/TT_speciesinfraspecies_attribute_mismatch.csv")
 
@@ -478,7 +530,7 @@ fwrite(df_speciesinfraspecies_attribute_mismatch, "../../data/output/TT_speciesi
 # D: 沒有種階層分類群 <- df_TT_without_species
 # E: 種與種下階層的命名法規與保育等級 <- df_TT_species_attribute
 # F: 種與種下階層的屬性資料是否一致 <- df_speciesinfraspecies_attribute_mismatch
-print(df_duplicates_result)
+print(df_duplicates_reasoned)
 print(df_errors)
 print(df_TT_attribute_error)
 print(df_TT_without_species)
