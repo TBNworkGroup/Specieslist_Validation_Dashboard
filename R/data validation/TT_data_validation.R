@@ -21,40 +21,44 @@ df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date),
 # 第二階段：同一界（Kingdom）+ 學名重複
 # 第三階段：同一界（Kingdom）+ 命名者 + 學名重複
 # 最後輸出一張表 TT_repeated
-
+# Step 1: 篩選欄位
 df_TTrepeated <- df_TTsplist %>%
   select(
     taxonUUID, taxonRank, kingdom,
     simplifiedScientificName, scientificName
   )
 
+# Step 2: 判斷重複樣態，並標記為 reason
 df_taxa_duplicates <- df_TTrepeated %>%
-  # (A) simplifiedScientificName (不分 kingdom)
   group_by(simplifiedScientificName) %>%
-  mutate(dup_simplifiedGlobal = n() > 1) %>%
+  mutate(is_dup_global = n() > 1) %>%
   ungroup() %>%
   
-  # (B) 在相同 kingdom 下，simplifiedScientificName 重複
   group_by(kingdom, simplifiedScientificName) %>%
-  mutate(dup_simplifiedKingdom = n() > 1) %>%
+  mutate(is_dup_kingdom = n() > 1) %>%
   ungroup() %>%
   
-  # (C) 在相同 kingdom 下，scientificName 重複
   group_by(kingdom, scientificName) %>%
-  mutate(dup_scientificKingdom = n() > 1) %>%
+  mutate(is_dup_kingdom_author = n() > 1) %>%
   ungroup()
 
+# Step 3: 建立 reason 欄位（依照條件逐一指定）
+df_duplicates_reasoned <- df_taxa_duplicates %>%
+  mutate(reason = case_when(
+    is_dup_global ~ "學名重複",
+    is_dup_kingdom ~ "相同Kingdom學名重複",
+    is_dup_kingdom_author ~ "相同Kingdom學名加命名者重複",
+    TRUE ~ NA_character_
+  )) %>%
+  filter(!is.na(reason))
 
-df_duplicates_result <- df_taxa_duplicates %>%
-  filter(
-    dup_simplifiedGlobal |
-      dup_simplifiedKingdom |
-      dup_scientificKingdom
-  )
+# Step 4: 加入連結欄位
+df_duplicates_reasoned$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_duplicates_reasoned$taxonUUID)
 
-df_duplicates_result$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_duplicates_result$taxonUUID)
+# Step 5: 輸出結果
+fwrite(df_duplicates_reasoned, "../../data/output/TT_duplicates_result.csv")
 
-fwrite(df_duplicates_result, "../../data/output/TT_duplicates_result.csv")
+
 
 
 # ------------------------------------------------------------------

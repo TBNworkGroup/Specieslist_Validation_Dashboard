@@ -1,5 +1,4 @@
 taxonUUID,taxonRank,kingdom,phylum,class,order,family,genus,specificEpithet,subspecies,variety,form,cultigen,simplifiedScientificName,errortypes,TT_URL
-fa00e918-cc98-4457-8c2e-b272672908d0,genus,,,,,,Paracalanidae tenuis,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/fa00e918-cc98-4457-8c2e-b272672908d0
 a7435c67-e3d4-43b3-af77-c99b8006680c,species,,,,,,, polyacanthus,,,,,,文字前空格,https://taxatree.tbn.org.tw/taxa/a7435c67-e3d4-43b3-af77-c99b8006680c
 7470927c-8a21-4678-817d-d36bf1b95559,genus,,,,,,× Ascocenda,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/7470927c-8a21-4678-817d-d36bf1b95559
 da0101e9-de59-4995-ae66-0b82fd9d74b0,genus,,,,,,× Brassidium,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/da0101e9-de59-4995-ae66-0b82fd9d74b0
@@ -15,37 +14,6 @@ a6484789-5787-48ba-851a-233ac536ee2a,genus,,,,,,× Vandachostylis,,,,,,,高階�
 df8c669c-cfa7-441c-a364-571c601c9037,genus,,,,,,× Vandaenopsis,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/df8c669c-cfa7-441c-a364-571c601c9037
 18e1a9b1-137d-4826-956e-5c19d1baf556,genus,,,,,,× Vandanthe,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/18e1a9b1-137d-4826-956e-5c19d1baf556
 d9cc5769-e6f7-491f-b76a-b633f29637db,genus,,,,,,× Phalandopsis,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/d9cc5769-e6f7-491f-b76a-b633f29637db
-1dfceb9b-b141-4f1d-96a5-e1c7a2ba1b8b,genus,,,,,,Tribonema bombycinum,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/1dfceb9b-b141-4f1d-96a5-e1c7a2ba1b8b
-d455f4d4-f0e6-4a0f-b2aa-3bc8c8934134,genus,,,,,,Grifola rosularis,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/d455f4d4-f0e6-4a0f-b2aa-3bc8c8934134
-1add46ba-1129-4996-9cf5-1d2c37f07f50,genus,,,,,,Grifola frondosa,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/1add46ba-1129-4996-9cf5-1d2c37f07f50
-0b4a8003-ffdb-4641-a80d-2416f2b919ca,genus,,,,,,Tyromyces incarnatus,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/0b4a8003-ffdb-4641-a80d-2416f2b919ca
-1446426c-333c-4a1b-884e-971e8917f921,genus,,,,,,Tyromyces subcaesius,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/1446426c-333c-4a1b-884e-971e8917f921
-961273d6-5fdb-4060-b9cc-5f06e94421f1,genus,,,,,,Tyromyces subgiganteus,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/961273d6-5fdb-4060-b9cc-5f06e94421f1
-040d6b07-b658-458d-beb5-defa0e8f4927,genus,,,,,,Tyromyces taxi,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/040d6b07-b658-458d-beb5-defa0e8f4927
-6b93cbc8-dcc5-4734-ba16-0f922a69a036,genus,,,,,,Tyromyces wakefieldiae,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/6b93cbc8-dcc5-4734-ba16-0f922a69a036
-c312e364-8a08-4675-bb16-9840940b51e2,genus,,,,,,Tyromyces cerifluus,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/c312e364-8a08-4675-bb16-9840940b51e2
-5d67d43b-5447-4c0a-ab05-ac1f3776a814,genus,,,,,,Tyromyces formosanus,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/5d67d43b-5447-4c0a-ab05-ac1f3776a814
-e7210766-88a8-4843-9f63-690e05630c8b,genus,,,,,,Rhodosporidium fluviale,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/e7210766-88a8-4843-9f63-690e05630c8b
-522e11db-8666-46d9-9b0e-e65b961d1a72,genus,,,,,,Rhodosporidium toruloides,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/522e11db-8666-46d9-9b0e-e65b961d1a72
-b0bb501e-6bfd-4410-a103-49d8a1f659fb,genus,,,,,,Naemateloma fasciculare,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/b0bb501e-6bfd-4410-a103-49d8a1f659fb
-6419534b-4fcd-439d-afcb-d0f37ead126d,genus,,,,,,Entrophospora microspore,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/6419534b-4fcd-439d-afcb-d0f37ead126d
-89b9301a-b016-484d-a6a3-8b82afa38cf8,genus,,,,,,Entrophospora macrospora,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/89b9301a-b016-484d-a6a3-8b82afa38cf8
-db065f55-03c9-4258-9a41-d7da2054bfee,genus,,,,,,Entrophospora kentinensis,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/db065f55-03c9-4258-9a41-d7da2054bfee
-f13a3170-150b-4db5-8561-b843445ef58f,genus,,,,,,Entrophospora infrequens,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/f13a3170-150b-4db5-8561-b843445ef58f
-303ee058-fd9c-40a9-9d49-181f47013160,genus,,,,,,Entrophospora columviana,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/303ee058-fd9c-40a9-9d49-181f47013160
-48a5418e-2f0e-4e87-8bc2-df01f360c1de,genus,,,,,,Erynia neoaphidis,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/48a5418e-2f0e-4e87-8bc2-df01f360c1de
-7f8188ac-342c-4564-88ac-9fe29b1496b4,genus,,,,,,Endoxylina mori,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/7f8188ac-342c-4564-88ac-9fe29b1496b4
-2d399483-b532-46f4-81d4-40daf546e760,genus,,,,,,Physalosporella stephaniae,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/2d399483-b532-46f4-81d4-40daf546e760
-b5ffc0eb-7dc3-4b28-9fbb-945db366e1c8,genus,,,,,,Stomiopeltella desmodii,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/b5ffc0eb-7dc3-4b28-9fbb-945db366e1c8
-0475d075-6dc2-4be2-8596-929941facf28,genus,,,,,,Polyschema toruloides,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/0475d075-6dc2-4be2-8596-929941facf28
-deec8490-0777-4853-8069-1b0fd60169e3,genus,,,,,,Sterigmatobotrys uniseptata,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/deec8490-0777-4853-8069-1b0fd60169e3
-0ba1b679-0cab-4fde-ad4a-0b023f3e1d6c,genus,,,,,,Trichosperma triramiferum,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/0ba1b679-0cab-4fde-ad4a-0b023f3e1d6c
-29b6b711-cd77-45a8-891c-d0af6ac08b9b,genus,,,,,,Trichosperma variabile,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/29b6b711-cd77-45a8-891c-d0af6ac08b9b
-f0db787b-b41b-4541-bf33-3e470d9af478,genus,,,,,,Strigula elegans,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/f0db787b-b41b-4541-bf33-3e470d9af478
-5d675431-80a7-4b6c-8aa1-df4c319a6e3c,genus,,,,,,Stentorella igneus,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/5d675431-80a7-4b6c-8aa1-df4c319a6e3c
-edaf2ca5-fc71-46a7-9d1b-fdbc9d7cf126,genus,,,,,,Stentorella polymorphus,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/edaf2ca5-fc71-46a7-9d1b-fdbc9d7cf126
-bc7ed559-2d2f-40a0-8cf5-ef7c2d2fb2cb,genus,,,,,,Stentorella viridis,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/bc7ed559-2d2f-40a0-8cf5-ef7c2d2fb2cb
-363e7721-0c73-4d47-845a-0439bed388d7,genus,,,,,,Menemerus bivittatus,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/363e7721-0c73-4d47-845a-0439bed388d7
 fa561dd6-3909-42f3-9bc2-e4444c64c707,species,,,,,,,sp.,,,,,,錯誤符號與括號前後空格,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707
 44f652d1-36ad-414e-9c7c-a4daee60d033,species,,,,,,× Ascocenda,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/44f652d1-36ad-414e-9c7c-a4daee60d033
 13e48885-8e08-475c-b332-434fdf538dc5,species,,,,,,× Brassidium,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/13e48885-8e08-475c-b332-434fdf538dc5
