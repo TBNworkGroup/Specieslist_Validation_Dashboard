@@ -122,6 +122,8 @@
 <details id="dashboard-6">
   <summary>6. Without Under Taxon Dashboard</summary>
   <div class="filter-section">
+    <label for="taxonrank-select">篩選 taxonRank:</label>
+    <select id="taxonrank-select"><option value="All" selected>All</option></select>
     <label for="kingdom-select">篩選 kingdom:</label>
     <select id="kingdom-select"><option value="All" selected>All</option></select>
     <label for="class-select">篩選 class:</label>
@@ -129,9 +131,13 @@
   </div>
   <table id="without-table" class="display" style="width:100%">
     <thead>
-      <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th>
-          <th>simplifiedScientificName</th><th>kingdom</th><th>class</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
-    </thead><tbody></tbody>
+      <tr>
+        <th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th>
+        <th>simplifiedScientificName</th><th>kingdom</th><th>class</th>
+        <th>number_of_occurrence</th><th>TT_URL</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
   </table>
 </details><hr/>
 <script>
@@ -590,18 +596,50 @@ function updateDataTableDuplicates() {
 let myDataTable4 = null;
 
 function initWithoutDashboard() {
-  populateKingdomDropdown();
-  populateClassDropdown();
+  populateTaxonRankDropdown();
+  populateKingdomDropdown("All");
+  populateClassDropdown("All", "All");
   initDataTableWithout(withoutData);
 
+  document.getElementById("taxonrank-select")
+          .addEventListener("change", function() {
+            const selectedTaxonRank = this.value;
+            populateKingdomDropdown(selectedTaxonRank);
+            populateClassDropdown(selectedTaxonRank, "All");
+            updateDataTableWithout();
+          });
+
   document.getElementById("kingdom-select")
-          .addEventListener("change", updateDataTableWithout);
+          .addEventListener("change", function() {
+            const selectedTaxonRank = document.getElementById("taxonrank-select").value;
+            const selectedKingdom = this.value;
+            populateClassDropdown(selectedTaxonRank, selectedKingdom);
+            updateDataTableWithout();
+          });
+
   document.getElementById("class-select")
           .addEventListener("change", updateDataTableWithout);
 }
 
-function populateKingdomDropdown() {
-  const values = withoutData.map(d => d.kingdom).filter(Boolean);
+function populateTaxonRankDropdown() {
+  const values = withoutData.map(d => d.taxonRank).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  const sel = document.getElementById("taxonrank-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  unique.forEach(v => {
+    const opt = document.createElement("option");
+    opt.value = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+function populateKingdomDropdown(selectedTaxonRank) {
+  let data = withoutData;
+  if (selectedTaxonRank !== "All") {
+    data = data.filter(d => (d.taxonRank || "") === selectedTaxonRank);
+  }
+  const values = data.map(d => d.kingdom).filter(Boolean);
   const unique = [...new Set(values)].sort();
   const sel = document.getElementById("kingdom-select");
   sel.innerHTML = "<option value='All' selected>All</option>";
@@ -613,8 +651,15 @@ function populateKingdomDropdown() {
   });
 }
 
-function populateClassDropdown() {
-  const values = withoutData.map(d => d.class).filter(Boolean);
+function populateClassDropdown(selectedTaxonRank, selectedKingdom) {
+  let data = withoutData;
+  if (selectedTaxonRank !== "All") {
+    data = data.filter(d => (d.taxonRank || "") === selectedTaxonRank);
+  }
+  if (selectedKingdom !== "All") {
+    data = data.filter(d => (d.kingdom || "") === selectedKingdom);
+  }
+  const values = data.map(d => d.class).filter(Boolean);
   const unique = [...new Set(values)].sort();
   const sel = document.getElementById("class-select");
   sel.innerHTML = "<option value='All' selected>All</option>";
@@ -630,7 +675,7 @@ function initDataTableWithout(dataArray) {
   fillTableBodyWithout(dataArray);
   myDataTable4 = $('#without-table').DataTable({
     pageLength: 10,
-    order: [[6, 'desc']]  // ✅ index=6
+    order: [[6, 'desc']]
   });
 }
 
@@ -662,11 +707,15 @@ function fillTableBodyWithout(dataArray) {
 }
 
 function updateDataTableWithout() {
+  const selTaxonRank = document.getElementById("taxonrank-select").value;
   const selKingdom = document.getElementById("kingdom-select").value;
   const selClass = document.getElementById("class-select").value;
 
   let filtered = withoutData;
 
+  if (selTaxonRank !== "All") {
+    filtered = filtered.filter(d => (d.taxonRank || "") === selTaxonRank);
+  }
   if (selKingdom !== "All") {
     filtered = filtered.filter(d => (d.kingdom || "") === selKingdom);
   }
@@ -678,9 +727,11 @@ function updateDataTableWithout() {
     myDataTable4.clear().destroy();
   }
   fillTableBodyWithout(filtered);
-  myDataTable4 = $('#without-table').DataTable({ pageLength: 10 });
+  myDataTable4 = $('#without-table').DataTable({
+    pageLength: 10,
+    order: [[6, 'desc']]
+  });
 }
-
   // ================== Dashboard #5: Nomenclatural Error ==================
   let myDataTable5 = null;
   function initNomenclErrorDashboard(){
