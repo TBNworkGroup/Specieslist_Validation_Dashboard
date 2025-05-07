@@ -46,13 +46,12 @@ df_taxa_duplicates <- df_TTrepeated %>%
 # Step 3: 建立 reason 欄位（依照條件逐一指定）
 df_duplicates_reasoned <- df_taxa_duplicates %>%
   mutate(reason = case_when(
-    is_dup_global ~ "學名重複",
-    is_dup_kingdom ~ "相同Kingdom學名重複",
     is_dup_kingdom_author ~ "相同Kingdom學名加命名者重複",
+    is_dup_kingdom ~ "相同Kingdom學名重複",
+    is_dup_global ~ "學名重複",
     TRUE ~ NA_character_
   )) %>%
   filter(!is.na(reason))
-
 
 
 for (i in 1:nrow(df_duplicates_reasoned)) {
@@ -68,12 +67,16 @@ for (i in 1:nrow(df_duplicates_reasoned)) {
     })
   }
   
-  df_duplicates_reasoned$number_of_occurrence[i]  <-  TBN_result$meta$status
-  if(TBN_result$meta$status=="SUCCESS"){
-    df_duplicates_reasoned$number_of_occurrence[i] <- TBN_result$meta$total #避免頁數剛好整除導致後面迴圈出錯
+  if (TBN_result$meta$status == "SUCCESS") {
+    df_duplicates_reasoned$number_of_occurrence[i] <- TBN_result$meta$total
+  } else if (TBN_result$meta$status == "NOT FOUND") {
+    df_duplicates_reasoned$number_of_occurrence[i] <- 0
+  } else {
+    df_duplicates_reasoned$number_of_occurrence[i] <- TBN_result$meta$status
   }
-  print(paste("finsh i=", i, " download"))
-} 
+  
+  print(paste("finish i=", i, " download"))
+}
 
 # Step 4: 加入連結欄位
 df_duplicates_reasoned$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_duplicates_reasoned$taxonUUID)
@@ -310,7 +313,6 @@ for (i in seq_len(nrow(df_errors))) {
     # flagged_cols 長度是 0 => 找不到出錯欄位, 可能都 NA => 不做事
   }
 }
-
 for (i in 1:nrow(df_errors)) {
   
   while(TRUE) {
@@ -324,12 +326,16 @@ for (i in 1:nrow(df_errors)) {
     })
   }
   
-  df_errors$number_of_occurrence[i]  <-  TBN_result$meta$status
-  if(TBN_result$meta$status=="SUCCESS"){
-    df_errors$number_of_occurrence[i] <- TBN_result$meta$total #避免頁數剛好整除導致後面迴圈出錯
+  if (TBN_result$meta$status == "SUCCESS") {
+    df_errors$number_of_occurrence[i] <- TBN_result$meta$total
+  } else if (TBN_result$meta$status == "NOT FOUND") {
+    df_errors$number_of_occurrence[i] <- 0
+  } else {
+    df_errors$number_of_occurrence[i] <- TBN_result$meta$status
   }
-  print(paste("finsh i=", i, " download"))
-} 
+  
+  print(paste("finish i=", i, " download"))
+}
 
 
 
@@ -413,7 +419,6 @@ df_TT_invasive$reason <- "敏感狀態不等於無的外來種"
 
 df_TT_attribute_error <- rbind(df_TT_undertaxon, df_TT_redlist, df_TT_protected, df_TT_IUCN, df_TT_invasive)
 
-
 for (i in 1:nrow(df_TT_attribute_error)) {
   
   while(TRUE) {
@@ -427,12 +432,16 @@ for (i in 1:nrow(df_TT_attribute_error)) {
     })
   }
   
-  df_TT_attribute_error$number_of_occurrence[i]  <-  TBN_result$meta$status
-  if(TBN_result$meta$status=="SUCCESS"){
-    df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$total #避免頁數剛好整除導致後面迴圈出錯
+  if (TBN_result$meta$status == "SUCCESS") {
+    df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$total
+  } else if (TBN_result$meta$status == "NOT FOUND") {
+    df_TT_attribute_error$number_of_occurrence[i] <- 0
+  } else {
+    df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$status
   }
-  print(paste("finsh i=", i, " download"))
-} 
+  
+  print(paste("finish i=", i, " download"))
+}
 
 
 
@@ -460,7 +469,6 @@ df_TT_without_species <- df_TT_taxon %>%
   # 2. 先排除 rank 是 species、subspecies
   filter(! taxonRank %in% c("species", "infraspecies")) 
 
-
 for (i in 1:nrow(df_TT_without_species)) {
   
   while(TRUE) {
@@ -474,13 +482,16 @@ for (i in 1:nrow(df_TT_without_species)) {
     })
   }
   
-  df_TT_without_species$number_of_occurrence[i]  <-  TBN_result$meta$status
-  if(TBN_result$meta$status=="SUCCESS"){
-    df_TT_without_species$number_of_occurrence[i] <- TBN_result$meta$total #避免頁數剛好整除導致後面迴圈出錯
+  if (TBN_result$meta$status == "SUCCESS") {
+    df_TT_without_species$number_of_occurrence[i] <- TBN_result$meta$total
+  } else if (TBN_result$meta$status == "NOT FOUND") {
+    df_TT_without_species$number_of_occurrence[i] <- 0
+  } else {
+    df_TT_without_species$number_of_occurrence[i] <- TBN_result$meta$status
   }
-  print(paste("finsh i=", i, " download"))
-} 
-
+  
+  print(paste("finish i=", i, " download"))
+}
 
 
 
@@ -548,8 +559,6 @@ df_species_nomenclaturalCode_mismatch <- bind_rows(conflict_groups, .id = "group
 
 df_TT_nomenclaturalCode <- bind_rows(df_TT_animal_nomenclaturalCode, df_TT_plant_nomenclaturalCode, df_species_nomenclaturalCode_mismatch)
 
-
-
 for (i in 1:nrow(df_TT_nomenclaturalCode)) {
   
   while(TRUE) {
@@ -563,12 +572,16 @@ for (i in 1:nrow(df_TT_nomenclaturalCode)) {
     })
   }
   
-  df_TT_nomenclaturalCode$number_of_occurrence[i]  <-  TBN_result$meta$status
-  if(TBN_result$meta$status=="SUCCESS"){
-    df_TT_nomenclaturalCode$number_of_occurrence[i] <- TBN_result$meta$total #避免頁數剛好整除導致後面迴圈出錯
+  if (TBN_result$meta$status == "SUCCESS") {
+    df_TT_nomenclaturalCode$number_of_occurrence[i] <- TBN_result$meta$total
+  } else if (TBN_result$meta$status == "NOT FOUND") {
+    df_TT_nomenclaturalCode$number_of_occurrence[i] <- 0
+  } else {
+    df_TT_nomenclaturalCode$number_of_occurrence[i] <- TBN_result$meta$status
   }
-  print(paste("finsh i=", i, " download"))
-} 
+  
+  print(paste("finish i=", i, " download"))
+}
 
 
 
@@ -638,7 +651,6 @@ for (group_id in names(df_species_list)) {
 # 將所有有問題的 group 綁在一起
 df_speciesinfraspecies_attribute_mismatch <- bind_rows(records)
 
-
 for (i in 1:nrow(df_speciesinfraspecies_attribute_mismatch)) {
   
   while(TRUE) {
@@ -652,12 +664,16 @@ for (i in 1:nrow(df_speciesinfraspecies_attribute_mismatch)) {
     })
   }
   
-  df_speciesinfraspecies_attribute_mismatch$number_of_occurrence[i]  <-  TBN_result$meta$status
-  if(TBN_result$meta$status=="SUCCESS"){
-    df_speciesinfraspecies_attribute_mismatch$number_of_occurrence[i] <- TBN_result$meta$total #避免頁數剛好整除導致後面迴圈出錯
+  if (TBN_result$meta$status == "SUCCESS") {
+    df_speciesinfraspecies_attribute_mismatch$number_of_occurrence[i] <- TBN_result$meta$total
+  } else if (TBN_result$meta$status == "NOT FOUND") {
+    df_speciesinfraspecies_attribute_mismatch$number_of_occurrence[i] <- 0
+  } else {
+    df_speciesinfraspecies_attribute_mismatch$number_of_occurrence[i] <- TBN_result$meta$status
   }
-  print(paste("finsh i=", i, " download"))
-} 
+  
+  print(paste("finish i=", i, " download"))
+}
 
 
 
