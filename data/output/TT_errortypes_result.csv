@@ -1,39 +1,39 @@
 taxonUUID,taxonRank,kingdom,phylum,class,order,family,genus,specificEpithet,subspecies,variety,form,cultigen,simplifiedScientificName,errortypes,number_of_occurrence,TT_URL
-a7435c67-e3d4-43b3-af77-c99b8006680c,species,,,,,,, polyacanthus,,,,,,文字前空格,NOT FOUND,https://taxatree.tbn.org.tw/taxa/a7435c67-e3d4-43b3-af77-c99b8006680c
-7470927c-8a21-4678-817d-d36bf1b95559,genus,,,,,,× Ascocenda,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/7470927c-8a21-4678-817d-d36bf1b95559
-da0101e9-de59-4995-ae66-0b82fd9d74b0,genus,,,,,,× Brassidium,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/da0101e9-de59-4995-ae66-0b82fd9d74b0
-d6f16a2f-ccee-4f77-9148-ae151d07ab56,genus,,,,,,× Brassocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/d6f16a2f-ccee-4f77-9148-ae151d07ab56
-2680221a-8700-42ac-b78d-7b660a7f78fb,genus,,,,,,× Brassolaelia,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/2680221a-8700-42ac-b78d-7b660a7f78fb
-889f9d13-251e-4652-b08d-3ab73eb2b602,genus,,,,,,× Brassolaeliocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/889f9d13-251e-4652-b08d-3ab73eb2b602
-fa501f1f-585e-4959-adb6-270e1b06f858,genus,,,,,,× Doritaenopsis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/fa501f1f-585e-4959-adb6-270e1b06f858
-828b03e7-4355-4a9b-8a3b-db76765ab52c,genus,,,,,,× Epiphronitis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/828b03e7-4355-4a9b-8a3b-db76765ab52c
-8b3a9355-79b3-429b-836b-51b3c607c2b6,genus,,,,,,× Laeliocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/8b3a9355-79b3-429b-836b-51b3c607c2b6
-3776d92e-90b6-453c-8c61-a4010ec9936f,genus,,,,,,× Potinara,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/3776d92e-90b6-453c-8c61-a4010ec9936f
-18134326-6ae7-4720-9341-614311089841,genus,,,,,,× Sophrolaeliocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/18134326-6ae7-4720-9341-614311089841
-a6484789-5787-48ba-851a-233ac536ee2a,genus,,,,,,× Vandachostylis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/a6484789-5787-48ba-851a-233ac536ee2a
-df8c669c-cfa7-441c-a364-571c601c9037,genus,,,,,,× Vandaenopsis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/df8c669c-cfa7-441c-a364-571c601c9037
-18e1a9b1-137d-4826-956e-5c19d1baf556,genus,,,,,,× Vandanthe,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/18e1a9b1-137d-4826-956e-5c19d1baf556
-d9cc5769-e6f7-491f-b76a-b633f29637db,genus,,,,,,× Phalandopsis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/d9cc5769-e6f7-491f-b76a-b633f29637db
+a7435c67-e3d4-43b3-af77-c99b8006680c,species,,,,,,, polyacanthus,,,,,,文字前空格,0,https://taxatree.tbn.org.tw/taxa/a7435c67-e3d4-43b3-af77-c99b8006680c
+7470927c-8a21-4678-817d-d36bf1b95559,genus,,,,,,× Ascocenda,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/7470927c-8a21-4678-817d-d36bf1b95559
+da0101e9-de59-4995-ae66-0b82fd9d74b0,genus,,,,,,× Brassidium,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/da0101e9-de59-4995-ae66-0b82fd9d74b0
+d6f16a2f-ccee-4f77-9148-ae151d07ab56,genus,,,,,,× Brassocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/d6f16a2f-ccee-4f77-9148-ae151d07ab56
+2680221a-8700-42ac-b78d-7b660a7f78fb,genus,,,,,,× Brassolaelia,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/2680221a-8700-42ac-b78d-7b660a7f78fb
+889f9d13-251e-4652-b08d-3ab73eb2b602,genus,,,,,,× Brassolaeliocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/889f9d13-251e-4652-b08d-3ab73eb2b602
+fa501f1f-585e-4959-adb6-270e1b06f858,genus,,,,,,× Doritaenopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/fa501f1f-585e-4959-adb6-270e1b06f858
+828b03e7-4355-4a9b-8a3b-db76765ab52c,genus,,,,,,× Epiphronitis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/828b03e7-4355-4a9b-8a3b-db76765ab52c
+8b3a9355-79b3-429b-836b-51b3c607c2b6,genus,,,,,,× Laeliocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/8b3a9355-79b3-429b-836b-51b3c607c2b6
+3776d92e-90b6-453c-8c61-a4010ec9936f,genus,,,,,,× Potinara,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/3776d92e-90b6-453c-8c61-a4010ec9936f
+18134326-6ae7-4720-9341-614311089841,genus,,,,,,× Sophrolaeliocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/18134326-6ae7-4720-9341-614311089841
+a6484789-5787-48ba-851a-233ac536ee2a,genus,,,,,,× Vandachostylis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/a6484789-5787-48ba-851a-233ac536ee2a
+df8c669c-cfa7-441c-a364-571c601c9037,genus,,,,,,× Vandaenopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/df8c669c-cfa7-441c-a364-571c601c9037
+18e1a9b1-137d-4826-956e-5c19d1baf556,genus,,,,,,× Vandanthe,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/18e1a9b1-137d-4826-956e-5c19d1baf556
+d9cc5769-e6f7-491f-b76a-b633f29637db,genus,,,,,,× Phalandopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/d9cc5769-e6f7-491f-b76a-b633f29637db
 fa561dd6-3909-42f3-9bc2-e4444c64c707,species,,,,,,,sp.,,,,,,錯誤符號與括號前後空格,9,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707
-44f652d1-36ad-414e-9c7c-a4daee60d033,species,,,,,,× Ascocenda,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/44f652d1-36ad-414e-9c7c-a4daee60d033
-13e48885-8e08-475c-b332-434fdf538dc5,species,,,,,,× Brassidium,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/13e48885-8e08-475c-b332-434fdf538dc5
-b621834d-279d-449b-977f-03ca5c0c7609,species,,,,,,× Brassocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/b621834d-279d-449b-977f-03ca5c0c7609
-034768d6-5c63-49e0-a516-ed2fae36e6e0,species,,,,,,× Brassolaelia,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/034768d6-5c63-49e0-a516-ed2fae36e6e0
-aa5ec0b0-ae9a-495f-a1cd-f1000f71bd43,species,,,,,,× Brassolaeliocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/aa5ec0b0-ae9a-495f-a1cd-f1000f71bd43
-ee3dd896-fb67-4996-8ad7-c875924e9f15,species,,,,,,× Doritaenopsis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/ee3dd896-fb67-4996-8ad7-c875924e9f15
-7c17999f-4d33-4da2-af09-2d5d0c23a447,species,,,,,,× Epiphronitis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/7c17999f-4d33-4da2-af09-2d5d0c23a447
-36906c3b-31fb-45e1-aa7e-444faa614ac1,species,,,,,,× Laeliocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/36906c3b-31fb-45e1-aa7e-444faa614ac1
-c2a8b686-31bc-42c8-8ef8-991d62f28a9a,species,,,,,,× Potinara,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/c2a8b686-31bc-42c8-8ef8-991d62f28a9a
-20cb21fa-812f-4596-a113-5d07d892acaf,species,,,,,,× Sophrolaeliocattleya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/20cb21fa-812f-4596-a113-5d07d892acaf
-7754275a-46bd-4ac6-a88a-94f3960a26c6,species,,,,,,× Vandachostylis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/7754275a-46bd-4ac6-a88a-94f3960a26c6
-20c7e668-07d7-4321-ae3d-9ef454b08928,species,,,,,,× Vandaenopsis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/20c7e668-07d7-4321-ae3d-9ef454b08928
-8d0f281b-87d1-4c1b-bf0c-3959c6558925,species,,,,,,× Vandanthe,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/8d0f281b-87d1-4c1b-bf0c-3959c6558925
-ab85b04f-2d91-4215-98ad-90b5402c5474,species,,,,,,× Phalandopsis,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/ab85b04f-2d91-4215-98ad-90b5402c5474
-885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,,,,,,,,,,,'Array',,大小寫錯誤,NOT FOUND,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519
+44f652d1-36ad-414e-9c7c-a4daee60d033,species,,,,,,× Ascocenda,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/44f652d1-36ad-414e-9c7c-a4daee60d033
+13e48885-8e08-475c-b332-434fdf538dc5,species,,,,,,× Brassidium,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/13e48885-8e08-475c-b332-434fdf538dc5
+b621834d-279d-449b-977f-03ca5c0c7609,species,,,,,,× Brassocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/b621834d-279d-449b-977f-03ca5c0c7609
+034768d6-5c63-49e0-a516-ed2fae36e6e0,species,,,,,,× Brassolaelia,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/034768d6-5c63-49e0-a516-ed2fae36e6e0
+aa5ec0b0-ae9a-495f-a1cd-f1000f71bd43,species,,,,,,× Brassolaeliocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/aa5ec0b0-ae9a-495f-a1cd-f1000f71bd43
+ee3dd896-fb67-4996-8ad7-c875924e9f15,species,,,,,,× Doritaenopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/ee3dd896-fb67-4996-8ad7-c875924e9f15
+7c17999f-4d33-4da2-af09-2d5d0c23a447,species,,,,,,× Epiphronitis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/7c17999f-4d33-4da2-af09-2d5d0c23a447
+36906c3b-31fb-45e1-aa7e-444faa614ac1,species,,,,,,× Laeliocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/36906c3b-31fb-45e1-aa7e-444faa614ac1
+c2a8b686-31bc-42c8-8ef8-991d62f28a9a,species,,,,,,× Potinara,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/c2a8b686-31bc-42c8-8ef8-991d62f28a9a
+20cb21fa-812f-4596-a113-5d07d892acaf,species,,,,,,× Sophrolaeliocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/20cb21fa-812f-4596-a113-5d07d892acaf
+7754275a-46bd-4ac6-a88a-94f3960a26c6,species,,,,,,× Vandachostylis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/7754275a-46bd-4ac6-a88a-94f3960a26c6
+20c7e668-07d7-4321-ae3d-9ef454b08928,species,,,,,,× Vandaenopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/20c7e668-07d7-4321-ae3d-9ef454b08928
+8d0f281b-87d1-4c1b-bf0c-3959c6558925,species,,,,,,× Vandanthe,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/8d0f281b-87d1-4c1b-bf0c-3959c6558925
+ab85b04f-2d91-4215-98ad-90b5402c5474,species,,,,,,× Phalandopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/ab85b04f-2d91-4215-98ad-90b5402c5474
+885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,,,,,,,,,,,'Array',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519
 d4462017-0b38-4b00-9bd5-5505d8668eac,species,,,,,,,sinensis formosae × Pycnonotus taivanus,,,,,,大小寫錯誤,1552,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac
 a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,,,,,,,canorus × Garrulax taewanus,,,,,,大小寫錯誤,478,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379
-1027baf9-badd-47c6-807b-b45fec382348,genus,,,,,,× Rhaphiobotrya,,,,,,,高階層欄位出現多詞格式,NOT FOUND,https://taxatree.tbn.org.tw/taxa/1027baf9-badd-47c6-807b-b45fec382348
-8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,,,,,,,,,,,'Big Purple',,大小寫錯誤,NOT FOUND,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd
-3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,,,,,,,,,,,'Shu',,大小寫錯誤,NOT FOUND,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a
-3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,,,,,,,,,,,'Baimiao',,大小寫錯誤,NOT FOUND,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da
+1027baf9-badd-47c6-807b-b45fec382348,genus,,,,,,× Rhaphiobotrya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/1027baf9-badd-47c6-807b-b45fec382348
+8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,,,,,,,,,,,'Big Purple',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd
+3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,,,,,,,,,,,'Shu',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a
+3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,,,,,,,,,,,'Baimiao',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da
 e7fcc177-ddde-4e80-8519-e09dd930bb17,species,,,,,,,fuscoguttatus × Epinephelus lanceolatus,,,,,,大小寫錯誤,10,https://taxatree.tbn.org.tw/taxa/e7fcc177-ddde-4e80-8519-e09dd930bb17

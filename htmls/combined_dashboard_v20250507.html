@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TT Validation Dashboard – version type 20250430</title>
+  <title>TT Validation Dashboard – version type 20250507</title>
 
   <!-- jQuery & DataTables -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -25,7 +25,7 @@
   </style>
 </head>
 <body>
-  <h1>TT Validation Dashboard – version type 20250430</h1>
+  <h1>TT Validation Dashboard – version type 20250507</h1>
   <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
 
 
@@ -42,7 +42,7 @@
   <table id="duplicates-table" class="display" style="width:100%">
     <thead>
       <tr><th>taxonUUID</th><th>taxonRank</th><th>kingdom</th>
-          <th>simplifiedScientificName</th><th>scientificName</th><th>reason</th><th>TT_URL</th></tr>
+          <th>simplifiedScientificName</th><th>scientificName</th><th>reason</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -60,7 +60,7 @@
     <thead>
       <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th>
           <th>kingdom</th><th>simplifiedScientificName</th>
-          <th>nomenclaturalCode</th><th>groupID</th><th>reason</th><th>TT_URL</th></tr>
+          <th>nomenclaturalCode</th><th>groupID</th><th>reason</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -77,7 +77,7 @@
       <tr><th>taxonUUID</th><th>taxonRank</th><th>kingdom</th><th>phylum</th><th>class</th>
           <th>order</th><th>family</th><th>genus</th><th>specificEpithet</th>
           <th>subspecies</th><th>variety</th><th>form</th><th>cultigen</th>
-          <th>simplifiedScientificName</th><th>TT_URL</th><th>errortypes</th></tr>
+          <th>simplifiedScientificName</th><th>errortypes</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -93,8 +93,8 @@
     <thead>
       <tr><th>taxonUUID</th><th>taxonRank</th><th>simplifiedScientificName</th>
           <th>endemism</th><th>nativeness</th><th>protectedStatusTW</th>
-          <th>categoryRedlistTW</th><th>categoryIUCN</th><th>sensitiveCategory</th>
-          <th>TT_URL</th><th>reason</th></tr>
+          <th>categoryRedlistTW</th><th>categoryIUCN</th><th>sensitiveCategory</th><th>reason</th><th>number_of_occurrence</th>
+          <th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -113,7 +113,7 @@
       <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th><th>kingdom</th>
           <th>simplifiedScientificName</th><th>nomenclaturalCode</th><th>sensitiveCategory</th>
           <th>protectedStatusTW</th><th>categoryRedlistTW</th><th>categoryIUCN</th>
-          <th>groupID</th><th>reason</th><th>TT_URL</th></tr>
+          <th>groupID</th><th>reason</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -130,7 +130,7 @@
   <table id="without-table" class="display" style="width:100%">
     <thead>
       <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th>
-          <th>simplifiedScientificName</th><th>kingdom</th><th>class</th><th>TT_URL</th></tr>
+          <th>simplifiedScientificName</th><th>kingdom</th><th>class</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -264,73 +264,91 @@
     }
   });
 // ======== Summary Table 函式定義 ========
-function initSummaryTable() {
-  const section = document.getElementById("summary-section");
-  const datasets = [
-    { name: "1. Duplicates", data: duplicatesData, field: "reason" },
-    { name: "2. Nomenclatural Error", data: nomenclErrorData, field: "reason" },
-    { name: "3. Errors", data: errorsData, field: "errortypes" },
-    { name: "4. Attribute Errors", data: attributeData, field: "reason" },
-    { name: "5. Conflict", data: conflictData, field: "reason" },
-    { name: "6. Without Under Taxon", data: withoutData, field: "taxonRank" }
-  ];
-
-  let html = "<h3>📊 Dashboard Summary</h3><table border='1' cellpadding='5' cellspacing='0'><thead><tr><th>Dashboard</th><th>Reason / Type</th><th>Count</th></tr></thead><tbody>";
-
-  datasets.forEach(d => {
-    if (!d.field) {
-      html += `<tr><td>${d.name}</td><td colspan="2" style="color: gray;">(不支援分類統計)</td></tr>`;
+ function initSummaryTable() {
+    const section = document.getElementById("summary-section");
+    if (!section) {
+      console.warn("⚠️ 找不到 #summary-section 元素，無法渲染 summary table");
       return;
     }
 
-    const countMap = {};
-    d.data.forEach(row => {
-      const val = row[d.field] || "(空白)";
-      countMap[val] = (countMap[val] || 0) + 1;
-    });
+    const datasets = [
+      { name: "1. Duplicates Error", data: duplicatesData, field: "reason" },
+      { name: "2. Nomenclatural Error", data: nomenclErrorData, field: "reason" },
+      { name: "3. Errors", data: errorsData, field: "errortypes" },
+      { name: "4. Attribute Errors", data: attributeData, field: "reason" },
+      { name: "5. Conflict", data: conflictData, field: "reason" },
+      { name: "6. Without Under Taxon", data: withoutData, field: "taxonRank" }
+    ];
 
-    const expectedList = expectedReasonsMap[d.name];
-    let entries = [];
+    let html = "<h3>📊 Dashboard Summary</h3><table border='1' cellpadding='5' cellspacing='0'><thead><tr><th>Dashboard</th><th>Reason / Type</th><th>Count</th></tr></thead><tbody>";
 
-    if (expectedList) {
+    datasets.forEach(d => {
+      if (!d.field) {
+        html += `<tr><td>${d.name}</td><td colspan="2" style="color: gray;">(不支援分類統計)</td></tr>`;
+        return;
+      }
+
+      const expectedList = expectedReasonsMap[d.name] || [];
+      const countMap = {};
+
+      // ✅ 先初始化 expectedList 裡的 key → 保證至少有 key = 0
       expectedList.forEach(reason => {
-        const count = countMap[reason] || 0;
-        entries.push([reason, count]);
+        countMap[reason] = 0;
       });
-    } else {
-      entries = Object.entries(countMap).sort((a, b) => b[1] - a[1]);
-    }
 
-    entries.forEach(([key, val], idx) => {
-      html += `<tr>
-        <td>${idx === 0 ? `<a href="#dashboard-${d.name[0]}" class="dashboard-link">${d.name}</a>` : ""}</td>
-        <td>${key}</td>
-        <td style='text-align: right;'>${val}</td>
-      </tr>`;
-    });
-  });
-
-  html += "</tbody></table>";
-  section.innerHTML = html;
-
-  // 🔁 綁定點擊事件：收起所有 details，只展開目標 dashboard
-  setTimeout(() => {
-    document.querySelectorAll('.dashboard-link').forEach(link => {
-      link.addEventListener('click', function(e) {
-        e.preventDefault();
-        const targetID = this.getAttribute('href').substring(1);  // e.g., "dashboard-2"
-        const allDetails = document.querySelectorAll('details');
-
-        allDetails.forEach(d => d.open = false);  // 關閉全部
-        const target = document.getElementById(targetID);
-        if (target) {
-          target.open = true;
-          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      // ✅ 再根據資料去累加
+      d.data.forEach(row => {
+        const val = row[d.field] || "(空白)";
+        if (countMap.hasOwnProperty(val)) {
+          countMap[val] += 1;
+        } else {
+          countMap[val] = 1;
         }
       });
+
+      let entries = [];
+
+      // ✅ entries 按 expectedList 順序列出
+      expectedList.forEach(reason => {
+        entries.push([reason, countMap[reason]]);
+      });
+
+      // ✅ 另外找出不在 expectedList 裡的其他 key
+      const extraKeys = Object.keys(countMap).filter(k => !expectedList.includes(k));
+      extraKeys.forEach(key => {
+        entries.push([key, countMap[key]]);
+      });
+
+      entries.forEach(([key, val], idx) => {
+        html += `<tr>
+          <td>${idx === 0 ? `<a href="#dashboard-${d.name[0]}" class="dashboard-link">${d.name}</a>` : ""}</td>
+          <td>${key}</td>
+          <td style='text-align: right;'>${val}</td>
+        </tr>`;
+      });
     });
-  }, 0);
-}
+
+    html += "</tbody></table>";
+    section.innerHTML = html;
+
+    // 🔁 綁定點擊事件：收起所有 details，只展開目標 dashboard
+    setTimeout(() => {
+      document.querySelectorAll('.dashboard-link').forEach(link => {
+        link.addEventListener('click', function(e) {
+          e.preventDefault();
+          const targetID = this.getAttribute('href').substring(1);
+          const allDetails = document.querySelectorAll('details');
+
+          allDetails.forEach(d => d.open = false);
+          const target = document.getElementById(targetID);
+          if (target) {
+            target.open = true;
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        });
+      });
+    }, 0);
+  }
 
 
 // ================== Dashboard #1: Duplicates ==================
@@ -387,7 +405,7 @@ function initDataTableDuplicates(dataArray) {
   fillTableBodyDuplicates(dataArray);
   myDataTable1 = $('#duplicates-table').DataTable({
     pageLength: 10,
-    order: [[3, 'asc']]
+    order: [[6, 'desc']]  // ✅ index=6
   });
 }
 
@@ -395,7 +413,7 @@ function fillTableBodyDuplicates(dataArray) {
   const tbody = document.querySelector('#duplicates-table tbody');
   tbody.innerHTML = '';
   const displayFields = [
-    "taxonUUID", "taxonRank", "kingdom", "simplifiedScientificName", "scientificName", "reason", "TT_URL"
+    "taxonUUID", "taxonRank", "kingdom", "simplifiedScientificName", "scientificName", "reason", "number_of_occurrence", "TT_URL"
   ];
   dataArray.forEach(row => {
     const tr = document.createElement('tr');
@@ -457,17 +475,21 @@ function updateDataTableDuplicates() {
       selectEl.appendChild(opt);
     });
   }
-  function initDataTableErrors(dataArray){
-    fillTableBodyErrors(dataArray);
-    myDataTable2 = $('#errors-table').DataTable({ pageLength: 10 });
-  }
+  function initDataTableErrors(dataArray) {
+  fillTableBodyErrors(dataArray);
+  myDataTable2 = $('#errors-table').DataTable({
+    pageLength: 10,
+    order: [[15, 'desc']]  // ✅ index=15
+      });
+    }
+
   function fillTableBodyErrors(dataArray){
     const tbody = document.querySelector('#errors-table tbody');
     tbody.innerHTML = '';
     const displayFields = [
       "taxonUUID","taxonRank","kingdom","phylum","class","order","family","genus",
-      "specificEpithet","subspecies","variety","form","cultigen","simplifiedScientificName",
-      "TT_URL","errortypes"
+      "specificEpithet","subspecies","variety","form","cultigen","simplifiedScientificName","errortypes", "number_of_occurrence", 
+      "TT_URL"
     ];
     dataArray.forEach(row => {
       const tr = document.createElement('tr');
@@ -517,19 +539,20 @@ function updateDataTableDuplicates() {
       selectEl.appendChild(opt);
     });
   }
-  function initDataTableAttribute(dataArray){
-    fillTableBodyAttribute(dataArray);
-    myDataTable3 = $('#attribute-table').DataTable({
-      pageLength: 10, order: [[2, 'asc']]
-    });
-  }
+  function initDataTableAttribute(dataArray) {
+  fillTableBodyAttribute(dataArray);
+  myDataTable3 = $('#attribute-table').DataTable({
+    pageLength: 10,
+    order: [[10, 'desc']]  // ✅ index=10
+  });
+}
   function fillTableBodyAttribute(dataArray){
     const tbody = document.querySelector('#attribute-table tbody');
     tbody.innerHTML = '';
     const displayFields = [
       "taxonUUID","taxonRank","simplifiedScientificName",
       "endemism","nativeness","protectedStatusTW","categoryRedlistTW","categoryIUCN",
-      "sensitiveCategory","TT_URL","reason"
+      "sensitiveCategory","reason", "number_of_occurrence","TT_URL"
     ];
     dataArray.forEach(row => {
       const tr = document.createElement('tr');
@@ -605,7 +628,10 @@ function populateClassDropdown() {
 
 function initDataTableWithout(dataArray) {
   fillTableBodyWithout(dataArray);
-  myDataTable4 = $('#without-table').DataTable({ pageLength: 10 });
+  myDataTable4 = $('#without-table').DataTable({
+    pageLength: 10,
+    order: [[6, 'desc']]  // ✅ index=6
+  });
 }
 
 function fillTableBodyWithout(dataArray) {
@@ -613,7 +639,7 @@ function fillTableBodyWithout(dataArray) {
   tbody.innerHTML = '';
   const displayFields = [
     "taxonUUID", "taxonRank", "parentUUID", "simplifiedScientificName",
-    "kingdom", "class", "TT_URL"
+    "kingdom", "class", "number_of_occurrence","TT_URL"
   ];
   dataArray.forEach(row => {
     const tr = document.createElement('tr');
@@ -685,16 +711,19 @@ function updateDataTableWithout() {
       groupidSelect.appendChild(opt);
     });
   }
-  function initDataTableNomencl(dataArray){
-    fillTableBodyNomencl(dataArray);
-    myDataTable5 = $('#nomencl-error-table').DataTable({ pageLength: 10 });
-  }
+function initDataTableNomencl(dataArray) {
+  fillTableBodyNomencl(dataArray);
+  myDataTable5 = $('#nomencl-error-table').DataTable({
+    pageLength: 10,
+    order: [[8, 'desc']]  // ✅ index=8
+  });
+}
   function fillTableBodyNomencl(dataArray){
     const tbody = document.querySelector('#nomencl-error-table tbody');
     tbody.innerHTML = '';
     const displayFields = [
       "taxonUUID","taxonRank","parentUUID","kingdom","simplifiedScientificName",
-      "nomenclaturalCode","groupID","reason","TT_URL"
+      "nomenclaturalCode","groupID","reason", "number_of_occurrence","TT_URL"
     ];
     dataArray.forEach(row => {
       const tr = document.createElement('tr');
@@ -776,18 +805,20 @@ function populateConflictGroupFilter(selectedReason){
   });
 }
 
-function initDataTableConflict(dataArray){
+function initDataTableConflict(dataArray) {
   fillTableBodyConflict(dataArray);
-  myDataTable6 = $('#conflict-table').DataTable({ pageLength: 10 });
+  myDataTable6 = $('#conflict-table').DataTable({
+    pageLength: 10,
+    order: [[12, 'desc']]  // ✅ index=12
+  });
 }
-
 function fillTableBodyConflict(dataArray){
   const tbody = document.querySelector('#conflict-table tbody');
   tbody.innerHTML = '';
   const fields = [
     "taxonUUID","taxonRank","parentUUID","kingdom","simplifiedScientificName",
     "nomenclaturalCode","sensitiveCategory","protectedStatusTW","categoryRedlistTW",
-    "categoryIUCN","groupID","reason","TT_URL"
+    "categoryIUCN","groupID","reason", "number_of_occurrence","TT_URL"
   ];
   dataArray.forEach(row=>{
     const tr=document.createElement('tr');
