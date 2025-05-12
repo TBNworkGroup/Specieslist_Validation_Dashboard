@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250507"  # 舉例
+modified_date <- "20250512"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -44,14 +44,23 @@ df_taxa_duplicates <- df_TTrepeated %>%
   ungroup()
 
 # Step 3: 建立 reason 欄位（依照條件逐一指定）
-df_duplicates_reasoned <- df_taxa_duplicates %>%
-  mutate(reason = case_when(
-    is_dup_kingdom_author ~ "相同Kingdom學名加命名者重複",
-    is_dup_kingdom ~ "相同Kingdom學名重複",
-    is_dup_global ~ "學名重複",
-    TRUE ~ NA_character_
-  )) %>%
-  filter(!is.na(reason))
+# 先定義三種條件的篩選與理由
+dup_global <- df_taxa_duplicates %>%
+  filter(is_dup_global) %>%
+  mutate(reason = "學名重複")
+
+dup_kingdom <- df_taxa_duplicates %>%
+  filter(is_dup_kingdom) %>%
+  mutate(reason = "相同Kingdom學名重複")
+
+dup_kingdom_author <- df_taxa_duplicates %>%
+  filter(is_dup_kingdom_author) %>%
+  mutate(reason = "相同Kingdom學名加命名者重複")
+
+# 再把它們合併起來
+df_duplicates_reasoned <- bind_rows(dup_global, dup_kingdom, dup_kingdom_author) %>%
+  distinct()  # 去掉完全重複列（避免重複列入）
+
 
 
 for (i in 1:nrow(df_duplicates_reasoned)) {
