@@ -1,3 +1,4 @@
 taxon_id,rank,simple_name,reason,TC_URL
-t0009100,Genus,× Chrinephrium,高階層格式錯誤,https://taicol.tw/zh-hant/taxon/t0009100
-t0093705,Genus,SinYhikalia,高階層格式錯誤,https://taicol.tw/zh-hant/taxon/t0093705
+t0009100,Genus,× Chrinephrium,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0009100
+t0009100,Genus,× Chrinephrium,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0009100
+t0093705,Genus,SinYhikalia,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0093705
