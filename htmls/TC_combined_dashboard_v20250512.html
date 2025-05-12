@@ -60,12 +60,13 @@
   </table>
 </details><hr/>
 <script>
-  // ======== GitHub Raw CSV URLs (依需求替換) ========
-  const CSV_URL_1 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_duplicates_result.csv";
-  const CSV_URL_2 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_errortypes_result.csv";
+  const CSV_URL_1 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/main/data/output/TC_duplicates_result.csv";
+  const CSV_URL_2 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/main/data/output/TC_errortypes_result.csv";
 
   let duplicatesData = [];
   let errorsData = [];
+  let duplicatesLoaded = false;
+  let errorsLoaded = false;
 
   const expectedReasonsMap = {
     "1. Duplicates Error": [
@@ -77,15 +78,16 @@
     ]
   };
 
-  // ======== 讀取 CSV ========
   Papa.parse(CSV_URL_1, {
     download: true,
     header: true,
     skipEmptyLines: true,
     complete: function(results) {
+      console.log("✅ CSV 1 loaded:", results.data.length, "rows");
       duplicatesData = results.data;
+      duplicatesLoaded = true;
       initTCDuplicatesDashboard();
-      initSummaryTable();
+      if (duplicatesLoaded && errorsLoaded) initSummaryTable();
     }
   });
 
@@ -94,23 +96,24 @@
     header: true,
     skipEmptyLines: true,
     complete: function(results) {
+      console.log("✅ CSV 2 loaded:", results.data.length, "rows");
       errorsData = results.data;
+      errorsLoaded = true;
       initTCErrorsDashboard();
-      initSummaryTable();
+      if (duplicatesLoaded && errorsLoaded) initSummaryTable();
     }
   });
 
-  // ======== Summary Table ========
   function initSummaryTable() {
     const section = document.getElementById("summary-section");
     if (!section) {
-      console.warn("找不到 #summary-section");
+      console.warn("⚠️ 無法找到 #summary-section");
       return;
     }
 
     const datasets = [
       { name: "1. Duplicates Error", data: duplicatesData, field: "reason" },
-      { name: "2. String Error", data: errorsData, field: "reason" },
+      { name: "2. String Error", data: errorsData, field: "reason" }
     ];
 
     let html = "<h3>📊 Dashboard Summary</h3><table border='1' cellpadding='5' cellspacing='0'><thead><tr><th>Dashboard</th><th>Reason</th><th>Count</th></tr></thead><tbody>";
@@ -142,7 +145,7 @@
 
       entries.forEach(([reason, count], idx) => {
         html += `<tr>
-          <td>{idx === 0 ? `<a href="#dashboard-${d.name[0]}" class="dashboard-link">${d.name}</a>` : ""}</td>
+          <td>${idx === 0 ? `<a href="#dashboard-${d.name[0]}" class="dashboard-link">${d.name}</a>` : ""}</td>
           <td>${reason}</td>
           <td style='text-align: right;'>${count}</td>
         </tr>`;
@@ -168,7 +171,6 @@
     }, 0);
   }
 
-  // ================== Dashboard #1 ==================
   let myDataTable1 = null;
 
   function initTCDuplicatesDashboard() {
@@ -222,7 +224,6 @@
     myDataTable1 = $('#duplicates-table').DataTable({ pageLength: 10 });
   }
 
-  // ================== Dashboard #2 ==================
   let myDataTable2 = null;
 
   function initTCErrorsDashboard() {
