@@ -1,0 +1,278 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>TT Validation Dashboard – version type 20250512</title>
+
+  <!-- jQuery & DataTables -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css" />
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+  <!-- Papa Parse -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { margin-bottom: 10px; }
+    .filter-section { margin: 10px 0; }
+    .filter-section label { margin-right: 5px; }
+    table.dataTable thead th { white-space: nowrap; }
+    hr { margin: 40px 0; border-top: 1px solid #ccc; }
+    summary { font-size: 1.2em; font-weight: bold; cursor: pointer; }
+    details { margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <h1>TT Validation Dashboard – version type 20250512</h1>
+  <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
+
+
+<!-- ========== Dashboard #1: Species Duplicates Dashboard ========== -->
+<details id="dashboard-1">
+  <summary>1. Species Duplicates Dashboard</summary>
+  <div class="filter-section">
+    <label for="reason-dup-select">重複樣態 (reason):</label>
+    <select id="reason-dup-select"><option value="All" selected>All</option></select>
+
+  </div>
+  <table id="duplicates-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxon_id</th><th>rank</th><th>simple_name</th>
+          <th>name_author</th><th>reason</th><th>TC_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
+<!-- ========== Dashboard #2: Species Error Types Dashboard ========== -->
+<details id="dashboard-3">
+  <summary>2. Species Error Types Dashboard</summary>
+  <div class="filter-section">
+    <label for="errortypes-select">錯誤樣態:</label>
+    <select id="errortypes-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="errors-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxon_id</th><th>rank</th><th>simple_name</th>
+          <th>reason</th><th>TC_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+<script>
+  // ======== GitHub Raw CSV URLs (依需求替換) ========
+  const CSV_URL_1 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_duplicates_result.csv";
+  const CSV_URL_2 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_errortypes_result.csv";
+
+  let duplicatesData = [];
+  let errorsData = [];
+
+  const expectedReasonsMap = {
+    "1. Duplicates Error": [
+      "學名重複",
+      "學名加命名者重複"
+    ],
+    "2. String Error": [
+      "特殊符號錯誤", "文字前空格", "文字後空格", "連續空格", "高階層多詞格式錯誤", "高階層大小寫格式錯誤"
+    ]
+  };
+
+  // ======== 讀取 CSV ========
+  Papa.parse(CSV_URL_1, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      duplicatesData = results.data;
+      initTCDuplicatesDashboard();
+      initSummaryTable();
+    }
+  });
+
+  Papa.parse(CSV_URL_2, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      errorsData = results.data;
+      initTCErrorsDashboard();
+      initSummaryTable();
+    }
+  });
+
+  // ======== Summary Table ========
+  function initSummaryTable() {
+    const section = document.getElementById("summary-section");
+    if (!section) {
+      console.warn("找不到 #summary-section");
+      return;
+    }
+
+    const datasets = [
+      { name: "1. Duplicates Error", data: duplicatesData, field: "reason" },
+      { name: "2. String Error", data: errorsData, field: "reason" },
+    ];
+
+    let html = "<h3>📊 Dashboard Summary</h3><table border='1' cellpadding='5' cellspacing='0'><thead><tr><th>Dashboard</th><th>Reason</th><th>Count</th></tr></thead><tbody>";
+
+    datasets.forEach(d => {
+      const expectedList = expectedReasonsMap[d.name] || [];
+      const countMap = {};
+
+      expectedList.forEach(reason => {
+        countMap[reason] = 0;
+      });
+
+      d.data.forEach(row => {
+        const val = row[d.field] || "(空白)";
+        if (countMap.hasOwnProperty(val)) {
+          countMap[val] += 1;
+        } else {
+          countMap[val] = 1;
+        }
+      });
+
+      let entries = [];
+      expectedList.forEach(reason => {
+        entries.push([reason, countMap[reason]]);
+      });
+      Object.keys(countMap).filter(k => !expectedList.includes(k)).forEach(extra => {
+        entries.push([extra, countMap[extra]]);
+      });
+
+      entries.forEach(([reason, count], idx) => {
+        html += `<tr>
+          <td>{idx === 0 ? `<a href="#dashboard-${d.name[0]}" class="dashboard-link">${d.name}</a>` : ""}</td>
+          <td>${reason}</td>
+          <td style='text-align: right;'>${count}</td>
+        </tr>`;
+      });
+    });
+
+    html += "</tbody></table>";
+    section.innerHTML = html;
+
+    setTimeout(() => {
+      document.querySelectorAll('.dashboard-link').forEach(link => {
+        link.addEventListener('click', function(e) {
+          e.preventDefault();
+          const targetID = this.getAttribute('href').substring(1);
+          document.querySelectorAll("details").forEach(d => d.open = false);
+          const target = document.getElementById(targetID);
+          if (target) {
+            target.open = true;
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        });
+      });
+    }, 0);
+  }
+
+  // ================== Dashboard #1 ==================
+  let myDataTable1 = null;
+
+  function initTCDuplicatesDashboard() {
+    const sel = document.getElementById("reason-dup-select");
+    sel.innerHTML = "<option value='All' selected>All</option>";
+    const uniqueReasons = [...new Set(duplicatesData.map(d => d.reason).filter(Boolean))].sort();
+    uniqueReasons.forEach(reason => {
+      const opt = document.createElement("option");
+      opt.value = reason;
+      opt.textContent = reason;
+      sel.appendChild(opt);
+    });
+
+    updateTCDuplicatesTable("All");
+
+    sel.addEventListener("change", function() {
+      updateTCDuplicatesTable(this.value);
+    });
+  }
+
+  function updateTCDuplicatesTable(selectedReason) {
+    let filtered = (selectedReason === "All") ? duplicatesData : duplicatesData.filter(d => d.reason === selectedReason);
+
+    if (myDataTable1) {
+      myDataTable1.clear().destroy();
+    }
+
+    const tbody = document.querySelector("#duplicates-table tbody");
+    tbody.innerHTML = "";
+    const fields = ["taxon_id", "rank", "simple_name", "name_author", "reason", "TC_URL"];
+
+    filtered.forEach(row => {
+      const tr = document.createElement("tr");
+      fields.forEach(field => {
+        const td = document.createElement("td");
+        const val = row[field] || "";
+        if (field === "TC_URL" && val) {
+          const link = document.createElement("a");
+          link.href = val;
+          link.target = "_blank";
+          link.textContent = val;
+          td.appendChild(link);
+        } else {
+          td.textContent = val;
+        }
+        tr.appendChild(td);
+      });
+      tbody.appendChild(tr);
+    });
+
+    myDataTable1 = $('#duplicates-table').DataTable({ pageLength: 10 });
+  }
+
+  // ================== Dashboard #2 ==================
+  let myDataTable2 = null;
+
+  function initTCErrorsDashboard() {
+    const sel = document.getElementById("errortypes-select");
+    sel.innerHTML = "<option value='All' selected>All</option>";
+    const uniqueReasons = [...new Set(errorsData.map(d => d.reason).filter(Boolean))].sort();
+    uniqueReasons.forEach(reason => {
+      const opt = document.createElement("option");
+      opt.value = reason;
+      opt.textContent = reason;
+      sel.appendChild(opt);
+    });
+
+    updateTCErrorsTable("All");
+
+    sel.addEventListener("change", function() {
+      updateTCErrorsTable(this.value);
+    });
+  }
+
+  function updateTCErrorsTable(selectedReason) {
+    let filtered = (selectedReason === "All") ? errorsData : errorsData.filter(d => d.reason === selectedReason);
+
+    if (myDataTable2) {
+      myDataTable2.clear().destroy();
+    }
+
+    const tbody = document.querySelector("#errors-table tbody");
+    tbody.innerHTML = "";
+    const fields = ["taxon_id", "rank", "simple_name", "reason", "TC_URL"];
+
+    filtered.forEach(row => {
+      const tr = document.createElement("tr");
+      fields.forEach(field => {
+        const td = document.createElement("td");
+        const val = row[field] || "";
+        if (field === "TC_URL" && val) {
+          const link = document.createElement("a");
+          link.href = val;
+          link.target = "_blank";
+          link.textContent = val;
+          td.appendChild(link);
+        } else {
+          td.textContent = val;
+        }
+        tr.appendChild(td);
+      });
+      tbody.appendChild(tr);
+    });
+
+    myDataTable2 = $('#errors-table').DataTable({ pageLength: 10 });
+  }
+</script>
