@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250512"  # 舉例
+modified_date <- "20250521"  # 舉例
 
 
 # 先抓第一頁
@@ -34,7 +34,7 @@ for (i in sequence) {
 # df_highertaxon <- highertaxon$data
 # filter(
 #   taxonRank %in% c("species", "infraspecies"),
-#   nativeness == ""
+#   alien_type == ""
 # )
 
 
@@ -152,7 +152,7 @@ check_higher_rank_case_error <- function(string, rank) {
 
 
 errors_list_TC <- list()
-target_ranks <- c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species")
+target_ranks <- c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species", "Subspecies")
 
 for (i in seq_len(nrow(df_TCsubset))) {
   row_data <- df_TCsubset[i, ]
@@ -210,4 +210,101 @@ df_TC_errors$TC_URL <- sprintf("https://taicol.tw/zh-hant/taxon/%s", df_TC_error
 
 # Output
 fwrite(df_TC_errors, "../../data/output/TC_errortypes_result.csv")
+
+
+# ------------------------------------------------------------------
+# Part C: 原生性與敏感狀態比對
+# ------------------------------------------------------------------
+# 這部份只要偵測原生性與敏感狀態有問題的分類群
+# 第一階段：檢查「種」與「種下」階層是否有原生性（TC）是空白的分類群
+# 第二階段：挑出敏感狀態 = 無的保育類
+# 第三階段：挑出敏感狀態 = 無的國內紅皮書等級高於「VU（含）」的物種
+# 第四階段：挑出敏感狀態 = 無的國際紅皮書等級高於「VU（含）」的物種
+# 第五階段：檢查外來種的敏感狀態（TT專屬）：挑出敏感狀態 != 無的外來種
+# 最後輸出一張表df_TT_attribute_error
+
+df_TC_attribute <- df_TCsplist %>%
+  select(
+    taxon_id, rank, simple_name, 
+    alien_type,               
+    protected, redlist, iucn, cites, sensitive
+  )
+
+df_TC_undertaxon <- df_TC_attribute %>%
+  filter(
+    rank %in% c("Species", "Subspecies"),
+    alien_type == ""
+  )
+df_TC_undertaxon$reason <- "種與種下原生性空白"
+
+df_TC_protected <- df_TC_attribute %>%
+  filter(
+    !(alien_type %in% c("cultured", "invasive")),
+    sensitive =="",
+    protected != ""
+  )
+
+df_TC_protected$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
+
+df_TC_redlist <- df_TC_attribute %>%
+  filter(
+    !(alien_type %in% c("cultured", "invasive")),
+    sensitive == "",
+    redlist %in% c(
+      "VU",
+      "RE",
+      "EW",
+      "CR",
+      "EX",
+      "EN"
+    )
+  )
+
+
+df_TC_redlist$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
+
+df_TC_IUCN <- df_TC_attribute %>%
+  filter(
+    !(alien_type %in% c("cultured", "invasive")),
+    sensitive == "",
+    iucn %in% c(
+      "VU",
+      "EX",
+      "CR",
+      "EN"
+    )
+  )
+
+df_TC_IUCN$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
+
+df_TC_cites <- df_TC_attribute %>%
+  filter(
+    !(alien_type %in% c("cultured", "invasive")),
+    sensitive == "",
+    cites %in% c(
+      "I",
+      "I/II",
+      "II",
+      "III"
+    )
+  )
+
+
+
+df_TC_cites$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
+
+df_TC_invasive <- df_TC_attribute %>%
+  filter(
+    sensitive != "",
+    alien_type %in% c("cultured", "invasive"),
+  )
+
+df_TC_invasive$reason <- "敏感狀態不等於無的外來種"
+
+df_TC_attribute_error <- rbind(df_TC_undertaxon, df_TC_redlist, df_TC_protected, df_TC_IUCN, df_TC_cites, df_TC_invasive)
+
+
+
+df_TC_attribute_error$TC_URL <- sprintf("https://taicol.tw/zh-hant/taxon/%s", df_TC_attribute_error$taxon_id)
+fwrite(df_TC_attribute_error, "../../data/output/TC_attributeerror_result.csv")
 

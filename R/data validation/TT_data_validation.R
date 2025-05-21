@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250512"  # 舉例
+modified_date <- "20250521"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -382,14 +382,16 @@ df_TT_undertaxon$reason <- "種與種下原生性空白"
 
 df_TT_protected <- df_TT_attribute %>%
   filter(
+    !(nativeness %like% "外"),
     sensitiveCategory =="",
     protectedStatusTW != ""
   )
 
-df_TT_protected$reason <- "敏感狀態=無的保育類"
+df_TT_protected$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
 
 df_TT_redlist <- df_TT_attribute %>%
   filter(
+    !(nativeness %like% "外"),
     sensitiveCategory == "",
     categoryRedlistTW %in% c(
       "易危（VU, Vulnerable）",
@@ -402,10 +404,11 @@ df_TT_redlist <- df_TT_attribute %>%
   )
 
 
-df_TT_redlist$reason <- "敏感狀態=無的國內紅皮書等級高於VU的物種"
+df_TT_redlist$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
 
 df_TT_IUCN <- df_TT_attribute %>%
   filter(
+    !(nativeness %like% "外"),
     sensitiveCategory == "",
     categoryIUCN %in% c(
       "易危（VU, Vulnerable）",
@@ -416,7 +419,7 @@ df_TT_IUCN <- df_TT_attribute %>%
   )
 
 
-df_TT_IUCN$reason <- "敏感狀態=無的國際紅皮書等級高於VU的物種"
+df_TT_IUCN$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
 
 df_TT_invasive <- df_TT_attribute %>%
   filter(
