@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TC Validation Dashboard – version type 20250512</title>
+  <title>TC Validation Dashboard – version type 20250521</title>
 
   <!-- jQuery & DataTables -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -25,7 +25,7 @@
   </style>
 </head>
 <body>
-  <h1>TC Validation Dashboard – version type 20250512</h1>
+  <h1>TC Validation Dashboard – version type 20250521</h1>
   <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
 
 
@@ -35,6 +35,8 @@
   <div class="filter-section">
     <label for="reason-dup-select">重複樣態 (reason):</label>
     <select id="reason-dup-select"><option value="All" selected>All</option></select>
+    <label for="rank-dup-select">rank (reason):</label>
+    <select id="rank-dup-select"><option value="All" selected>All</option></select>
 
   </div>
   <table id="duplicates-table" class="display" style="width:100%">
@@ -59,14 +61,35 @@
     </thead><tbody></tbody>
   </table>
 </details><hr/>
+
+<!-- ========== Dashboard #3: Species Attribute Error Dashboard ========== -->
+<details id="dashboard-3">
+  <summary>3. Species Attribute Error Dashboard</summary>
+  <div class="filter-section">
+    <label for="reason-select">錯誤原因:</label>
+    <select id="reason-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="attribute-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxon_id</th><th>rank</th><th>simple_name</th>
+          <th>alien_type</th><th>protected</th>
+          <th>redlist</th><th>iucn</th><th>cites</th><th>sensitive</th><th>reason</th>
+          <th>TC_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
 <script>
-  const CSV_URL_1 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/main/data/output/TC_duplicates_result.csv";
-  const CSV_URL_2 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/main/data/output/TC_errortypes_result.csv";
+  const CSV_URL_1 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_duplicates_result.csv";
+  const CSV_URL_2 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_errortypes_result.csv";
+  const CSV_URL_3 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_attributeerror_result.csv";
 
   let duplicatesData = [];
   let errorsData = [];
+  let attributeData = [];
   let duplicatesLoaded = false;
   let errorsLoaded = false;
+  let attributeLoaded = false;
 
   const expectedReasonsMap = {
     "1. Duplicates Error": [
@@ -75,8 +98,19 @@
     ],
     "2. String Error": [
       "特殊符號錯誤", "文字前空格", "文字後空格", "連續空格", "高階層多詞格式錯誤", "高階層大小寫格式錯誤"
+    ],
+    "3. Attribute Errors": [
+      "種與種下原生性空白",
+      "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種",
+      "敏感狀態不等於無的外來種"
     ]
   };
+  function tryInitSummary() {
+   if (duplicatesLoaded && errorsLoaded && attributeLoaded) {
+   initSummaryTable();
+  }
+  }
+
 
   Papa.parse(CSV_URL_1, {
     download: true,
@@ -87,7 +121,7 @@
       duplicatesData = results.data;
       duplicatesLoaded = true;
       initTCDuplicatesDashboard();
-      if (duplicatesLoaded && errorsLoaded) initSummaryTable();
+      tryInitSummary();
     }
   });
 
@@ -100,9 +134,26 @@
       errorsData = results.data;
       errorsLoaded = true;
       initTCErrorsDashboard();
-      if (duplicatesLoaded && errorsLoaded) initSummaryTable();
+      tryInitSummary();
     }
   });
+
+  Papa.parse(CSV_URL_3, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      console.log("✅ CSV 3 loaded:", results.data.length, "rows");
+      attributeData = results.data;
+      attributeLoaded = true;
+      initAttributeDashboard();
+      tryInitSummary();
+    }
+  });
+
+  
+// ======== Summary Table 函式定義 ========
+  // ✅ 統一檢查資料是否都已載入完成，載入後觸發 Summary
 
   function initSummaryTable() {
     const section = document.getElementById("summary-section");
@@ -113,7 +164,8 @@
 
     const datasets = [
       { name: "1. Duplicates Error", data: duplicatesData, field: "reason" },
-      { name: "2. String Error", data: errorsData, field: "reason" }
+      { name: "2. String Error", data: errorsData, field: "reason" },
+      { name: "3. Attribute Errors", data: attributeData, field: "reason" }
     ];
 
     let html = "<h3>📊 Dashboard Summary</h3><table border='1' cellpadding='5' cellspacing='0'><thead><tr><th>Dashboard</th><th>Reason</th><th>Count</th></tr></thead><tbody>";
@@ -275,6 +327,72 @@
     });
 
     myDataTable2 = $('#errors-table').DataTable({ pageLength: 10 });
+    }
+
+  // ================== Dashboard #3: Attribute ==================
+  let myDataTable3 = null;
+  function initAttributeDashboard(){
+    populateReasonDropdown();
+    initDataTableAttribute(attributeData);
+    document.getElementById("reason-select")
+            .addEventListener("change", updateDataTableAttribute);
+  }
+  function populateReasonDropdown(){
+    const allReasons = attributeData.map(d => d.reason).filter(x => x);
+    const uniqueReasons = [...new Set(allReasons)].sort();
+    const selectEl = document.getElementById("reason-select");
+    uniqueReasons.forEach(r => {
+      const opt = document.createElement("option");
+      opt.value = r; opt.textContent = r;
+      selectEl.appendChild(opt);
+    });
+  }
+  const displayFields = [
+  "taxon_id", "rank", "simple_name", "alien_type",               
+  "protected", "redlist", "iucn", "cites", "sensitive", "reason", "TC_URL"
+];
+
+function initDataTableAttribute(dataArray) {
+  fillTableBodyAttribute(dataArray);
+  myDataTable3 = $('#attribute-table').DataTable({
+    pageLength: 10,
+    order: [[displayFields.indexOf("reason"), 'desc']]
+  });
+}
+
+function fillTableBodyAttribute(dataArray){
+  const tbody = document.querySelector('#attribute-table tbody');
+  tbody.innerHTML = '';
+  dataArray.forEach(row => {
+    const tr = document.createElement('tr');
+    displayFields.forEach(field => {
+      const val = row[field] || "";
+      const td  = document.createElement('td');
+      if (field === "TC_URL" && val) {
+        const link = document.createElement('a');
+        link.href = val; link.target = "_blank"; link.textContent = val;
+        td.appendChild(link);
+      } else {
+        td.textContent = val;
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+  function updateDataTableAttribute(){
+    const selectedReason = document.getElementById("reason-select").value;
+    let filtered = attributeData;
+    if (selectedReason !== "All") {
+      filtered = filtered.filter(d => d.reason === selectedReason);
+    }
+    if (myDataTable3) {
+      myDataTable3.clear().destroy();
+    }
+    fillTableBodyAttribute(filtered);
+    myDataTable3 = $('#attribute-table').DataTable({
+      pageLength: 10, order: [[2, 'asc']]});
   }
 </script>
 </body>
