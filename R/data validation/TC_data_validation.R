@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250521"  # 舉例
+modified_date <- "20250528"  # 舉例
 
 
 # 先抓第一頁
@@ -226,20 +226,22 @@ fwrite(df_TC_errors, "../../data/output/TC_errortypes_result.csv")
 df_TC_attribute <- df_TCsplist %>%
   select(
     taxon_id, rank, simple_name, 
-    alien_type,               
+    alien_type, is_in_taiwan,               
     protected, redlist, iucn, cites, sensitive
   )
 
 df_TC_undertaxon <- df_TC_attribute %>%
   filter(
     rank %in% c("Species", "Subspecies"),
-    alien_type == ""
+    alien_type == "",
+    is_in_taiwan == "TRUE",
   )
 df_TC_undertaxon$reason <- "種與種下原生性空白"
 
 df_TC_protected <- df_TC_attribute %>%
   filter(
-    !(alien_type %in% c("cultured", "invasive")),
+    !(alien_type %in% c("cultured", "invasive", "naturalized")),
+    is_in_taiwan == "TRUE",
     sensitive =="",
     protected != ""
   )
@@ -248,7 +250,8 @@ df_TC_protected$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上
 
 df_TC_redlist <- df_TC_attribute %>%
   filter(
-    !(alien_type %in% c("cultured", "invasive")),
+    !(alien_type %in% c("cultured", "invasive", "naturalized")),
+    is_in_taiwan == "TRUE",
     sensitive == "",
     redlist %in% c(
       "VU",
@@ -265,7 +268,8 @@ df_TC_redlist$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or
 
 df_TC_IUCN <- df_TC_attribute %>%
   filter(
-    !(alien_type %in% c("cultured", "invasive")),
+    !(alien_type %in% c("cultured", "invasive", "naturalized")),
+    is_in_taiwan == "TRUE",
     sensitive == "",
     iucn %in% c(
       "VU",
@@ -277,34 +281,25 @@ df_TC_IUCN <- df_TC_attribute %>%
 
 df_TC_IUCN$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
 
-df_TC_cites <- df_TC_attribute %>%
-  filter(
-    !(alien_type %in% c("cultured", "invasive")),
-    sensitive == "",
-    cites %in% c(
-      "I",
-      "I/II",
-      "II",
-      "III"
-    )
-  )
 
-
-
-df_TC_cites$reason <- "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種"
 
 df_TC_invasive <- df_TC_attribute %>%
   filter(
     sensitive != "",
-    alien_type %in% c("cultured", "invasive"),
+    alien_type %in% c("cultured", "invasive", "naturalized"),
+    is_in_taiwan == "TRUE",
   )
 
 df_TC_invasive$reason <- "敏感狀態不等於無的外來種"
 
-df_TC_attribute_error <- rbind(df_TC_undertaxon, df_TC_redlist, df_TC_protected, df_TC_IUCN, df_TC_cites, df_TC_invasive)
+df_TC_attribute_error <- rbind(df_TC_undertaxon, df_TC_redlist, df_TC_protected, df_TC_IUCN, df_TC_invasive)
 
 
 
 df_TC_attribute_error$TC_URL <- sprintf("https://taicol.tw/zh-hant/taxon/%s", df_TC_attribute_error$taxon_id)
 fwrite(df_TC_attribute_error, "../../data/output/TC_attributeerror_result.csv")
+
+
+
+
 
