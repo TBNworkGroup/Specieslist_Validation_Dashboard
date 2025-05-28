@@ -301,5 +301,73 @@ fwrite(df_TC_attribute_error, "../../data/output/TC_attributeerror_result.csv")
 
 
 
+# ------------------------------------------------------------------
+# Part F: 種與種下階層的屬性資料是否一致
+# ------------------------------------------------------------------
+# 這部份只要偵測種與種下階層的命名法規
+# 第二階段：檢查「種」與「種下」階層的敏感狀態有不同的
+# 第三階段：檢查「種」與「種下」階層的保育等級有不同的
+# 第四階段：檢查「種」與「種下」階層的國際紅皮書有不同的
+# 第五階段：檢查「種」與「種下」階層的國內紅皮書有不同的
+# 第六階段：檢查「種」與「種下」階層的原生性有不同的
+# 最後輸出一張表df_TT_nomenclaturalCode
 
+
+
+df_TC_speciesinfraspecies_attribute <- df_TCsplist %>%
+  filter( rank %in% c("Species", "Subspecies") & is_in_taiwan %in% "TRUE") %>% 
+  select(
+    taxon_id, rank, parent_taxon_id, simple_name, 
+    alien_type, is_in_taiwan,               
+    protected, redlist, iucn, sensitive
+  )
+
+
+df_species_list <- df_TC_speciesinfraspecies_attribute %>%
+  # 1. 留下 taxonUUID 不在 parentUUID 集合裡
+  filter(taxon_id %in% df_TC_speciesinfraspecies_attribute$parent_taxon_id|rank %in% "Subspecies") %>%
+  # 新增 groupID
+  mutate(
+    groupID = case_when(
+      rank == "Species" ~ taxon_id,
+      rank == "Subspecies" ~ parent_taxon_id
+    )
+  ) %>%
+  # 依 groupID 分組並 split
+  split(., .$groupID)
+
+# 🔁 每個 group 做檢查：每個欄位的差異產生一筆紀錄
+records <- list()
+
+# 要比對的欄位與對應原因
+check_columns <- list(
+  protected = "保育等級不同",
+  redlist = "國內紅皮書不同",
+  iucn = "IUCN紅皮書不同"
+)
+
+# 遍歷每一組 group
+for (group_id in names(df_species_list)) {
+  group_df <- df_species_list[[group_id]]
+  
+  for (col in names(check_columns)) {
+    distinct_vals <- unique(group_df[[col]])
+    # 保留 NA 與空字串以便檢查完整差異
+    if (length(distinct_vals) > 1) {
+      group_df$reason <- check_columns[[col]]
+      group_df$check_column <- col  # 可選擇是否保留這個輔助欄
+      records[[length(records) + 1]] <- group_df
+    }
+  }
+}
+
+# 將所有有問題的 group 綁在一起
+df_speciesinfraspecies_attribute_mismatch <- bind_rows(records)
+
+
+
+
+
+df_speciesinfraspecies_attribute_mismatch$TC_URL <- sprintf("https://taicol.tw/zh-hant/taxon/%s", df_speciesinfraspecies_attribute_mismatch$taxon_id)
+fwrite(df_speciesinfraspecies_attribute_mismatch, "../../data/output/TC_speciesinfraspecies_attribute_mismatch.csv")
 

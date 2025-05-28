@@ -79,17 +79,39 @@
   </table>
 </details><hr/>
 
+<!-- ========== Dashboard #4: Species/Infraspecies Attribute Conflict ========== -->
+<details id="dashboard-4">
+  <summary>4. Species/Infraspecies Attribute Conflict Dashboard</summary>
+  <div class="filter-section">
+    <label for="conflict-reason-select">篩選 reason:</label>
+    <select id="conflict-reason-select"><option value="All" selected>All</option></select>
+    <label for="conflict-groupid-select">篩選 groupID:</label>
+    <select id="conflict-groupid-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="conflict-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxon_id</th><th>rank</th><th>parent_taxon_id</th><th>simple_name</th>
+          <th>alien_type</th><th>protected</th>
+          <th>redlist</th><th>iucn</th><th>sensitive</th>
+          <th>groupID</th><th>reason</th><th>TC_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
 <script>
   const CSV_URL_1 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_duplicates_result.csv";
   const CSV_URL_2 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_errortypes_result.csv";
   const CSV_URL_3 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_attributeerror_result.csv";
+  const CSV_URL_4 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TC_speciesinfraspecies_attribute_mismatch.csv";
 
   let duplicatesData = [];
   let errorsData = [];
   let attributeData = [];
+  let conflictData = [];
   let duplicatesLoaded = false;
   let errorsLoaded = false;
   let attributeLoaded = false;
+  let conflictLoaded = false;
 
   const expectedReasonsMap = {
     "1. Duplicates Error": [
@@ -103,10 +125,13 @@
       "種與種下原生性空白",
       "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種",
       "敏感狀態不等於無的外來種"
-    ]
+    ],
+    "4. Conflict": [
+    "保育等級不同", "國內紅皮書不同", "IUCN紅皮書不同"
+  ]
   };
   function tryInitSummary() {
-   if (duplicatesLoaded && errorsLoaded && attributeLoaded) {
+   if (duplicatesLoaded && errorsLoaded && attributeLoaded && conflictLoaded) {
    initSummaryTable();
   }
   }
@@ -151,6 +176,19 @@
     }
   });
 
+  Papa.parse(CSV_URL_4, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      console.log("✅ CSV 4 loaded:", results.data.length, "rows");
+      conflictData = results.data;
+      conflictLoaded = true;
+      initConflictDashboard();
+      tryInitSummary();
+    }
+  });
+
   
 // ======== Summary Table 函式定義 ========
   // ✅ 統一檢查資料是否都已載入完成，載入後觸發 Summary
@@ -165,7 +203,8 @@
     const datasets = [
       { name: "1. Duplicates Error", data: duplicatesData, field: "reason" },
       { name: "2. String Error", data: errorsData, field: "reason" },
-      { name: "3. Attribute Errors", data: attributeData, field: "reason" }
+      { name: "3. Attribute Errors", data: attributeData, field: "reason" },
+      { name: "4. Conflict", data: conflictData, field: "reason" }
     ];
 
     let html = "<h3>📊 Dashboard Summary</h3><table border='1' cellpadding='5' cellspacing='0'><thead><tr><th>Dashboard</th><th>Reason</th><th>Count</th></tr></thead><tbody>";
@@ -416,6 +455,114 @@ function fillTableBodyAttribute(dataArray){
     myDataTable3 = $('#attribute-table').DataTable({
       pageLength: 10, order: [[2, 'asc']]});
   }
+
+  // ================== Dashboard #4: Species/Infraspecies Attribute Conflict ==================
+let myDataTable4 = null;
+
+function initConflictDashboard() {
+  populateConflictReasonFilter();
+  populateConflictGroupFilter("All");
+  initDataTableConflict(conflictData);
+
+  document.getElementById("conflict-reason-select")
+    .addEventListener("change", function () {
+      populateConflictGroupFilter(this.value);
+      updateDataTableConflict();
+    });
+
+  document.getElementById("conflict-groupid-select")
+    .addEventListener("change", updateDataTableConflict);
+}
+
+function populateConflictReasonFilter() {
+  const reasons = conflictData.map(d => d.reason).filter(Boolean);
+  const unique = [...new Set(reasons)].sort();
+  const sel = document.getElementById("conflict-reason-select");
+  unique.forEach(r => {
+    const opt = document.createElement("option");
+    opt.value = r;
+    opt.textContent = r;
+    sel.appendChild(opt);
+  });
+}
+
+function populateConflictGroupFilter(selectedReason) {
+  const gSel = document.getElementById("conflict-groupid-select");
+  gSel.innerHTML = '<option value="All" selected>All</option>';
+
+  let pool = conflictData;
+  if (selectedReason !== "All") {
+    pool = pool.filter(d => d.reason === selectedReason);
+  }
+  const groups = pool.map(d => d.groupID).filter(Boolean);
+  const unique = [...new Set(groups)].sort();
+  unique.forEach(g => {
+    const opt = document.createElement("option");
+    opt.value = g;
+    opt.textContent = g;
+    gSel.appendChild(opt);
+  });
+}
+
+function initDataTableConflict(dataArray) {
+  fillTableBodyConflict(dataArray);
+  myDataTable4 = $('#conflict-table').DataTable({
+    pageLength: 10,
+    order: [[11, 'desc']] // 排序依據 number_of_occurrence
+  });
+}
+
+function fillTableBodyConflict(dataArray) {
+  const tbody = document.querySelector('#conflict-table tbody');
+  tbody.innerHTML = '';
+  const fields = [
+    "taxon_id", "rank", "parent_taxon_id", "simple_name",
+    "alien_type", "protected", "redlist", "iucn", "sensitive",
+    "groupID", "reason", "TC_URL"
+  ];
+  dataArray.forEach(row => {
+    const tr = document.createElement("tr");
+    fields.forEach(f => {
+      const val = row[f] || "";
+      const td = document.createElement("td");
+      if (f === "TT_URL" && val) {
+        const a = document.createElement("a");
+        a.href = val;
+        a.target = "_blank";
+        a.textContent = val;
+        td.appendChild(a);
+      } else {
+        td.textContent = val;
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+function updateDataTableConflict() {
+  const selReason = document.getElementById("conflict-reason-select").value;
+  const selGroup = document.getElementById("conflict-groupid-select").value;
+
+  let filtered = conflictData;
+  if (selReason !== "All") {
+    filtered = filtered.filter(d => d.reason === selReason);
+  }
+  if (selGroup !== "All") {
+    filtered = filtered.filter(d => d.groupID === selGroup);
+  }
+
+  if (myDataTable4) {
+    myDataTable4.clear().destroy();
+  }
+
+  fillTableBodyConflict(filtered);
+  myDataTable4 = $('#conflict-table').DataTable({ pageLength: 10 });
+}
+
+
+
+  
 </script>
 </body>
 </html>
