@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TC Validation Dashboard – version type 20250521</title>
+  <title>TC Validation Dashboard – version type 20250528</title>
 
   <!-- jQuery & DataTables -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -25,7 +25,7 @@
   </style>
 </head>
 <body>
-  <h1>TC Validation Dashboard – version type 20250521</h1>
+  <h1>TC Validation Dashboard – version type 20250528</h1>
   <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
 
 
@@ -73,7 +73,7 @@
     <thead>
       <tr><th>taxon_id</th><th>rank</th><th>simple_name</th>
           <th>alien_type</th><th>protected</th>
-          <th>redlist</th><th>iucn</th><th>cites</th><th>sensitive</th><th>reason</th>
+          <th>redlist</th><th>iucn</th><th>sensitive</th><th>reason</th>
           <th>TC_URL</th></tr>
     </thead><tbody></tbody>
   </table>
@@ -222,59 +222,81 @@
       });
     }, 0);
   }
+let myDataTable1 = null;
 
-  let myDataTable1 = null;
+function initTCDuplicatesDashboard() {
+  const reasonSel = document.getElementById("reason-dup-select");
+  const rankSel   = document.getElementById("rank-dup-select");
 
-  function initTCDuplicatesDashboard() {
-    const sel = document.getElementById("reason-dup-select");
-    sel.innerHTML = "<option value='All' selected>All</option>";
-    const uniqueReasons = [...new Set(duplicatesData.map(d => d.reason).filter(Boolean))].sort();
-    uniqueReasons.forEach(reason => {
-      const opt = document.createElement("option");
-      opt.value = reason;
-      opt.textContent = reason;
-      sel.appendChild(opt);
-    });
+  // 初始化 reason dropdown
+  reasonSel.innerHTML = "<option value='All' selected>All</option>";
+  const uniqueReasons = [...new Set(duplicatesData.map(d => d.reason).filter(Boolean))].sort();
+  uniqueReasons.forEach(reason => {
+    const opt = document.createElement("option");
+    opt.value = reason;
+    opt.textContent = reason;
+    reasonSel.appendChild(opt);
+  });
 
-    updateTCDuplicatesTable("All");
+  // 初始化 rank dropdown
+  rankSel.innerHTML = "<option value='All' selected>All</option>";
+  const uniqueRanks = [...new Set(duplicatesData.map(d => d.rank).filter(Boolean))].sort();
+  uniqueRanks.forEach(rank => {
+    const opt = document.createElement("option");
+    opt.value = rank;
+    opt.textContent = rank;
+    rankSel.appendChild(opt);
+  });
 
-    sel.addEventListener("change", function() {
-      updateTCDuplicatesTable(this.value);
-    });
+  // 初始化表格
+  updateTCDuplicatesTable();
+
+  // 綁定事件
+  reasonSel.addEventListener("change", updateTCDuplicatesTable);
+  rankSel.addEventListener("change", updateTCDuplicatesTable);
+}
+
+function updateTCDuplicatesTable() {
+  const selectedReason = document.getElementById("reason-dup-select").value;
+  const selectedRank   = document.getElementById("rank-dup-select").value;
+
+  let filtered = duplicatesData;
+  if (selectedReason !== "All") {
+    filtered = filtered.filter(d => d.reason === selectedReason);
+  }
+  if (selectedRank !== "All") {
+    filtered = filtered.filter(d => d.rank === selectedRank);
   }
 
-  function updateTCDuplicatesTable(selectedReason) {
-    let filtered = (selectedReason === "All") ? duplicatesData : duplicatesData.filter(d => d.reason === selectedReason);
-
-    if (myDataTable1) {
-      myDataTable1.clear().destroy();
-    }
-
-    const tbody = document.querySelector("#duplicates-table tbody");
-    tbody.innerHTML = "";
-    const fields = ["taxon_id", "rank", "simple_name", "name_author", "reason", "TC_URL"];
-
-    filtered.forEach(row => {
-      const tr = document.createElement("tr");
-      fields.forEach(field => {
-        const td = document.createElement("td");
-        const val = row[field] || "";
-        if (field === "TC_URL" && val) {
-          const link = document.createElement("a");
-          link.href = val;
-          link.target = "_blank";
-          link.textContent = val;
-          td.appendChild(link);
-        } else {
-          td.textContent = val;
-        }
-        tr.appendChild(td);
-      });
-      tbody.appendChild(tr);
-    });
-
-    myDataTable1 = $('#duplicates-table').DataTable({ pageLength: 10 });
+  if (myDataTable1) {
+    myDataTable1.clear().destroy();
   }
+
+  const tbody = document.querySelector("#duplicates-table tbody");
+  tbody.innerHTML = "";
+  const fields = ["taxon_id", "rank", "simple_name", "name_author", "reason", "TC_URL"];
+
+  filtered.forEach(row => {
+    const tr = document.createElement("tr");
+    fields.forEach(field => {
+      const td = document.createElement("td");
+      const val = row[field] || "";
+      if (field === "TC_URL" && val) {
+        const link = document.createElement("a");
+        link.href = val;
+        link.target = "_blank";
+        link.textContent = val;
+        td.appendChild(link);
+      } else {
+        td.textContent = val;
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+
+  myDataTable1 = $('#duplicates-table').DataTable({ pageLength: 10 });
+}
 
   let myDataTable2 = null;
 
@@ -349,7 +371,7 @@
   }
   const displayFields = [
   "taxon_id", "rank", "simple_name", "alien_type",               
-  "protected", "redlist", "iucn", "cites", "sensitive", "reason", "TC_URL"
+  "protected", "redlist", "iucn", "sensitive", "reason", "TC_URL"
 ];
 
 function initDataTableAttribute(dataArray) {
