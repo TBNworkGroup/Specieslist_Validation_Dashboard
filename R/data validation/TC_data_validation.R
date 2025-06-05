@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250528"  # 舉例
+modified_date <- "20250605"  # 舉例
 
 
 # 先抓第一頁
@@ -74,6 +74,10 @@ df_taxa_duplicates <- df_TCrepeated %>%
   
   group_by(simple_name, name_author) %>%
   mutate(is_dup_name_author = n() > 1) %>%
+  ungroup() %>%
+  
+  group_by(simple_name, name_author, rank) %>%
+  mutate(is_dup_name_author_rank = n() > 1) %>%
   ungroup()
   
 
@@ -89,8 +93,12 @@ dup_name_author <- df_taxa_duplicates %>%
   filter(is_dup_name_author) %>%
   mutate(reason = "學名加命名者重複")
 
+dup_name_author_rank <- df_taxa_duplicates %>%
+  filter(is_dup_name_author_rank) %>%
+  mutate(reason = "學名加命名者與階層重複")
+
 # 再把它們合併起來
-df_duplicates_reasoned <- bind_rows(dup_name, dup_name_author) %>%
+df_duplicates_reasoned <- bind_rows(dup_name, dup_name_author, dup_name_author_rank) %>%
   distinct()  # 去掉完全重複列（避免重複列入）
 
 

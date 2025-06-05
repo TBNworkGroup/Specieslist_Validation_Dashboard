@@ -1,327 +1,333 @@
-taxon_id,rank,simple_name,name_author,is_dup_simple_name,is_dup_name_author,reason,TC_URL
-t0000022,Infrakingdom,Euglenozoa,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000022
-t0000026,Infrakingdom,Chlorophyta,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000026
-t0000032,Superphylum,Charophyta,Caval.-Sm.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000032
-t0000060,Phylum,Nitrospira,"Garrity & Holt, 2001",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000060
-t0000069,Phylum,Euglenozoa,"Cavalier-Smith, 1981",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000069
-t0000080,Phylum,Heliozoa,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000080
-t0000092,Phylum,Charophyta,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000092
-t0000093,Phylum,Chlorophyta,Pascher,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000093
-t0000105,Phylum,Ctenophora,"Eschscholtz, 1829",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000105
-t0000114,Phylum,Micrognathozoa,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000114
-t0000122,Phylum,Placozoa,"Grell, 1971",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000122
-t0000137,Subphylum,Lobosa,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000137
-t0000175,Subphylum,Anthozoa,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000175
-t0000191,Infraphylum,Apicomplexa,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000191
-t0000204,Superclass,Chondrichthyes,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000204
-t0000265,Class,Nitrospira,"Garrity and Holt, 2001",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000265
-t0000466,Class,Anthozoa,"Ehrenberg, 1834",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000466
-t0000473,Class,Branchiopoda,"Latreille, 1817",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000473
-t0000480,Class,Chondrostei,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000480
-t0000485,Class,Collembola,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000485
-t0000495,Class,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000495
-t0000508,Class,Holostei,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000508
-t0000520,Class,Micrognathozoa,"Kristensen and Funch, 2000",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000520
-t0000535,Class,Placozoa,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000535
-t0000541,Class,Protura,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000541
-t0000648,Subclass,Archaeognatha,"Börner, 1904",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000648
-t0000650,Subclass,Aves,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000650
-t0000652,Subclass,Branchiura,"Thorell, 1864",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000652
-t0000694,Subclass,Squamata,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000694
-t0000707,Infraclass,Cestoda,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000707
-t0000723,Infraclass,Trematoda,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0000723
-t0001006,Order,Euglenida,"Stein, 1878",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001006
-t0001699,Order,Archaeognatha,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001699
-t0002064,Order,Pholidota,"Weber, 1904",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002064
-t0002075,Order,Plecoptera,"Burmeister, 1839",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002075
-t0002269,Genus,Hygrophila,R.Br.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002269
-t0002526,Genus,Taiwania,Hayata,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002526
-t0002586,Genus,Tiarella,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002586
-t0002629,Genus,Breynia,J.R.Forst. & G.Forst.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002629
-t0002636,Genus,Perrottetia,Kunth,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002636
-t0002704,Genus,Gordonia,J.Ellis,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002704
-t0002788,Genus,Trichodesma,R.Br.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002788
-t0002809,Genus,Scoparia,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002809
-t0002817,Genus,Lindernia,All.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002817
-t0002822,Genus,Thunbergia,Retz.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002822
-t0002878,Phylum,Apicomplexa,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0002878
-t0002889,Class,Aves,"Linnaeus, 1758",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002889
-t0002890,Class,Cestoda,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0002890
-t0002891,Class,Chondrichthyes,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0002891
-t0002899,Class,Trematoda,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0002899
-t0002914,Class,Euglenida,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002914
-t0002920,Class,Heliozoa,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0002920
-t0002921,Class,Lobosa,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0002921
-t0002948,Order,Collembola,"Lubbock, 1870",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002948
-t0003078,Order,Protura,"Silvestri, 1907",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0003078
-t0003088,Order,Squamata,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0003088
-t0006537,Genus,Balladyna,"Kowalewski, 1882",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006537
-t0006625,Genus,Enteropogon,"Hibbits, 1979",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006625
-t0006639,Genus,Fissurina,"Reuss, 1850",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006639
-t0006761,Genus,Peranema,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006761
-t0006905,Genus,Sesapa,"Walker, 1854",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0006905
-t0006937,Genus,Ficus,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006937
-t0006941,Genus,Amesia,"X.Wei Wang, Samson & Crous",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006941
-t0006945,Genus,Asterina,Lév.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006945
-t0007116,Genus,Balladyna,Racib.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007116
-t0007331,Genus,Colus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007331
-t0007454,Genus,Dictyonella,Höhn.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007454
-t0007568,Genus,Fissurina,Fée,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007568
-t0007578,Genus,Fulvia,Cif.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007578
-t0007634,Genus,Glyphis,Ach.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007634
-t0007648,Genus,Graphium,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0007648
-t0007722,Genus,Hexagonia,Fr.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007722
-t0007792,Genus,Japonia,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007792
-t0007826,Genus,Lactarius,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0007826
-t0007962,Genus,Micrococcus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007962
-t0007968,Genus,Microporus,P.Beauv.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007968
-t0008033,Genus,Nais,Kohlm.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008033
-t0008132,Genus,Oxyporus,Donk,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008132
-t0008250,Genus,Pilophorus,Th.Fr.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008250
-t0008417,Genus,Rhopographus,Nitschke ex Fuckel,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008417
-t0008422,Genus,Rhytisma,Fr.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008422
-t0008456,Genus,Scaphidium,Clem.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008456
-t0008495,Genus,Serpula,Gray,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008495
-t0008560,Genus,Stenella,Syd.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008560
-t0008572,Genus,Stilbum,Tode,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008572
-t0008603,Genus,Tapinella,E.-J.Gilbert,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008603
-t0008724,Genus,Venturia,Sacc.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008724
-t0008782,Genus,Trichodesma,"LeConte, 1861",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008782
-t0008785,Genus,Tydemania,"Weber, 1913",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008785
-t0008789,Genus,Woodsia,"Grey, 1959",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008789
-t0008875,Genus,Donax,"Linnaeus, 1758",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008875
-t0008887,Genus,Ficus,"Röding, 1798",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008887
-t0008889,Genus,Ganonema,"McLachlan, 1866",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008889
-t0008891,Genus,Glossocardia,"Stoliczka, 1870",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008891
-t0008911,Genus,Kurzia,"Dybowski & Grochowski, 1894",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008911
-t0008916,Genus,Linaria,"Bechstein, 1802",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008916
-t0008933,Genus,Myurella,"Hinds, 1845",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008933
-t0008944,Genus,Ormosia,"Rondani, 1856",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008944
-t0008954,Genus,Perrottetia,"Kobelt, 1905",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008954
-t0008963,Genus,Pollia,"Gray, 1834",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008963
-t0009101,Genus,Woodsia,R.Br.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009101
-t0009125,Genus,Rhaphidophora,"Audinet-Serville, 1838",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009125
-t0009129,Genus,Sabia,"Gray, 1840",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009129
-t0009130,Genus,Sarcophyton,"Lesson, 1834",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009130
-t0009146,Genus,Taiwania,"Tsuneki, 1989",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009146
-t0009149,Genus,Thalia,"Blumenbach, 1798",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009149
-t0009151,Genus,Thunbergia,"Horváth, 1914",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009151
-t0009152,Genus,Tiarella,"Swainson, 1840",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009152
-t0009160,Genus,Breynia,"Desor, 1847",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009160
-t0009184,Genus,Chondria,"Gorham, 1888",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009184
-t0009349,Genus,Acmella,"Blanford, 1869",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009349
-t0009376,Genus,Acrocephalus,"Burmeister, 1835",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009376
-t0009541,Genus,Agathis,"Latreille, 1804",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009541
-t0009556,Genus,Aglaomorpha,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009556
-t0009798,Genus,Amesia,"Duncan, 1841",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009798
-t0010247,Genus,Aquarius,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010247
-t0010303,Genus,Arenaria,"Brisson, 1760",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010303
-t0010359,Genus,Armigeres,"Theobald, 1901",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0010359
-t0010460,Genus,Asterina,"Nardo, 1834",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010460
-t0010533,Genus,Atomaria,"Stephens, 1829",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0010533
-t0011048,Genus,Branchiura,"Beddard, 1892",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0011048
-t0011573,Genus,Cerataulina,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0011573
-t0011820,Genus,Chloris,"Cuvier, 1800",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0011820
-t0012182,Genus,Colus,"Röding, 1798",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0012182
-t0012491,Genus,Ctenophora,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0012491
-t0012735,Genus,Nais,"Müller, 1774",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0012735
-t0013361,Genus,Oenanthe,"Vieillot, 1816",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013361
-t0013719,Genus,Oxyporus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013719
-t0013923,Genus,Paracoccus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013923
-t0014489,Genus,Phaloria,"Stål, 1877",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0014489
-t0014659,Genus,Phymatodes,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014659
-t0014708,Genus,Pieris,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014708
-t0014720,Genus,Pilophorus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014720
-t0014793,Genus,Planococcus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014793
-t0014978,Genus,Pollinia,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014978
-t0015225,Genus,Prosopis,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015225
-t0015272,Genus,Prunella,"Vieillot, 1816",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015272
-t0015566,Genus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0015566
-t0015862,Genus,Rhodobium,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015862
-t0015880,Genus,Rhopographus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015880
-t0015921,Genus,Rhytisma,"Alderslade, 2000",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015921
-t0016102,Genus,Satyrium,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016102
-t0016126,Genus,Scaphidium,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016126
-t0016240,Genus,Scoparia,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016240
-t0016498,Genus,Siphonaria,H.E.Petersen,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016498
-t0016743,Genus,Stellaria,"Møller, 1832",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016743
-t0016756,Genus,Stenella,"Gray, 1866",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016756
-t0016854,Genus,Stilbum,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016854
-t0017206,Genus,Tapinella,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017206
-t0017254,Genus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0017254
-t0017679,Genus,Trichia,"De Haan, 1839",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017679
-t0017876,Genus,Turbinaria,"Oken, 1815",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017876
-t0018044,Genus,Velarifictorus,"Randell, 1964",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0018044
-t0018052,Genus,Venturia,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018052
-t0018350,Genus,Zeugodacus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018350
-t0018664,Genus,Dictyonella,"Schmidt, 1868",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018664
-t0018682,Genus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0018682
-t0019930,Genus,Fulvia,"Gray, 1853",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0019930
-t0020160,Genus,Glyphis,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0020160
-t0020278,Genus,Graphium,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0020278
-t0020296,Genus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0020296
-t0020489,Genus,Heizmannia,"Ludlow, 1905",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0020489
-t0020683,Genus,Hexagonia,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0020683
-t0021263,Genus,Japonia,"Gould, 1859",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021263
-t0021446,Genus,Lactarius,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0021446
-t0021451,Genus,Laelia,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021451
-t0022776,Genus,Microporus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022776
-t0022933,Genus,Monocera,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022933
-t0023086,Genus,Acmella,Rich.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023086
-t0023119,Genus,Agathis,Salisb.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023119
-t0023216,Genus,Arenaria,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023216
-t0023467,Genus,Chloris,Sw.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023467
-t0023474,Genus,Chondria,C.Agardh,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023474
-t0023721,Genus,Donax,Lour.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023721
-t0023774,Genus,Enteropogon,Nees,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023774
-t0023876,Genus,Ganonema,K.C.Fan & Y.C.Wang,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023876
-t0023913,Genus,Glossocardia,Cass.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023913
-t0024108,Genus,Kurzia,G.Martens,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024108
-t0024173,Genus,Linaria,Mill.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024173
-t0024339,Genus,Myurella,Schimp.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024339
-t0024401,Genus,Oenanthe,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024401
-t0024416,Genus,Ormosia,Jacks.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024416
-t0024516,Genus,Pholidota,Lindl. ex Hook.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024516
-t0024531,Genus,Pieris,D.Don,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024531
-t0024582,Genus,Pollia,Thunb.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024582
-t0024620,Genus,Prunella,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024620
-t0024689,Genus,Rhaphidophora,Hassk.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024689
-t0024724,Genus,Rottboellia,Naezén,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024724
-t0024734,Genus,Sabia,Colebr.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024734
-t0024758,Genus,Sarcophyton,Garay,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024758
-t0024890,Genus,Stellaria,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024890
-t0024906,Genus,Stokesiella,Lemmerm.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024906
-t0024975,Genus,Thalia,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024975
-t0025067,Genus,Tydemania,Weber-van Bosse,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025067
-t0025254,Genus,Turbinaria,J.V.Lamour.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025254
-t0025269,Genus,Actinocyclus,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025269
-t0025412,Genus,Cerataulina,"",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0025412
-t0025520,Genus,Vibrio,O.F.Müll.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025520
-t0026255,Genus,Serpula,"Linnaeus, 1758",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026255
-t0026312,Subgenus,Zeugodacus,"Hendel, 1927",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026312
-t0029211,Species,Ficus variegata,"Röding, 1798",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0029211
-t0046167,Species,Hemigraphis reptans,(G.Forst.) T.Anderson ex Hemsl.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0046167
-t0054642,Species,Ormosia formosana,Kaneh.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0054642
-t0082442,Species,Ormosia formosana,"Edwards, 1921",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0082442
-t0088182,Genus,Gordonia,Stackebrandt et al. 1989,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088182
-t0088272,Genus,Micrococcus,Cohn 1872,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088272
-t0088325,Genus,Paracoccus,Davis 1969,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088325
-t0088347,Genus,Planococcus,Migula 1894,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088347
-t0088391,Genus,Rhodobium,Hiraishi et al. 1995,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088391
-t0088483,Genus,Vibrio,Pacini 1854,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088483
-t0091568,Subclass,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0091568
-t0091713,Genus,Trichia,"Haller, 1768",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0091713
-t0092052,Genus,Trulla,"Kaup, 1858",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092052
-t0092304,Genus,Ervilia,"Turton, 1822",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092304
-t0092493,Genus,Hageniella,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092493
-t0092895,Genus,Maxillaria,"Staudinger, 1879",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092895
-t0092981,Genus,Monopsis,"Spinola, 1839",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092981
-t0093124,Genus,Olfersia,"Leach, 1817",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093124
-t0093378,Genus,Plecoptera,"Guenée, 1852",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093378
-t0093420,Genus,Pontia,"Fabricius, 1807",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093420
-t0093606,Genus,Rostellaria,"Lamarck, 1799",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093606
-t0093938,Genus,Blatta,"Audinet-Serville, 1831",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093938
-t0094334,Genus,Desmia,Westwood,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094334
-t0094345,Genus,Diaphora,"Macquart, 1834",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094345
-t0094571,Genus,Laelia,Lindl.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094571
-t0094638,Genus,Satyrium,Sw.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094638
-t0094931,Genus,Actinocyclus,"Ehrenberg, 1831",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094931
-t0095372,Genus,Desmia,D.Don,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095372
-t0095393,Genus,Phymatodes,C.Presl,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095393
-t0095432,Genus,Pollinia,Spreng.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095432
-t0095446,Genus,Pontia,Bubani,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095446
-t0095456,Genus,Prosopis,L.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095456
-t0095533,Genus,Rostellaria,Nees,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095533
-t0095591,Genus,Maxillaria,Ruiz & Pav.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095591
-t0095646,Genus,Monocera,Jack,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095646
-t0095648,Genus,Monopsis,Salisb.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095648
-t0095707,Genus,Olfersia,Raddi,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095707
-t0095780,Genus,Diaphora,Lour.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095780
-t0095880,Genus,Ervilia,Link,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095880
-t0099500,Species,Ficus variegata,Blume,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0099500
-t0101219,Genus,Blatta,"Linnaeus, 1758",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101219
-t0101372,Subgenus,Sesapa,"Walker, 1854",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0101372
-t0101374,Genus,Stokesiella,H.Rob.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101374
-t0101385,Subgenus,Atomaria,"Stephens, 1829",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0101385
-t0101389,Species,Hemigraphis reptans,T.Anderson,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101389
-t0101453,Order,Hygrophila,"Férussac, 1822",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101453
-t0101862,Genus,Trulla,Miettinen & Ryvarden,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101862
-t0102169,Genus,Aglaomorpha,Schott,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102169
-t0102354,Genus,Aquarius,Christenh. & Byng,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102354
-t0102392,Subgenus,Armigeres,"Theobald, 1901",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0102392
-t0102394,Subgenus,Heizmannia,Ludlow,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102394
-t0102873,Subclass,Chondrostei,"Müller, 1844",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102873
-t0102877,Infraclass,Holostei,"Müller, 1845",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102877
-t0103169,Superclass,Branchiopoda,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0103169
-t0104520,Genus,Rottboellia,L.f.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0104520
-t0105557,Genus,Hageniella,Broth.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105557
-t0105964,Genus,Siphonaria,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105964
-t0105972,Genus,Clastobryellina,H.Akiyama,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105972
-t0105979,Section,Clastobryellina,M.Fleisch.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105979
-t0106023,Genus,Munda,"Stål, 1877",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106023
-t0106025,Genus,Mnesibulus,"Stål, 1877",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106025
-t0106026,Genus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106026
-t0106029,Subgenus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106029
-t0106030,Subgenus,Phaloria,"Stål, 1877",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106030
-t0106032,Subgenus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106032
-t0106033,Subgenus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106033
-t0106036,Subgenus,Mnesibulus,"Stål, 1877",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106036
-t0106037,Subgenus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106037
-t0106039,Subgenus,Munda,"Stål, 1877",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106039
-t0106040,Subgenus,Velarifictorus,"Randell, 1964",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106040
-t0106079,Genus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106079
-t0106080,Subgenus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106080
-t0106095,Subgenus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0106095
-t0106317,Genus,Peranema,Don,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106317
-t0106589,Genus,Sunipia,Lindl.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106589
-t0106666,Genus,Acrocephalus,Benth.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106666
-t0106935,Subgenus,Lindernia,"",TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106935
-t0106955,Genus,Sunipia,Buch.-Ham. ex Sm.,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106955
-t0000080,Phylum,Heliozoa,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
-t0000137,Subphylum,Lobosa,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
-t0000191,Infraphylum,Apicomplexa,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000191
-t0000204,Superclass,Chondrichthyes,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000204
-t0000495,Class,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000495
-t0000694,Subclass,Squamata,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000694
-t0000707,Infraclass,Cestoda,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000707
-t0000723,Infraclass,Trematoda,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000723
-t0002878,Phylum,Apicomplexa,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002878
-t0002890,Class,Cestoda,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002890
-t0002891,Class,Chondrichthyes,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002891
-t0002899,Class,Trematoda,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002899
-t0002920,Class,Heliozoa,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002920
-t0002921,Class,Lobosa,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002921
-t0003088,Order,Squamata,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0003088
-t0006905,Genus,Sesapa,"Walker, 1854",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0006905
-t0007648,Genus,Graphium,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0007648
-t0007826,Genus,Lactarius,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0007826
-t0010359,Genus,Armigeres,"Theobald, 1901",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0010359
-t0010533,Genus,Atomaria,"Stephens, 1829",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0010533
-t0011573,Genus,Cerataulina,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0011573
-t0014489,Genus,Phaloria,"Stål, 1877",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0014489
-t0015566,Genus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0015566
-t0017254,Genus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0017254
-t0018044,Genus,Velarifictorus,"Randell, 1964",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0018044
-t0018682,Genus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0018682
-t0020278,Genus,Graphium,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0020278
-t0020296,Genus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0020296
-t0021446,Genus,Lactarius,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0021446
-t0025412,Genus,Cerataulina,"",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0025412
-t0091568,Subclass,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0091568
-t0101372,Subgenus,Sesapa,"Walker, 1854",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0101372
-t0101385,Subgenus,Atomaria,"Stephens, 1829",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0101385
-t0102392,Subgenus,Armigeres,"Theobald, 1901",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0102392
-t0106023,Genus,Munda,"Stål, 1877",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106023
-t0106025,Genus,Mnesibulus,"Stål, 1877",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106025
-t0106026,Genus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106026
-t0106029,Subgenus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106029
-t0106030,Subgenus,Phaloria,"Stål, 1877",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106030
-t0106032,Subgenus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106032
-t0106033,Subgenus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106033
-t0106036,Subgenus,Mnesibulus,"Stål, 1877",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106036
-t0106037,Subgenus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106037
-t0106039,Subgenus,Munda,"Stål, 1877",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106039
-t0106040,Subgenus,Velarifictorus,"Randell, 1964",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106040
-t0106079,Genus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106079
-t0106080,Subgenus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106080
-t0106095,Subgenus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106095
+taxon_id,rank,simple_name,name_author,is_dup_simple_name,is_dup_name_author,is_dup_name_author_rank,reason,TC_URL
+t0000022,Infrakingdom,Euglenozoa,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000022
+t0000026,Infrakingdom,Chlorophyta,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000026
+t0000032,Superphylum,Charophyta,Caval.-Sm.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000032
+t0000060,Phylum,Nitrospira,"Garrity & Holt, 2001",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000060
+t0000069,Phylum,Euglenozoa,"Cavalier-Smith, 1981",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000069
+t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000080
+t0000092,Phylum,Charophyta,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000092
+t0000093,Phylum,Chlorophyta,Pascher,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000093
+t0000105,Phylum,Ctenophora,"Eschscholtz, 1829",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000105
+t0000114,Phylum,Micrognathozoa,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000114
+t0000122,Phylum,Placozoa,"Grell, 1971",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000122
+t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000137
+t0000175,Subphylum,Anthozoa,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000175
+t0000191,Infraphylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000191
+t0000204,Superclass,Chondrichthyes,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000204
+t0000265,Class,Nitrospira,"Garrity and Holt, 2001",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000265
+t0000466,Class,Anthozoa,"Ehrenberg, 1834",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000466
+t0000473,Class,Branchiopoda,"Latreille, 1817",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000473
+t0000480,Class,Chondrostei,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000480
+t0000485,Class,Collembola,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000485
+t0000495,Class,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000495
+t0000508,Class,Holostei,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000508
+t0000520,Class,Micrognathozoa,"Kristensen and Funch, 2000",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000520
+t0000535,Class,Placozoa,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000535
+t0000541,Class,Protura,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000541
+t0000648,Subclass,Archaeognatha,"Börner, 1904",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000648
+t0000650,Subclass,Aves,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000650
+t0000652,Subclass,Branchiura,"Thorell, 1864",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000652
+t0000694,Subclass,Squamata,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000694
+t0000707,Infraclass,Cestoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000707
+t0000723,Infraclass,Trematoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000723
+t0001006,Order,Euglenida,"Stein, 1878",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001006
+t0001699,Order,Archaeognatha,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001699
+t0002064,Order,Pholidota,"Weber, 1904",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002064
+t0002075,Order,Plecoptera,"Burmeister, 1839",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002075
+t0002269,Genus,Hygrophila,R.Br.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002269
+t0002526,Genus,Taiwania,Hayata,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002526
+t0002586,Genus,Tiarella,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002586
+t0002629,Genus,Breynia,J.R.Forst. & G.Forst.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002629
+t0002636,Genus,Perrottetia,Kunth,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002636
+t0002704,Genus,Gordonia,J.Ellis,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002704
+t0002788,Genus,Trichodesma,R.Br.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002788
+t0002809,Genus,Scoparia,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002809
+t0002817,Genus,Lindernia,All.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002817
+t0002822,Genus,Thunbergia,Retz.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002822
+t0002878,Phylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002878
+t0002889,Class,Aves,"Linnaeus, 1758",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002889
+t0002890,Class,Cestoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002890
+t0002891,Class,Chondrichthyes,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002891
+t0002899,Class,Trematoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002899
+t0002914,Class,Euglenida,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002914
+t0002920,Class,Heliozoa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002920
+t0002921,Class,Lobosa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002921
+t0002948,Order,Collembola,"Lubbock, 1870",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002948
+t0003078,Order,Protura,"Silvestri, 1907",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0003078
+t0003088,Order,Squamata,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0003088
+t0006537,Genus,Balladyna,"Kowalewski, 1882",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006537
+t0006625,Genus,Enteropogon,"Hibbits, 1979",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006625
+t0006639,Genus,Fissurina,"Reuss, 1850",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006639
+t0006761,Genus,Peranema,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006761
+t0006905,Genus,Sesapa,"Walker, 1854",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006905
+t0006937,Genus,Ficus,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006937
+t0006941,Genus,Amesia,"X.Wei Wang, Samson & Crous",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006941
+t0006945,Genus,Asterina,Lév.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0006945
+t0007116,Genus,Balladyna,Racib.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007116
+t0007331,Genus,Colus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007331
+t0007454,Genus,Dictyonella,Höhn.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007454
+t0007568,Genus,Fissurina,Fée,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007568
+t0007578,Genus,Fulvia,Cif.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007578
+t0007634,Genus,Glyphis,Ach.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007634
+t0007648,Genus,Graphium,"",TRUE,TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0007648
+t0007722,Genus,Hexagonia,Fr.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007722
+t0007792,Genus,Japonia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007792
+t0007826,Genus,Lactarius,"",TRUE,TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0007826
+t0007962,Genus,Micrococcus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007962
+t0007968,Genus,Microporus,P.Beauv.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0007968
+t0008033,Genus,Nais,Kohlm.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008033
+t0008132,Genus,Oxyporus,Donk,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008132
+t0008250,Genus,Pilophorus,Th.Fr.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008250
+t0008417,Genus,Rhopographus,Nitschke ex Fuckel,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008417
+t0008422,Genus,Rhytisma,Fr.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008422
+t0008456,Genus,Scaphidium,Clem.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008456
+t0008495,Genus,Serpula,Gray,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008495
+t0008560,Genus,Stenella,Syd.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008560
+t0008572,Genus,Stilbum,Tode,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008572
+t0008603,Genus,Tapinella,E.-J.Gilbert,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008603
+t0008724,Genus,Venturia,Sacc.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008724
+t0008782,Genus,Trichodesma,"LeConte, 1861",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008782
+t0008785,Genus,Tydemania,"Weber, 1913",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008785
+t0008789,Genus,Woodsia,"Grey, 1959",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008789
+t0008875,Genus,Donax,"Linnaeus, 1758",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008875
+t0008887,Genus,Ficus,"Röding, 1798",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008887
+t0008889,Genus,Ganonema,"McLachlan, 1866",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008889
+t0008891,Genus,Glossocardia,"Stoliczka, 1870",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008891
+t0008911,Genus,Kurzia,"Dybowski & Grochowski, 1894",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008911
+t0008916,Genus,Linaria,"Bechstein, 1802",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008916
+t0008933,Genus,Myurella,"Hinds, 1845",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008933
+t0008944,Genus,Ormosia,"Rondani, 1856",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008944
+t0008954,Genus,Perrottetia,"Kobelt, 1905",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008954
+t0008963,Genus,Pollia,"Gray, 1834",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0008963
+t0009101,Genus,Woodsia,R.Br.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009101
+t0009125,Genus,Rhaphidophora,"Audinet-Serville, 1838",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009125
+t0009129,Genus,Sabia,"Gray, 1840",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009129
+t0009130,Genus,Sarcophyton,"Lesson, 1834",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009130
+t0009146,Genus,Taiwania,"Tsuneki, 1989",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009146
+t0009149,Genus,Thalia,"Blumenbach, 1798",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009149
+t0009151,Genus,Thunbergia,"Horváth, 1914",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009151
+t0009152,Genus,Tiarella,"Swainson, 1840",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009152
+t0009160,Genus,Breynia,"Desor, 1847",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009160
+t0009184,Genus,Chondria,"Gorham, 1888",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009184
+t0009349,Genus,Acmella,"Blanford, 1869",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009349
+t0009376,Genus,Acrocephalus,"Burmeister, 1835",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009376
+t0009541,Genus,Agathis,"Latreille, 1804",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009541
+t0009556,Genus,Aglaomorpha,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009556
+t0009798,Genus,Amesia,"Duncan, 1841",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009798
+t0010247,Genus,Aquarius,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010247
+t0010303,Genus,Arenaria,"Brisson, 1760",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010303
+t0010359,Genus,Armigeres,"Theobald, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010359
+t0010460,Genus,Asterina,"Nardo, 1834",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010460
+t0010533,Genus,Atomaria,"Stephens, 1829",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0010533
+t0011048,Genus,Branchiura,"Beddard, 1892",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0011048
+t0011573,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0011573
+t0011820,Genus,Chloris,"Cuvier, 1800",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0011820
+t0012182,Genus,Colus,"Röding, 1798",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0012182
+t0012491,Genus,Ctenophora,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0012491
+t0012735,Genus,Nais,"Müller, 1774",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0012735
+t0013361,Genus,Oenanthe,"Vieillot, 1816",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013361
+t0013719,Genus,Oxyporus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013719
+t0013923,Genus,Paracoccus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013923
+t0014489,Genus,Phaloria,"Stål, 1877",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014489
+t0014659,Genus,Phymatodes,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014659
+t0014708,Genus,Pieris,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014708
+t0014720,Genus,Pilophorus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014720
+t0014793,Genus,Planococcus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014793
+t0014978,Genus,Pollinia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014978
+t0015225,Genus,Prosopis,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015225
+t0015272,Genus,Prunella,"Vieillot, 1816",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015272
+t0015566,Genus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015566
+t0015862,Genus,Rhodobium,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015862
+t0015880,Genus,Rhopographus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015880
+t0015921,Genus,Rhytisma,"Alderslade, 2000",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015921
+t0016102,Genus,Satyrium,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016102
+t0016126,Genus,Scaphidium,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016126
+t0016240,Genus,Scoparia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016240
+t0016498,Genus,Siphonaria,H.E.Petersen,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016498
+t0016743,Genus,Stellaria,"Møller, 1832",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016743
+t0016756,Genus,Stenella,"Gray, 1866",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016756
+t0016854,Genus,Stilbum,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016854
+t0017206,Genus,Tapinella,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017206
+t0017254,Genus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017254
+t0017679,Genus,Trichia,"De Haan, 1839",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017679
+t0017876,Genus,Turbinaria,"Oken, 1815",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017876
+t0018044,Genus,Velarifictorus,"Randell, 1964",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018044
+t0018052,Genus,Venturia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018052
+t0018350,Genus,Zeugodacus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018350
+t0018664,Genus,Dictyonella,"Schmidt, 1868",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018664
+t0018682,Genus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0018682
+t0019930,Genus,Fulvia,"Gray, 1853",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0019930
+t0020160,Genus,Glyphis,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0020160
+t0020278,Genus,Graphium,"",TRUE,TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0020278
+t0020296,Genus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0020296
+t0020489,Genus,Heizmannia,"Ludlow, 1905",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0020489
+t0020683,Genus,Hexagonia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0020683
+t0021263,Genus,Japonia,"Gould, 1859",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021263
+t0021446,Genus,Lactarius,"",TRUE,TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0021446
+t0021451,Genus,Laelia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021451
+t0022776,Genus,Microporus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022776
+t0022933,Genus,Monocera,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022933
+t0023086,Genus,Acmella,Rich.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023086
+t0023119,Genus,Agathis,Salisb.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023119
+t0023216,Genus,Arenaria,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023216
+t0023467,Genus,Chloris,Sw.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023467
+t0023474,Genus,Chondria,C.Agardh,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023474
+t0023721,Genus,Donax,Lour.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023721
+t0023774,Genus,Enteropogon,Nees,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023774
+t0023876,Genus,Ganonema,K.C.Fan & Y.C.Wang,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023876
+t0023913,Genus,Glossocardia,Cass.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023913
+t0024108,Genus,Kurzia,G.Martens,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024108
+t0024173,Genus,Linaria,Mill.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024173
+t0024339,Genus,Myurella,Schimp.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024339
+t0024401,Genus,Oenanthe,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024401
+t0024416,Genus,Ormosia,Jacks.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024416
+t0024516,Genus,Pholidota,Lindl. ex Hook.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024516
+t0024531,Genus,Pieris,D.Don,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024531
+t0024582,Genus,Pollia,Thunb.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024582
+t0024620,Genus,Prunella,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024620
+t0024689,Genus,Rhaphidophora,Hassk.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024689
+t0024724,Genus,Rottboellia,Naezén,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024724
+t0024734,Genus,Sabia,Colebr.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024734
+t0024758,Genus,Sarcophyton,Garay,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024758
+t0024890,Genus,Stellaria,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024890
+t0024906,Genus,Stokesiella,Lemmerm.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024906
+t0024975,Genus,Thalia,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0024975
+t0025067,Genus,Tydemania,Weber-van Bosse,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025067
+t0025254,Genus,Turbinaria,J.V.Lamour.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025254
+t0025269,Genus,Actinocyclus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025269
+t0025412,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0025412
+t0025520,Genus,Vibrio,O.F.Müll.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025520
+t0026255,Genus,Serpula,"Linnaeus, 1758",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026255
+t0026312,Subgenus,Zeugodacus,"Hendel, 1927",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026312
+t0029211,Species,Ficus variegata,"Röding, 1798",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0029211
+t0046167,Species,Hemigraphis reptans,(G.Forst.) T.Anderson ex Hemsl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0046167
+t0054642,Species,Ormosia formosana,Kaneh.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0054642
+t0082442,Species,Ormosia formosana,"Edwards, 1921",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0082442
+t0088182,Genus,Gordonia,Stackebrandt et al. 1989,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088182
+t0088272,Genus,Micrococcus,Cohn 1872,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088272
+t0088325,Genus,Paracoccus,Davis 1969,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088325
+t0088347,Genus,Planococcus,Migula 1894,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088347
+t0088391,Genus,Rhodobium,Hiraishi et al. 1995,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088391
+t0088483,Genus,Vibrio,Pacini 1854,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088483
+t0091568,Subclass,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0091568
+t0091713,Genus,Trichia,"Haller, 1768",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0091713
+t0092052,Genus,Trulla,"Kaup, 1858",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092052
+t0092304,Genus,Ervilia,"Turton, 1822",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092304
+t0092493,Genus,Hageniella,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092493
+t0092895,Genus,Maxillaria,"Staudinger, 1879",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092895
+t0092981,Genus,Monopsis,"Spinola, 1839",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0092981
+t0093124,Genus,Olfersia,"Leach, 1817",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093124
+t0093378,Genus,Plecoptera,"Guenée, 1852",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093378
+t0093420,Genus,Pontia,"Fabricius, 1807",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093420
+t0093606,Genus,Rostellaria,"Lamarck, 1799",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093606
+t0093938,Genus,Blatta,"Audinet-Serville, 1831",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0093938
+t0094334,Genus,Desmia,Westwood,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094334
+t0094345,Genus,Diaphora,"Macquart, 1834",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094345
+t0094571,Genus,Laelia,Lindl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094571
+t0094638,Genus,Satyrium,Sw.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094638
+t0094931,Genus,Actinocyclus,"Ehrenberg, 1831",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094931
+t0095372,Genus,Desmia,D.Don,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095372
+t0095393,Genus,Phymatodes,C.Presl,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095393
+t0095432,Genus,Pollinia,Spreng.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095432
+t0095446,Genus,Pontia,Bubani,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095446
+t0095456,Genus,Prosopis,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095456
+t0095533,Genus,Rostellaria,Nees,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095533
+t0095591,Genus,Maxillaria,Ruiz & Pav.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095591
+t0095646,Genus,Monocera,Jack,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095646
+t0095648,Genus,Monopsis,Salisb.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095648
+t0095707,Genus,Olfersia,Raddi,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095707
+t0095780,Genus,Diaphora,Lour.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095780
+t0095880,Genus,Ervilia,Link,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095880
+t0099500,Species,Ficus variegata,Blume,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0099500
+t0101219,Genus,Blatta,"Linnaeus, 1758",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101219
+t0101372,Subgenus,Sesapa,"Walker, 1854",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101372
+t0101374,Genus,Stokesiella,H.Rob.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101374
+t0101385,Subgenus,Atomaria,"Stephens, 1829",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101385
+t0101389,Species,Hemigraphis reptans,T.Anderson,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101389
+t0101453,Order,Hygrophila,"Férussac, 1822",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101453
+t0101862,Genus,Trulla,Miettinen & Ryvarden,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0101862
+t0102169,Genus,Aglaomorpha,Schott,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102169
+t0102354,Genus,Aquarius,Christenh. & Byng,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102354
+t0102392,Subgenus,Armigeres,"Theobald, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102392
+t0102394,Subgenus,Heizmannia,Ludlow,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102394
+t0102873,Subclass,Chondrostei,"Müller, 1844",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102873
+t0102877,Infraclass,Holostei,"Müller, 1845",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0102877
+t0103169,Superclass,Branchiopoda,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0103169
+t0104520,Genus,Rottboellia,L.f.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0104520
+t0105557,Genus,Hageniella,Broth.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105557
+t0105964,Genus,Siphonaria,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105964
+t0105972,Genus,Clastobryellina,H.Akiyama,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105972
+t0105979,Section,Clastobryellina,M.Fleisch.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0105979
+t0106023,Genus,Munda,"Stål, 1877",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106023
+t0106025,Genus,Mnesibulus,"Stål, 1877",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106025
+t0106026,Genus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106026
+t0106029,Subgenus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106029
+t0106030,Subgenus,Phaloria,"Stål, 1877",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106030
+t0106032,Subgenus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106032
+t0106033,Subgenus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106033
+t0106036,Subgenus,Mnesibulus,"Stål, 1877",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106036
+t0106037,Subgenus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106037
+t0106039,Subgenus,Munda,"Stål, 1877",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106039
+t0106040,Subgenus,Velarifictorus,"Randell, 1964",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106040
+t0106079,Genus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106079
+t0106080,Subgenus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106080
+t0106095,Subgenus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106095
+t0106317,Genus,Peranema,Don,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106317
+t0106589,Genus,Sunipia,Lindl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106589
+t0106666,Genus,Acrocephalus,Benth.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106666
+t0106935,Subgenus,Lindernia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106935
+t0106955,Genus,Sunipia,Buch.-Ham. ex Sm.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106955
+t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
+t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
+t0000191,Infraphylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000191
+t0000204,Superclass,Chondrichthyes,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000204
+t0000495,Class,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000495
+t0000694,Subclass,Squamata,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000694
+t0000707,Infraclass,Cestoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000707
+t0000723,Infraclass,Trematoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000723
+t0002878,Phylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002878
+t0002890,Class,Cestoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002890
+t0002891,Class,Chondrichthyes,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002891
+t0002899,Class,Trematoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002899
+t0002920,Class,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002920
+t0002921,Class,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002921
+t0003088,Order,Squamata,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0003088
+t0006905,Genus,Sesapa,"Walker, 1854",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0006905
+t0007648,Genus,Graphium,"",TRUE,TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0007648
+t0007826,Genus,Lactarius,"",TRUE,TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0007826
+t0010359,Genus,Armigeres,"Theobald, 1901",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0010359
+t0010533,Genus,Atomaria,"Stephens, 1829",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0010533
+t0011573,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0011573
+t0014489,Genus,Phaloria,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0014489
+t0015566,Genus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0015566
+t0017254,Genus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0017254
+t0018044,Genus,Velarifictorus,"Randell, 1964",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0018044
+t0018682,Genus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0018682
+t0020278,Genus,Graphium,"",TRUE,TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0020278
+t0020296,Genus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0020296
+t0021446,Genus,Lactarius,"",TRUE,TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0021446
+t0025412,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0025412
+t0091568,Subclass,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0091568
+t0101372,Subgenus,Sesapa,"Walker, 1854",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0101372
+t0101385,Subgenus,Atomaria,"Stephens, 1829",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0101385
+t0102392,Subgenus,Armigeres,"Theobald, 1901",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0102392
+t0106023,Genus,Munda,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106023
+t0106025,Genus,Mnesibulus,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106025
+t0106026,Genus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106026
+t0106029,Subgenus,Gryllus,"Linnaeus, 1758",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106029
+t0106030,Subgenus,Phaloria,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106030
+t0106032,Subgenus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106032
+t0106033,Subgenus,Modicogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106033
+t0106036,Subgenus,Mnesibulus,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106036
+t0106037,Subgenus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106037
+t0106039,Subgenus,Munda,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106039
+t0106040,Subgenus,Velarifictorus,"Randell, 1964",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106040
+t0106079,Genus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106079
+t0106080,Subgenus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106080
+t0106095,Subgenus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106095
+t0007648,Genus,Graphium,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0007648
+t0007826,Genus,Lactarius,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0007826
+t0011573,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0011573
+t0020278,Genus,Graphium,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0020278
+t0021446,Genus,Lactarius,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0021446
+t0025412,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0025412
