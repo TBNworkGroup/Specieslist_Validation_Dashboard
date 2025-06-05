@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TC Validation Dashboard – version type 20250528</title>
+  <title>TC Validation Dashboard – version type 20250605</title>
 
   <!-- jQuery & DataTables -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -25,7 +25,7 @@
   </style>
 </head>
 <body>
-  <h1>TC Validation Dashboard – version type 20250528</h1>
+  <h1>TC Validation Dashboard – version type 20250605</h1>
   <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
 
 
@@ -116,7 +116,8 @@
   const expectedReasonsMap = {
     "1. Duplicates Error": [
       "學名重複",
-      "學名加命名者重複"
+      "學名加命名者重複",
+      "學名加命名者與階層重複"
     ],
     "2. String Error": [
       "特殊符號錯誤", "文字前空格", "文字後空格", "連續空格", "高階層多詞格式錯誤", "高階層大小寫格式錯誤"
@@ -525,7 +526,7 @@ function fillTableBodyConflict(dataArray) {
     fields.forEach(f => {
       const val = row[f] || "";
       const td = document.createElement("td");
-      if (f === "TT_URL" && val) {
+      if (f === "TC_URL" && val) {
         const a = document.createElement("a");
         a.href = val;
         a.target = "_blank";
