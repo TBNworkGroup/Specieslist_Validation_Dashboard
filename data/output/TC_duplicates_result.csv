@@ -32,6 +32,7 @@ t0000707,Infraclass,Cestoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh
 t0000723,Infraclass,Trematoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000723
 t0001006,Order,Euglenida,"Stein, 1878",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001006
 t0001699,Order,Archaeognatha,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001699
+t0001757,Order,Cetacea,"Brisson, 1762",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001757
 t0002064,Order,Pholidota,"Weber, 1904",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002064
 t0002075,Order,Plecoptera,"Burmeister, 1839",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002075
 t0002269,Genus,Hygrophila,R.Br.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002269
@@ -197,6 +198,7 @@ t0025254,Genus,Turbinaria,J.V.Lamour.,TRUE,FALSE,FALSE,學名重複,https://taic
 t0025269,Genus,Actinocyclus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025269
 t0025412,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名重複,https://taicol.tw/zh-hant/taxon/t0025412
 t0025520,Genus,Vibrio,O.F.Müll.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0025520
+t0026000,Genus,Bubalus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026000
 t0026255,Genus,Serpula,"Linnaeus, 1758",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026255
 t0026312,Subgenus,Zeugodacus,"Hendel, 1927",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026312
 t0029211,Species,Ficus variegata,"Röding, 1798",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0029211
@@ -277,6 +279,10 @@ t0106589,Genus,Sunipia,Lindl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh
 t0106666,Genus,Acrocephalus,Benth.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106666
 t0106935,Subgenus,Lindernia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106935
 t0106955,Genus,Sunipia,Buch.-Ham. ex Sm.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0106955
+t0107008,Genus,Breviturma,"Stöhr, Boissin & Hoareau, 2013",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0107008
+t0107011,Subgenus,Breviturma,"Stöhr, Boissin & Hoareau, 2013",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0107011
+t0107064,Infraorder,Cetacea,"Brisson, 1762",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0107064
+t0107086,Subgenus,Bubalus,"Smith, 1827",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0107086
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
 t0000191,Infraphylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000191
@@ -285,6 +291,7 @@ t0000495,Class,Elasmobranchii,"Bonaparte, 1838",TRUE,TRUE,FALSE,學名加命名�
 t0000694,Subclass,Squamata,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000694
 t0000707,Infraclass,Cestoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000707
 t0000723,Infraclass,Trematoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000723
+t0001757,Order,Cetacea,"Brisson, 1762",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0001757
 t0002878,Phylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002878
 t0002890,Class,Cestoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002890
 t0002891,Class,Chondrichthyes,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002891
@@ -325,6 +332,9 @@ t0106040,Subgenus,Velarifictorus,"Randell, 1964",TRUE,TRUE,FALSE,學名加命名
 t0106079,Genus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106079
 t0106080,Subgenus,Myrmecophilus,"Berthold, 1827",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106080
 t0106095,Subgenus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0106095
+t0107008,Genus,Breviturma,"Stöhr, Boissin & Hoareau, 2013",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0107008
+t0107011,Subgenus,Breviturma,"Stöhr, Boissin & Hoareau, 2013",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0107011
+t0107064,Infraorder,Cetacea,"Brisson, 1762",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0107064
 t0007648,Genus,Graphium,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0007648
 t0007826,Genus,Lactarius,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0007826
 t0011573,Genus,Cerataulina,"",TRUE,TRUE,TRUE,學名加命名者與階層重複,https://taicol.tw/zh-hant/taxon/t0011573
