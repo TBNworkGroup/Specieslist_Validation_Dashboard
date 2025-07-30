@@ -29,6 +29,45 @@ df_TTrepeated <- df_TTsplist %>%
     simplifiedScientificName, scientificName, 
   )
 
+TT_authorship <- df_TTsplist %>%
+  select(
+    taxonUUID, authorship, subspeciesAuthorship, varietyAuthorship, formAuthorship
+  )
+
+# 假設 TT_authorship 已經讀入並為 data.table
+cols_to_join <- c("authorship", "subspeciesAuthorship", "varietyAuthorship", "formAuthorship")
+
+TT_authorship[, authorshipCheck := apply(.SD, 1, function(x) {
+  # 過濾空字串
+  non_empty <- x[nzchar(x)]
+  # 如果全是空值回傳空字串，否則用"-"串接
+  if (length(non_empty) == 0) "" else paste(non_empty, collapse = "-")
+}), .SDcols = cols_to_join]
+
+df_TTrepeated <- df_TTrepeated %>%
+  left_join(
+    TT_authorship[, .(taxonUUID, authorshipCheck)], 
+    by = "taxonUUID"
+  )
+
+# Step 2: 判斷重複樣態，並標記為 reason
+df_taxa_duplicates <- df_TTrepeated %>%
+  group_by(simplifiedScientificName) %>%
+  mutate(is_dup_global = n() > 1) %>%
+  ungroup() %>%
+  
+  group_by(kingdom, simplifiedScientificName) %>%
+  mutate(is_dup_kingdom = n() > 1) %>%
+  ungroup() %>%
+  
+  group_by(kingdom, simplifiedScientificName, authorshipCheck) %>%
+  mutate(is_dup_kingdom_author = n() > 1) %>%
+  ungroup() %>%
+  
+  group_by(kingdom, simplifiedScientificName, authorshipCheck, taxonRank) %>%
+  mutate(is_dup_kingdom_author_rank = n() > 1) %>%
+  ungroup()
+
 # Step 2: 判斷重複樣態，並標記為 reason
 df_taxa_duplicates <- df_TTrepeated %>%
   group_by(simplifiedScientificName) %>%
@@ -46,6 +85,7 @@ df_taxa_duplicates <- df_TTrepeated %>%
   group_by(kingdom, scientificName, taxonRank) %>%
   mutate(is_dup_kingdom_author_rank = n() > 1) %>%
   ungroup()
+
 
 # Step 3: 建立 reason 欄位（依照條件逐一指定）
 # 先定義三種條件的篩選與理由
@@ -99,7 +139,7 @@ for (i in 1:nrow(df_duplicates_reasoned)) {
 df_duplicates_reasoned$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_duplicates_reasoned$taxonUUID)
 
 # Step 5: 輸出結果
-fwrite(df_duplicates_reasoned, "../../data/output/TT_duplicates_result.csv")
+fwrite(df_duplicates_reasoned, "../../data/output/TT_duplicates_result_vers2.csv")
 
 
 
