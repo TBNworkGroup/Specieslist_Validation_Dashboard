@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250723"  # 舉例
+modified_date <- "20250730"  # 舉例
 
 
 # 先抓第一頁
@@ -38,7 +38,7 @@ for (i in sequence) {
 # )
 
 
-fwrite(df_TCsplist, sprintf("../../data/input/TCsplist_%s.csv", modified_date))
+fwrite(df_TCsplist, sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date))
 
 
 
@@ -46,7 +46,7 @@ fwrite(df_TCsplist, sprintf("../../data/input/TCsplist_%s.csv", modified_date))
 
 
 # (2) 讀取檔案 & 篩選欄位
-df_TCsplist <- fread(sprintf("../../data/input/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
   filter(taxon_status%in%"accepted")
 
 
