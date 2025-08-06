@@ -41,7 +41,6 @@ cc102571-cbb4-4a2a-a48f-9633d9126b9f,genus,Animalia,Stellaria,Stellaria,"",TRUE,
 8b269452-215f-42d4-9815-0bb95e837367,genus,Animalia,Ficus,Ficus,"",TRUE,FALSE,FALSE,FALSE,學名重複,146,https://taxatree.tbn.org.tw/taxa/8b269452-215f-42d4-9815-0bb95e837367
 b31a1dda-1182-4131-8671-543d57d626be,genus,Animalia,Sarcophyton,Sarcophyton,"",TRUE,FALSE,FALSE,FALSE,學名重複,424,https://taxatree.tbn.org.tw/taxa/b31a1dda-1182-4131-8671-543d57d626be
 6e3cc6e0-907f-4e9f-829f-00a8070718dd,genus,Animalia,Culcita,Culcita,"",TRUE,FALSE,FALSE,FALSE,學名重複,79,https://taxatree.tbn.org.tw/taxa/6e3cc6e0-907f-4e9f-829f-00a8070718dd
-a7435c67-e3d4-43b3-af77-c99b8006680c,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,學名重複,0,https://taxatree.tbn.org.tw/taxa/a7435c67-e3d4-43b3-af77-c99b8006680c
 fd0579df-026f-4b43-af17-4de37d38912b,genus,Animalia,Breynia,Breynia,"",TRUE,FALSE,FALSE,FALSE,學名重複,12,https://taxatree.tbn.org.tw/taxa/fd0579df-026f-4b43-af17-4de37d38912b
 595559c1-0859-418e-91d0-a0e1ba9e03e9,genus,Animalia,Chelidonium,Chelidonium,"",TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/595559c1-0859-418e-91d0-a0e1ba9e03e9
 efff4ff7-20c2-4acf-9eb8-05d2e4cfc68c,genus,Animalia,Chondria,Chondria,"",TRUE,FALSE,FALSE,FALSE,學名重複,3,https://taxatree.tbn.org.tw/taxa/efff4ff7-20c2-4acf-9eb8-05d2e4cfc68c
@@ -77,7 +76,7 @@ eb265ae8-767f-41e4-b0ad-ef6d58ed4015,genus,Plantae,Empusa,Empusa,Lindl.,TRUE,FAL
 0a154352-bbe7-4a7f-8725-57c5109efd23,genus,Plantae,Laelia,Laelia,Lindl.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/0a154352-bbe7-4a7f-8725-57c5109efd23
 355fabc9-918d-4823-b97d-30d338a85fa3,genus,Plantae,Galera,Galera,Blume,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/355fabc9-918d-4823-b97d-30d338a85fa3
 0c218450-c46e-4ae1-8aab-5f35c33458a8,genus,Plantae,Ione,Ione,Lindl.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/0c218450-c46e-4ae1-8aab-5f35c33458a8
-3c0f8b9e-0d65-4406-94c2-e18050feb80d,genus,Plantae,Pollia,Pollia,Thunb.,TRUE,FALSE,FALSE,FALSE,學名重複,2969,https://taxatree.tbn.org.tw/taxa/3c0f8b9e-0d65-4406-94c2-e18050feb80d
+3c0f8b9e-0d65-4406-94c2-e18050feb80d,genus,Plantae,Pollia,Pollia,Thunb.,TRUE,FALSE,FALSE,FALSE,學名重複,2975,https://taxatree.tbn.org.tw/taxa/3c0f8b9e-0d65-4406-94c2-e18050feb80d
 3e4b5546-40e4-4ded-9ec3-4ddaa63de3a4,genus,Plantae,Donax,Donax,Lour.,TRUE,FALSE,FALSE,FALSE,學名重複,76,https://taxatree.tbn.org.tw/taxa/3e4b5546-40e4-4ded-9ec3-4ddaa63de3a4
 b8bc5999-3553-4ebd-8982-3ce2a6cabc23,genus,Plantae,Thalia,Thalia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,16,https://taxatree.tbn.org.tw/taxa/b8bc5999-3553-4ebd-8982-3ce2a6cabc23
 df1899e4-593f-4a17-95b2-81f78c86bdc9,genus,Plantae,Leiothrix,Leiothrix,Ruhland,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/df1899e4-593f-4a17-95b2-81f78c86bdc9
@@ -85,30 +84,30 @@ df1899e4-593f-4a17-95b2-81f78c86bdc9,genus,Plantae,Leiothrix,Leiothrix,Ruhland,T
 a4dfb8c0-cfe2-4745-a832-8bc49a996208,genus,Plantae,Enteropogon,Enteropogon,Nees,TRUE,FALSE,FALSE,FALSE,學名重複,127,https://taxatree.tbn.org.tw/taxa/a4dfb8c0-cfe2-4745-a832-8bc49a996208
 3b56dfb1-e205-48e6-9dd1-0167a210cbaf,genus,Plantae,Chelidonium,Chelidonium,Tourn. ex L.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/3b56dfb1-e205-48e6-9dd1-0167a210cbaf
 16c6789b-0f54-46dc-8468-e09831c13c1b,genus,Plantae,Actaea,Actaea,L.,TRUE,FALSE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/16c6789b-0f54-46dc-8468-e09831c13c1b
-4b1867b5-5781-4d16-9324-91e22a938bf8,genus,Plantae,Sabia,Sabia,Colebr.,TRUE,FALSE,FALSE,FALSE,學名重複,957,https://taxatree.tbn.org.tw/taxa/4b1867b5-5781-4d16-9324-91e22a938bf8
-6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e,genus,Plantae,Tiarella,Tiarella,L.,TRUE,FALSE,FALSE,FALSE,學名重複,23,https://taxatree.tbn.org.tw/taxa/6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e
+4b1867b5-5781-4d16-9324-91e22a938bf8,genus,Plantae,Sabia,Sabia,Colebr.,TRUE,FALSE,FALSE,FALSE,學名重複,960,https://taxatree.tbn.org.tw/taxa/4b1867b5-5781-4d16-9324-91e22a938bf8
+6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e,genus,Plantae,Tiarella,Tiarella,L.,TRUE,FALSE,FALSE,FALSE,學名重複,24,https://taxatree.tbn.org.tw/taxa/6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e
 da1a7875-2752-4c1b-82be-82d10125df0e,genus,Plantae,Ormosia,Ormosia,Jacks.,TRUE,FALSE,FALSE,FALSE,學名重複,561,https://taxatree.tbn.org.tw/taxa/da1a7875-2752-4c1b-82be-82d10125df0e
 4aefb6f0-522f-4b83-97ed-9af1b257ae1e,genus,Plantae,Prosopis,Prosopis,L.,TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/4aefb6f0-522f-4b83-97ed-9af1b257ae1e
 7cc45f32-8695-434b-aeed-2454fbe98e81,genus,Plantae,Kerria,Kerria,DC.,TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/7cc45f32-8695-434b-aeed-2454fbe98e81
-6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9,genus,Plantae,Ficus,Ficus,L.,TRUE,FALSE,FALSE,FALSE,學名重複,56513,https://taxatree.tbn.org.tw/taxa/6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9
-30e83e13-7764-4bae-97db-60a9341dc098,genus,Plantae,Breynia,Breynia,J.R.Forst. & G.Forst.,TRUE,FALSE,FALSE,FALSE,學名重複,2232,https://taxatree.tbn.org.tw/taxa/30e83e13-7764-4bae-97db-60a9341dc098
+6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9,genus,Plantae,Ficus,Ficus,L.,TRUE,FALSE,FALSE,FALSE,學名重複,56568,https://taxatree.tbn.org.tw/taxa/6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9
+30e83e13-7764-4bae-97db-60a9341dc098,genus,Plantae,Breynia,Breynia,J.R.Forst. & G.Forst.,TRUE,FALSE,FALSE,FALSE,學名重複,2234,https://taxatree.tbn.org.tw/taxa/30e83e13-7764-4bae-97db-60a9341dc098
 52604a3c-f0d3-44df-af2f-132abc500082,genus,Plantae,Decodon,Decodon,J.F.Gmel.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/52604a3c-f0d3-44df-af2f-132abc500082
 40d8add7-14b4-4fb8-ae48-1eca7e6068b3,genus,Plantae,Perrottetia,Perrottetia,Kunth.,TRUE,FALSE,FALSE,FALSE,學名重複,876,https://taxatree.tbn.org.tw/taxa/40d8add7-14b4-4fb8-ae48-1eca7e6068b3
 0f266630-4a09-4851-8899-27caf2ad6090,genus,Plantae,Arenaria,Arenaria,L.,TRUE,FALSE,FALSE,FALSE,學名重複,311,https://taxatree.tbn.org.tw/taxa/0f266630-4a09-4851-8899-27caf2ad6090
-e21edb09-d2b3-4b3e-9230-f8b14f0d37fa,genus,Plantae,Stellaria,Stellaria,L.,TRUE,FALSE,FALSE,FALSE,學名重複,3432,https://taxatree.tbn.org.tw/taxa/e21edb09-d2b3-4b3e-9230-f8b14f0d37fa
+e21edb09-d2b3-4b3e-9230-f8b14f0d37fa,genus,Plantae,Stellaria,Stellaria,L.,TRUE,FALSE,FALSE,FALSE,學名重複,3438,https://taxatree.tbn.org.tw/taxa/e21edb09-d2b3-4b3e-9230-f8b14f0d37fa
 501dca1d-fd1e-4204-beca-8aea79a7f0aa,genus,Plantae,Okenia,Okenia,Schltdl. & Cham.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/501dca1d-fd1e-4204-beca-8aea79a7f0aa
 7305997e-18fe-45fa-8074-edd4d46c1835,genus,Plantae,Gustavia,Gustavia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/7305997e-18fe-45fa-8074-edd4d46c1835
 43be76ca-33d4-43ad-93b9-8daf5c35bcc6,genus,Plantae,Pieris,Pieris,D.Don,TRUE,FALSE,FALSE,FALSE,學名重複,2312,https://taxatree.tbn.org.tw/taxa/43be76ca-33d4-43ad-93b9-8daf5c35bcc6
 a74dc8b0-6892-4332-89cd-45487a3bfebc,genus,Plantae,Rondeletia,Rondeletia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,7,https://taxatree.tbn.org.tw/taxa/a74dc8b0-6892-4332-89cd-45487a3bfebc
 00688827-ea01-4dfd-a593-808f2dc2e134,genus,Plantae,Trichodesma,Trichodesma,R.Br.,TRUE,FALSE,FALSE,FALSE,學名重複,1143,https://taxatree.tbn.org.tw/taxa/00688827-ea01-4dfd-a593-808f2dc2e134
 bed37569-49d0-4d8f-946c-e402a50f4494,genus,Plantae,Linaria,Linaria,Mill.,TRUE,FALSE,FALSE,FALSE,學名重複,8,https://taxatree.tbn.org.tw/taxa/bed37569-49d0-4d8f-946c-e402a50f4494
-a91b8c65-4b2b-4718-9249-ee65850b325b,genus,Plantae,Scoparia,Scoparia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,1557,https://taxatree.tbn.org.tw/taxa/a91b8c65-4b2b-4718-9249-ee65850b325b
+a91b8c65-4b2b-4718-9249-ee65850b325b,genus,Plantae,Scoparia,Scoparia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,1558,https://taxatree.tbn.org.tw/taxa/a91b8c65-4b2b-4718-9249-ee65850b325b
 6e2e7c5a-0986-48db-94f9-2f5c7eb91b75,genus,Plantae,Manulea,Manulea,L.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/6e2e7c5a-0986-48db-94f9-2f5c7eb91b75
 d82cfda6-d2dd-449a-9c91-b4cbf5158119,genus,Plantae,Thunbergia,Thunbergia,Retz.,TRUE,FALSE,FALSE,FALSE,學名重複,964,https://taxatree.tbn.org.tw/taxa/d82cfda6-d2dd-449a-9c91-b4cbf5158119
 24597be4-91d3-45a2-8682-c3d666c7c049,genus,Plantae,Prunella,Prunella,L.,TRUE,FALSE,FALSE,FALSE,學名重複,913,https://taxatree.tbn.org.tw/taxa/24597be4-91d3-45a2-8682-c3d666c7c049
 1f391583-50ca-4996-8944-8791ab04c3dc,genus,Plantae,Acmella,Acmella,Rich. ex Pers.,TRUE,FALSE,FALSE,FALSE,學名重複,486,https://taxatree.tbn.org.tw/taxa/1f391583-50ca-4996-8944-8791ab04c3dc
 3befaa5f-1e3f-43c4-90f8-20d2cb1abb73,genus,Plantae,Glossocardia,Glossocardia,Cass.,TRUE,FALSE,FALSE,FALSE,學名重複,179,https://taxatree.tbn.org.tw/taxa/3befaa5f-1e3f-43c4-90f8-20d2cb1abb73
-b8964a85-fb1b-405a-a0de-5fd5cee8f2a2,genus,Plantae,Oenanthe,Oenanthe,L.,TRUE,FALSE,FALSE,FALSE,學名重複,2174,https://taxatree.tbn.org.tw/taxa/b8964a85-fb1b-405a-a0de-5fd5cee8f2a2
+b8964a85-fb1b-405a-a0de-5fd5cee8f2a2,genus,Plantae,Oenanthe,Oenanthe,L.,TRUE,FALSE,FALSE,FALSE,學名重複,2177,https://taxatree.tbn.org.tw/taxa/b8964a85-fb1b-405a-a0de-5fd5cee8f2a2
 1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3,genus,Chromista,Cerataulina,Cerataulina,"",TRUE,FALSE,FALSE,FALSE,學名重複,38,https://taxatree.tbn.org.tw/taxa/1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3
 22e4a532-0df1-4099-89b8-c19aed9d59db,genus,Fungi,Lactarius,Lactarius,"",TRUE,FALSE,FALSE,FALSE,學名重複,96,https://taxatree.tbn.org.tw/taxa/22e4a532-0df1-4099-89b8-c19aed9d59db
 2e7dc2ac-65d4-4376-b5df-17168aa8b507,genus,Fungi,Galera,Galera,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/2e7dc2ac-65d4-4376-b5df-17168aa8b507
@@ -122,13 +121,12 @@ e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,Platypleura,Platypleura,"",T
 6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2,genus,Animalia,Linaria,Linaria,"",TRUE,FALSE,FALSE,FALSE,學名重複,58,https://taxatree.tbn.org.tw/taxa/6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2
 1645ffb5-62ee-4938-93ca-287ba5d3bee4,genus,Animalia,Japonia,Japonia,"",TRUE,FALSE,FALSE,FALSE,學名重複,41,https://taxatree.tbn.org.tw/taxa/1645ffb5-62ee-4938-93ca-287ba5d3bee4
 228b1460-935d-4fb4-91aa-0e60b1a0202c,species,Animalia,Ficus variegata,Ficus variegata,"Roeding, 1798",TRUE,FALSE,FALSE,FALSE,學名重複,38,https://taxatree.tbn.org.tw/taxa/228b1460-935d-4fb4-91aa-0e60b1a0202c
-86a5728a-06f1-4534-8b29-79aa45f51de6,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,學名重複,0,https://taxatree.tbn.org.tw/taxa/86a5728a-06f1-4534-8b29-79aa45f51de6
 8e741640-6019-4545-b3ea-ba17029e8209,species,Animalia,Ormosia formosana,Ormosia formosana,"Edwards, 1921",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/8e741640-6019-4545-b3ea-ba17029e8209
 e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,(L.) C.Presl,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
 ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) Spring,(L.) Spring,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
 6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,Tectaria multicaudata,Tectaria multicaudata Ching,Ching,TRUE,TRUE,FALSE,FALSE,學名重複,87,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
 49e1543a-b205-4172-9b2a-037c2bbecb8f,species,Plantae,Ormosia formosana,Ormosia formosana Kaneh.,Kaneh.,TRUE,FALSE,FALSE,FALSE,學名重複,401,https://taxatree.tbn.org.tw/taxa/49e1543a-b205-4172-9b2a-037c2bbecb8f
-71699cd4-689f-4dc7-8920-e946b9938634,species,Plantae,Ficus variegata,Ficus variegata Blume,Blume,TRUE,FALSE,FALSE,FALSE,學名重複,607,https://taxatree.tbn.org.tw/taxa/71699cd4-689f-4dc7-8920-e946b9938634
+71699cd4-689f-4dc7-8920-e946b9938634,species,Plantae,Ficus variegata,Ficus variegata Blume,Blume,TRUE,FALSE,FALSE,FALSE,學名重複,608,https://taxatree.tbn.org.tw/taxa/71699cd4-689f-4dc7-8920-e946b9938634
 5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,Zeuxine strateumatica rupicola,Zeuxine strateumatica var. rupicola (Fukuy.) S.S.Ying,(L.) Schltr.-(Fukuy.) S.S.Ying,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/5623551a-59fa-4b45-a01e-fa53657b7716
 9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,Zeuxine strateumatica rupicola,Zeuxine strateumatica f. rupicola (Fukuy.) T.Hashim.,(L.) Schltr.-(Fukuy.) T.Hashim.,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/9711a88c-f488-4997-9572-cc49e81de6e6
 2e7d8185-2c71-4c7e-8b54-4e783dda440e,genus,Plantae,Kurzia,Kurzia,G.Martens,TRUE,FALSE,FALSE,FALSE,學名重複,26,https://taxatree.tbn.org.tw/taxa/2e7d8185-2c71-4c7e-8b54-4e783dda440e
@@ -154,9 +152,7 @@ f28abec8-e3e7-4da9-8ee5-b869a445d597,genus,Animalia,Manulea,Manulea,"",TRUE,FALS
 2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,Anisophyllum,Anisophyllum,"",TRUE,TRUE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/2892f3ca-35f9-4b07-b812-87241d263efb
 aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,Anisophyllum,Anisophyllum,G.Don ex Benth.,TRUE,TRUE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/aeadab76-407e-478b-906d-a012472b1f0f
 79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
-a7435c67-e3d4-43b3-af77-c99b8006680c,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/a7435c67-e3d4-43b3-af77-c99b8006680c
 6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
-86a5728a-06f1-4534-8b29-79aa45f51de6,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/86a5728a-06f1-4534-8b29-79aa45f51de6
 e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,(L.) C.Presl,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
 ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) Spring,(L.) Spring,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
 6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,Tectaria multicaudata,Tectaria multicaudata Ching,Ching,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,87,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
@@ -168,8 +164,4 @@ a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Plantae,Tectaria multicaudata,Tecta
 2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,Anisophyllum,Anisophyllum,"",TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,2,https://taxatree.tbn.org.tw/taxa/2892f3ca-35f9-4b07-b812-87241d263efb
 aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,Anisophyllum,Anisophyllum,G.Don ex Benth.,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,2,https://taxatree.tbn.org.tw/taxa/aeadab76-407e-478b-906d-a012472b1f0f
 79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名加命名者重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
-a7435c67-e3d4-43b3-af77-c99b8006680c,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,相同Kingdom學名加命名者重複,0,https://taxatree.tbn.org.tw/taxa/a7435c67-e3d4-43b3-af77-c99b8006680c
 6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名加命名者重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
-86a5728a-06f1-4534-8b29-79aa45f51de6,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,相同Kingdom學名加命名者重複,0,https://taxatree.tbn.org.tw/taxa/86a5728a-06f1-4534-8b29-79aa45f51de6
-a7435c67-e3d4-43b3-af77-c99b8006680c,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,相同Kingdom學名加命名者階層重複,0,https://taxatree.tbn.org.tw/taxa/a7435c67-e3d4-43b3-af77-c99b8006680c
-86a5728a-06f1-4534-8b29-79aa45f51de6,species,Animalia,Astropecten polyacanthus,Astropecten polyacanthus,"Müller & Troschel, 1842",TRUE,TRUE,TRUE,TRUE,相同Kingdom學名加命名者階層重複,0,https://taxatree.tbn.org.tw/taxa/86a5728a-06f1-4534-8b29-79aa45f51de6

@@ -1,6 +1,8 @@
 taxon_id,rank,simple_name,reason,TC_URL
 t0009100,Genus,× Chrinephrium,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0009100
 t0009100,Genus,× Chrinephrium,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0009100
+t0025574,Genus,× Brassolaelia,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0025574
+t0025574,Genus,× Brassolaelia,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0025574
 t0026413,Subspecies,Crepidomanes minutum subsp. proliferum,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0026413
 t0033619,Subspecies,Aerobryopsis subdivergens subsp. scariosa,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0033619
 t0033661,Subspecies,Ainsliaea latifolia subsp. henryi,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0033661
@@ -24,7 +26,6 @@ t0054213,Subspecies,Leptochloa fusca subsp. fascicularis,特殊符號錯誤,http
 t0054214,Subspecies,Leptochloa fusca subsp. uninervia,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0054214
 t0054302,Subspecies,Lobelia alsinoides subsp. hancei,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0054302
 t0054422,Subspecies,Melaleuca cajuputi subsp. cumingiana,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0054422
-t0054930,Subspecies,Portulaca pilosa subsp. grandiflora,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0054930
 t0055045,Subspecies,Raphanus raphanistrum subsp. sativus,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0055045
 t0055100,Subspecies,Rhynchospora rugosa subsp. brownii,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0055100
 t0055189,Subspecies,Sagittaria guayanensis subsp. lappula,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0055189
@@ -87,12 +88,10 @@ t0084596,Subspecies,Dumasia villosa subsp. bicolor,特殊符號錯誤,https://ta
 t0084597,Subspecies,Glycine max subsp. formosana,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084597
 t0084598,Subspecies,Gnaphalium luteoalbum subsp. luteoalbum,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084598
 t0084599,Subspecies,Gynura divaricata subsp. formosana,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084599
-t0084600,Subspecies,Heteropappus hispidus subsp. arenarius,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084600
 t0084601,Subspecies,Ludwigia epilobioides subsp. greatrexii,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084601
 t0084602,Subspecies,Marchantia emarginata subsp. tosana,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084602
 t0084603,Subspecies,Marchantia paleacea subsp. diptera,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084603
 t0084604,Subspecies,Marchantia paleacea subsp. paleacea,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084604
-t0084606,Subspecies,Mentha arvensis subsp. piperascens,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084606
 t0084607,Subspecies,Meteorium miquelianum subsp. atrovariegatum,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084607
 t0084608,Subspecies,Mucuna gigantea subsp. tashiroi,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084608
 t0084609,Subspecies,Mylia verrucosa subsp. nuda,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084609
@@ -106,6 +105,7 @@ t0084617,Subspecies,Porella acutifolia subsp. tosana,特殊符號錯誤,https://
 t0084618,Subspecies,Porella gracillima subsp. gracillima,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084618
 t0084619,Subspecies,Porella gracillima subsp. urogea,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084619
 t0084620,Subspecies,Prunella vulgaris subsp. asiatica,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084620
+t0084621,Subspecies,Pueraria lobata subsp. thomsonii,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084621
 t0084623,Subspecies,Rubus pseudoacer subsp. flexuosus,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084623
 t0084624,Subspecies,Scapania ligulata subsp. ligulata,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084624
 t0084625,Subspecies,Scapania ligulata subsp. stephanii,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0084625
@@ -130,7 +130,6 @@ t0085095,Subspecies,Cornus kousa subsp. chinensis,特殊符號錯誤,https://tai
 t0085096,Subspecies,Cyperus nutans subsp. subprolixus,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0085096
 t0085097,Subspecies,Cyrtomium falcatum subsp. australe,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0085097
 t0085098,Subspecies,Dryopteris wallichiana subsp. nepalensis,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0085098
-t0085099,Subspecies,Lotus corniculatus subsp. japonicus,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0085099
 t0085101,Subspecies,Phyllanthus urinaria subsp. nudicarpus,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0085101
 t0085104,Subspecies,Youngia japonica subsp. monticola,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0085104
 t0086507,Subspecies,Amanita hemibapha subsp. hemibapha,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0086507
@@ -174,7 +173,6 @@ t0091507,Subspecies,Anabaena azollae subsp. imbricatae,特殊符號錯誤,https:
 t0091508,Subspecies,Bacillus subtilis subsp. inaquosorum,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0091508
 t0091509,Subspecies,Bacillus thuringiensis subsp. israelensis,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0091509
 t0091510,Subspecies,Bacillus thuringiensis subsp. kurstaki,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0091510
-t0093705,Genus,SinYhikalia,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0093705
 t0100680,Subspecies,Passiflora suberosa subsp. litoralis,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0100680
 t0101125,Subspecies,Cladonia rangiferina subsp. grisea,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0101125
 t0101126,Subspecies,Oxalis griffithii subsp. formosana,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0101126

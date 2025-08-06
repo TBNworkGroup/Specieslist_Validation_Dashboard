@@ -1,53 +1,10 @@
 taxonUUID,taxonRank,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,number_of_occurrence,TT_URL
 abcf389a-6b0d-4677-8c45-140fdb8180bf,species,Cryptococcus neoformans,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/abcf389a-6b0d-4677-8c45-140fdb8180bf
 ade8ec95-3d1c-478f-af4c-bd9abc2787e5,species,Florisphaera profunda,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/ade8ec95-3d1c-478f-af4c-bd9abc2787e5
-fa00e918-cc98-4457-8c2e-b272672908d0,species,Paracalanidae tenuis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/fa00e918-cc98-4457-8c2e-b272672908d0
-1dfceb9b-b141-4f1d-96a5-e1c7a2ba1b8b,species,Tribonema bombycinum,"","","","","","",種與種下原生性空白,4,https://taxatree.tbn.org.tw/taxa/1dfceb9b-b141-4f1d-96a5-e1c7a2ba1b8b
-d455f4d4-f0e6-4a0f-b2aa-3bc8c8934134,species,Grifola rosularis,"","","","","","",種與種下原生性空白,3,https://taxatree.tbn.org.tw/taxa/d455f4d4-f0e6-4a0f-b2aa-3bc8c8934134
-1add46ba-1129-4996-9cf5-1d2c37f07f50,species,Grifola frondosa,"","","","","","",種與種下原生性空白,2,https://taxatree.tbn.org.tw/taxa/1add46ba-1129-4996-9cf5-1d2c37f07f50
-0b4a8003-ffdb-4641-a80d-2416f2b919ca,species,Tyromyces incarnatus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/0b4a8003-ffdb-4641-a80d-2416f2b919ca
-1446426c-333c-4a1b-884e-971e8917f921,species,Tyromyces subcaesius,"","","","","","",種與種下原生性空白,1,https://taxatree.tbn.org.tw/taxa/1446426c-333c-4a1b-884e-971e8917f921
-961273d6-5fdb-4060-b9cc-5f06e94421f1,species,Tyromyces subgiganteus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/961273d6-5fdb-4060-b9cc-5f06e94421f1
-040d6b07-b658-458d-beb5-defa0e8f4927,species,Tyromyces taxi,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/040d6b07-b658-458d-beb5-defa0e8f4927
-6b93cbc8-dcc5-4734-ba16-0f922a69a036,species,Tyromyces wakefieldiae,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/6b93cbc8-dcc5-4734-ba16-0f922a69a036
-c312e364-8a08-4675-bb16-9840940b51e2,species,Tyromyces cerifluus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/c312e364-8a08-4675-bb16-9840940b51e2
-5d67d43b-5447-4c0a-ab05-ac1f3776a814,species,Tyromyces formosanus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/5d67d43b-5447-4c0a-ab05-ac1f3776a814
-e7210766-88a8-4843-9f63-690e05630c8b,species,Rhodosporidium fluviale,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/e7210766-88a8-4843-9f63-690e05630c8b
-522e11db-8666-46d9-9b0e-e65b961d1a72,species,Rhodosporidium toruloides,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/522e11db-8666-46d9-9b0e-e65b961d1a72
-b0bb501e-6bfd-4410-a103-49d8a1f659fb,species,Naemateloma fasciculare,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/b0bb501e-6bfd-4410-a103-49d8a1f659fb
-6419534b-4fcd-439d-afcb-d0f37ead126d,species,Entrophospora microspore,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/6419534b-4fcd-439d-afcb-d0f37ead126d
-89b9301a-b016-484d-a6a3-8b82afa38cf8,species,Entrophospora macrospora,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/89b9301a-b016-484d-a6a3-8b82afa38cf8
-db065f55-03c9-4258-9a41-d7da2054bfee,species,Entrophospora kentinensis,"","","","","","",種與種下原生性空白,2,https://taxatree.tbn.org.tw/taxa/db065f55-03c9-4258-9a41-d7da2054bfee
-f13a3170-150b-4db5-8561-b843445ef58f,species,Entrophospora infrequens,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/f13a3170-150b-4db5-8561-b843445ef58f
-303ee058-fd9c-40a9-9d49-181f47013160,species,Entrophospora columviana,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/303ee058-fd9c-40a9-9d49-181f47013160
-48a5418e-2f0e-4e87-8bc2-df01f360c1de,species,Erynia neoaphidis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/48a5418e-2f0e-4e87-8bc2-df01f360c1de
-7f8188ac-342c-4564-88ac-9fe29b1496b4,species,Endoxylina mori,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/7f8188ac-342c-4564-88ac-9fe29b1496b4
-2d399483-b532-46f4-81d4-40daf546e760,species,Physalosporella stephaniae,"","","","","","",種與種下原生性空白,1,https://taxatree.tbn.org.tw/taxa/2d399483-b532-46f4-81d4-40daf546e760
-b5ffc0eb-7dc3-4b28-9fbb-945db366e1c8,species,Stomiopeltella desmodii,"","","","","","",種與種下原生性空白,2,https://taxatree.tbn.org.tw/taxa/b5ffc0eb-7dc3-4b28-9fbb-945db366e1c8
-0475d075-6dc2-4be2-8596-929941facf28,species,Bahusaganda toruloides,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/0475d075-6dc2-4be2-8596-929941facf28
-deec8490-0777-4853-8069-1b0fd60169e3,species,Sterigmatobotrys uniseptata,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/deec8490-0777-4853-8069-1b0fd60169e3
-0ba1b679-0cab-4fde-ad4a-0b023f3e1d6c,species,Trichosperma triramiferum,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/0ba1b679-0cab-4fde-ad4a-0b023f3e1d6c
-29b6b711-cd77-45a8-891c-d0af6ac08b9b,species,Trichosperma variabile,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/29b6b711-cd77-45a8-891c-d0af6ac08b9b
-f0db787b-b41b-4541-bf33-3e470d9af478,species,Strigula elegans,"","","","","","",種與種下原生性空白,18,https://taxatree.tbn.org.tw/taxa/f0db787b-b41b-4541-bf33-3e470d9af478
 c481ecfd-69a3-4383-880b-594de346a790,species,Candida rugosa,"","","","","","",種與種下原生性空白,4,https://taxatree.tbn.org.tw/taxa/c481ecfd-69a3-4383-880b-594de346a790
 4a5acb5a-0e07-45ff-839a-ae42a032356f,species,Candida tropicalis,"","","","","","",種與種下原生性空白,8,https://taxatree.tbn.org.tw/taxa/4a5acb5a-0e07-45ff-839a-ae42a032356f
 06c67f88-729a-4871-a33d-3d037382b56d,species,Candida zeylanoides,"","","","","","",種與種下原生性空白,3,https://taxatree.tbn.org.tw/taxa/06c67f88-729a-4871-a33d-3d037382b56d
-5d675431-80a7-4b6c-8aa1-df4c319a6e3c,species,Stentorella igneus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/5d675431-80a7-4b6c-8aa1-df4c319a6e3c
-edaf2ca5-fc71-46a7-9d1b-fdbc9d7cf126,species,Stentorella polymorphus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/edaf2ca5-fc71-46a7-9d1b-fdbc9d7cf126
-bc7ed559-2d2f-40a0-8cf5-ef7c2d2fb2cb,species,Stentorella viridis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/bc7ed559-2d2f-40a0-8cf5-ef7c2d2fb2cb
 21c8f558-cc6d-477e-a781-0020873146c9,species,Eupatorium cannabinum,"","","","","","",種與種下原生性空白,156,https://taxatree.tbn.org.tw/taxa/21c8f558-cc6d-477e-a781-0020873146c9
 8625eb13-be70-4a83-9b42-7be07609743f,species,Desmodium laxum,"","","","","","",種與種下原生性空白,299,https://taxatree.tbn.org.tw/taxa/8625eb13-be70-4a83-9b42-7be07609743f
 6178a4bc-0816-4024-adbe-85fa8405e7d9,species,Desmodium podocarpum,"","","","","","",種與種下原生性空白,69,https://taxatree.tbn.org.tw/taxa/6178a4bc-0816-4024-adbe-85fa8405e7d9
 10479fc8-3e9b-441e-a34f-875ce412704f,species,Desmodium incanum,"","","","","","",種與種下原生性空白,1,https://taxatree.tbn.org.tw/taxa/10479fc8-3e9b-441e-a34f-875ce412704f
-d69e3872-b695-4ffc-a91d-0b9c2a77343e,infraspecies,Alauda gulgula wattersi,"",原生 Native,"","易危（VU, Vulnerable）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,3827,https://taxatree.tbn.org.tw/taxa/d69e3872-b695-4ffc-a91d-0b9c2a77343e
-9472d259-7d45-491b-9cdf-a71df39b5fb1,infraspecies,Alauda gulgula coelivox,"",原生 Native,"","易危（VU, Vulnerable）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,70,https://taxatree.tbn.org.tw/taxa/9472d259-7d45-491b-9cdf-a71df39b5fb1
-715e85f6-310c-4537-98a4-8a1e2c525210,infraspecies,Lanius schach schach,"",原生 Native,"","易危（VU, Vulnerable）","暫無危機（LC, Least Concern）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,1519,https://taxatree.tbn.org.tw/taxa/715e85f6-310c-4537-98a4-8a1e2c525210
-82dcdb31-782c-4dc4-a926-9c53011a355e,infraspecies,Limosa lapponica baueri,"",原生 Native,"","易危（VU, Vulnerable）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,111,https://taxatree.tbn.org.tw/taxa/82dcdb31-782c-4dc4-a926-9c53011a355e
-e19ce850-d71b-4fd8-95cf-15ee3fc6f6b1,infraspecies,Limosa lapponica menzbieri,"",原生 Native,"","易危（VU, Vulnerable）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,0,https://taxatree.tbn.org.tw/taxa/e19ce850-d71b-4fd8-95cf-15ee3fc6f6b1
-01125462-4b56-411a-aa54-a3fcd4324da7,infraspecies,Pachyrhynchus nobilis yamianus,台灣特有,原生 Native,珍貴稀有保育類野生動物,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,26,https://taxatree.tbn.org.tw/taxa/01125462-4b56-411a-aa54-a3fcd4324da7
-3202dfd5-62aa-430f-aa2b-b666f144ca2d,infraspecies,Pachyrhynchus sarcitis kotoensis,台灣特有,原生 Native,珍貴稀有保育類野生動物,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,24,https://taxatree.tbn.org.tw/taxa/3202dfd5-62aa-430f-aa2b-b666f144ca2d
-d7bc3d04-5be2-44a8-834a-cf5e5d566747,infraspecies,Sasakia charonda formosana,"",原生 Native,瀕臨絕種保育類野生動物,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,185,https://taxatree.tbn.org.tw/taxa/d7bc3d04-5be2-44a8-834a-cf5e5d566747
-f63b489a-0daf-4d23-a912-a8a3232d50aa,infraspecies,Troides aeacus kaguya,"",原生 Native,其他應予保育之野生動物,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,612,https://taxatree.tbn.org.tw/taxa/f63b489a-0daf-4d23-a912-a8a3232d50aa
-1685f070-42f9-4252-8c42-f9e406600d27,infraspecies,Troides magellanus sonani,"",原生 Native,瀕臨絕種保育類野生動物,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,912,https://taxatree.tbn.org.tw/taxa/1685f070-42f9-4252-8c42-f9e406600d27
-9257f937-a5bb-427e-97a4-edc17c6441a6,species,Aquila chrysaetos,"",原生 Native,珍貴稀有保育類野生動物,"","暫無危機（LC, Least Concern）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,4,https://taxatree.tbn.org.tw/taxa/9257f937-a5bb-427e-97a4-edc17c6441a6
-d1a7c39c-4e12-4bd8-b5a6-2fd344dfb35c,infraspecies,Calidris falcinellus sibirica,"",原生 Native,"","暫無危機（LC, Least Concern）","易危（VU, Vulnerable）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,70,https://taxatree.tbn.org.tw/taxa/d1a7c39c-4e12-4bd8-b5a6-2fd344dfb35c
