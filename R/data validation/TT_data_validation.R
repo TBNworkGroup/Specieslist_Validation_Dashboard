@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250806"  # 舉例
+modified_date <- "20250813"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -726,7 +726,7 @@ for (i in 1:nrow(df_speciesinfraspecies_attribute_mismatch)) {
 df_speciesinfraspecies_attribute_mismatch$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_speciesinfraspecies_attribute_mismatch$taxonUUID)
 fwrite(df_speciesinfraspecies_attribute_mismatch, "../../data/output/TT_speciesinfraspecies_attribute_mismatch.csv")
 
-
+ 
 #### === 確認結果 ===
 # A: 重複學名 -> df_duplicates_result
 # B: 欄位錯誤 -> df_errors
