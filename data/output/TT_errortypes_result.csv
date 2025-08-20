@@ -14,6 +14,8 @@ df8c669c-cfa7-441c-a364-571c601c9037,genus,,,,,,× Vandaenopsis,,,,,,,高階層�
 18e1a9b1-137d-4826-956e-5c19d1baf556,genus,,,,,,× Vandanthe,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/18e1a9b1-137d-4826-956e-5c19d1baf556
 d9cc5769-e6f7-491f-b76a-b633f29637db,genus,,,,,,× Phalandopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/d9cc5769-e6f7-491f-b76a-b633f29637db
 fa561dd6-3909-42f3-9bc2-e4444c64c707,species,,,,,,,sp.,,,,,,錯誤符號與括號前後空格,10,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707
+b73f5cf7-9328-455d-b82d-b59f6309d925,infraspecies,,,,,,,Nymphaea,,,,,,大小寫錯誤,1,https://taxatree.tbn.org.tw/taxa/b73f5cf7-9328-455d-b82d-b59f6309d925
+75ab21bb-eb46-4adb-a87d-6415da49f474,infraspecies,,,,,,,Nymphaea,,,,,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/75ab21bb-eb46-4adb-a87d-6415da49f474
 44f652d1-36ad-414e-9c7c-a4daee60d033,species,,,,,,× Ascocenda,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/44f652d1-36ad-414e-9c7c-a4daee60d033
 13e48885-8e08-475c-b332-434fdf538dc5,species,,,,,,× Brassidium,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/13e48885-8e08-475c-b332-434fdf538dc5
 b621834d-279d-449b-977f-03ca5c0c7609,species,,,,,,× Brassocattleya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/b621834d-279d-449b-977f-03ca5c0c7609
@@ -28,11 +30,13 @@ c2a8b686-31bc-42c8-8ef8-991d62f28a9a,species,,,,,,× Potinara,,,,,,,高階層欄
 20c7e668-07d7-4321-ae3d-9ef454b08928,species,,,,,,× Vandaenopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/20c7e668-07d7-4321-ae3d-9ef454b08928
 8d0f281b-87d1-4c1b-bf0c-3959c6558925,species,,,,,,× Vandanthe,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/8d0f281b-87d1-4c1b-bf0c-3959c6558925
 ab85b04f-2d91-4215-98ad-90b5402c5474,species,,,,,,× Phalandopsis,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/ab85b04f-2d91-4215-98ad-90b5402c5474
+35b6cb36-b0eb-4f2b-b488-1e96ec0dd975,infraspecies,,,,,,,Lysimachia,,,,,,大小寫錯誤,40,https://taxatree.tbn.org.tw/taxa/35b6cb36-b0eb-4f2b-b488-1e96ec0dd975
 885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,,,,,,,,,,,'Array',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519
-d4462017-0b38-4b00-9bd5-5505d8668eac,species,,,,,,,sinensis formosae × Pycnonotus taivanus,,,,,,大小寫錯誤,1552,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac
-a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,,,,,,,canorus × Garrulax taewanus,,,,,,大小寫錯誤,478,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379
+d4462017-0b38-4b00-9bd5-5505d8668eac,species,,,,,,,sinensis formosae × Pycnonotus taivanus,,,,,,大小寫錯誤,1554,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac
+a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,,,,,,,canorus × Garrulax taewanus,,,,,,大小寫錯誤,485,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379
+1ff5c161-9a9a-4ac6-bf30-d399926ed2a9,infraspecies,,,,,,,Mucuna,,,,,,大小寫錯誤,6,https://taxatree.tbn.org.tw/taxa/1ff5c161-9a9a-4ac6-bf30-d399926ed2a9
 1027baf9-badd-47c6-807b-b45fec382348,genus,,,,,,× Rhaphiobotrya,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/1027baf9-badd-47c6-807b-b45fec382348
-8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,,,,,,,,,,,'Big Purple',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd
-3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,,,,,,,,,,,'Shu',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a
-3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,,,,,,,,,,,'Baimiao',,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da
+8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,,,,,,,,,,,Big Purple,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd
+3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,,,,,,,,,,,Shu,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a
+3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,,,,,,,,,,,Baimiao,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da
 e7fcc177-ddde-4e80-8519-e09dd930bb17,species,,,,,,,fuscoguttatus × Epinephelus lanceolatus,,,,,,大小寫錯誤,10,https://taxatree.tbn.org.tw/taxa/e7fcc177-ddde-4e80-8519-e09dd930bb17
