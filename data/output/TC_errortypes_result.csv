@@ -1,8 +1,16 @@
 taxon_id,rank,simple_name,reason,TC_URL
 t0009100,Genus,× Chrinephrium,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0009100
 t0009100,Genus,× Chrinephrium,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0009100
+t0025573,Genus,Brassavola × Cattleya,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0025573
+t0025573,Genus,Brassavola × Cattleya,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0025573
 t0025574,Genus,× Brassolaelia,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0025574
 t0025574,Genus,× Brassolaelia,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0025574
+t0025575,Genus,× Brassolaeliocattleya,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0025575
+t0025575,Genus,× Brassolaeliocattleya,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0025575
+t0025661,Genus,× Epiphronitis,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0025661
+t0025661,Genus,× Epiphronitis,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0025661
+t0025939,Genus,× Vandanthe,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0025939
+t0025939,Genus,× Vandanthe,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0025939
 t0026413,Subspecies,Crepidomanes minutum subsp. proliferum,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0026413
 t0033619,Subspecies,Aerobryopsis subdivergens subsp. scariosa,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0033619
 t0033661,Subspecies,Ainsliaea latifolia subsp. henryi,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0033661
@@ -200,3 +208,5 @@ t0106491,Subspecies,Eupatorium cannabinum subsp. asiaticum,特殊符號錯誤,ht
 t0106540,Subspecies,Cyperus alternifolius subsp. flabelliformis,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0106540
 t0106552,Subspecies,Epilobium amurense subsp. amurense,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0106552
 t0106569,Subspecies,Balanophora fungosa subsp. fungosa,特殊符號錯誤,https://taicol.tw/zh-hant/taxon/t0106569
+t0122680,Genus,× Epicattleya,高階層多詞格式錯誤,https://taicol.tw/zh-hant/taxon/t0122680
+t0122680,Genus,× Epicattleya,高階層大小寫格式錯誤,https://taicol.tw/zh-hant/taxon/t0122680

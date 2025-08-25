@@ -137,6 +137,7 @@ t0014978,Genus,Pollinia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-ha
 t0015225,Genus,Prosopis,"Fabricius, 1804",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015225
 t0015272,Genus,Prunella,"Vieillot, 1816",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015272
 t0015566,Genus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015566
+t0015734,Genus,Ranzania,"Bertoloni, 1855",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015734
 t0015862,Genus,Rhodobium,"Hille Ris Lambers, 1947",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015862
 t0015880,Genus,Rhopographus,"Konow, 1899",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015880
 t0015921,Genus,Rhytisma,"Alderslade, 2000",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015921
@@ -297,6 +298,7 @@ t0122235,Genus,Dracaena,"Daudin, 1801",TRUE,FALSE,FALSE,學名重複,https://tai
 t0122494,Subgenus,Metriogryllacris,"Karny, 1937",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122494
 t0122538,Genus,Quadrula,"Rafinesque, 1820",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122538
 t0122596,Subgenus,Plagiorhynchus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122596
+t0122659,Genus,Ranzania,T.Itô,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122659
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
