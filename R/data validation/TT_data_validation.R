@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250825"  # 舉例
+modified_date <- "20250903"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -229,6 +229,7 @@ df_TTsubset <- df_TTsplist %>%
     genus, specificEpithet, subspecies, variety, form, cultigen,
     simplifiedScientificName
   )
+df_TTsubset$genus <- str_replace_all(df_TTsubset$genus, "<i>|</i>", "")
 
 
 for (i in seq_len(nrow(df_TTsubset))) {

@@ -1,13 +1,7 @@
 taxonUUID,taxonRank,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,number_of_occurrence,TT_URL
-abcf389a-6b0d-4677-8c45-140fdb8180bf,species,Cryptococcus neoformans,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/abcf389a-6b0d-4677-8c45-140fdb8180bf
-ade8ec95-3d1c-478f-af4c-bd9abc2787e5,species,Florisphaera profunda,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/ade8ec95-3d1c-478f-af4c-bd9abc2787e5
-c481ecfd-69a3-4383-880b-594de346a790,species,Candida rugosa,"","","","","","",種與種下原生性空白,4,https://taxatree.tbn.org.tw/taxa/c481ecfd-69a3-4383-880b-594de346a790
-4a5acb5a-0e07-45ff-839a-ae42a032356f,species,Candida tropicalis,"","","","","","",種與種下原生性空白,8,https://taxatree.tbn.org.tw/taxa/4a5acb5a-0e07-45ff-839a-ae42a032356f
-06c67f88-729a-4871-a33d-3d037382b56d,species,Candida zeylanoides,"","","","","","",種與種下原生性空白,3,https://taxatree.tbn.org.tw/taxa/06c67f88-729a-4871-a33d-3d037382b56d
 21c8f558-cc6d-477e-a781-0020873146c9,species,Eupatorium cannabinum,"","","","","","",種與種下原生性空白,155,https://taxatree.tbn.org.tw/taxa/21c8f558-cc6d-477e-a781-0020873146c9
-8625eb13-be70-4a83-9b42-7be07609743f,species,Desmodium laxum,"","","","","","",種與種下原生性空白,299,https://taxatree.tbn.org.tw/taxa/8625eb13-be70-4a83-9b42-7be07609743f
-6178a4bc-0816-4024-adbe-85fa8405e7d9,species,Desmodium podocarpum,"","","","","","",種與種下原生性空白,69,https://taxatree.tbn.org.tw/taxa/6178a4bc-0816-4024-adbe-85fa8405e7d9
 10479fc8-3e9b-441e-a34f-875ce412704f,species,Desmodium incanum,"","","","","","",種與種下原生性空白,1,https://taxatree.tbn.org.tw/taxa/10479fc8-3e9b-441e-a34f-875ce412704f
+652f825e-fe39-4d90-90a3-40f0d507e7b2,infraspecies,Gallinago gallinago gallinago,"",原生 Native,"","易危（VU, Vulnerable）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,296,https://taxatree.tbn.org.tw/taxa/652f825e-fe39-4d90-90a3-40f0d507e7b2
 23d4bdd3-6d39-4827-adc4-78cfcabbe2db,species,Fimbristylis acuminata,"",原生 Native,"","區域滅絕（RE, Regionally Extinct）","暫無危機（LC, Least Concern）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,1,https://taxatree.tbn.org.tw/taxa/23d4bdd3-6d39-4827-adc4-78cfcabbe2db
 e4ed96cf-133a-4854-9acd-76984fb37ac2,species,Rhododendron kanehirae,台灣特有,原生 Native,"","野外滅絕（EW, Extinct in the Wild）","野外滅絕（EW, Extinct in the Wild）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,155,https://taxatree.tbn.org.tw/taxa/e4ed96cf-133a-4854-9acd-76984fb37ac2
 137744a6-4665-48f2-bdbf-38e1843b9f00,species,Nymphaea pygmaea,"",原生 Native,"","野外滅絕（EW, Extinct in the Wild）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,0,https://taxatree.tbn.org.tw/taxa/137744a6-4665-48f2-bdbf-38e1843b9f00
