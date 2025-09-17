@@ -39,9 +39,9 @@ t0102330,Subspecies,t0032417,Rallus aquaticus korejewi,native,TRUE,"","","","",t
 t0032877,Species,t0016486,Sinotaia quadrata,native,TRUE,"","",LC,"",t0032877,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032877
 t0086252,Subspecies,t0032877,Sinotaia quadrata aeruginosa,native,TRUE,"","","","",t0032877,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086252
 t0086253,Subspecies,t0032877,Sinotaia quadrata heudei,native,TRUE,"","","","",t0032877,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086253
-t0033180,Species,t0017035,Synoicus chinensis,native,TRUE,II,EN,LC,"",t0033180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0033180
+t0033180,Species,t0017035,Synoicus chinensis,native,TRUE,II,EN,LC,輕度,t0033180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0033180
 t0100994,Subspecies,t0033180,Synoicus chinensis chinensis,native,TRUE,"",EN,"","",t0033180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0100994
-t0033180,Species,t0017035,Synoicus chinensis,native,TRUE,II,EN,LC,"",t0033180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0033180
+t0033180,Species,t0017035,Synoicus chinensis,native,TRUE,II,EN,LC,輕度,t0033180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0033180
 t0100994,Subspecies,t0033180,Synoicus chinensis chinensis,native,TRUE,"",EN,"","",t0033180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0100994
 t0036471,Species,t0015027,Pomacea bridgesii,cultured,TRUE,"","",LC,"",t0036471,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0036471
 t0086143,Subspecies,t0036471,Pomacea bridgesii effusa,cultured,TRUE,"","","","",t0036471,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086143
@@ -183,6 +183,8 @@ t0105432,Subspecies,t0083776,Pericrocotus roseus roseus,native,TRUE,"","","","",
 t0084611,Species,t0024433,Oxalis griffithii,"",TRUE,"","","","",t0084611,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084611
 t0084612,Subspecies,t0084611,Oxalis griffithii subsp. taimonii,native,TRUE,"",VU,"",輕度,t0084611,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084612
 t0101126,Subspecies,t0084611,Oxalis griffithii subsp. formosana,native,TRUE,"",LC,"","",t0084611,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0101126
+t0085439,Species,t0123517,Anarhynchus mongolus,native,TRUE,"",LC,EN,"",t0085439,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085439
+t0085440,Subspecies,t0085439,Charadrius mongolus stegmanni,native,TRUE,"",LC,"","",t0085439,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085440
 t0086298,Species,t0102344,Spilopelia chinensis,native,TRUE,"",LC,LC,"",t0086298,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086298
 t0102334,Subspecies,t0086298,Spilopelia chinensis chinensis,native,TRUE,"",LC,"","",t0086298,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0102334
 t0027176,Subspecies,t0095945,Ixias pyrene insignis,native,TRUE,"",NT,"","",t0095945,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0027176
@@ -351,7 +353,7 @@ t0096472,Species,t0023034,Mustela sibirica,native,TRUE,"",LC,LC,"",t0096472,IUCN
 t0085957,Subspecies,t0096487,Myiomela leucura montium,native,TRUE,III,LC,"","",t0096487,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085957
 t0096487,Species,t0023054,Myiomela leucura,native,TRUE,III,LC,LC,"",t0096487,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096487
 t0028153,Subspecies,t0096489,Myotis fimbriatus taiwanensis,native,TRUE,"",LC,"","",t0096489,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0028153
-t0096489,Species,t0023070,Myotis fimbriatus,native,TRUE,"",LC,LC,輕度,t0096489,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096489
+t0096489,Species,t0023070,Myotis fimbriatus,native,TRUE,"",LC,LC,"",t0096489,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096489
 t0085958,Subspecies,t0096490,Myotis formosus flavus,native,TRUE,"",VU,"","",t0096490,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085958
 t0096490,Species,t0023070,Myotis formosus,native,TRUE,"",VU,DD,縣市,t0096490,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096490
 t0084879,Subspecies,t0096509,Nacaduba kurava therasia,native,TRUE,"",LC,"","",t0096509,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084879
@@ -381,7 +383,7 @@ t0096605,Species,t0017901,Tylosurus acus,native,TRUE,"","",LC,"",t0096605,IUCN�
 t0028423,Subspecies,t0096606,Tylosurus crocodilus crocodilus,native,TRUE,"","","","",t0096606,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0028423
 t0096606,Species,t0017901,Tylosurus crocodilus,native,TRUE,"","",LC,"",t0096606,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096606
 t0086407,Subspecies,t0096610,Tyto longimembris pithecops,native,TRUE,I,EN,"","",t0096610,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086407
-t0096610,Species,t0017920,Tyto longimembris,native,TRUE,I,EN,LC,"",t0096610,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096610
+t0096610,Species,t0017920,Tyto longimembris,native,TRUE,I,EN,LC,重度,t0096610,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096610
 t0085112,Subspecies,t0096620,Upupa epops saturata,native,TRUE,"",LC,"","",t0096620,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085112
 t0096620,Species,t0017962,Upupa epops,native,TRUE,"",LC,LC,"",t0096620,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096620
 t0086411,Subspecies,t0096626,Uria aalge inornata,native,TRUE,"","","","",t0096626,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086411
@@ -702,9 +704,6 @@ t0085437,Subspecies,t0097636,Charadrius hiaticula tundrae,native,TRUE,"","","","
 t0097636,Species,t0011694,Charadrius hiaticula,native,TRUE,"","",LC,"",t0097636,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0097636
 t0085438,Subspecies,t0097637,Charadrius leschenaultii leschenaultii,native,TRUE,"",LC,"","",t0097637,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085438
 t0097637,Species,t0011694,Charadrius leschenaultii,native,TRUE,"",LC,LC,"",t0097637,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0097637
-t0085439,Subspecies,t0097638,Charadrius mongolus mongolus,native,TRUE,"",LC,"","",t0097638,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085439
-t0085440,Subspecies,t0097638,Charadrius mongolus stegmanni,native,TRUE,"",LC,"","",t0097638,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085440
-t0097638,Species,t0011694,Charadrius mongolus,native,TRUE,"",LC,EN,"",t0097638,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0097638
 t0030372,Subspecies,t0097646,Cheilopogon pinnatibarbatus pinnatibarbatus,native,TRUE,"","","","",t0097646,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0030372
 t0097646,Species,t0011728,Cheilopogon pinnatibarbatus,native,TRUE,"","",LC,"",t0097646,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0097646
 t0084729,Subspecies,t0097658,Chilades pandava peripatria,native,TRUE,"",LC,"","",t0097658,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084729
@@ -828,7 +827,7 @@ t0098056,Species,t0013113,Niltava sundara,native,TRUE,"","",LC,"",t0098056,IUCN�
 t0085970,Subspecies,t0098059,Ninox japonica japonica,native,TRUE,II,LC,"","",t0098059,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085970
 t0098059,Species,t0013115,Ninox japonica,native,TRUE,II,LC,LC,"",t0098059,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098059
 t0085974,Subspecies,t0098063,Nisaetus nipalensis nipalensis,native,TRUE,I,VU,"","",t0098063,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085974
-t0098063,Species,t0013154,Nisaetus nipalensis,native,TRUE,I,VU,NT,"",t0098063,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098063
+t0098063,Species,t0013154,Nisaetus nipalensis,native,TRUE,I,VU,NT,重度,t0098063,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098063
 t0084899,Subspecies,t0098079,Notocrypta feisthamelii alinkara,native,TRUE,"","","","",t0098079,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084899
 t0084900,Subspecies,t0098079,Notocrypta feisthamelii arisana,native,TRUE,"",NT,"","",t0098079,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084900
 t0098079,Species,t0013215,Notocrypta feisthamelii,"",TRUE,"",NT,"","",t0098079,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0098079
@@ -856,13 +855,13 @@ t0086012,Subspecies,t0098161,Onychothemis testacea tonkinensis,native,TRUE,"",""
 t0098161,Species,t0013469,Onychothemis testacea,"",TRUE,"","",LC,"",t0098161,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098161
 t0086019,Subspecies,t0098180,Oriolus chinensis diffusus,native,TRUE,II,VU,"","",t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0086019
 t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,naturalized,TRUE,"","","","",t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0086020
-t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,"",t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0098180
+t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,重度,t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0098180
 t0086019,Subspecies,t0098180,Oriolus chinensis diffusus,native,TRUE,II,VU,"","",t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086019
 t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,naturalized,TRUE,"","","","",t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086020
-t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,"",t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0098180
+t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,重度,t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0098180
 t0086019,Subspecies,t0098180,Oriolus chinensis diffusus,native,TRUE,II,VU,"","",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086019
 t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,naturalized,TRUE,"","","","",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086020
-t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,"",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098180
+t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,重度,t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098180
 t0086021,Subspecies,t0098181,Oriolus traillii ardens,native,TRUE,II,LC,"","",t0098181,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086021
 t0098181,Species,t0013573,Oriolus traillii,native,TRUE,II,LC,LC,"",t0098181,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098181
 t0086024,Subspecies,t0098194,Orthetrum albistylum speciosum,native,TRUE,"","","","",t0098194,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086024
@@ -1181,10 +1180,10 @@ t0085166,Subspecies,t0099766,Acisoma panorpoides panorpoides,native,TRUE,"","","
 t0099766,Species,t0009339,Acisoma panorpoides,"",TRUE,"","",LC,"",t0099766,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099766
 t0085170,Subspecies,t0099779,Acridotheres cristatellus cristatellus,native,TRUE,II,LC,"","",t0099779,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0085170
 t0085171,Subspecies,t0099779,Acridotheres cristatellus formosanus,native,TRUE,II,NT,"","",t0099779,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0085171
-t0099779,Species,t0009371,Acridotheres cristatellus,native,TRUE,II,LC,LC,"",t0099779,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0099779
+t0099779,Species,t0009371,Acridotheres cristatellus,native,TRUE,II,LC,LC,輕度,t0099779,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0099779
 t0085170,Subspecies,t0099779,Acridotheres cristatellus cristatellus,native,TRUE,II,LC,"","",t0099779,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085170
 t0085171,Subspecies,t0099779,Acridotheres cristatellus formosanus,native,TRUE,II,NT,"","",t0099779,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085171
-t0099779,Species,t0009371,Acridotheres cristatellus,native,TRUE,II,LC,LC,"",t0099779,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099779
+t0099779,Species,t0009371,Acridotheres cristatellus,native,TRUE,II,LC,LC,輕度,t0099779,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099779
 t0085172,Subspecies,t0099780,Acridotheres tristis tristis,invasive,TRUE,"","","","",t0099780,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085172
 t0099780,Species,t0009371,Acridotheres tristis,invasive,TRUE,"","",LC,"",t0099780,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099780
 t0085173,Subspecies,t0099781,Acrocephalus concinens concinens,native,TRUE,"","","","",t0099781,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085173
@@ -1336,3 +1335,9 @@ t0058911,Subspecies,t0107533,Cyperus sesquiflorus subsp. cylindricus,native,TRUE
 t0107533,Species,t0023618,Cyperus sesquiflorus,"",TRUE,"","",LC,"",t0107533,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0107533
 t0058911,Subspecies,t0107533,Cyperus sesquiflorus subsp. cylindricus,native,TRUE,"",LC,"","",t0107533,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0058911
 t0107533,Species,t0023618,Cyperus sesquiflorus,"",TRUE,"","",LC,"",t0107533,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0107533
+t0123516,Species,t0014925,Pnoepyga pusilla,native,TRUE,"","",LC,"",t0123516,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123516
+t0123544,Subspecies,t0123516,Pnoepyga pusilla pusilla,native,TRUE,"","","","",t0123516,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123544
+t0123539,Species,t0018500,Dendrocopos hyperythrus,native,TRUE,"","",LC,"",t0123539,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123539
+t0123540,Subspecies,t0123539,Dendrocopos hyperythrus subrufinus,native,TRUE,"","","","",t0123539,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123540
+t0123542,Species,t0123519,Orthotomus sutorius,native,TRUE,"","",LC,"",t0123542,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123542
+t0123543,Subspecies,t0123542,Orthotomus sutorius longicauda,native,TRUE,"","","","",t0123542,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123543

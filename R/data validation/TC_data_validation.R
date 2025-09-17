@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250910"  # 舉例
+modified_date <- "20250917"  # 舉例
 
 
 # 先抓第一頁
@@ -263,10 +263,7 @@ df_TC_redlist <- df_TC_attribute %>%
     sensitive == "",
     redlist %in% c(
       "VU",
-      "RE",
-      "EW",
       "CR",
-      "EX",
       "EN"
     )
   )
@@ -281,7 +278,6 @@ df_TC_IUCN <- df_TC_attribute %>%
     sensitive == "",
     iucn %in% c(
       "VU",
-      "EX",
       "CR",
       "EN"
     )
