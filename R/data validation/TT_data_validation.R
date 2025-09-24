@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250917"  # 舉例
+modified_date <- "20250924"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -217,6 +217,17 @@ check_higher_rank_format <- function(string, columnname) {
   }
 }
 
+check_authorship_space_error <- function(string) {
+  # 只檢查頭尾或連續空格
+  if (str_starts(string, " ") || str_ends(string, " ") || str_detect(string, "  ")) {
+    return(TRUE)
+  } else {
+    return(FALSE)
+  }
+}
+
+
+
 
 # (B1) 對非 simplifiedScientificName 欄位執行檢查
 # 模仿 Python 的 iterrows()，逐列 + 逐欄檢查
@@ -227,7 +238,7 @@ df_TTsubset <- df_TTsplist %>%
   select(
     taxonUUID, taxonRank, kingdom, phylum, class, order, family,
     genus, specificEpithet, subspecies, variety, form, cultigen,
-    simplifiedScientificName
+    simplifiedScientificName, authorship, subspeciesAuthorship, varietyAuthorship, formAuthorship
   )
 df_TTsubset$genus <- str_replace_all(df_TTsubset$genus, "<i>|</i>", "")
 
@@ -251,6 +262,19 @@ for (i in seq_len(nrow(df_TTsubset))) {
     if (colname == "simplifiedScientificName") {
       next
     }
+    
+    # authorship 類欄位：只做空白檢查
+    if (colname %in% c("authorship", "subspeciesAuthorship", "varietyAuthorship", "formAuthorship")) {
+      if (check_authorship_space_error(val)) {
+        error_record[["taxonUUID"]] <- row_data[["taxonUUID"]]
+        error_record[["taxonRank"]] <- row_data[["taxonRank"]]
+        error_record[[colname]]     <- val
+        errors_list <- append(errors_list, list(error_record))
+        break
+      }
+      next
+    }
+    
     
     # 執行檢查
     check_result <- FALSE
@@ -293,6 +317,21 @@ df_errors <- do.call(rbind, lapply(errors_list, as.data.frame))
 df_errors <- as.data.frame(df_errors, stringsAsFactors = FALSE)
 
 check_string_vers_detail_extended <- function(string, columnname) {
+  # 命名者欄位的特例檢查：只檢查空格問題
+  if (columnname %in% c("authorship", "subspeciesAuthorship", "varietyAuthorship", "formAuthorship")) {
+    reasons <- character(0)
+    if (str_starts(string, " ")) reasons <- c(reasons, "文字前空格")
+    if (str_ends(string, " ")) reasons <- c(reasons, "文字後空格")
+    if (str_detect(string, "  ")) reasons <- c(reasons, "連續空格")
+    
+    if (length(reasons) > 0) {
+      return("命名者欄位空格錯誤")
+    } else {
+      return("")
+    }
+  }
+  
+  # 一般欄位邏輯開始
   reasons <- character(0)
   
   # 舊有邏輯
@@ -316,7 +355,6 @@ check_string_vers_detail_extended <- function(string, columnname) {
     return(paste(unique(reasons), collapse = ";"))
   }
 }
-
 
 # 先新增欄位 errortypes
 df_errors$errortypes <- NA_character_
@@ -355,6 +393,9 @@ for (i in seq_len(nrow(df_errors))) {
     # flagged_cols 長度是 0 => 找不到出錯欄位, 可能都 NA => 不做事
   }
 }
+
+
+
 for (i in 1:nrow(df_errors)) {
   
   while(TRUE) {

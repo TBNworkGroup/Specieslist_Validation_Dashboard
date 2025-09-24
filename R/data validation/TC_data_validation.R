@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250917"  # 舉例
+modified_date <- "20250924"  # 舉例
 
 
 # 先抓第一頁
@@ -124,11 +124,8 @@ df_TCsubset <- df_TCsplist %>%
 check_string_vers_TC <- function(string) {
   reasons <- character(0)
   
-  if (str_detect(string, "&") || str_detect(string, "_") || str_detect(string, "\\.")) {
-    reasons <- c(reasons, "特殊符號錯誤")
-  }
-  if (str_detect(string, " \\)") || str_detect(string, "\\( ")) {
-    reasons <- c(reasons, "括號前後空白")
+  if (str_detect(string, "&") || str_detect(string, "_") || str_detect(string, "\\.") || str_detect(string, " \\)") || str_detect(string, "\\( ")) {
+    reasons <- c(reasons, "錯誤符號與括號前後空格")
   }
   if (str_starts(string, " ")) {
     reasons <- c(reasons, "文字前空格")
@@ -175,7 +172,7 @@ for (i in seq_len(nrow(df_TCsubset))) {
           taxon_id = row_data[["taxon_id"]],
           rank = rank,
           simple_name = val,
-          reason = "高階層多詞格式錯誤",
+          reason = "高階層欄位出現多詞格式",
           stringsAsFactors = FALSE
         )
       ))
@@ -187,7 +184,7 @@ for (i in seq_len(nrow(df_TCsubset))) {
           taxon_id = row_data[["taxon_id"]],
           rank = rank,
           simple_name = val,
-          reason = "高階層大小寫格式錯誤",
+          reason = "大小寫錯誤",
           stringsAsFactors = FALSE
         )
       ))
