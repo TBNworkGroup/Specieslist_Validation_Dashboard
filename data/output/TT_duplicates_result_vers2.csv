@@ -1,171 +1,399 @@
-taxonUUID,taxonRank,kingdom,simplifiedScientificName,scientificName,authorshipCheck,is_dup_global,is_dup_kingdom,is_dup_kingdom_author,is_dup_kingdom_author_rank,reason,number_of_occurrence,TT_URL
-c81c2d9d-6ab5-461f-ba33-48c46fd7a98f,domain,"",Bacteria,Bacteria,"",TRUE,FALSE,FALSE,FALSE,學名重複,28102,https://taxatree.tbn.org.tw/taxa/c81c2d9d-6ab5-461f-ba33-48c46fd7a98f
-04a87524-3ed5-495d-ab3e-a5689ba55487,order,Animalia,Pholidota,Pholidota,"",TRUE,FALSE,FALSE,FALSE,學名重複,3725,https://taxatree.tbn.org.tw/taxa/04a87524-3ed5-495d-ab3e-a5689ba55487
-79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,學名重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
-b97f04e6-e040-43c4-a957-4c1d09c2094f,kingdom,Cryptista,Cryptista,Cryptista,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/b97f04e6-e040-43c4-a957-4c1d09c2094f
-37612a37-510c-4623-98d7-c9988cae908a,kingdom,Fungi,Fungi,Fungi,"",TRUE,FALSE,FALSE,FALSE,學名重複,34293,https://taxatree.tbn.org.tw/taxa/37612a37-510c-4623-98d7-c9988cae908a
-24f4d33d-6d95-4445-8b31-5fada01a4203,phylum,Chromista,Cryptista,Cryptista,"",TRUE,FALSE,FALSE,FALSE,學名重複,339,https://taxatree.tbn.org.tw/taxa/24f4d33d-6d95-4445-8b31-5fada01a4203
-7e7d991e-7e79-4bc1-ae27-9e10aaa37159,phylum,Fungi,Basidiomycota,Basidiomycota,"",TRUE,FALSE,FALSE,FALSE,學名重複,12054,https://taxatree.tbn.org.tw/taxa/7e7d991e-7e79-4bc1-ae27-9e10aaa37159
-f2746330-97f2-46d7-8b3a-4c48d364dfe2,phylum,Fungi,Ascomycota,Ascomycota,"",TRUE,FALSE,FALSE,FALSE,學名重複,15236,https://taxatree.tbn.org.tw/taxa/f2746330-97f2-46d7-8b3a-4c48d364dfe2
-34ded212-a618-4d6c-bf75-b61bf92a390c,genus,Fungi,Rhopographus,Rhopographus,"",TRUE,FALSE,FALSE,FALSE,學名重複,3,https://taxatree.tbn.org.tw/taxa/34ded212-a618-4d6c-bf75-b61bf92a390c
-963beb97-6539-43f0-9d59-79e39037cb65,genus,Fungi,Japonia,Japonia,"",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/963beb97-6539-43f0-9d59-79e39037cb65
-07162fa8-253e-4db2-bd80-9299cf011b7a,genus,Animalia,Scaphidium,Scaphidium,"",TRUE,FALSE,FALSE,FALSE,學名重複,38,https://taxatree.tbn.org.tw/taxa/07162fa8-253e-4db2-bd80-9299cf011b7a
-de1d8bfb-3271-428b-86cc-303471dc4040,kingdom,Bacteria,Bacteria,Bacteria,"",TRUE,FALSE,FALSE,FALSE,學名重複,28100,https://taxatree.tbn.org.tw/taxa/de1d8bfb-3271-428b-86cc-303471dc4040
-3316e7dc-d682-465d-8816-6b3c01f755a9,genus,Animalia,Gustavia,Gustavia,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/3316e7dc-d682-465d-8816-6b3c01f755a9
-fa5a85b7-9570-4bcf-89c7-ba6249b7967a,genus,Animalia,Actaea,Actaea,"",TRUE,FALSE,FALSE,FALSE,學名重複,3,https://taxatree.tbn.org.tw/taxa/fa5a85b7-9570-4bcf-89c7-ba6249b7967a
-dd7858f4-5dc2-42ca-ab01-85b356179aae,genus,Animalia,Ione,Ione,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/dd7858f4-5dc2-42ca-ab01-85b356179aae
-9a1555e2-fb63-4063-8bec-6a755f824ba1,genus,Animalia,Kurzia,Kurzia,"",TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/9a1555e2-fb63-4063-8bec-6a755f824ba1
-904ac4b5-7a51-4cf2-8078-c3aff3526051,genus,Animalia,Tydemania,Tydemania,"",TRUE,FALSE,FALSE,FALSE,學名重複,11,https://taxatree.tbn.org.tw/taxa/904ac4b5-7a51-4cf2-8078-c3aff3526051
-ad8170a9-a1c8-4c24-8847-d0fe674a1e0c,genus,Animalia,Decodon,Decodon,"",TRUE,FALSE,FALSE,FALSE,學名重複,6,https://taxatree.tbn.org.tw/taxa/ad8170a9-a1c8-4c24-8847-d0fe674a1e0c
-c6afdfc3-bf18-4ceb-88b7-b28bfd8710b5,genus,Animalia,Woodsia,Woodsia,"",TRUE,FALSE,FALSE,FALSE,學名重複,7,https://taxatree.tbn.org.tw/taxa/c6afdfc3-bf18-4ceb-88b7-b28bfd8710b5
-a6b0bd81-b456-4290-b3f4-cf5cad8b8926,genus,Animalia,Rondeletia,Rondeletia,"",TRUE,FALSE,FALSE,FALSE,學名重複,6,https://taxatree.tbn.org.tw/taxa/a6b0bd81-b456-4290-b3f4-cf5cad8b8926
-41844a4d-2342-48bc-9630-4c01601e6989,genus,Animalia,Chloris,Chloris,"",TRUE,FALSE,FALSE,FALSE,學名重複,8358,https://taxatree.tbn.org.tw/taxa/41844a4d-2342-48bc-9630-4c01601e6989
-1c4ea7bc-39fe-4f15-bad1-426c0a5242ed,genus,Animalia,Acrocephalus,Acrocephalus,"",TRUE,FALSE,FALSE,FALSE,學名重複,16342,https://taxatree.tbn.org.tw/taxa/1c4ea7bc-39fe-4f15-bad1-426c0a5242ed
-b73ba836-1fba-4b99-bddf-a5aa2dcffe96,genus,Animalia,Leiothrix,Leiothrix,"",TRUE,FALSE,FALSE,FALSE,學名重複,125,https://taxatree.tbn.org.tw/taxa/b73ba836-1fba-4b99-bddf-a5aa2dcffe96
-f7c24568-10b2-40ae-bb66-0b6a16593a05,genus,Animalia,Oenanthe,Oenanthe,"",TRUE,FALSE,FALSE,FALSE,學名重複,505,https://taxatree.tbn.org.tw/taxa/f7c24568-10b2-40ae-bb66-0b6a16593a05
-fa6e869b-7221-45dc-aaf6-fe06384a5237,genus,Animalia,Prunella,Prunella,"",TRUE,FALSE,FALSE,FALSE,學名重複,3903,https://taxatree.tbn.org.tw/taxa/fa6e869b-7221-45dc-aaf6-fe06384a5237
-b58ed814-b7d8-4519-ab01-7d166e579b1b,genus,Animalia,Arenaria,Arenaria,"",TRUE,FALSE,FALSE,FALSE,學名重複,28066,https://taxatree.tbn.org.tw/taxa/b58ed814-b7d8-4519-ab01-7d166e579b1b
-8575a41e-fee1-43ab-becd-dfb51e842422,genus,Animalia,Stenella,Stenella,"",TRUE,FALSE,FALSE,FALSE,學名重複,8274,https://taxatree.tbn.org.tw/taxa/8575a41e-fee1-43ab-becd-dfb51e842422
-00f9e33d-db81-4ba1-81de-cfac599d5f3e,genus,Animalia,Thalia,Thalia,"",TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/00f9e33d-db81-4ba1-81de-cfac599d5f3e
-81f2895b-43b5-4edd-bc4a-411c7360d3ac,genus,Animalia,Donax,Donax,"",TRUE,FALSE,FALSE,FALSE,學名重複,63,https://taxatree.tbn.org.tw/taxa/81f2895b-43b5-4edd-bc4a-411c7360d3ac
-e440e5e8-7113-491c-89e2-bd67bc1a675c,genus,Animalia,Glossocardia,Glossocardia,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/e440e5e8-7113-491c-89e2-bd67bc1a675c
-7aa50df6-2b4c-42f4-980d-84e529ce9ffb,genus,Animalia,Tiarella,Tiarella,"",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/7aa50df6-2b4c-42f4-980d-84e529ce9ffb
-f9b72d5c-fc7f-4f25-bd99-e4b3b3ac6149,genus,Animalia,Pollia,Pollia,"",TRUE,FALSE,FALSE,FALSE,學名重複,50,https://taxatree.tbn.org.tw/taxa/f9b72d5c-fc7f-4f25-bd99-e4b3b3ac6149
-bfb079e2-8df0-4923-9c6d-e8a1d5103da9,genus,Animalia,Myurella,Myurella,"",TRUE,FALSE,FALSE,FALSE,學名重複,12,https://taxatree.tbn.org.tw/taxa/bfb079e2-8df0-4923-9c6d-e8a1d5103da9
-8de13377-2d69-4aa1-b4f3-c9b9eb56eee4,genus,Animalia,Perrottetia,Perrottetia,"",TRUE,FALSE,FALSE,FALSE,學名重複,17,https://taxatree.tbn.org.tw/taxa/8de13377-2d69-4aa1-b4f3-c9b9eb56eee4
-3683b4d0-787f-40eb-985b-0ec02250f103,genus,Animalia,Triphora,Triphora,"",TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/3683b4d0-787f-40eb-985b-0ec02250f103
-bb915520-0756-4b92-8878-78c4f8549c7a,genus,Animalia,Acmella,Acmella,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/bb915520-0756-4b92-8878-78c4f8549c7a
-032db506-44a2-4f1d-912c-979beb0fadd4,genus,Animalia,Sabia,Sabia,"",TRUE,FALSE,FALSE,FALSE,學名重複,20,https://taxatree.tbn.org.tw/taxa/032db506-44a2-4f1d-912c-979beb0fadd4
-cc102571-cbb4-4a2a-a48f-9633d9126b9f,genus,Animalia,Stellaria,Stellaria,"",TRUE,FALSE,FALSE,FALSE,學名重複,31,https://taxatree.tbn.org.tw/taxa/cc102571-cbb4-4a2a-a48f-9633d9126b9f
-48970af9-ea46-4ff8-b721-55d6d010bca7,genus,Animalia,Okenia,Okenia,"",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/48970af9-ea46-4ff8-b721-55d6d010bca7
-8b269452-215f-42d4-9815-0bb95e837367,genus,Animalia,Ficus,Ficus,"",TRUE,FALSE,FALSE,FALSE,學名重複,149,https://taxatree.tbn.org.tw/taxa/8b269452-215f-42d4-9815-0bb95e837367
-b31a1dda-1182-4131-8671-543d57d626be,genus,Animalia,Sarcophyton,Sarcophyton,"",TRUE,FALSE,FALSE,FALSE,學名重複,424,https://taxatree.tbn.org.tw/taxa/b31a1dda-1182-4131-8671-543d57d626be
-6e3cc6e0-907f-4e9f-829f-00a8070718dd,genus,Animalia,Culcita,Culcita,"",TRUE,FALSE,FALSE,FALSE,學名重複,90,https://taxatree.tbn.org.tw/taxa/6e3cc6e0-907f-4e9f-829f-00a8070718dd
-fd0579df-026f-4b43-af17-4de37d38912b,genus,Animalia,Breynia,Breynia,"",TRUE,FALSE,FALSE,FALSE,學名重複,12,https://taxatree.tbn.org.tw/taxa/fd0579df-026f-4b43-af17-4de37d38912b
-595559c1-0859-418e-91d0-a0e1ba9e03e9,genus,Animalia,Chelidonium,Chelidonium,"",TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/595559c1-0859-418e-91d0-a0e1ba9e03e9
-efff4ff7-20c2-4acf-9eb8-05d2e4cfc68c,genus,Animalia,Chondria,Chondria,"",TRUE,FALSE,FALSE,FALSE,學名重複,3,https://taxatree.tbn.org.tw/taxa/efff4ff7-20c2-4acf-9eb8-05d2e4cfc68c
-002ceacc-ad5b-4e00-b68f-0d8c3a12da77,genus,Animalia,Trichodesma,Trichodesma,"",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/002ceacc-ad5b-4e00-b68f-0d8c3a12da77
-33e610b2-3104-4499-b5ac-37a466c2adb2,genus,Animalia,Anticlea,Anticlea,"",TRUE,FALSE,FALSE,FALSE,學名重複,34,https://taxatree.tbn.org.tw/taxa/33e610b2-3104-4499-b5ac-37a466c2adb2
-3b704432-52bc-4bb4-85dc-3be57192dfa4,genus,Animalia,Laelia,Laelia,"",TRUE,FALSE,FALSE,FALSE,學名重複,334,https://taxatree.tbn.org.tw/taxa/3b704432-52bc-4bb4-85dc-3be57192dfa4
-677c84ac-6f7f-4ff3-88cb-9d299c9870c0,genus,Animalia,Aglaomorpha,Aglaomorpha,"",TRUE,FALSE,FALSE,FALSE,學名重複,1070,https://taxatree.tbn.org.tw/taxa/677c84ac-6f7f-4ff3-88cb-9d299c9870c0
-6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,學名重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
-8d573ab2-6d68-4b3e-a0c2-195ea4ca1b8a,genus,Animalia,Scoparia,Scoparia,"",TRUE,FALSE,FALSE,FALSE,學名重複,12,https://taxatree.tbn.org.tw/taxa/8d573ab2-6d68-4b3e-a0c2-195ea4ca1b8a
-8093c2f8-e4f3-4652-9d2e-6e98204da502,genus,Animalia,Satyrium,Satyrium,"",TRUE,FALSE,FALSE,FALSE,學名重複,511,https://taxatree.tbn.org.tw/taxa/8093c2f8-e4f3-4652-9d2e-6e98204da502
-30abee3e-d1c7-412f-bedb-e9bcd408c019,genus,Animalia,Graphium,Graphium,"",TRUE,FALSE,FALSE,FALSE,學名重複,11533,https://taxatree.tbn.org.tw/taxa/30abee3e-d1c7-412f-bedb-e9bcd408c019
-50ecf301-9744-4e4d-9ae0-db64e3258b9c,genus,Animalia,Pieris,Pieris,"",TRUE,FALSE,FALSE,FALSE,學名重複,11260,https://taxatree.tbn.org.tw/taxa/50ecf301-9744-4e4d-9ae0-db64e3258b9c
-62b8c414-1676-4ddd-ab3e-14549a4394f7,genus,Animalia,Thunbergia,Thunbergia,"",TRUE,FALSE,FALSE,FALSE,學名重複,63,https://taxatree.tbn.org.tw/taxa/62b8c414-1676-4ddd-ab3e-14549a4394f7
-817c644e-2723-4bc9-9c18-d07200e21e53,genus,Animalia,Aquarius,Aquarius,"",TRUE,FALSE,FALSE,FALSE,學名重複,1174,https://taxatree.tbn.org.tw/taxa/817c644e-2723-4bc9-9c18-d07200e21e53
-b8baa300-6488-47a9-af83-326b5b502506,genus,Animalia,Platypleura,Platypleura,"",TRUE,FALSE,FALSE,FALSE,學名重複,902,https://taxatree.tbn.org.tw/taxa/b8baa300-6488-47a9-af83-326b5b502506
-8ae4b103-4604-4191-9682-37345cadafe6,genus,Animalia,Kerria,Kerria,"",TRUE,FALSE,FALSE,FALSE,學名重複,12,https://taxatree.tbn.org.tw/taxa/8ae4b103-4604-4191-9682-37345cadafe6
-c03212b9-03b5-44d5-9b1e-525c411b2e98,genus,Animalia,Agathis,Agathis,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/c03212b9-03b5-44d5-9b1e-525c411b2e98
-8dd5db2c-c0bb-4417-ba5f-c58b72f86c22,genus,Animalia,Taiwania,Taiwania,"",TRUE,FALSE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/8dd5db2c-c0bb-4417-ba5f-c58b72f86c22
-97d304a2-6b24-4be4-b035-d54ad83437c8,genus,Animalia,Prosopis,Prosopis,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/97d304a2-6b24-4be4-b035-d54ad83437c8
-41230070-2510-4f5b-a499-0a237cdbd468,genus,Animalia,Ormosia,Ormosia,"",TRUE,FALSE,FALSE,FALSE,學名重複,6,https://taxatree.tbn.org.tw/taxa/41230070-2510-4f5b-a499-0a237cdbd468
-f64c3c38-9a3a-4004-8136-6ab4d06cf5fd,genus,Animalia,Ganonema,Ganonema,"",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/f64c3c38-9a3a-4004-8136-6ab4d06cf5fd
-6490f5e8-7e2e-4b18-9015-6d6245b4585f,genus,Animalia,Rhaphidophora,Rhaphidophora,"",TRUE,FALSE,FALSE,FALSE,學名重複,18,https://taxatree.tbn.org.tw/taxa/6490f5e8-7e2e-4b18-9015-6d6245b4585f
-87fe9b9d-8291-4f3c-8b27-480d2edad7c1,genus,Plantae,Culcita,Culcita,C.Presl,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/87fe9b9d-8291-4f3c-8b27-480d2edad7c1
-335624d8-686d-4049-9921-cc0eb5a0a31e,genus,Plantae,Woodsia,Woodsia,R.Br.,TRUE,FALSE,FALSE,FALSE,學名重複,248,https://taxatree.tbn.org.tw/taxa/335624d8-686d-4049-9921-cc0eb5a0a31e
-c3ffee13-cb8a-461a-b979-b064f24bc2cc,genus,Plantae,Aglaomorpha,Aglaomorpha,Schott,TRUE,FALSE,FALSE,FALSE,學名重複,3127,https://taxatree.tbn.org.tw/taxa/c3ffee13-cb8a-461a-b979-b064f24bc2cc
-2c888e65-cb7c-4a53-974d-6528ee60b2a1,genus,Plantae,Agathis,Agathis,Salisb.,TRUE,FALSE,FALSE,FALSE,學名重複,29,https://taxatree.tbn.org.tw/taxa/2c888e65-cb7c-4a53-974d-6528ee60b2a1
-70611ed0-5e34-4bbd-82de-4f3869edab6f,genus,Plantae,Taiwania,Taiwania,Hayata,TRUE,FALSE,FALSE,FALSE,學名重複,713,https://taxatree.tbn.org.tw/taxa/70611ed0-5e34-4bbd-82de-4f3869edab6f
-a746b22e-9779-4d90-9346-faad3764568c,genus,Plantae,Rhaphidophora,Rhaphidophora,Hassk.,TRUE,FALSE,FALSE,FALSE,學名重複,331,https://taxatree.tbn.org.tw/taxa/a746b22e-9779-4d90-9346-faad3764568c
-76b89eaf-2f11-428a-8dec-9cdb5c9a6886,genus,Plantae,Anticlea,Anticlea,Kunth,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/76b89eaf-2f11-428a-8dec-9cdb5c9a6886
-eb265ae8-767f-41e4-b0ad-ef6d58ed4015,genus,Plantae,Empusa,Empusa,Lindl.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/eb265ae8-767f-41e4-b0ad-ef6d58ed4015
-9a20117b-2613-454d-b5b0-b716a8e8db47,genus,Plantae,Pholidota,Pholidota,Lindl. ex Hook.,TRUE,FALSE,FALSE,FALSE,學名重複,196,https://taxatree.tbn.org.tw/taxa/9a20117b-2613-454d-b5b0-b716a8e8db47
-03d7fef7-e924-4954-8841-8a6398655d8f,genus,Plantae,Triphora,Triphora,Nutt.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/03d7fef7-e924-4954-8841-8a6398655d8f
-0a154352-bbe7-4a7f-8725-57c5109efd23,genus,Plantae,Laelia,Laelia,Lindl.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/0a154352-bbe7-4a7f-8725-57c5109efd23
-355fabc9-918d-4823-b97d-30d338a85fa3,genus,Plantae,Galera,Galera,Blume,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/355fabc9-918d-4823-b97d-30d338a85fa3
-0c218450-c46e-4ae1-8aab-5f35c33458a8,genus,Plantae,Ione,Ione,Lindl.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/0c218450-c46e-4ae1-8aab-5f35c33458a8
-3c0f8b9e-0d65-4406-94c2-e18050feb80d,genus,Plantae,Pollia,Pollia,Thunb.,TRUE,FALSE,FALSE,FALSE,學名重複,3022,https://taxatree.tbn.org.tw/taxa/3c0f8b9e-0d65-4406-94c2-e18050feb80d
-3e4b5546-40e4-4ded-9ec3-4ddaa63de3a4,genus,Plantae,Donax,Donax,Lour.,TRUE,FALSE,FALSE,FALSE,學名重複,80,https://taxatree.tbn.org.tw/taxa/3e4b5546-40e4-4ded-9ec3-4ddaa63de3a4
-b8bc5999-3553-4ebd-8982-3ce2a6cabc23,genus,Plantae,Thalia,Thalia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,17,https://taxatree.tbn.org.tw/taxa/b8bc5999-3553-4ebd-8982-3ce2a6cabc23
-df1899e4-593f-4a17-95b2-81f78c86bdc9,genus,Plantae,Leiothrix,Leiothrix,Ruhland,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/df1899e4-593f-4a17-95b2-81f78c86bdc9
-3881c4a9-c2c3-4653-a502-fa11617274fd,genus,Plantae,Chloris,Chloris,Sw.,TRUE,FALSE,FALSE,FALSE,學名重複,8733,https://taxatree.tbn.org.tw/taxa/3881c4a9-c2c3-4653-a502-fa11617274fd
-a4dfb8c0-cfe2-4745-a832-8bc49a996208,genus,Plantae,Enteropogon,Enteropogon,Nees,TRUE,FALSE,FALSE,FALSE,學名重複,129,https://taxatree.tbn.org.tw/taxa/a4dfb8c0-cfe2-4745-a832-8bc49a996208
-3b56dfb1-e205-48e6-9dd1-0167a210cbaf,genus,Plantae,Chelidonium,Chelidonium,Tourn. ex L.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/3b56dfb1-e205-48e6-9dd1-0167a210cbaf
-16c6789b-0f54-46dc-8468-e09831c13c1b,genus,Plantae,Actaea,Actaea,L.,TRUE,FALSE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/16c6789b-0f54-46dc-8468-e09831c13c1b
-4b1867b5-5781-4d16-9324-91e22a938bf8,genus,Plantae,Sabia,Sabia,Colebr.,TRUE,FALSE,FALSE,FALSE,學名重複,1013,https://taxatree.tbn.org.tw/taxa/4b1867b5-5781-4d16-9324-91e22a938bf8
-6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e,genus,Plantae,Tiarella,Tiarella,L.,TRUE,FALSE,FALSE,FALSE,學名重複,26,https://taxatree.tbn.org.tw/taxa/6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e
-da1a7875-2752-4c1b-82be-82d10125df0e,genus,Plantae,Ormosia,Ormosia,Jacks.,TRUE,FALSE,FALSE,FALSE,學名重複,576,https://taxatree.tbn.org.tw/taxa/da1a7875-2752-4c1b-82be-82d10125df0e
-4aefb6f0-522f-4b83-97ed-9af1b257ae1e,genus,Plantae,Prosopis,Prosopis,L.,TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/4aefb6f0-522f-4b83-97ed-9af1b257ae1e
-7cc45f32-8695-434b-aeed-2454fbe98e81,genus,Plantae,Kerria,Kerria,DC.,TRUE,FALSE,FALSE,FALSE,學名重複,4,https://taxatree.tbn.org.tw/taxa/7cc45f32-8695-434b-aeed-2454fbe98e81
-6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9,genus,Plantae,Ficus,Ficus,L.,TRUE,FALSE,FALSE,FALSE,學名重複,60185,https://taxatree.tbn.org.tw/taxa/6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9
-30e83e13-7764-4bae-97db-60a9341dc098,genus,Plantae,Breynia,Breynia,J.R.Forst. & G.Forst.,TRUE,FALSE,FALSE,FALSE,學名重複,2264,https://taxatree.tbn.org.tw/taxa/30e83e13-7764-4bae-97db-60a9341dc098
-52604a3c-f0d3-44df-af2f-132abc500082,genus,Plantae,Decodon,Decodon,J.F.Gmel.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/52604a3c-f0d3-44df-af2f-132abc500082
-40d8add7-14b4-4fb8-ae48-1eca7e6068b3,genus,Plantae,Perrottetia,Perrottetia,Kunth.,TRUE,FALSE,FALSE,FALSE,學名重複,902,https://taxatree.tbn.org.tw/taxa/40d8add7-14b4-4fb8-ae48-1eca7e6068b3
-0f266630-4a09-4851-8899-27caf2ad6090,genus,Plantae,Arenaria,Arenaria,L.,TRUE,FALSE,FALSE,FALSE,學名重複,313,https://taxatree.tbn.org.tw/taxa/0f266630-4a09-4851-8899-27caf2ad6090
-e21edb09-d2b3-4b3e-9230-f8b14f0d37fa,genus,Plantae,Stellaria,Stellaria,L.,TRUE,FALSE,FALSE,FALSE,學名重複,3573,https://taxatree.tbn.org.tw/taxa/e21edb09-d2b3-4b3e-9230-f8b14f0d37fa
-501dca1d-fd1e-4204-beca-8aea79a7f0aa,genus,Plantae,Okenia,Okenia,Schltdl. & Cham.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/501dca1d-fd1e-4204-beca-8aea79a7f0aa
-7305997e-18fe-45fa-8074-edd4d46c1835,genus,Plantae,Gustavia,Gustavia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/7305997e-18fe-45fa-8074-edd4d46c1835
-43be76ca-33d4-43ad-93b9-8daf5c35bcc6,genus,Plantae,Pieris,Pieris,D.Don,TRUE,FALSE,FALSE,FALSE,學名重複,2312,https://taxatree.tbn.org.tw/taxa/43be76ca-33d4-43ad-93b9-8daf5c35bcc6
-a74dc8b0-6892-4332-89cd-45487a3bfebc,genus,Plantae,Rondeletia,Rondeletia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,7,https://taxatree.tbn.org.tw/taxa/a74dc8b0-6892-4332-89cd-45487a3bfebc
-00688827-ea01-4dfd-a593-808f2dc2e134,genus,Plantae,Trichodesma,Trichodesma,R.Br.,TRUE,FALSE,FALSE,FALSE,學名重複,1255,https://taxatree.tbn.org.tw/taxa/00688827-ea01-4dfd-a593-808f2dc2e134
-bed37569-49d0-4d8f-946c-e402a50f4494,genus,Plantae,Linaria,Linaria,Mill.,TRUE,FALSE,FALSE,FALSE,學名重複,17,https://taxatree.tbn.org.tw/taxa/bed37569-49d0-4d8f-946c-e402a50f4494
-a91b8c65-4b2b-4718-9249-ee65850b325b,genus,Plantae,Scoparia,Scoparia,L.,TRUE,FALSE,FALSE,FALSE,學名重複,1609,https://taxatree.tbn.org.tw/taxa/a91b8c65-4b2b-4718-9249-ee65850b325b
-6e2e7c5a-0986-48db-94f9-2f5c7eb91b75,genus,Plantae,Manulea,Manulea,L.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/6e2e7c5a-0986-48db-94f9-2f5c7eb91b75
-d82cfda6-d2dd-449a-9c91-b4cbf5158119,genus,Plantae,Thunbergia,Thunbergia,Retz.,TRUE,FALSE,FALSE,FALSE,學名重複,1076,https://taxatree.tbn.org.tw/taxa/d82cfda6-d2dd-449a-9c91-b4cbf5158119
-24597be4-91d3-45a2-8682-c3d666c7c049,genus,Plantae,Prunella,Prunella,L.,TRUE,FALSE,FALSE,FALSE,學名重複,1006,https://taxatree.tbn.org.tw/taxa/24597be4-91d3-45a2-8682-c3d666c7c049
-1f391583-50ca-4996-8944-8791ab04c3dc,genus,Plantae,Acmella,Acmella,Rich. ex Pers.,TRUE,FALSE,FALSE,FALSE,學名重複,562,https://taxatree.tbn.org.tw/taxa/1f391583-50ca-4996-8944-8791ab04c3dc
-3befaa5f-1e3f-43c4-90f8-20d2cb1abb73,genus,Plantae,Glossocardia,Glossocardia,Cass.,TRUE,FALSE,FALSE,FALSE,學名重複,180,https://taxatree.tbn.org.tw/taxa/3befaa5f-1e3f-43c4-90f8-20d2cb1abb73
-b8964a85-fb1b-405a-a0de-5fd5cee8f2a2,genus,Plantae,Oenanthe,Oenanthe,L.,TRUE,FALSE,FALSE,FALSE,學名重複,2441,https://taxatree.tbn.org.tw/taxa/b8964a85-fb1b-405a-a0de-5fd5cee8f2a2
-1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3,genus,Chromista,Cerataulina,Cerataulina,"",TRUE,FALSE,FALSE,FALSE,學名重複,38,https://taxatree.tbn.org.tw/taxa/1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3
-22e4a532-0df1-4099-89b8-c19aed9d59db,genus,Fungi,Lactarius,Lactarius,"",TRUE,FALSE,FALSE,FALSE,學名重複,96,https://taxatree.tbn.org.tw/taxa/22e4a532-0df1-4099-89b8-c19aed9d59db
-2e7dc2ac-65d4-4376-b5df-17168aa8b507,genus,Fungi,Galera,Galera,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/2e7dc2ac-65d4-4376-b5df-17168aa8b507
-78dd11b2-0d00-4042-a026-01d4d95a2337,genus,Fungi,Empusa,Empusa,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/78dd11b2-0d00-4042-a026-01d4d95a2337
-c5240f80-353d-4af8-a643-d9bfe728bd6d,genus,Fungi,Stenella,Stenella,"",TRUE,FALSE,FALSE,FALSE,學名重複,6,https://taxatree.tbn.org.tw/taxa/c5240f80-353d-4af8-a643-d9bfe728bd6d
-7bdc16af-01a4-41ad-ba41-61f1839be722,genus,Fungi,Graphium,Graphium,"",TRUE,FALSE,FALSE,FALSE,學名重複,17,https://taxatree.tbn.org.tw/taxa/7bdc16af-01a4-41ad-ba41-61f1839be722
-951152dd-d47c-4d57-be62-fe409daa912f,genus,Animalia,Rhytisma,Rhytisma,"",TRUE,FALSE,FALSE,FALSE,學名重複,44,https://taxatree.tbn.org.tw/taxa/951152dd-d47c-4d57-be62-fe409daa912f
-e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,Platypleura,Platypleura,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b
-3dac74c4-6ee5-4ee2-89ea-f456295a3f33,genus,Animalia,Lactarius,Lactarius,"",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/3dac74c4-6ee5-4ee2-89ea-f456295a3f33
-77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,Enteropogon,Enteropogon,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/77492479-c45b-46d6-a0d3-796e32b00be7
-6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2,genus,Animalia,Linaria,Linaria,"",TRUE,FALSE,FALSE,FALSE,學名重複,12,https://taxatree.tbn.org.tw/taxa/6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2
-1645ffb5-62ee-4938-93ca-287ba5d3bee4,genus,Animalia,Japonia,Japonia,"",TRUE,FALSE,FALSE,FALSE,學名重複,40,https://taxatree.tbn.org.tw/taxa/1645ffb5-62ee-4938-93ca-287ba5d3bee4
-228b1460-935d-4fb4-91aa-0e60b1a0202c,species,Animalia,Ficus variegata,Ficus variegata,"Roeding, 1798",TRUE,FALSE,FALSE,FALSE,學名重複,34,https://taxatree.tbn.org.tw/taxa/228b1460-935d-4fb4-91aa-0e60b1a0202c
-8e741640-6019-4545-b3ea-ba17029e8209,species,Animalia,Ormosia formosana,Ormosia formosana,"Edwards, 1921",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/8e741640-6019-4545-b3ea-ba17029e8209
-e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,(L.) C.Presl,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
-ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) Spring,(L.) Spring,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
-6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,Tectaria multicaudata,Tectaria multicaudata Ching,Ching,TRUE,TRUE,FALSE,FALSE,學名重複,87,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
-49e1543a-b205-4172-9b2a-037c2bbecb8f,species,Plantae,Ormosia formosana,Ormosia formosana Kaneh.,Kaneh.,TRUE,FALSE,FALSE,FALSE,學名重複,411,https://taxatree.tbn.org.tw/taxa/49e1543a-b205-4172-9b2a-037c2bbecb8f
-71699cd4-689f-4dc7-8920-e946b9938634,species,Plantae,Ficus variegata,Ficus variegata Blume,Blume,TRUE,FALSE,FALSE,FALSE,學名重複,664,https://taxatree.tbn.org.tw/taxa/71699cd4-689f-4dc7-8920-e946b9938634
-5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,Zeuxine strateumatica rupicola,Zeuxine strateumatica var. rupicola (Fukuy.) S.S.Ying,(L.) Schltr.-(Fukuy.) S.S.Ying,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/5623551a-59fa-4b45-a01e-fa53657b7716
-9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,Zeuxine strateumatica rupicola,Zeuxine strateumatica f. rupicola (Fukuy.) T.Hashim.,(L.) Schltr.-(Fukuy.) T.Hashim.,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/9711a88c-f488-4997-9572-cc49e81de6e6
-0da0a81d-19df-43e7-8255-26576d93b2e6,species,Plantae,Begonia ×albopicta,Begonia ×albopicta W.Bull,W.Bull,TRUE,TRUE,FALSE,FALSE,學名重複,3,https://taxatree.tbn.org.tw/taxa/0da0a81d-19df-43e7-8255-26576d93b2e6
-2e7d8185-2c71-4c7e-8b54-4e783dda440e,genus,Plantae,Kurzia,Kurzia,G.Martens,TRUE,FALSE,FALSE,FALSE,學名重複,26,https://taxatree.tbn.org.tw/taxa/2e7d8185-2c71-4c7e-8b54-4e783dda440e
-cf0a1ffc-0c9f-461a-8eda-394ee2d69290,genus,Plantae,Myurella,Myurella,Schimp.,TRUE,FALSE,FALSE,FALSE,學名重複,3,https://taxatree.tbn.org.tw/taxa/cf0a1ffc-0c9f-461a-8eda-394ee2d69290
-83aad3ea-02c0-4055-b8a8-601606d6173b,species,Plantae,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Schiffn.,(Lehm.) Schiffn.,TRUE,TRUE,FALSE,FALSE,學名重複,6,https://taxatree.tbn.org.tw/taxa/83aad3ea-02c0-4055-b8a8-601606d6173b
-2df7cbfe-3b6c-44fb-8b61-5d8b96fdfdfd,genus,Plantae,Tydemania,Tydemania,"",TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/2df7cbfe-3b6c-44fb-8b61-5d8b96fdfdfd
-b7bfe221-18d8-42c6-a779-31bb710ab0f7,genus,Plantae,Chondria,Chondria,"",TRUE,FALSE,FALSE,FALSE,學名重複,26,https://taxatree.tbn.org.tw/taxa/b7bfe221-18d8-42c6-a779-31bb710ab0f7
-1b490559-113c-45d9-ac33-5492d0bdf9d1,genus,Plantae,Ganonema,Ganonema,"",TRUE,FALSE,FALSE,FALSE,學名重複,25,https://taxatree.tbn.org.tw/taxa/1b490559-113c-45d9-ac33-5492d0bdf9d1
-a47ce978-5b75-4790-8101-d2f809d87e15,genus,Animalia,Cerataulina,Cerataulina,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/a47ce978-5b75-4790-8101-d2f809d87e15
-9f92662d-1859-49e7-a0be-9272a8ab6e80,superphylum,Podiata,Fungi,Fungi,"",TRUE,FALSE,FALSE,FALSE,學名重複,7,https://taxatree.tbn.org.tw/taxa/9f92662d-1859-49e7-a0be-9272a8ab6e80
-81a49d92-4b03-4ed6-a57f-621a66f3a519,species,Plantae,Begonia ×albopicta,Begonia ×albopicta Regel ex Regel,Regel ex Regel,TRUE,TRUE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/81a49d92-4b03-4ed6-a57f-621a66f3a519
-8b0940fe-40aa-4acc-b97f-30b14769046a,genus,Plantae,Sarcophyton,Sarcophyton,Juss.,TRUE,FALSE,FALSE,FALSE,學名重複,5,https://taxatree.tbn.org.tw/taxa/8b0940fe-40aa-4acc-b97f-30b14769046a
-c836597e-913b-4239-9a6b-9e735e09c0ea,genus,Animalia,Rhopographus,Rhopographus,"",TRUE,FALSE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/c836597e-913b-4239-9a6b-9e735e09c0ea
-8ab253d4-d6bc-4b4b-9ee0-21fce9f55984,genus,Fungi,Scaphidium,Scaphidium,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/8ab253d4-d6bc-4b4b-9ee0-21fce9f55984
-035202e4-ed3f-44e5-84dc-f86ed9044141,genus,Fungi,Rhytisma,Rhytisma,"",TRUE,FALSE,FALSE,FALSE,學名重複,7,https://taxatree.tbn.org.tw/taxa/035202e4-ed3f-44e5-84dc-f86ed9044141
-7379740e-9d33-4b05-8c2f-a0c0e8120680,genus,Plantae,Aquarius,Aquarius,"",TRUE,FALSE,FALSE,FALSE,學名重複,17,https://taxatree.tbn.org.tw/taxa/7379740e-9d33-4b05-8c2f-a0c0e8120680
-9bd0f7a0-166b-4c04-91d4-44bc997ae3e8,phylum,Podiata,Basidiomycota,Basidiomycota,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/9bd0f7a0-166b-4c04-91d4-44bc997ae3e8
-254dde54-da79-4530-b968-6e003eb136cc,phylum,Podiata,Ascomycota,Ascomycota,"",TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/254dde54-da79-4530-b968-6e003eb136cc
-070cfbe2-789a-4c1b-b8ae-c1008ee97513,genus,Plantae,Satyrium,Satyrium,Sw.,TRUE,FALSE,FALSE,FALSE,學名重複,0,https://taxatree.tbn.org.tw/taxa/070cfbe2-789a-4c1b-b8ae-c1008ee97513
-ad724aea-a658-4c9c-b0ec-13944569e615,genus,Plantae,Acrocephalus,Acrocephalus,Benth.,TRUE,FALSE,FALSE,FALSE,學名重複,1,https://taxatree.tbn.org.tw/taxa/ad724aea-a658-4c9c-b0ec-13944569e615
-a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Plantae,Tectaria multicaudata,Tectaria multicaudata (C.B.Clarke) Ching,(C.B.Clarke) Ching,TRUE,TRUE,FALSE,FALSE,學名重複,63,https://taxatree.tbn.org.tw/taxa/a4f86047-62d7-4ab2-af20-79d1cfb4dba0
-6f795206-cd88-4cd3-bb85-fc9b780cdf37,species,Plantae,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Steph.,(Lehm.) Steph.,TRUE,TRUE,FALSE,FALSE,學名重複,6,https://taxatree.tbn.org.tw/taxa/6f795206-cd88-4cd3-bb85-fc9b780cdf37
-f28abec8-e3e7-4da9-8ee5-b869a445d597,genus,Animalia,Manulea,Manulea,"",TRUE,FALSE,FALSE,FALSE,學名重複,904,https://taxatree.tbn.org.tw/taxa/f28abec8-e3e7-4da9-8ee5-b869a445d597
-2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,Anisophyllum,Anisophyllum,"",TRUE,TRUE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/2892f3ca-35f9-4b07-b812-87241d263efb
-aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,Anisophyllum,Anisophyllum,G.Don ex Benth.,TRUE,TRUE,FALSE,FALSE,學名重複,2,https://taxatree.tbn.org.tw/taxa/aeadab76-407e-478b-906d-a012472b1f0f
-79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
-6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
-e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,(L.) C.Presl,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
-ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,Selaginella circinalis,Selaginella circinalis (L.) Spring,(L.) Spring,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
-6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,Tectaria multicaudata,Tectaria multicaudata Ching,Ching,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,87,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
-5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,Zeuxine strateumatica rupicola,Zeuxine strateumatica var. rupicola (Fukuy.) S.S.Ying,(L.) Schltr.-(Fukuy.) S.S.Ying,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/5623551a-59fa-4b45-a01e-fa53657b7716
-9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,Zeuxine strateumatica rupicola,Zeuxine strateumatica f. rupicola (Fukuy.) T.Hashim.,(L.) Schltr.-(Fukuy.) T.Hashim.,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/9711a88c-f488-4997-9572-cc49e81de6e6
-0da0a81d-19df-43e7-8255-26576d93b2e6,species,Plantae,Begonia ×albopicta,Begonia ×albopicta W.Bull,W.Bull,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,3,https://taxatree.tbn.org.tw/taxa/0da0a81d-19df-43e7-8255-26576d93b2e6
-83aad3ea-02c0-4055-b8a8-601606d6173b,species,Plantae,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Schiffn.,(Lehm.) Schiffn.,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,6,https://taxatree.tbn.org.tw/taxa/83aad3ea-02c0-4055-b8a8-601606d6173b
-81a49d92-4b03-4ed6-a57f-621a66f3a519,species,Plantae,Begonia ×albopicta,Begonia ×albopicta Regel ex Regel,Regel ex Regel,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/81a49d92-4b03-4ed6-a57f-621a66f3a519
-a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Plantae,Tectaria multicaudata,Tectaria multicaudata (C.B.Clarke) Ching,(C.B.Clarke) Ching,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,63,https://taxatree.tbn.org.tw/taxa/a4f86047-62d7-4ab2-af20-79d1cfb4dba0
-6f795206-cd88-4cd3-bb85-fc9b780cdf37,species,Plantae,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Steph.,(Lehm.) Steph.,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,6,https://taxatree.tbn.org.tw/taxa/6f795206-cd88-4cd3-bb85-fc9b780cdf37
-2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,Anisophyllum,Anisophyllum,"",TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,2,https://taxatree.tbn.org.tw/taxa/2892f3ca-35f9-4b07-b812-87241d263efb
-aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,Anisophyllum,Anisophyllum,G.Don ex Benth.,TRUE,TRUE,FALSE,FALSE,相同Kingdom學名重複,2,https://taxatree.tbn.org.tw/taxa/aeadab76-407e-478b-906d-a012472b1f0f
-79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名加命名者重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
-6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,Plecoptera,Plecoptera,"",TRUE,TRUE,TRUE,FALSE,相同Kingdom學名加命名者重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
+taxonUUID,taxonRank,kingdom,taiCOLNameCode,tfNameCode,simplifiedScientificName,scientificName,reason,number_of_occurrence,TT_URL
+c81c2d9d-6ab5-461f-ba33-48c46fd7a98f,domain,"","",C301000000000000000000000000000000000,Bacteria,Bacteria,學名重複,28102,https://taxatree.tbn.org.tw/taxa/c81c2d9d-6ab5-461f-ba33-48c46fd7a98f
+04a87524-3ed5-495d-ab3e-a5689ba55487,order,Animalia,t0002064,"",Pholidota,Pholidota,學名重複,3725,https://taxatree.tbn.org.tw/taxa/04a87524-3ed5-495d-ab3e-a5689ba55487
+79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,t0002075,"",Plecoptera,Plecoptera,學名重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
+b97f04e6-e040-43c4-a957-4c1d09c2094f,kingdom,Cryptista,"",C303100000000000000000000000000000000,Cryptista,Cryptista,學名重複,0,https://taxatree.tbn.org.tw/taxa/b97f04e6-e040-43c4-a957-4c1d09c2094f
+37612a37-510c-4623-98d7-c9988cae908a,kingdom,Fungi,"","",Fungi,Fungi,學名重複,34293,https://taxatree.tbn.org.tw/taxa/37612a37-510c-4623-98d7-c9988cae908a
+24f4d33d-6d95-4445-8b31-5fada01a4203,phylum,Chromista,"","",Cryptista,Cryptista,學名重複,339,https://taxatree.tbn.org.tw/taxa/24f4d33d-6d95-4445-8b31-5fada01a4203
+7e7d991e-7e79-4bc1-ae27-9e10aaa37159,phylum,Fungi,"","",Basidiomycota,Basidiomycota,學名重複,12054,https://taxatree.tbn.org.tw/taxa/7e7d991e-7e79-4bc1-ae27-9e10aaa37159
+f2746330-97f2-46d7-8b3a-4c48d364dfe2,phylum,Fungi,"","",Ascomycota,Ascomycota,學名重複,15236,https://taxatree.tbn.org.tw/taxa/f2746330-97f2-46d7-8b3a-4c48d364dfe2
+34ded212-a618-4d6c-bf75-b61bf92a390c,genus,Fungi,"","",Rhopographus,Rhopographus,學名重複,3,https://taxatree.tbn.org.tw/taxa/34ded212-a618-4d6c-bf75-b61bf92a390c
+963beb97-6539-43f0-9d59-79e39037cb65,genus,Fungi,"","",Japonia,Japonia,學名重複,1,https://taxatree.tbn.org.tw/taxa/963beb97-6539-43f0-9d59-79e39037cb65
+07162fa8-253e-4db2-bd80-9299cf011b7a,genus,Animalia,t0016126,"",Scaphidium,Scaphidium,學名重複,38,https://taxatree.tbn.org.tw/taxa/07162fa8-253e-4db2-bd80-9299cf011b7a
+de1d8bfb-3271-428b-86cc-303471dc4040,kingdom,Bacteria,"","",Bacteria,Bacteria,學名重複,28100,https://taxatree.tbn.org.tw/taxa/de1d8bfb-3271-428b-86cc-303471dc4040
+3316e7dc-d682-465d-8816-6b3c01f755a9,genus,Animalia,t0020305,"",Gustavia,Gustavia,學名重複,0,https://taxatree.tbn.org.tw/taxa/3316e7dc-d682-465d-8816-6b3c01f755a9
+fa5a85b7-9570-4bcf-89c7-ba6249b7967a,genus,Animalia,t0009403,"",Actaea,Actaea,學名重複,3,https://taxatree.tbn.org.tw/taxa/fa5a85b7-9570-4bcf-89c7-ba6249b7967a
+dd7858f4-5dc2-42ca-ab01-85b356179aae,genus,Animalia,t0021149,"",Ione,Ione,學名重複,0,https://taxatree.tbn.org.tw/taxa/dd7858f4-5dc2-42ca-ab01-85b356179aae
+9a1555e2-fb63-4063-8bec-6a755f824ba1,genus,Animalia,t0008911,"",Kurzia,Kurzia,學名重複,4,https://taxatree.tbn.org.tw/taxa/9a1555e2-fb63-4063-8bec-6a755f824ba1
+904ac4b5-7a51-4cf2-8078-c3aff3526051,genus,Animalia,t0008785,"",Tydemania,Tydemania,學名重複,11,https://taxatree.tbn.org.tw/taxa/904ac4b5-7a51-4cf2-8078-c3aff3526051
+ad8170a9-a1c8-4c24-8847-d0fe674a1e0c,genus,Animalia,t0018460,"",Decodon,Decodon,學名重複,6,https://taxatree.tbn.org.tw/taxa/ad8170a9-a1c8-4c24-8847-d0fe674a1e0c
+c6afdfc3-bf18-4ceb-88b7-b28bfd8710b5,genus,Animalia,t0008789,"",Woodsia,Woodsia,學名重複,7,https://taxatree.tbn.org.tw/taxa/c6afdfc3-bf18-4ceb-88b7-b28bfd8710b5
+a6b0bd81-b456-4290-b3f4-cf5cad8b8926,genus,Animalia,t0015956,"",Rondeletia,Rondeletia,學名重複,6,https://taxatree.tbn.org.tw/taxa/a6b0bd81-b456-4290-b3f4-cf5cad8b8926
+41844a4d-2342-48bc-9630-4c01601e6989,genus,Animalia,t0011820,"",Chloris,Chloris,學名重複,8358,https://taxatree.tbn.org.tw/taxa/41844a4d-2342-48bc-9630-4c01601e6989
+1c4ea7bc-39fe-4f15-bad1-426c0a5242ed,genus,Animalia,t0009376,"",Acrocephalus,Acrocephalus,學名重複,16342,https://taxatree.tbn.org.tw/taxa/1c4ea7bc-39fe-4f15-bad1-426c0a5242ed
+b73ba836-1fba-4b99-bddf-a5aa2dcffe96,genus,Animalia,t0021618,"",Leiothrix,Leiothrix,學名重複,125,https://taxatree.tbn.org.tw/taxa/b73ba836-1fba-4b99-bddf-a5aa2dcffe96
+f7c24568-10b2-40ae-bb66-0b6a16593a05,genus,Animalia,t0013361,"",Oenanthe,Oenanthe,學名重複,505,https://taxatree.tbn.org.tw/taxa/f7c24568-10b2-40ae-bb66-0b6a16593a05
+fa6e869b-7221-45dc-aaf6-fe06384a5237,genus,Animalia,t0015272,"",Prunella,Prunella,學名重複,3903,https://taxatree.tbn.org.tw/taxa/fa6e869b-7221-45dc-aaf6-fe06384a5237
+b58ed814-b7d8-4519-ab01-7d166e579b1b,genus,Animalia,t0010303,"",Arenaria,Arenaria,學名重複,28066,https://taxatree.tbn.org.tw/taxa/b58ed814-b7d8-4519-ab01-7d166e579b1b
+8575a41e-fee1-43ab-becd-dfb51e842422,genus,Animalia,t0016756,"",Stenella,Stenella,學名重複,8274,https://taxatree.tbn.org.tw/taxa/8575a41e-fee1-43ab-becd-dfb51e842422
+00f9e33d-db81-4ba1-81de-cfac599d5f3e,genus,Animalia,t0009149,"",Thalia,Thalia,學名重複,4,https://taxatree.tbn.org.tw/taxa/00f9e33d-db81-4ba1-81de-cfac599d5f3e
+81f2895b-43b5-4edd-bc4a-411c7360d3ac,genus,Animalia,t0008875,"",Donax,Donax,學名重複,63,https://taxatree.tbn.org.tw/taxa/81f2895b-43b5-4edd-bc4a-411c7360d3ac
+e440e5e8-7113-491c-89e2-bd67bc1a675c,genus,Animalia,t0008891,"",Glossocardia,Glossocardia,學名重複,0,https://taxatree.tbn.org.tw/taxa/e440e5e8-7113-491c-89e2-bd67bc1a675c
+7aa50df6-2b4c-42f4-980d-84e529ce9ffb,genus,Animalia,t0009152,"",Tiarella,Tiarella,學名重複,1,https://taxatree.tbn.org.tw/taxa/7aa50df6-2b4c-42f4-980d-84e529ce9ffb
+f9b72d5c-fc7f-4f25-bd99-e4b3b3ac6149,genus,Animalia,t0008963,"",Pollia,Pollia,學名重複,50,https://taxatree.tbn.org.tw/taxa/f9b72d5c-fc7f-4f25-bd99-e4b3b3ac6149
+bfb079e2-8df0-4923-9c6d-e8a1d5103da9,genus,Animalia,t0008933,"",Myurella,Myurella,學名重複,12,https://taxatree.tbn.org.tw/taxa/bfb079e2-8df0-4923-9c6d-e8a1d5103da9
+8de13377-2d69-4aa1-b4f3-c9b9eb56eee4,genus,Animalia,t0008954,"",Perrottetia,Perrottetia,學名重複,17,https://taxatree.tbn.org.tw/taxa/8de13377-2d69-4aa1-b4f3-c9b9eb56eee4
+3683b4d0-787f-40eb-985b-0ec02250f103,genus,Animalia,t0017776,"",Triphora,Triphora,學名重複,4,https://taxatree.tbn.org.tw/taxa/3683b4d0-787f-40eb-985b-0ec02250f103
+bb915520-0756-4b92-8878-78c4f8549c7a,genus,Animalia,t0009349,"",Acmella,Acmella,學名重複,0,https://taxatree.tbn.org.tw/taxa/bb915520-0756-4b92-8878-78c4f8549c7a
+032db506-44a2-4f1d-912c-979beb0fadd4,genus,Animalia,t0009129,"",Sabia,Sabia,學名重複,20,https://taxatree.tbn.org.tw/taxa/032db506-44a2-4f1d-912c-979beb0fadd4
+cc102571-cbb4-4a2a-a48f-9633d9126b9f,genus,Animalia,t0016743,"",Stellaria,Stellaria,學名重複,31,https://taxatree.tbn.org.tw/taxa/cc102571-cbb4-4a2a-a48f-9633d9126b9f
+48970af9-ea46-4ff8-b721-55d6d010bca7,genus,Animalia,t0013384,"",Okenia,Okenia,學名重複,1,https://taxatree.tbn.org.tw/taxa/48970af9-ea46-4ff8-b721-55d6d010bca7
+8b269452-215f-42d4-9815-0bb95e837367,genus,Animalia,t0008887,"",Ficus,Ficus,學名重複,149,https://taxatree.tbn.org.tw/taxa/8b269452-215f-42d4-9815-0bb95e837367
+b31a1dda-1182-4131-8671-543d57d626be,genus,Animalia,t0009130,"",Sarcophyton,Sarcophyton,學名重複,424,https://taxatree.tbn.org.tw/taxa/b31a1dda-1182-4131-8671-543d57d626be
+6e3cc6e0-907f-4e9f-829f-00a8070718dd,genus,Animalia,t0012509,"",Culcita,Culcita,學名重複,90,https://taxatree.tbn.org.tw/taxa/6e3cc6e0-907f-4e9f-829f-00a8070718dd
+fd0579df-026f-4b43-af17-4de37d38912b,genus,Animalia,t0009160,"",Breynia,Breynia,學名重複,12,https://taxatree.tbn.org.tw/taxa/fd0579df-026f-4b43-af17-4de37d38912b
+595559c1-0859-418e-91d0-a0e1ba9e03e9,genus,Animalia,t0011744,"",Chelidonium,Chelidonium,學名重複,4,https://taxatree.tbn.org.tw/taxa/595559c1-0859-418e-91d0-a0e1ba9e03e9
+efff4ff7-20c2-4acf-9eb8-05d2e4cfc68c,genus,Animalia,t0009184,"",Chondria,Chondria,學名重複,3,https://taxatree.tbn.org.tw/taxa/efff4ff7-20c2-4acf-9eb8-05d2e4cfc68c
+002ceacc-ad5b-4e00-b68f-0d8c3a12da77,genus,Animalia,t0008782,"",Trichodesma,Trichodesma,學名重複,1,https://taxatree.tbn.org.tw/taxa/002ceacc-ad5b-4e00-b68f-0d8c3a12da77
+33e610b2-3104-4499-b5ac-37a466c2adb2,genus,Animalia,t0010092,"",Anticlea,Anticlea,學名重複,34,https://taxatree.tbn.org.tw/taxa/33e610b2-3104-4499-b5ac-37a466c2adb2
+3b704432-52bc-4bb4-85dc-3be57192dfa4,genus,Animalia,t0021451,"",Laelia,Laelia,學名重複,334,https://taxatree.tbn.org.tw/taxa/3b704432-52bc-4bb4-85dc-3be57192dfa4
+677c84ac-6f7f-4ff3-88cb-9d299c9870c0,genus,Animalia,t0009556,"",Aglaomorpha,Aglaomorpha,學名重複,1070,https://taxatree.tbn.org.tw/taxa/677c84ac-6f7f-4ff3-88cb-9d299c9870c0
+6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,t0093378,"",Plecoptera,Plecoptera,學名重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
+8d573ab2-6d68-4b3e-a0c2-195ea4ca1b8a,genus,Animalia,t0016240,"",Scoparia,Scoparia,學名重複,12,https://taxatree.tbn.org.tw/taxa/8d573ab2-6d68-4b3e-a0c2-195ea4ca1b8a
+8093c2f8-e4f3-4652-9d2e-6e98204da502,genus,Animalia,t0016102,"",Satyrium,Satyrium,學名重複,511,https://taxatree.tbn.org.tw/taxa/8093c2f8-e4f3-4652-9d2e-6e98204da502
+30abee3e-d1c7-412f-bedb-e9bcd408c019,genus,Animalia,t0020278,"",Graphium,Graphium,學名重複,11533,https://taxatree.tbn.org.tw/taxa/30abee3e-d1c7-412f-bedb-e9bcd408c019
+50ecf301-9744-4e4d-9ae0-db64e3258b9c,genus,Animalia,t0014708,"",Pieris,Pieris,學名重複,11260,https://taxatree.tbn.org.tw/taxa/50ecf301-9744-4e4d-9ae0-db64e3258b9c
+62b8c414-1676-4ddd-ab3e-14549a4394f7,genus,Animalia,t0009151,"",Thunbergia,Thunbergia,學名重複,63,https://taxatree.tbn.org.tw/taxa/62b8c414-1676-4ddd-ab3e-14549a4394f7
+817c644e-2723-4bc9-9c18-d07200e21e53,genus,Animalia,t0010247,"",Aquarius,Aquarius,學名重複,1174,https://taxatree.tbn.org.tw/taxa/817c644e-2723-4bc9-9c18-d07200e21e53
+b8baa300-6488-47a9-af83-326b5b502506,genus,Animalia,t0014839,"",Platypleura,Platypleura,學名重複,902,https://taxatree.tbn.org.tw/taxa/b8baa300-6488-47a9-af83-326b5b502506
+8ae4b103-4604-4191-9682-37345cadafe6,genus,Animalia,t0021350,"",Kerria,Kerria,學名重複,12,https://taxatree.tbn.org.tw/taxa/8ae4b103-4604-4191-9682-37345cadafe6
+c03212b9-03b5-44d5-9b1e-525c411b2e98,genus,Animalia,t0009541,"",Agathis,Agathis,學名重複,0,https://taxatree.tbn.org.tw/taxa/c03212b9-03b5-44d5-9b1e-525c411b2e98
+8dd5db2c-c0bb-4417-ba5f-c58b72f86c22,genus,Animalia,t0009146,"",Taiwania,Taiwania,學名重複,2,https://taxatree.tbn.org.tw/taxa/8dd5db2c-c0bb-4417-ba5f-c58b72f86c22
+97d304a2-6b24-4be4-b035-d54ad83437c8,genus,Animalia,t0015225,"",Prosopis,Prosopis,學名重複,0,https://taxatree.tbn.org.tw/taxa/97d304a2-6b24-4be4-b035-d54ad83437c8
+41230070-2510-4f5b-a499-0a237cdbd468,genus,Animalia,t0008944,"",Ormosia,Ormosia,學名重複,6,https://taxatree.tbn.org.tw/taxa/41230070-2510-4f5b-a499-0a237cdbd468
+f64c3c38-9a3a-4004-8136-6ab4d06cf5fd,genus,Animalia,t0008889,"",Ganonema,Ganonema,學名重複,1,https://taxatree.tbn.org.tw/taxa/f64c3c38-9a3a-4004-8136-6ab4d06cf5fd
+6490f5e8-7e2e-4b18-9015-6d6245b4585f,genus,Animalia,t0009125,"",Rhaphidophora,Rhaphidophora,學名重複,18,https://taxatree.tbn.org.tw/taxa/6490f5e8-7e2e-4b18-9015-6d6245b4585f
+87fe9b9d-8291-4f3c-8b27-480d2edad7c1,genus,Plantae,"",C303120303050402040106003000100000000,Culcita,Culcita,學名重複,0,https://taxatree.tbn.org.tw/taxa/87fe9b9d-8291-4f3c-8b27-480d2edad7c1
+335624d8-686d-4049-9921-cc0eb5a0a31e,genus,Plantae,"",C303120303050402040107011000400000000,Woodsia,Woodsia,學名重複,248,https://taxatree.tbn.org.tw/taxa/335624d8-686d-4049-9921-cc0eb5a0a31e
+c3ffee13-cb8a-461a-b979-b064f24bc2cc,genus,Plantae,"",C303120303050402040107023000200000000,Aglaomorpha,Aglaomorpha,學名重複,3127,https://taxatree.tbn.org.tw/taxa/c3ffee13-cb8a-461a-b979-b064f24bc2cc
+2c888e65-cb7c-4a53-974d-6528ee60b2a1,genus,Plantae,"",C303120303050402050402001000300000000,Agathis,Agathis,學名重複,29,https://taxatree.tbn.org.tw/taxa/2c888e65-cb7c-4a53-974d-6528ee60b2a1
+70611ed0-5e34-4bbd-82de-4f3869edab6f,genus,Plantae,"",C303120303050402050403002000200000000,Taiwania,Taiwania,學名重複,713,https://taxatree.tbn.org.tw/taxa/70611ed0-5e34-4bbd-82de-4f3869edab6f
+a746b22e-9779-4d90-9346-faad3764568c,genus,Plantae,"",C303120303050402050510001002300000000,Rhaphidophora,Rhaphidophora,學名重複,331,https://taxatree.tbn.org.tw/taxa/a746b22e-9779-4d90-9346-faad3764568c
+76b89eaf-2f11-428a-8dec-9cdb5c9a6886,genus,Plantae,"",C303120303050402050514003000600000000,Anticlea,Anticlea,學名重複,0,https://taxatree.tbn.org.tw/taxa/76b89eaf-2f11-428a-8dec-9cdb5c9a6886
+eb265ae8-767f-41e4-b0ad-ef6d58ed4015,genus,Plantae,"",C303120303050402050515001004300000000,Empusa,Empusa,學名重複,0,https://taxatree.tbn.org.tw/taxa/eb265ae8-767f-41e4-b0ad-ef6d58ed4015
+9a20117b-2613-454d-b5b0-b716a8e8db47,genus,Plantae,"",C303120303050402050515001008600000000,Pholidota,Pholidota,學名重複,196,https://taxatree.tbn.org.tw/taxa/9a20117b-2613-454d-b5b0-b716a8e8db47
+03d7fef7-e924-4954-8841-8a6398655d8f,genus,Plantae,"",C303120303050402050515001014000000000,Triphora,Triphora,學名重複,0,https://taxatree.tbn.org.tw/taxa/03d7fef7-e924-4954-8841-8a6398655d8f
+0a154352-bbe7-4a7f-8725-57c5109efd23,genus,Plantae,"",C303120303050402050515001016200000000,Laelia,Laelia,學名重複,0,https://taxatree.tbn.org.tw/taxa/0a154352-bbe7-4a7f-8725-57c5109efd23
+355fabc9-918d-4823-b97d-30d338a85fa3,genus,Plantae,"",C303120303050402050515001019700000000,Galera,Galera,學名重複,0,https://taxatree.tbn.org.tw/taxa/355fabc9-918d-4823-b97d-30d338a85fa3
+0c218450-c46e-4ae1-8aab-5f35c33458a8,genus,Plantae,"",C303120303050402050515001021800000000,Ione,Ione,學名重複,0,https://taxatree.tbn.org.tw/taxa/0c218450-c46e-4ae1-8aab-5f35c33458a8
+3c0f8b9e-0d65-4406-94c2-e18050feb80d,genus,Plantae,"",C303120303050402050517002001000000000,Pollia,Pollia,學名重複,3022,https://taxatree.tbn.org.tw/taxa/3c0f8b9e-0d65-4406-94c2-e18050feb80d
+3e4b5546-40e4-4ded-9ec3-4ddaa63de3a4,genus,Plantae,"",C303120303050402050518007000300000000,Donax,Donax,學名重複,80,https://taxatree.tbn.org.tw/taxa/3e4b5546-40e4-4ded-9ec3-4ddaa63de3a4
+b8bc5999-3553-4ebd-8982-3ce2a6cabc23,genus,Plantae,"",C303120303050402050518007000600000000,Thalia,Thalia,學名重複,17,https://taxatree.tbn.org.tw/taxa/b8bc5999-3553-4ebd-8982-3ce2a6cabc23
+df1899e4-593f-4a17-95b2-81f78c86bdc9,genus,Plantae,"",C303120303050402050519005000300000000,Leiothrix,Leiothrix,學名重複,0,https://taxatree.tbn.org.tw/taxa/df1899e4-593f-4a17-95b2-81f78c86bdc9
+3881c4a9-c2c3-4653-a502-fa11617274fd,genus,Plantae,"",C303120303050402050519014003100000000,Chloris,Chloris,學名重複,8733,https://taxatree.tbn.org.tw/taxa/3881c4a9-c2c3-4653-a502-fa11617274fd
+a4dfb8c0-cfe2-4745-a832-8bc49a996208,genus,Plantae,"",C303120303050402050519014005000000000,Enteropogon,Enteropogon,學名重複,129,https://taxatree.tbn.org.tw/taxa/a4dfb8c0-cfe2-4745-a832-8bc49a996208
+3b56dfb1-e205-48e6-9dd1-0167a210cbaf,genus,Plantae,"",C303120303050402050521002000500000000,Chelidonium,Chelidonium,學名重複,0,https://taxatree.tbn.org.tw/taxa/3b56dfb1-e205-48e6-9dd1-0167a210cbaf
+16c6789b-0f54-46dc-8468-e09831c13c1b,genus,Plantae,"",C303120303050402050521007000200000000,Actaea,Actaea,學名重複,2,https://taxatree.tbn.org.tw/taxa/16c6789b-0f54-46dc-8468-e09831c13c1b
+4b1867b5-5781-4d16-9324-91e22a938bf8,genus,Plantae,"",C303120303050402050522001000200000000,Sabia,Sabia,學名重複,1013,https://taxatree.tbn.org.tw/taxa/4b1867b5-5781-4d16-9324-91e22a938bf8
+6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e,genus,Plantae,"",C303120303050402050527009001100000000,Tiarella,Tiarella,學名重複,26,https://taxatree.tbn.org.tw/taxa/6c8c82ba-1d5e-49c1-8c9c-b2e9f72c066e
+da1a7875-2752-4c1b-82be-82d10125df0e,genus,Plantae,"",C303120303050402050530002007900000000,Ormosia,Ormosia,學名重複,576,https://taxatree.tbn.org.tw/taxa/da1a7875-2752-4c1b-82be-82d10125df0e
+4aefb6f0-522f-4b83-97ed-9af1b257ae1e,genus,Plantae,"",C303120303050402050530002012700000000,Prosopis,Prosopis,學名重複,4,https://taxatree.tbn.org.tw/taxa/4aefb6f0-522f-4b83-97ed-9af1b257ae1e
+7cc45f32-8695-434b-aeed-2454fbe98e81,genus,Plantae,"",C303120303050402050531001001600000000,Kerria,Kerria,學名重複,4,https://taxatree.tbn.org.tw/taxa/7cc45f32-8695-434b-aeed-2454fbe98e81
+6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9,genus,Plantae,"",C303120303050402050531008000600000000,Ficus,Ficus,學名重複,60185,https://taxatree.tbn.org.tw/taxa/6ec81bb9-0a0f-4fd7-97a4-02f4e0cf86d9
+30e83e13-7764-4bae-97db-60a9341dc098,genus,Plantae,"",C303120303050402050536036000300000000,Breynia,Breynia,學名重複,2264,https://taxatree.tbn.org.tw/taxa/30e83e13-7764-4bae-97db-60a9341dc098
+52604a3c-f0d3-44df-af2f-132abc500082,genus,Plantae,"",C303120303050402050538002000800000000,Decodon,Decodon,學名重複,0,https://taxatree.tbn.org.tw/taxa/52604a3c-f0d3-44df-af2f-132abc500082
+40d8add7-14b4-4fb8-ae48-1eca7e6068b3,genus,Plantae,"",C303120303050402050541004000100000000,Perrottetia,Perrottetia,學名重複,902,https://taxatree.tbn.org.tw/taxa/40d8add7-14b4-4fb8-ae48-1eca7e6068b3
+0f266630-4a09-4851-8899-27caf2ad6090,genus,Plantae,"",C303120303050402050547016000100000000,Arenaria,Arenaria,學名重複,313,https://taxatree.tbn.org.tw/taxa/0f266630-4a09-4851-8899-27caf2ad6090
+e21edb09-d2b3-4b3e-9230-f8b14f0d37fa,genus,Plantae,"",C303120303050402050547016001400000000,Stellaria,Stellaria,學名重複,3573,https://taxatree.tbn.org.tw/taxa/e21edb09-d2b3-4b3e-9230-f8b14f0d37fa
+501dca1d-fd1e-4204-beca-8aea79a7f0aa,genus,Plantae,"",C303120303050402050547029001400000000,Okenia,Okenia,學名重複,0,https://taxatree.tbn.org.tw/taxa/501dca1d-fd1e-4204-beca-8aea79a7f0aa
+7305997e-18fe-45fa-8074-edd4d46c1835,genus,Plantae,"",C303120303050402050549006000600000000,Gustavia,Gustavia,學名重複,1,https://taxatree.tbn.org.tw/taxa/7305997e-18fe-45fa-8074-edd4d46c1835
+43be76ca-33d4-43ad-93b9-8daf5c35bcc6,genus,Plantae,"",C303120303050402050549021000800000000,Pieris,Pieris,學名重複,2312,https://taxatree.tbn.org.tw/taxa/43be76ca-33d4-43ad-93b9-8daf5c35bcc6
+a74dc8b0-6892-4332-89cd-45487a3bfebc,genus,Plantae,"",C303120303050402050553001001200000000,Rondeletia,Rondeletia,學名重複,7,https://taxatree.tbn.org.tw/taxa/a74dc8b0-6892-4332-89cd-45487a3bfebc
+00688827-ea01-4dfd-a593-808f2dc2e134,genus,Plantae,"",C303120303050402050554001002600000000,Trichodesma,Trichodesma,學名重複,1255,https://taxatree.tbn.org.tw/taxa/00688827-ea01-4dfd-a593-808f2dc2e134
+bed37569-49d0-4d8f-946c-e402a50f4494,genus,Plantae,"",C303120303050402050557007000400000000,Linaria,Linaria,學名重複,17,https://taxatree.tbn.org.tw/taxa/bed37569-49d0-4d8f-946c-e402a50f4494
+a91b8c65-4b2b-4718-9249-ee65850b325b,genus,Plantae,"",C303120303050402050557007000800000000,Scoparia,Scoparia,學名重複,1609,https://taxatree.tbn.org.tw/taxa/a91b8c65-4b2b-4718-9249-ee65850b325b
+6e2e7c5a-0986-48db-94f9-2f5c7eb91b75,genus,Plantae,"",C303120303050402050557008000600000000,Manulea,Manulea,學名重複,0,https://taxatree.tbn.org.tw/taxa/6e2e7c5a-0986-48db-94f9-2f5c7eb91b75
+d82cfda6-d2dd-449a-9c91-b4cbf5158119,genus,Plantae,"",C303120303050402050557014000500000000,Thunbergia,Thunbergia,學名重複,1076,https://taxatree.tbn.org.tw/taxa/d82cfda6-d2dd-449a-9c91-b4cbf5158119
+24597be4-91d3-45a2-8682-c3d666c7c049,genus,Plantae,"",C303120303050402050557020002900000000,Prunella,Prunella,學名重複,1006,https://taxatree.tbn.org.tw/taxa/24597be4-91d3-45a2-8682-c3d666c7c049
+1f391583-50ca-4996-8944-8791ab04c3dc,genus,Plantae,"",C303120303050402050559011002300000000,Acmella,Acmella,學名重複,562,https://taxatree.tbn.org.tw/taxa/1f391583-50ca-4996-8944-8791ab04c3dc
+3befaa5f-1e3f-43c4-90f8-20d2cb1abb73,genus,Plantae,"",C303120303050402050559011010700000000,Glossocardia,Glossocardia,學名重複,180,https://taxatree.tbn.org.tw/taxa/3befaa5f-1e3f-43c4-90f8-20d2cb1abb73
+b8964a85-fb1b-405a-a0de-5fd5cee8f2a2,genus,Plantae,"",C303120303050402050564007003700000000,Oenanthe,Oenanthe,學名重複,2441,https://taxatree.tbn.org.tw/taxa/b8964a85-fb1b-405a-a0de-5fd5cee8f2a2
+1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3,genus,Chromista,"","",Cerataulina,Cerataulina,學名重複,38,https://taxatree.tbn.org.tw/taxa/1e8ffa15-f39c-49d0-a5a4-215baaf9b4a3
+22e4a532-0df1-4099-89b8-c19aed9d59db,genus,Fungi,"","",Lactarius,Lactarius,學名重複,96,https://taxatree.tbn.org.tw/taxa/22e4a532-0df1-4099-89b8-c19aed9d59db
+2e7dc2ac-65d4-4376-b5df-17168aa8b507,genus,Fungi,"","",Galera,Galera,學名重複,0,https://taxatree.tbn.org.tw/taxa/2e7dc2ac-65d4-4376-b5df-17168aa8b507
+78dd11b2-0d00-4042-a026-01d4d95a2337,genus,Fungi,"","",Empusa,Empusa,學名重複,0,https://taxatree.tbn.org.tw/taxa/78dd11b2-0d00-4042-a026-01d4d95a2337
+c5240f80-353d-4af8-a643-d9bfe728bd6d,genus,Fungi,"","",Stenella,Stenella,學名重複,6,https://taxatree.tbn.org.tw/taxa/c5240f80-353d-4af8-a643-d9bfe728bd6d
+7bdc16af-01a4-41ad-ba41-61f1839be722,genus,Fungi,"","",Graphium,Graphium,學名重複,17,https://taxatree.tbn.org.tw/taxa/7bdc16af-01a4-41ad-ba41-61f1839be722
+951152dd-d47c-4d57-be62-fe409daa912f,genus,Animalia,t0015921,"",Rhytisma,Rhytisma,學名重複,44,https://taxatree.tbn.org.tw/taxa/951152dd-d47c-4d57-be62-fe409daa912f
+e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,"","",Platypleura,Platypleura,學名重複,0,https://taxatree.tbn.org.tw/taxa/e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b
+3dac74c4-6ee5-4ee2-89ea-f456295a3f33,genus,Animalia,t0021446,"",Lactarius,Lactarius,學名重複,1,https://taxatree.tbn.org.tw/taxa/3dac74c4-6ee5-4ee2-89ea-f456295a3f33
+77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,"","",Enteropogon,Enteropogon,學名重複,0,https://taxatree.tbn.org.tw/taxa/77492479-c45b-46d6-a0d3-796e32b00be7
+6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2,genus,Animalia,t0008916,"",Linaria,Linaria,學名重複,12,https://taxatree.tbn.org.tw/taxa/6daf9e33-3952-43d5-9ba8-9f6f48b2e9c2
+1645ffb5-62ee-4938-93ca-287ba5d3bee4,genus,Animalia,t0021263,"",Japonia,Japonia,學名重複,40,https://taxatree.tbn.org.tw/taxa/1645ffb5-62ee-4938-93ca-287ba5d3bee4
+228b1460-935d-4fb4-91aa-0e60b1a0202c,species,Animalia,t0029211,"",Ficus variegata,Ficus variegata,學名重複,34,https://taxatree.tbn.org.tw/taxa/228b1460-935d-4fb4-91aa-0e60b1a0202c
+8e741640-6019-4545-b3ea-ba17029e8209,species,Animalia,t0082442,"",Ormosia formosana,Ormosia formosana,學名重複,1,https://taxatree.tbn.org.tw/taxa/8e741640-6019-4545-b3ea-ba17029e8209
+e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,"",C303120303050401020102001000100076000,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,學名重複,0,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
+ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,"",C303120303050401020102001000100077000,Selaginella circinalis,Selaginella circinalis (L.) Spring,學名重複,0,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
+6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,t0026768,C303120303050402040107020000700012000,Tectaria multicaudata,Tectaria multicaudata Ching,學名重複,87,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
+49e1543a-b205-4172-9b2a-037c2bbecb8f,species,Plantae,"",C303120303050402050530002007900001000,Ormosia formosana,Ormosia formosana Kaneh.,學名重複,411,https://taxatree.tbn.org.tw/taxa/49e1543a-b205-4172-9b2a-037c2bbecb8f
+71699cd4-689f-4dc7-8920-e946b9938634,species,Plantae,"",C303120303050402050531008000600030000,Ficus variegata,Ficus variegata Blume,學名重複,664,https://taxatree.tbn.org.tw/taxa/71699cd4-689f-4dc7-8920-e946b9938634
+5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,"",C303120303050402050515001011900012002,Zeuxine strateumatica rupicola,Zeuxine strateumatica var. rupicola (Fukuy.) S.S.Ying,學名重複,0,https://taxatree.tbn.org.tw/taxa/5623551a-59fa-4b45-a01e-fa53657b7716
+9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,"",C303120303050402050515001011900012003,Zeuxine strateumatica rupicola,Zeuxine strateumatica f. rupicola (Fukuy.) T.Hashim.,學名重複,0,https://taxatree.tbn.org.tw/taxa/9711a88c-f488-4997-9572-cc49e81de6e6
+0da0a81d-19df-43e7-8255-26576d93b2e6,species,Plantae,"",C303120303050402050533008000100055000,Begonia ×albopicta,Begonia ×albopicta W.Bull,學名重複,3,https://taxatree.tbn.org.tw/taxa/0da0a81d-19df-43e7-8255-26576d93b2e6
+2e7d8185-2c71-4c7e-8b54-4e783dda440e,genus,Plantae,"",C303120303050102020303002000300000000,Kurzia,Kurzia,學名重複,26,https://taxatree.tbn.org.tw/taxa/2e7d8185-2c71-4c7e-8b54-4e783dda440e
+cf0a1ffc-0c9f-461a-8eda-394ee2d69290,genus,Plantae,"",C303120303050205040712025000200000000,Myurella,Myurella,學名重複,3,https://taxatree.tbn.org.tw/taxa/cf0a1ffc-0c9f-461a-8eda-394ee2d69290
+83aad3ea-02c0-4055-b8a8-601606d6173b,species,Plantae,t0073393,C303120303050102020301006000600009000,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Schiffn.,學名重複,6,https://taxatree.tbn.org.tw/taxa/83aad3ea-02c0-4055-b8a8-601606d6173b
+2df7cbfe-3b6c-44fb-8b61-5d8b96fdfdfd,genus,Plantae,"","",Tydemania,Tydemania,學名重複,1,https://taxatree.tbn.org.tw/taxa/2df7cbfe-3b6c-44fb-8b61-5d8b96fdfdfd
+b7bfe221-18d8-42c6-a779-31bb710ab0f7,genus,Plantae,"","",Chondria,Chondria,學名重複,26,https://taxatree.tbn.org.tw/taxa/b7bfe221-18d8-42c6-a779-31bb710ab0f7
+1b490559-113c-45d9-ac33-5492d0bdf9d1,genus,Plantae,"","",Ganonema,Ganonema,學名重複,25,https://taxatree.tbn.org.tw/taxa/1b490559-113c-45d9-ac33-5492d0bdf9d1
+a47ce978-5b75-4790-8101-d2f809d87e15,genus,Animalia,t0011573,"",Cerataulina,Cerataulina,學名重複,0,https://taxatree.tbn.org.tw/taxa/a47ce978-5b75-4790-8101-d2f809d87e15
+9f92662d-1859-49e7-a0be-9272a8ab6e80,superphylum,Podiata,"",C303110806000000000000000000000000000,Fungi,Fungi,學名重複,7,https://taxatree.tbn.org.tw/taxa/9f92662d-1859-49e7-a0be-9272a8ab6e80
+81a49d92-4b03-4ed6-a57f-621a66f3a519,species,Plantae,"",C303120303050402050533008000100024000,Begonia ×albopicta,Begonia ×albopicta Regel ex Regel,學名重複,0,https://taxatree.tbn.org.tw/taxa/81a49d92-4b03-4ed6-a57f-621a66f3a519
+8b0940fe-40aa-4acc-b97f-30b14769046a,genus,Plantae,"",C303120303050402050515001023400000000,Sarcophyton,Sarcophyton,學名重複,5,https://taxatree.tbn.org.tw/taxa/8b0940fe-40aa-4acc-b97f-30b14769046a
+c836597e-913b-4239-9a6b-9e735e09c0ea,genus,Animalia,t0015880,"",Rhopographus,Rhopographus,學名重複,2,https://taxatree.tbn.org.tw/taxa/c836597e-913b-4239-9a6b-9e735e09c0ea
+8ab253d4-d6bc-4b4b-9ee0-21fce9f55984,genus,Fungi,"","",Scaphidium,Scaphidium,學名重複,0,https://taxatree.tbn.org.tw/taxa/8ab253d4-d6bc-4b4b-9ee0-21fce9f55984
+035202e4-ed3f-44e5-84dc-f86ed9044141,genus,Fungi,"","",Rhytisma,Rhytisma,學名重複,7,https://taxatree.tbn.org.tw/taxa/035202e4-ed3f-44e5-84dc-f86ed9044141
+7379740e-9d33-4b05-8c2f-a0c0e8120680,genus,Plantae,"",C303120303050402050510003001000000000,Aquarius,Aquarius,學名重複,17,https://taxatree.tbn.org.tw/taxa/7379740e-9d33-4b05-8c2f-a0c0e8120680
+9bd0f7a0-166b-4c04-91d4-44bc997ae3e8,phylum,Podiata,"",C303110806180000000000000000000000000,Basidiomycota,Basidiomycota,學名重複,0,https://taxatree.tbn.org.tw/taxa/9bd0f7a0-166b-4c04-91d4-44bc997ae3e8
+254dde54-da79-4530-b968-6e003eb136cc,phylum,Podiata,"",C303110806190000000000000000000000000,Ascomycota,Ascomycota,學名重複,0,https://taxatree.tbn.org.tw/taxa/254dde54-da79-4530-b968-6e003eb136cc
+070cfbe2-789a-4c1b-b8ae-c1008ee97513,genus,Plantae,"",C303120303050402050515001023100000000,Satyrium,Satyrium,學名重複,0,https://taxatree.tbn.org.tw/taxa/070cfbe2-789a-4c1b-b8ae-c1008ee97513
+ad724aea-a658-4c9c-b0ec-13944569e615,genus,Plantae,"",C303120303050402050557020006200000000,Acrocephalus,Acrocephalus,學名重複,1,https://taxatree.tbn.org.tw/taxa/ad724aea-a658-4c9c-b0ec-13944569e615
+a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Plantae,"",C303120303050402040107020000700023000,Tectaria multicaudata,Tectaria multicaudata (C.B.Clarke) Ching,學名重複,63,https://taxatree.tbn.org.tw/taxa/a4f86047-62d7-4ab2-af20-79d1cfb4dba0
+6f795206-cd88-4cd3-bb85-fc9b780cdf37,species,Plantae,"",C303120303050102020301006000600010000,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Steph.,學名重複,6,https://taxatree.tbn.org.tw/taxa/6f795206-cd88-4cd3-bb85-fc9b780cdf37
+f28abec8-e3e7-4da9-8ee5-b869a445d597,genus,Animalia,t0026129,"",Manulea,Manulea,學名重複,904,https://taxatree.tbn.org.tw/taxa/f28abec8-e3e7-4da9-8ee5-b869a445d597
+2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,"",C303120303050402050542005001900000000,Anisophyllum,Anisophyllum,學名重複,2,https://taxatree.tbn.org.tw/taxa/2892f3ca-35f9-4b07-b812-87241d263efb
+aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,"",C303120303050402050533002000100000000,Anisophyllum,Anisophyllum,學名重複,2,https://taxatree.tbn.org.tw/taxa/aeadab76-407e-478b-906d-a012472b1f0f
+79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,t0002075,"",Plecoptera,Plecoptera,相同Kingdom學名重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
+6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,t0093378,"",Plecoptera,Plecoptera,相同Kingdom學名重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
+e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,"",C303120303050401020102001000100076000,Selaginella circinalis,Selaginella circinalis (L.) C.Presl,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/e4ea5b20-a54d-4306-a708-d96fc432a99b
+ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,"",C303120303050401020102001000100077000,Selaginella circinalis,Selaginella circinalis (L.) Spring,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/ce8c5fa8-0847-4b8d-a927-69a1bb65c276
+6b155a86-7faf-4f5f-a36c-2482215d0c03,species,Plantae,t0026768,C303120303050402040107020000700012000,Tectaria multicaudata,Tectaria multicaudata Ching,相同Kingdom學名重複,87,https://taxatree.tbn.org.tw/taxa/6b155a86-7faf-4f5f-a36c-2482215d0c03
+5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,"",C303120303050402050515001011900012002,Zeuxine strateumatica rupicola,Zeuxine strateumatica var. rupicola (Fukuy.) S.S.Ying,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/5623551a-59fa-4b45-a01e-fa53657b7716
+9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,"",C303120303050402050515001011900012003,Zeuxine strateumatica rupicola,Zeuxine strateumatica f. rupicola (Fukuy.) T.Hashim.,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/9711a88c-f488-4997-9572-cc49e81de6e6
+0da0a81d-19df-43e7-8255-26576d93b2e6,species,Plantae,"",C303120303050402050533008000100055000,Begonia ×albopicta,Begonia ×albopicta W.Bull,相同Kingdom學名重複,3,https://taxatree.tbn.org.tw/taxa/0da0a81d-19df-43e7-8255-26576d93b2e6
+83aad3ea-02c0-4055-b8a8-601606d6173b,species,Plantae,t0073393,C303120303050102020301006000600009000,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Schiffn.,相同Kingdom學名重複,6,https://taxatree.tbn.org.tw/taxa/83aad3ea-02c0-4055-b8a8-601606d6173b
+81a49d92-4b03-4ed6-a57f-621a66f3a519,species,Plantae,"",C303120303050402050533008000100024000,Begonia ×albopicta,Begonia ×albopicta Regel ex Regel,相同Kingdom學名重複,0,https://taxatree.tbn.org.tw/taxa/81a49d92-4b03-4ed6-a57f-621a66f3a519
+a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Plantae,"",C303120303050402040107020000700023000,Tectaria multicaudata,Tectaria multicaudata (C.B.Clarke) Ching,相同Kingdom學名重複,63,https://taxatree.tbn.org.tw/taxa/a4f86047-62d7-4ab2-af20-79d1cfb4dba0
+6f795206-cd88-4cd3-bb85-fc9b780cdf37,species,Plantae,"",C303120303050102020301006000600010000,Cololejeunea haskarliana,Cololejeunea haskarliana (Lehm.) Steph.,相同Kingdom學名重複,6,https://taxatree.tbn.org.tw/taxa/6f795206-cd88-4cd3-bb85-fc9b780cdf37
+2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,"",C303120303050402050542005001900000000,Anisophyllum,Anisophyllum,相同Kingdom學名重複,2,https://taxatree.tbn.org.tw/taxa/2892f3ca-35f9-4b07-b812-87241d263efb
+aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,"",C303120303050402050533002000100000000,Anisophyllum,Anisophyllum,相同Kingdom學名重複,2,https://taxatree.tbn.org.tw/taxa/aeadab76-407e-478b-906d-a012472b1f0f
+79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3,order,Animalia,t0002075,"",Plecoptera,Plecoptera,相同Kingdom學名加命名者重複,784,https://taxatree.tbn.org.tw/taxa/79f0dfa9-4c0d-4556-ace4-f7c7e38a8fb3
+6b7e851e-9a41-407a-861c-233a3b658c82,genus,Animalia,t0093378,"",Plecoptera,Plecoptera,相同Kingdom學名加命名者重複,420,https://taxatree.tbn.org.tw/taxa/6b7e851e-9a41-407a-861c-233a3b658c82
+51f8755a-bad0-4e45-92fd-6d5ca0d65d24,order,Animalia,t0002127,"",Sacoglossa,Sacoglossa,taiCOLNameCode重複,442,https://taxatree.tbn.org.tw/taxa/51f8755a-bad0-4e45-92fd-6d5ca0d65d24
+856a1a16-e8ac-436a-9ad2-ac5aff334344,family,Animalia,t0005553,"",Centriscidae,Centriscidae,taiCOLNameCode重複,86,https://taxatree.tbn.org.tw/taxa/856a1a16-e8ac-436a-9ad2-ac5aff334344
+ed03b9bc-c719-4bb9-8add-e9657bfbf7b1,family,Animalia,t0005553,"",Macroramphosidae,Macroramphosidae,taiCOLNameCode重複,18,https://taxatree.tbn.org.tw/taxa/ed03b9bc-c719-4bb9-8add-e9657bfbf7b1
+7b0febf4-e3a9-4693-b195-76420d84c106,species,Chromista,t0058186,"",Saporlegnia asterophora,Saporlegnia asterophora de Bary,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/7b0febf4-e3a9-4693-b195-76420d84c106
+7a095c2b-c00c-410a-8c50-7a37d7c373dd,species,Chromista,t0058187,"",Saporlegnia austrlis,Saporlegnia austrlis Elliott,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/7a095c2b-c00c-410a-8c50-7a37d7c373dd
+2015599a-f542-4b2c-baf8-69ac741154d2,species,Chromista,t0058188,"",Saporlegnia diclina,Saporlegnia diclina Humphrey,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/2015599a-f542-4b2c-baf8-69ac741154d2
+8385238d-3285-4797-bce1-3511278e033a,species,Chromista,t0059547,"",Saporlegnia ferax,Saporlegnia ferax (Gruith.) Thur.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/8385238d-3285-4797-bce1-3511278e033a
+526ba010-3d9d-4bf5-b5f9-1ac837b34ef4,species,Chromista,t0058189,"",Saporlegnia formosana,Saporlegnia formosana Chiou,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/526ba010-3d9d-4bf5-b5f9-1ac837b34ef4
+cac7ec7c-6864-4b18-8d3b-07120ad83d77,species,Chromista,t0058190,"",Saporlegnia parasitica,Saporlegnia parasitica Coker,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/cac7ec7c-6864-4b18-8d3b-07120ad83d77
+92fa83ca-3077-4dc0-8fe0-1d14d6a9f56f,species,Chromista,t0059859,"",Saporlegnia subterranea,Saporlegnia subterranea (Dissmann) R.L.Seym.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/92fa83ca-3077-4dc0-8fe0-1d14d6a9f56f
+0017916e-47e7-43d0-8528-511dc20986df,species,Chromista,t0060451,"",Saporlegnia terrestris,Saporlegnia terrestris Cookson ex R.L.Seym.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/0017916e-47e7-43d0-8528-511dc20986df
+85d52fc1-a328-48ed-8d4f-465340960efa,species,Chromista,t0059860,"",Saporlegnia unispora,Saporlegnia unispora (Coker & Couch) R.L.Seym.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/85d52fc1-a328-48ed-8d4f-465340960efa
+1446426c-333c-4a1b-884e-971e8917f921,species,Fungi,t0043065,"",Tyromyces subcaesius,Tyromyces subcaesius David,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/1446426c-333c-4a1b-884e-971e8917f921
+baf0de17-634c-4fb1-923c-0c9584586670,species,Animalia,t0096359,"",Metadentobunus formosae,Metadentobunus formosae,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/baf0de17-634c-4fb1-923c-0c9584586670
+677f203a-9ce6-4e97-94ac-69442fa254d2,species,Animalia,t0098285,"",Panulirus longipes,Panulirus longipes,taiCOLNameCode重複,39,https://taxatree.tbn.org.tw/taxa/677f203a-9ce6-4e97-94ac-69442fa254d2
+7aa99ec3-5b7e-4a4a-a89e-763eef10c0c5,species,Animalia,t0030160,"",Carcharhinus albimarginatus,Carcharhinus albimarginatus,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/7aa99ec3-5b7e-4a4a-a89e-763eef10c0c5
+386a884b-3917-4186-bd76-d85efed51147,species,Animalia,t0030160,"",Carcharhinus longimanus,Carcharhinus longimanus,taiCOLNameCode重複,6,https://taxatree.tbn.org.tw/taxa/386a884b-3917-4186-bd76-d85efed51147
+60ad4e24-9de5-4996-a1f6-d489ae6a35cb,species,Animalia,t0029589,"",Hemigaleus microstoma,Hemigaleus microstoma,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/60ad4e24-9de5-4996-a1f6-d489ae6a35cb
+5458281a-8e2f-48a2-b6f7-f1430e212e6c,species,Animalia,t0029589,"",Hemipristis elongata,Hemipristis elongata,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/5458281a-8e2f-48a2-b6f7-f1430e212e6c
+27ace33f-dc7f-4c56-83c9-7ff51a4ec1d3,species,Animalia,t0033287,"",Tellinella virgata,Tellinella virgata,taiCOLNameCode重複,5,https://taxatree.tbn.org.tw/taxa/27ace33f-dc7f-4c56-83c9-7ff51a4ec1d3
+04f131e8-0372-4782-94cc-bd93f6b3cea9,species,Animalia,t0101489,"",Meretrix lusoria,Meretrix lusoria,taiCOLNameCode重複,349,https://taxatree.tbn.org.tw/taxa/04f131e8-0372-4782-94cc-bd93f6b3cea9
+6f4a6ba3-c2e3-4f26-b021-04b4c8e941fd,species,Animalia,t0101489,"",Meretrix meretrix,Meretrix meretrix,taiCOLNameCode重複,41,https://taxatree.tbn.org.tw/taxa/6f4a6ba3-c2e3-4f26-b021-04b4c8e941fd
+2a9ea413-6c1c-41f4-9d0a-5cecb5c0757a,species,Animalia,t0101489,"",Meretrix petechialis,Meretrix petechialis,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/2a9ea413-6c1c-41f4-9d0a-5cecb5c0757a
+15f37547-68fe-4bf6-8204-1055270ba1ae,species,Animalia,t0033010,"",Spondylus squamosus,Spondylus squamosus,taiCOLNameCode重複,11,https://taxatree.tbn.org.tw/taxa/15f37547-68fe-4bf6-8204-1055270ba1ae
+79e47ac2-346f-4b15-b257-33175d4f6861,species,Animalia,t0033010,"",Spondylus barbatus,Spondylus barbatus,taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/79e47ac2-346f-4b15-b257-33175d4f6861
+4172b6a1-fcf4-4c9c-80fb-204afd9b225b,species,Animalia,t0096619,"",Unio douglasiae,Unio douglasiae,taiCOLNameCode重複,54,https://taxatree.tbn.org.tw/taxa/4172b6a1-fcf4-4c9c-80fb-204afd9b225b
+ba38cc06-f5d3-4141-b5bb-9132a048c9fa,species,Animalia,t0096335,"",Melanoides tuberculatus,Melanoides tuberculatus,taiCOLNameCode重複,366,https://taxatree.tbn.org.tw/taxa/ba38cc06-f5d3-4141-b5bb-9132a048c9fa
+529e6153-a3e2-4c42-8ad0-79a08b701999,species,Animalia,t0032772,"",Phalium bisulcatum,Phalium bisulcatum,taiCOLNameCode重複,9,https://taxatree.tbn.org.tw/taxa/529e6153-a3e2-4c42-8ad0-79a08b701999
+3a3fa376-d4e5-4414-b54d-6f4394bf8cc6,species,Animalia,t0032772,"",Semicassis bisulcata,Semicassis bisulcata,taiCOLNameCode重複,80,https://taxatree.tbn.org.tw/taxa/3a3fa376-d4e5-4414-b54d-6f4394bf8cc6
+fd5eeed7-387d-4355-b2ba-88876643c79c,species,Animalia,t0086136,"",Polinices didyma,Polinices didyma,taiCOLNameCode重複,27,https://taxatree.tbn.org.tw/taxa/fd5eeed7-387d-4355-b2ba-88876643c79c
+36a0ee2a-470f-4a73-82c3-77803660d11f,species,Animalia,t0033002,"",Spirobranchus giganteus,Spirobranchus giganteus,taiCOLNameCode重複,6,https://taxatree.tbn.org.tw/taxa/36a0ee2a-470f-4a73-82c3-77803660d11f
+e90f6958-579d-40f0-96e9-3790b324ba08,infraspecies,Animalia,t0096359,"",Metadentobunus formosae formosae,Metadentobunus formosae formosae,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/e90f6958-579d-40f0-96e9-3790b324ba08
+b18298cf-817f-4096-b802-2fd9fa3c24d5,infraspecies,Animalia,t0098285,"",Panulirus longipes longipes,Panulirus longipes longipes,taiCOLNameCode重複,30,https://taxatree.tbn.org.tw/taxa/b18298cf-817f-4096-b802-2fd9fa3c24d5
+30a866d8-7239-4988-aa7d-39e1a291fc87,infraspecies,Animalia,t0033010,"",Spondylus barbatus barbatus,Spondylus barbatus barbatus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/30a866d8-7239-4988-aa7d-39e1a291fc87
+329f1de6-1e3f-49e2-a8bb-7b8cada93e11,infraspecies,Animalia,t0096619,"",Unio douglasiae taiwanicus,Unio douglasiae taiwanicus,taiCOLNameCode重複,39,https://taxatree.tbn.org.tw/taxa/329f1de6-1e3f-49e2-a8bb-7b8cada93e11
+e18cb6a9-118a-49b7-99ed-7e96f2fa0c89,infraspecies,Animalia,t0096335,"",Melanoides tuberculatus tuberculatus,Melanoides tuberculatus tuberculatus,taiCOLNameCode重複,163,https://taxatree.tbn.org.tw/taxa/e18cb6a9-118a-49b7-99ed-7e96f2fa0c89
+224b8f2b-3d37-4782-b181-1243c2b9b16a,infraspecies,Animalia,t0029328,"",Ginebis argenteonitens argenteonitens,Ginebis argenteonitens argenteonitens,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/224b8f2b-3d37-4782-b181-1243c2b9b16a
+6fc7aee1-8a3d-46cb-8b1c-efeeab697f79,infraspecies,Animalia,t0086136,"",Polinices didyma didyma,Polinices didyma didyma,taiCOLNameCode重複,5,https://taxatree.tbn.org.tw/taxa/6fc7aee1-8a3d-46cb-8b1c-efeeab697f79
+ec274766-91f2-4abe-adb6-089f30922a71,species,Animalia,t0030636,"",Platynus acroglyptus,Platynus acroglyptus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/ec274766-91f2-4abe-adb6-089f30922a71
+dc68d9f8-4397-45fe-952c-e19d2b91cec8,species,Animalia,t0057588,"",Adelocera shirozui,Adelocera shirozui,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/dc68d9f8-4397-45fe-952c-e19d2b91cec8
+051ce713-0e6a-477e-aeb5-b9f6ed351cda,species,Animalia,t0083705,"",Csikia dimatoides,Csikia dimatoides,taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/051ce713-0e6a-477e-aeb5-b9f6ed351cda
+dd642f24-892c-4bb6-8419-7dfc806e05da,species,Animalia,t0083705,"",Penia babai,Penia babai,taiCOLNameCode重複,14,https://taxatree.tbn.org.tw/taxa/dd642f24-892c-4bb6-8419-7dfc806e05da
+fa7ff7ba-a7de-4cb7-8394-4b3bb855e66b,species,Animalia,t0078992,"",Colobaspis rubi,Colobaspis rubi,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/fa7ff7ba-a7de-4cb7-8394-4b3bb855e66b
+7496a820-f3f4-4700-ac80-2c12a490c1ba,species,Animalia,t0078992,"",Colobaspis sauteri,Colobaspis sauteri,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/7496a820-f3f4-4700-ac80-2c12a490c1ba
+4ba57c4c-a32e-468c-9cbd-b58d416bf1ea,species,Animalia,t0028137,"",Mycerinopsis maculiclunis,Mycerinopsis maculiclunis,taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/4ba57c4c-a32e-468c-9cbd-b58d416bf1ea
+6ebb7bf8-6d8b-4e03-8b9c-6a526b47f5f4,species,Animalia,t0028137,"",Sybra baculina,Sybra baculina,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/6ebb7bf8-6d8b-4e03-8b9c-6a526b47f5f4
+6cc4a524-250b-444f-bc06-2b76aa698c94,species,Animalia,t0105419,"",Priotyrranus closteroides,Priotyrranus closteroides,taiCOLNameCode重複,15,https://taxatree.tbn.org.tw/taxa/6cc4a524-250b-444f-bc06-2b76aa698c94
+b0c8f13e-f93f-4042-b168-f2ecae6a08c4,species,Animalia,t0033290,"",Teneropsis formosanum,Teneropsis formosanum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/b0c8f13e-f93f-4042-b168-f2ecae6a08c4
+62ca0809-2aea-4f80-9f68-1579f95bd825,species,Animalia,t0033290,"",Teneropsis lividipenne,Teneropsis lividipenne,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/62ca0809-2aea-4f80-9f68-1579f95bd825
+fcd27be9-cf19-4417-ad2b-5589a9afd1ee,species,Animalia,t0033290,"",Teneropsis mundum,Teneropsis mundum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/fcd27be9-cf19-4417-ad2b-5589a9afd1ee
+1a0097e7-5783-4537-bc6b-56cfe923dfda,species,Animalia,t0031280,"",Anthicus floralis,Anthicus floralis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/1a0097e7-5783-4537-bc6b-56cfe923dfda
+b235440d-923f-4f53-8df0-a7aa312779ee,species,Animalia,t0031280,"",Omonadus floralis,Omonadus floralis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/b235440d-923f-4f53-8df0-a7aa312779ee
+a2a7ee78-a2ae-45f7-8c66-4ba8e0ea9b31,species,Animalia,t0028577,"",Yashmakia suffusa,Yashmakia suffusa,taiCOLNameCode重複,508,https://taxatree.tbn.org.tw/taxa/a2a7ee78-a2ae-45f7-8c66-4ba8e0ea9b31
+330aaaa0-7a86-43ea-8092-cc201973a983,species,Animalia,t0028197,"",Mythimna snelleni,Mythimna snelleni,taiCOLNameCode重複,20,https://taxatree.tbn.org.tw/taxa/330aaaa0-7a86-43ea-8092-cc201973a983
+d96e96b6-f259-4633-b621-4a95f95f15d2,species,Animalia,t0028197,"",Mythimna guanyuana,Mythimna guanyuana,taiCOLNameCode重複,64,https://taxatree.tbn.org.tw/taxa/d96e96b6-f259-4633-b621-4a95f95f15d2
+92ef4150-113c-4c8e-bf16-254bab01fe46,species,Animalia,t0084774,"",Erasmia pulchella,Erasmia pulchella,taiCOLNameCode重複,342,https://taxatree.tbn.org.tw/taxa/92ef4150-113c-4c8e-bf16-254bab01fe46
+415878f1-ba09-476c-91e6-7d5e6fb949d0,species,Animalia,t0099135,"",Theretra nessus,Theretra nessus,taiCOLNameCode重複,623,https://taxatree.tbn.org.tw/taxa/415878f1-ba09-476c-91e6-7d5e6fb949d0
+1fe6f9cd-ab2a-4ec9-983d-a41b1add356c,species,Animalia,t0029677,"",Hexafrenum maculifer,Hexafrenum maculifer,taiCOLNameCode重複,165,https://taxatree.tbn.org.tw/taxa/1fe6f9cd-ab2a-4ec9-983d-a41b1add356c
+3bc12ebd-76d2-4f61-b263-80e46d5d0a1d,species,Animalia,t0027884,"",Cryptolechia argometra,Cryptolechia argometra,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/3bc12ebd-76d2-4f61-b263-80e46d5d0a1d
+33f7d227-1a71-4b29-9138-313c1672dda7,species,Animalia,t0051160,"",Glanycus insolitus,Glanycus insolitus,taiCOLNameCode重複,95,https://taxatree.tbn.org.tw/taxa/33f7d227-1a71-4b29-9138-313c1672dda7
+9462838c-e1ec-4cc5-825e-09f46158dd0f,species,Animalia,t0051160,"",Glanycus tricolor,Glanycus tricolor,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9462838c-e1ec-4cc5-825e-09f46158dd0f
+3bb4e66b-e976-4946-8c0d-2e146952da6c,species,Animalia,t0027071,"",Anatkina horishana,Anatkina horishana,taiCOLNameCode重複,13,https://taxatree.tbn.org.tw/taxa/3bb4e66b-e976-4946-8c0d-2e146952da6c
+8a853042-cdc3-40a9-add4-a24991ad1c74,species,Animalia,t0027070,"",Anatkina hopponis,Anatkina hopponis,taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/8a853042-cdc3-40a9-add4-a24991ad1c74
+cec2f693-dda0-4861-b0cd-0d42e07f55d0,species,Animalia,t0027072,"",Atkinsoniella rinkihonis,Atkinsoniella rinkihonis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/cec2f693-dda0-4861-b0cd-0d42e07f55d0
+0f748589-26a6-4fb4-80bd-4d9ad57c4d45,species,Animalia,t0028633,"",Bambusananus binotatus,Bambusananus binotatus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/0f748589-26a6-4fb4-80bd-4d9ad57c4d45
+630a387e-1cdf-4d7c-a441-4fe50b94728f,species,Animalia,t0028633,"",Bambusananus lii,Bambusananus lii,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/630a387e-1cdf-4d7c-a441-4fe50b94728f
+1beed323-3890-4412-bc46-525ba0ae6540,species,Animalia,t0027078,"",Cofana subvirescens,Cofana subvirescens,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/1beed323-3890-4412-bc46-525ba0ae6540
+f4875f06-f72f-4967-9f0e-afa3817132c1,species,Animalia,t0027076,"",Cofana nigrilinea,Cofana nigrilinea,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/f4875f06-f72f-4967-9f0e-afa3817132c1
+b434783e-91d0-4251-81b6-cb3da205dfde,species,Animalia,t0027077,"",Cofana spectra,Cofana spectra,taiCOLNameCode重複,5,https://taxatree.tbn.org.tw/taxa/b434783e-91d0-4251-81b6-cb3da205dfde
+acad3e7f-0ad4-4923-b067-95ecd174e6f3,species,Animalia,t0028635,"",Nesophrosyne orientalis,Nesophrosyne orientalis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/acad3e7f-0ad4-4923-b067-95ecd174e6f3
+917d93eb-bf0d-409d-a695-2638e0dd5b74,species,Animalia,t0027070,"",Tettigonia hopponis,Tettigonia hopponis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/917d93eb-bf0d-409d-a695-2638e0dd5b74
+fe22718c-e1c9-4a2c-9978-2b9eb908c56a,species,Animalia,t0027071,"",Tettigonia horishana,Tettigonia horishana,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/fe22718c-e1c9-4a2c-9978-2b9eb908c56a
+4ad2592f-600e-40c0-99cd-eaae17b31257,species,Animalia,t0027072,"",Tettigonia rinkihonis,Tettigonia rinkihonis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/4ad2592f-600e-40c0-99cd-eaae17b31257
+bd6ebf87-32db-4281-b6e9-8d2e01085943,species,Animalia,t0027077,"",Tettigonia spectra,Tettigonia spectra,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/bd6ebf87-32db-4281-b6e9-8d2e01085943
+3c66d8bf-d71f-4b5d-bb86-67b987af9517,species,Animalia,t0027078,"",Tettigonia subvirescens,Tettigonia subvirescens,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/3c66d8bf-d71f-4b5d-bb86-67b987af9517
+7e7b3556-88e8-4084-9137-55b65141388a,species,Animalia,t0076180,"",Balclutha akonis,Balclutha akonis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/7e7b3556-88e8-4084-9137-55b65141388a
+d5d98b2d-51a1-442a-b2a7-66d4ee2e903f,species,Animalia,t0076182,"",Balclutha laevis,Balclutha laevis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/d5d98b2d-51a1-442a-b2a7-66d4ee2e903f
+8b4c13a4-5339-4ccc-ac70-5baf25a70f38,species,Animalia,t0076184,"",Balclutha orientalis,Balclutha orientalis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/8b4c13a4-5339-4ccc-ac70-5baf25a70f38
+d89dc682-0da3-4711-a563-3bab449648dd,species,Animalia,t0076184,"",Balclutha pallidula,Balclutha pallidula,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/d89dc682-0da3-4711-a563-3bab449648dd
+cdffe78a-397b-461f-b681-e145bc584d14,species,Animalia,t0076187,"",Balclutha rubrovittata,Balclutha rubrovittata,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/cdffe78a-397b-461f-b681-e145bc584d14
+4b061e85-0619-45ad-bf0c-57c9fc8cf2ba,species,Animalia,t0076186,"",Balclutha viridis,Balclutha viridis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/4b061e85-0619-45ad-bf0c-57c9fc8cf2ba
+8af8e5ea-37ef-4333-a168-b8c6765ff5b3,species,Animalia,t0076180,"",Balclutha incisa,Balclutha incisa,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/8af8e5ea-37ef-4333-a168-b8c6765ff5b3
+282b1634-1f68-46d2-85ea-fcac363870d7,species,Animalia,t0076182,"",Balclutha lucida,Balclutha lucida,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/282b1634-1f68-46d2-85ea-fcac363870d7
+ab66e07d-8c15-4895-9416-3d08c5cf9cad,species,Animalia,t0076186,"",Balclutha rubrinervis,Balclutha rubrinervis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/ab66e07d-8c15-4895-9416-3d08c5cf9cad
+9958a90b-4edc-4c1c-a510-f602943f5b5d,species,Animalia,t0076187,"",Balclutha rubrostriata,Balclutha rubrostriata,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/9958a90b-4edc-4c1c-a510-f602943f5b5d
+098bf377-4cab-4977-bbf6-40566f06cce5,species,Animalia,t0028635,"",Eutettix orientalis,Eutettix orientalis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/098bf377-4cab-4977-bbf6-40566f06cce5
+03cdad10-c3b1-4bdb-86e9-967473eb9c16,species,Animalia,t0065650,"",Hishimonus disciguttus,Hishimonus disciguttus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/03cdad10-c3b1-4bdb-86e9-967473eb9c16
+e958e3d2-59d6-4bf6-8fdc-6d86cd010eae,species,Animalia,t0065650,"",Hishimonus sellatus,Hishimonus sellatus,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/e958e3d2-59d6-4bf6-8fdc-6d86cd010eae
+9da421e4-f5f6-482b-8ad4-9def24920b22,species,Animalia,t0082975,"",Thomsoniella concentralis,Thomsoniella concentralis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9da421e4-f5f6-482b-8ad4-9def24920b22
+4827564f-85e6-4479-a7c3-70c01b3300f8,species,Animalia,t0084251,"",Geisha mariginellus,Geisha mariginellus,taiCOLNameCode重複,75,https://taxatree.tbn.org.tw/taxa/4827564f-85e6-4479-a7c3-70c01b3300f8
+fd54846d-b6e4-462f-9779-d4a3efc15147,species,Animalia,t0084251,"",Phylliana alba,Phylliana alba,taiCOLNameCode重複,301,https://taxatree.tbn.org.tw/taxa/fd54846d-b6e4-462f-9779-d4a3efc15147
+ef38ea03-ee02-4099-919f-2656fb32138d,species,Animalia,t0028210,"",Nacolus assamensis,Nacolus assamensis,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/ef38ea03-ee02-4099-919f-2656fb32138d
+85fa0ee2-33e2-4075-ae68-a33868e0a2cf,species,Animalia,t0028210,"",Nacolus gavialis,Nacolus gavialis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/85fa0ee2-33e2-4075-ae68-a33868e0a2cf
+54af3d89-5d30-41a8-9e21-35576a1d5bde,species,Animalia,t0082975,"",Parabolocratus concentricus,Parabolocratus concentricus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/54af3d89-5d30-41a8-9e21-35576a1d5bde
+b77de024-358c-40a8-be0e-2c71bad57bf0,species,Animalia,t0068132,"",Lycorma olivacea,Lycorma olivacea,taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/b77de024-358c-40a8-be0e-2c71bad57bf0
+f71f1e7b-fba9-4ea7-9f93-4ed043306e86,species,Animalia,t0068132,"",Lycorma meliae,Lycorma meliae,taiCOLNameCode重複,32,https://taxatree.tbn.org.tw/taxa/f71f1e7b-fba9-4ea7-9f93-4ed043306e86
+3259db88-c351-4444-a86e-376377a14943,species,Animalia,t0065582,"",Hierodula (Hierodula) bipapilla,Hierodula (Hierodula) bipapilla,taiCOLNameCode重複,9,https://taxatree.tbn.org.tw/taxa/3259db88-c351-4444-a86e-376377a14943
+522b1e41-6387-42c8-b0bd-08f6bd8d6a7f,species,Animalia,t0065582,"",Hierodula (Hierodula) patellifera,Hierodula (Hierodula) patellifera,taiCOLNameCode重複,1103,https://taxatree.tbn.org.tw/taxa/522b1e41-6387-42c8-b0bd-08f6bd8d6a7f
+7fd50064-3e01-4218-8b40-15e33366c525,species,Animalia,t0065582,"",Hierodula (Hierodula) saussurei,Hierodula (Hierodula) saussurei,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/7fd50064-3e01-4218-8b40-15e33366c525
+d7e85775-9361-4644-91ea-6bd641292cf2,species,Animalia,t0029608,"",Sorineuchora formosana,Sorineuchora formosana,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/d7e85775-9361-4644-91ea-6bd641292cf2
+ef95ca44-9529-433e-be7a-136fa8636d21,infraspecies,Animalia,t0030636,"",Platynus acroglyptus acroglyptus,Platynus acroglyptus acroglyptus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/ef95ca44-9529-433e-be7a-136fa8636d21
+0d05f77f-35c6-4f18-999c-79381f4cee2e,infraspecies,Animalia,t0057588,"",Adelocera shirozui shirozui,Adelocera shirozui shirozui,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/0d05f77f-35c6-4f18-999c-79381f4cee2e
+9a787e82-a919-4c85-8ee9-636fb670a095,infraspecies,Animalia,t0057588,"",Agrypnus argillaceus shirozui,Agrypnus argillaceus shirozui,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9a787e82-a919-4c85-8ee9-636fb670a095
+9f357184-4816-4254-bdef-e267f4436c17,infraspecies,Animalia,t0105419,"",Priotyrranus closteroides closteroides,Priotyrranus closteroides closteroides,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/9f357184-4816-4254-bdef-e267f4436c17
+2810ffd8-a67c-4a5c-9032-4b7952ceef27,infraspecies,Animalia,t0084774,"",Erasmia pulchella hobsoni,Erasmia pulchella hobsoni,taiCOLNameCode重複,195,https://taxatree.tbn.org.tw/taxa/2810ffd8-a67c-4a5c-9032-4b7952ceef27
+7c3b4866-ade1-4e7c-8a04-4b507badb1ae,infraspecies,Animalia,t0029677,"",Hexafrenum leucodera yamamotoi,Hexafrenum leucodera yamamotoi,taiCOLNameCode重複,146,https://taxatree.tbn.org.tw/taxa/7c3b4866-ade1-4e7c-8a04-4b507badb1ae
+57d91c0a-319f-42e3-bbda-4406e33c4ff6,infraspecies,Animalia,t0027076,"",Tettigonia spectra nigrilinea,Tettigonia spectra nigrilinea,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/57d91c0a-319f-42e3-bbda-4406e33c4ff6
+dda594ac-a3c1-4e8b-90d1-7b91aeb51474,species,Plantae,t0026536,C303120303050402040107006002800005000,Cheilanthes mexicana,Cheilanthes mexicana Davenp.,taiCOLNameCode重複,22,https://taxatree.tbn.org.tw/taxa/dda594ac-a3c1-4e8b-90d1-7b91aeb51474
+d4aa94f9-9ac3-4493-97f3-6a2d37ef7f94,species,Plantae,t0026932,C303120303050402040107008000100002000,Hymenasplenium cataractarum,Hymenasplenium cataractarum (Rosenst.) N.Murak.,taiCOLNameCode重複,27,https://taxatree.tbn.org.tw/taxa/d4aa94f9-9ac3-4493-97f3-6a2d37ef7f94
+f28c3e57-731a-4672-b4ef-007e3bbe1313,species,Plantae,t0026932,C303120303050402040107008000100010000,Hymenasplenium murakami-hatanakae,Hymenasplenium murakami-hatanakae Nakaike,taiCOLNameCode重複,130,https://taxatree.tbn.org.tw/taxa/f28c3e57-731a-4672-b4ef-007e3bbe1313
+3c188dd0-cef6-4afa-9c66-d07ca31c0601,species,Plantae,t0054280,C303120303050402050515014001500001000,Liriope minor,Liriope minor (Maxim.) Makino,taiCOLNameCode重複,104,https://taxatree.tbn.org.tw/taxa/3c188dd0-cef6-4afa-9c66-d07ca31c0601
+d311ebc9-0a54-4b12-b0dc-60a4c9dedfd9,species,Plantae,t0058623,C303120303050402050519002000800001000,Neoregelia eleutheropetala,Neoregelia eleutheropetala (Ule) L.B.Sm.,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/d311ebc9-0a54-4b12-b0dc-60a4c9dedfd9
+5ae4ce1c-95df-4c76-a218-774251d1ecd9,species,Plantae,t0058623,C303120303050402050519002000800004000,Neoregelia carolinae,Neoregelia carolinae L.B.Sm,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/5ae4ce1c-95df-4c76-a218-774251d1ecd9
+709a0514-1559-4ea8-80a4-6b5d05559110,species,Plantae,t0040330,C303120303050402050519014001900008000,Bambusa pachinensis,Bambusa pachinensis Hayata,taiCOLNameCode重複,141,https://taxatree.tbn.org.tw/taxa/709a0514-1559-4ea8-80a4-6b5d05559110
+c390eab4-381b-40c2-8142-e70237047e87,species,Plantae,t0053131,C303120303050402050521002000600006000,Corydalis pallida,Corydalis pallida (Thunb.) Pers.,taiCOLNameCode重複,334,https://taxatree.tbn.org.tw/taxa/c390eab4-381b-40c2-8142-e70237047e87
+91fe9e2d-e148-4afe-816d-f599bae2b8dd,species,Plantae,t0058814,C303120303050402050542007000400008000,Citrus japonica,Citrus japonica Thunb.,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/91fe9e2d-e148-4afe-816d-f599bae2b8dd
+644af115-d004-46ce-bb41-0315b6a5f52f,species,Plantae,t0058814,C303120303050402050542007001900003000,Fortunella marginata,Fortunella marginata Swingle,taiCOLNameCode重複,6,https://taxatree.tbn.org.tw/taxa/644af115-d004-46ce-bb41-0315b6a5f52f
+5beab812-fad9-47da-9376-1198dbdfc23a,infraspecies,Plantae,t0054280,C303120303050402050515014001500001001,Liriope minor minor,Liriope minor var. minor,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/5beab812-fad9-47da-9376-1198dbdfc23a
+06aca014-584b-48b0-84a4-9bbd81349b48,infraspecies,Plantae,t0040330,C303120303050402050519014001900008001,Bambusa pachinensis pachinensis,Bambusa pachinensis var. pachinensis,taiCOLNameCode重複,6,https://taxatree.tbn.org.tw/taxa/06aca014-584b-48b0-84a4-9bbd81349b48
+04a3364d-b2c1-4d44-9a2b-42cd12abf296,species,Chromista,t0058186,"",Saprolegnia asterophora,Saprolegnia asterophora de Bary 1860,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/04a3364d-b2c1-4d44-9a2b-42cd12abf296
+9d18fcd8-7651-45f8-ba21-f9762d40825f,species,Chromista,t0058187,"",Saprolegnia australis,Saprolegnia australis R.F. Elliott 1968,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9d18fcd8-7651-45f8-ba21-f9762d40825f
+e6b5fca0-7f57-46d3-a1e2-f9f208caa2b1,species,Chromista,t0058188,"",Saprolegnia diclina,Saprolegnia diclina Humphrey,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/e6b5fca0-7f57-46d3-a1e2-f9f208caa2b1
+f5b2fe67-3385-4d0f-92a8-0677eb3bfc30,species,Chromista,t0059547,"",Saprolegnia ferax,Saprolegnia ferax Gruith Thuret,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/f5b2fe67-3385-4d0f-92a8-0677eb3bfc30
+7d784a9d-c196-4f6d-a822-0acbf112aeb1,species,Chromista,t0058189,"",Saprolegnia formosana,Saprolegnia formosana Chiou,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/7d784a9d-c196-4f6d-a822-0acbf112aeb1
+b1149019-9634-46cf-b54d-2d66c8cab387,species,Chromista,t0058190,"",Saprolegnia parasitica,Saprolegnia parasitica Coker,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/b1149019-9634-46cf-b54d-2d66c8cab387
+fc37f303-999d-4bc3-84e1-e429b98bfbc9,species,Chromista,t0059859,"",Saprolegnia subterranea,Saprolegnia subterranea Dissmann Seymour,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/fc37f303-999d-4bc3-84e1-e429b98bfbc9
+a7fcae3e-ed1c-422b-9728-9ae2e733bd36,species,Chromista,t0060451,"",Saprolegnia terrestris,Saprolegnia terrestris Cookson ex Seymour,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/a7fcae3e-ed1c-422b-9728-9ae2e733bd36
+9166f479-d3b6-427b-9d84-f7058d955995,species,Chromista,t0059860,"",Saprolegnia unispora,Saprolegnia unispora Coker & Couch Seymour,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9166f479-d3b6-427b-9d84-f7058d955995
+0efcdf42-8761-4985-a36f-bc835def338f,species,Chromista,t0059247,"",Achnanthes angustata,Achnanthes angustata Greville,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/0efcdf42-8761-4985-a36f-bc835def338f
+f47a596b-9c63-45d5-8544-cdceb8b9b1c2,species,Chromista,t0057466,"",Amphiprora lineata,Amphiprora lineata Gregory,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/f47a596b-9c63-45d5-8544-cdceb8b9b1c2
+6a0b54e1-a70d-40f3-a311-acce7d1eb8f5,species,Chromista,t0059322,"",Amphora libyca,Amphora libyca Ehrenberg,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/6a0b54e1-a70d-40f3-a311-acce7d1eb8f5
+aceccc41-85de-457d-8900-ad91995adc1e,species,Chromista,t0040563,"",Caloneis silicula,Caloneis silicula Cleve,taiCOLNameCode重複,9,https://taxatree.tbn.org.tw/taxa/aceccc41-85de-457d-8900-ad91995adc1e
+14eb7ec3-3993-4e16-a97c-34bc4aeddaef,species,Chromista,t0040563,"",Caloneis ventricosa,Caloneis ventricosa,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/14eb7ec3-3993-4e16-a97c-34bc4aeddaef
+87809267-c6bc-419d-88b9-87fc987529a0,species,Chromista,t0059986,"",Diploneis elliptica,Diploneis elliptica Kützing Cleve,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/87809267-c6bc-419d-88b9-87fc987529a0
+dc95bb94-eaa2-4bf9-afdf-d5b9b420c082,species,Chromista,t0057367,"",Fallacia forcipata,Fallacia forcipata Greville Stickle & Mann 1990,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/dc95bb94-eaa2-4bf9-afdf-d5b9b420c082
+81a0b98e-3191-4626-a99b-c6d2145a821d,species,Chromista,t0059946,"",Navicula angusta,Navicula angusta Grunow,taiCOLNameCode重複,9,https://taxatree.tbn.org.tw/taxa/81a0b98e-3191-4626-a99b-c6d2145a821d
+6c679748-2cca-41cd-8cec-80e3dc63fe21,species,Chromista,t0059955,"",Navicula binodis,Navicula binodis Ehrenberg,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/6c679748-2cca-41cd-8cec-80e3dc63fe21
+54a74227-9686-4540-98fa-c93cd38c4fb6,species,Chromista,t0058591,"",Navicula cincta,Navicula cincta Ehrenberg Ralfs,taiCOLNameCode重複,151,https://taxatree.tbn.org.tw/taxa/54a74227-9686-4540-98fa-c93cd38c4fb6
+263916c7-9a1f-4b11-8570-cd31bf93c9b3,species,Chromista,t0059986,"",Navicula elliptica,Navicula elliptica Hust.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/263916c7-9a1f-4b11-8570-cd31bf93c9b3
+23396939-48e5-4ee1-95e0-32c88cb4b1e9,species,Chromista,t0058595,"",Navicula hungarica,Navicula hungarica Grunow,taiCOLNameCode重複,10,https://taxatree.tbn.org.tw/taxa/23396939-48e5-4ee1-95e0-32c88cb4b1e9
+6a8ff363-89c3-4a01-a230-86560df75642,species,Chromista,t0059635,"",Navicula lanceolata,Navicula lanceolata Ag. Kützing,taiCOLNameCode重複,285,https://taxatree.tbn.org.tw/taxa/6a8ff363-89c3-4a01-a230-86560df75642
+0db11a03-8229-4074-b48b-3b0bf2e79fa5,species,Chromista,t0058598,"",Navicula mollis,Navicula mollis W. Smith Cleve,taiCOLNameCode重複,10,https://taxatree.tbn.org.tw/taxa/0db11a03-8229-4074-b48b-3b0bf2e79fa5
+527f8716-3044-4339-8acc-4ae773a88a80,species,Chromista,t0058600,"",Navicula parva,Navicula parva Ehrenberg Ralfs,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/527f8716-3044-4339-8acc-4ae773a88a80
+b7151da5-572c-42d7-ab90-d4a1aeb6ba25,species,Chromista,t0058594,"",Navicula elginensis,Navicula elginensis W.Gregory Ralfs,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/b7151da5-572c-42d7-ab90-d4a1aeb6ba25
+9f70cea9-105f-43c6-8e2d-b9225eadc5eb,species,Chromista,t0058594,"",Navicula anglica,Navicula anglica,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9f70cea9-105f-43c6-8e2d-b9225eadc5eb
+ed95f181-8e02-46a5-b7fe-6f8d7998bf04,species,Chromista,t0058595,"",Navicula capitata,Navicula capitata,taiCOLNameCode重複,66,https://taxatree.tbn.org.tw/taxa/ed95f181-8e02-46a5-b7fe-6f8d7998bf04
+f492d963-7909-45ae-a919-adadfeca9002,species,Chromista,t0057367,"",Navicula forcipata,Navicula forcipata,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/f492d963-7909-45ae-a919-adadfeca9002
+a7f3f1f5-62f6-4ecb-bf60-ab0a199cc63b,species,Chromista,t0059955,"",Neidium binode,Neidium binode Ehrenberg Hust.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/a7f3f1f5-62f6-4ecb-bf60-ab0a199cc63b
+5522ed35-07a8-40bf-91af-d8937810e50e,species,Chromista,t0060300,"",Pinnularia mesogongyla,Pinnularia mesogongyla Kützing,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/5522ed35-07a8-40bf-91af-d8937810e50e
+48605cbd-2fe6-4f71-837f-addd6ff3ec8a,species,Chromista,t0059036,"",Pleurosigma aestuarii,Pleurosigma aestuarii Brebisson W. Smith,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/48605cbd-2fe6-4f71-837f-addd6ff3ec8a
+c909309b-e72d-49c2-bd66-0635f77a4d4e,species,Chromista,t0058416,"",Trachyneis aspera,Trachyneis aspera Ehrenberg Cleve,taiCOLNameCode重複,11,https://taxatree.tbn.org.tw/taxa/c909309b-e72d-49c2-bd66-0635f77a4d4e
+f44fc401-ca96-4335-8e74-19288ae24138,species,Chromista,t0060757,"",Tropidoneis lepidoptera,Tropidoneis lepidoptera Gregory Cleve,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/f44fc401-ca96-4335-8e74-19288ae24138
+1038c1ca-752c-48b9-bd9b-90ec953e9f59,species,Chromista,t0057466,"",Undatella lineata,Undatella lineata Greville Paddock & Sims,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/1038c1ca-752c-48b9-bd9b-90ec953e9f59
+3738dcb3-c19a-4457-bd75-3edd5fdb8c81,species,Chromista,t0060677,"",Gomphonema subclavatum,Gomphonema subclavatum Grunow Grunow,taiCOLNameCode重複,42,https://taxatree.tbn.org.tw/taxa/3738dcb3-c19a-4457-bd75-3edd5fdb8c81
+5d968ea7-45d1-4219-839d-15e397cb3468,species,Chromista,t0060757,"",Plagiotropis lepidoptera,Plagiotropis lepidoptera,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/5d968ea7-45d1-4219-839d-15e397cb3468
+7b45985c-d62e-4167-baa1-e7c8896160f2,species,Chromista,t0060630,"",Nitzschia acuminata,Nitzschia acuminata W. Smith Grunow,taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/7b45985c-d62e-4167-baa1-e7c8896160f2
+a5b094b7-e21e-40a6-bf3c-9be83286037f,species,Chromista,t0060133,"",Nitzschia coarctata,Nitzschia coarctata Grunow 1880,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/a5b094b7-e21e-40a6-bf3c-9be83286037f
+70a1fa6a-f451-4bf8-8411-7bfeb511d9aa,species,Chromista,t0058630,"",Nitzschia longissima,Nitzschia longissima Brebisson Ralfs,taiCOLNameCode重複,103,https://taxatree.tbn.org.tw/taxa/70a1fa6a-f451-4bf8-8411-7bfeb511d9aa
+241258eb-8fb8-49ad-8fcf-c26533f5adbc,species,Chromista,t0057453,"",Nitzschia marginulata,Nitzschia marginulata,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/241258eb-8fb8-49ad-8fcf-c26533f5adbc
+72854bd9-c1ae-4f16-af44-c970849637f9,species,Chromista,t0060630,"",Tryblionella acuminata,"Tryblionella acuminata W.Smith, 1853",taiCOLNameCode重複,82,https://taxatree.tbn.org.tw/taxa/72854bd9-c1ae-4f16-af44-c970849637f9
+a53e1000-4e93-4243-981e-b5b5d3afa526,species,Chromista,t0057453,"",Tryblionella marginulata,"Tryblionella marginulata Grunow D.G.Mann in Round, Crawford & Mann 1990",taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/a53e1000-4e93-4243-981e-b5b5d3afa526
+68894855-702b-4d5b-b23d-85da822afe4b,species,Chromista,t0058630,"",Nitzschiella longissima,Nitzschiella longissima Brebisson Rabenhorst,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/68894855-702b-4d5b-b23d-85da822afe4b
+2ae775bf-73e3-4f9a-a930-9a6a084e0ad8,species,Chromista,t0059635,"",Cymbella lanceolata,Cymbella lanceolata Ehrenberg Van Heurck,taiCOLNameCode重複,11,https://taxatree.tbn.org.tw/taxa/2ae775bf-73e3-4f9a-a930-9a6a084e0ad8
+1ce8a782-1d49-4c7c-a8b2-a2881ea5e4aa,species,Chromista,t0033599,"",Actinoptychus undulatus,Actinoptychus undulatus Bailey Ralfs,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/1ce8a782-1d49-4c7c-a8b2-a2881ea5e4aa
+6892692e-d45d-4973-8fb1-606020048c40,species,Chromista,t0033599,"",Actinoptychus senarius,Actinoptychus senarius Ehrenberg,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/6892692e-d45d-4973-8fb1-606020048c40
+ad34d686-6e2a-4c88-9640-a21178eb9eea,species,Chromista,t0060617,"",Biddulphia dubia,Biddulphia dubia Brightw. Cleve,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/ad34d686-6e2a-4c88-9640-a21178eb9eea
+9b4338a1-eb00-4f95-b3b4-6afdf83165d0,species,Chromista,t0060617,"",Triceratium dubium,Triceratium dubium Brightwell,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/9b4338a1-eb00-4f95-b3b4-6afdf83165d0
+5bf14d8c-d84d-4bb0-9fb6-37ed31bdcf05,species,Chromista,t0059578,"",Coscinodiscus minor,Coscinodiscus minor Ehrenberg,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/5bf14d8c-d84d-4bb0-9fb6-37ed31bdcf05
+b1aa3501-d94a-47b7-ab30-e2f23f65d7bd,species,Chromista,t0058032,"",Hyalodiscus stelliger,Hyalodiscus stelliger Bailey,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/b1aa3501-d94a-47b7-ab30-e2f23f65d7bd
+0fef18dd-a2c4-4d2a-807b-819721281121,species,Chromista,t0058032,"",Podosira stelliger,Podosira stelliger Bail. Mann.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/0fef18dd-a2c4-4d2a-807b-819721281121
+b1a57f0c-313f-4d6b-a8c1-657819819656,species,Chromista,t0040302,"",Asteronema breviarticulatum,Asteronema breviarticulatum (J.Agardh) Ouriques & Bouzon 2000,taiCOLNameCode重複,4,https://taxatree.tbn.org.tw/taxa/b1a57f0c-313f-4d6b-a8c1-657819819656
+b179c98a-759e-41cf-bd7e-cfb9faf8ea3c,species,Chromista,t0040302,"",Hincksia breviarticulatus,"Hincksia breviarticulatus J. Agardh P.C. Silva, 1987",taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/b179c98a-759e-41cf-bd7e-cfb9faf8ea3c
+59d8f77a-7da2-4b7a-911a-be7ac6e69587,species,Chromista,t0058673,"",Dictyota coriacea,"Dictyota coriacea Holmes I.-K. Hwang, H.-S. Kim et W.J. Lee, 2004",taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/59d8f77a-7da2-4b7a-911a-be7ac6e69587
+81c93aba-9fe2-4a07-bc3d-c2f825ea5f3f,species,Chromista,t0058673,"",Pachydictyon coriaceum,Pachydictyon coriaceum Holmes Okamura 1899,taiCOLNameCode重複,4,https://taxatree.tbn.org.tw/taxa/81c93aba-9fe2-4a07-bc3d-c2f825ea5f3f
+1e332b87-64ea-429a-9edc-5a2b735bbbfa,species,Chromista,t0058191,"",Sargassum aquifolium,Sargassum aquifolium (Turner) C.Agardh 1820,taiCOLNameCode重複,6,https://taxatree.tbn.org.tw/taxa/1e332b87-64ea-429a-9edc-5a2b735bbbfa
+ecfb0a15-ded5-4ec3-a153-77e65bb7c285,species,Chromista,t0058191,"",Sargassum coriifolium,Sargassum coriifolium,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/ecfb0a15-ded5-4ec3-a153-77e65bb7c285
+947a0ee4-c903-4031-8629-1cfb6ef336ef,species,Chromista,t0058655,"",Ophiocytium capitatum,Ophiocytium capitatum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/947a0ee4-c903-4031-8629-1cfb6ef336ef
+76b0d095-2042-42ca-a909-ca9696994660,species,Fungi,t0043065,"",Postia subcaesia,Postia subcaesia,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/76b0d095-2042-42ca-a909-ca9696994660
+90b4c115-793c-4e7c-86f7-ee80e7eb8637,species,Fungi,t0033891,"",Amanita hemibapha,Amanita hemibapha,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/90b4c115-793c-4e7c-86f7-ee80e7eb8637
+eaa92a82-44d5-46ba-9030-acb70a03a137,species,Fungi,t0034271,"",Basidiobolus haptosporus,Basidiobolus haptosporus,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/eaa92a82-44d5-46ba-9030-acb70a03a137
+34e333fb-92b7-4ce1-90fc-708ade60b21e,species,Fungi,t0034271,"",Basidiobolus ranarum,Basidiobolus ranarum,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/34e333fb-92b7-4ce1-90fc-708ade60b21e
+f90dc742-e544-4a79-9a4e-7f242b809774,species,Fungi,t0044012,"",Sphaerulina westendorpii,Sphaerulina westendorpii West.,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/f90dc742-e544-4a79-9a4e-7f242b809774
+ee011a7f-23d7-4e35-b0fc-4370ad4824cc,species,Fungi,t0034822,"",Chytridium citriforme,Chytridium citriforme,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/ee011a7f-23d7-4e35-b0fc-4370ad4824cc
+85f2700f-65ad-402e-b4d0-d9924849c3c0,species,Fungi,t0034822,"",Diplochytridium citriforme,Diplochytridium citriforme,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/85f2700f-65ad-402e-b4d0-d9924849c3c0
+bfd576e1-c801-4c40-be5e-4d28aa8fba98,species,Protozoa,t0028364,"",Tripos gibberus,Tripos gibberus (Gourret) F.Gómez,taiCOLNameCode重複,7,https://taxatree.tbn.org.tw/taxa/bfd576e1-c801-4c40-be5e-4d28aa8fba98
+74cbb94e-1778-437c-95e5-bb8de26b2d60,species,Protozoa,t0028364,"",Ceratium gibberum,Ceratium gibberum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/74cbb94e-1778-437c-95e5-bb8de26b2d60
+2e380d45-f550-44b8-a2db-c176928087f3,species,Protozoa,t0028366,"",Ceratium pentagonum,Ceratium pentagonum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/2e380d45-f550-44b8-a2db-c176928087f3
+c35b5d43-15c1-4449-8fc7-c4dbc1efec44,species,Protozoa,t0028370,"",Tripos symmetricus,Tripos symmetricus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/c35b5d43-15c1-4449-8fc7-c4dbc1efec44
+4b36213a-e1b7-4f97-b760-607f4896c9a3,species,Protozoa,t0028366,"",Tripos pentagonus,Tripos pentagonus,taiCOLNameCode重複,4,https://taxatree.tbn.org.tw/taxa/4b36213a-e1b7-4f97-b760-607f4896c9a3
+c3bd0261-e9fd-4afb-8792-5c4c2d6f8948,species,Protozoa,t0031888,"",Physarum album,Physarum album,taiCOLNameCode重複,3,https://taxatree.tbn.org.tw/taxa/c3bd0261-e9fd-4afb-8792-5c4c2d6f8948
+0f050dd6-3cb9-4ecb-9e72-af8dc684b31b,species,Protozoa,t0030741,"",Cribraria cancellata,Cribraria cancellata,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/0f050dd6-3cb9-4ecb-9e72-af8dc684b31b
+78778989-5131-43a3-a778-cd1612b56bdc,species,Protozoa,t0030741,"",Dictydium cancellatum,Dictydium cancellatum (Batsch),taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/78778989-5131-43a3-a778-cd1612b56bdc
+9f8fe488-6b9d-4e92-8fc0-78d01d22eb97,infraspecies,Chromista,t0059247,"",Achnanthes brevipes angustata,Achnanthes brevipes var. angustata,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9f8fe488-6b9d-4e92-8fc0-78d01d22eb97
+3386d624-95e6-44d6-899b-0f042996fb0f,infraspecies,Chromista,t0059322,"",Amphora ovalis libyca,Amphora ovalis var. libyca,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/3386d624-95e6-44d6-899b-0f042996fb0f
+b4d9da29-a9ad-494c-a089-c1e5faf8df83,infraspecies,Chromista,t0058598,"",Navicula ramosissima mollis,Navicula ramosissima var. mollis,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/b4d9da29-a9ad-494c-a089-c1e5faf8df83
+76ab4d0a-7252-4ceb-a749-1463a2c91eb0,infraspecies,Chromista,t0059946,"",Navicula cari angusta,Navicula cari var. angusta,taiCOLNameCode重複,4,https://taxatree.tbn.org.tw/taxa/76ab4d0a-7252-4ceb-a749-1463a2c91eb0
+4e494f50-4720-4098-bf24-e53054075023,infraspecies,Chromista,t0058591,"",Navicula heufleri leptocephala,Navicula heufleri var. leptocephala,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/4e494f50-4720-4098-bf24-e53054075023
+5523b9de-ebe9-43b7-9cd3-20e109fb5060,infraspecies,Chromista,t0060300,"",Pinnularia gibba mesogongyla,Pinnularia gibba var. mesogongyla,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/5523b9de-ebe9-43b7-9cd3-20e109fb5060
+a1890b7b-3ed9-4c2c-a17e-29784d229cf3,infraspecies,Chromista,t0058600,"",Pinnularia gibba parva,Pinnularia gibba var. parva,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/a1890b7b-3ed9-4c2c-a17e-29784d229cf3
+996cfe26-9311-4141-96f9-a3cd0286e747,infraspecies,Chromista,t0059036,"",Pleurosigma angulatum aestuarii,Pleurosigma angulatum var. aestuarii,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/996cfe26-9311-4141-96f9-a3cd0286e747
+dafffd23-344e-4409-9032-1ba9cea06af2,infraspecies,Chromista,t0058416,"",Trachyneis aspera pulchella,Trachyneis aspera var. pulchella,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/dafffd23-344e-4409-9032-1ba9cea06af2
+ce03cb57-cc19-421e-a8e1-424a7f9de9b5,infraspecies,Chromista,t0059803,"",Gomphonema truncatum capitatum,Gomphonema truncatum var. capitatum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/ce03cb57-cc19-421e-a8e1-424a7f9de9b5
+93382d6f-771d-4a22-b1d9-d8241844f1da,infraspecies,Chromista,t0059803,"",Gomphonema constrictum capitatum,Gomphonema constrictum var. capitatum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/93382d6f-771d-4a22-b1d9-d8241844f1da
+85da45fd-376f-4d99-b0ca-2c8882315e13,infraspecies,Chromista,t0060677,"",Gomphonema longiceps subclavata,Gomphonema longiceps var. subclavata,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/85da45fd-376f-4d99-b0ca-2c8882315e13
+a12d3543-a6bb-4973-abea-1ebf96e6e0ad,infraspecies,Chromista,t0060133,"",Nitzschia punctata coarctata,Nitzschia punctata var. coarctata,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/a12d3543-a6bb-4973-abea-1ebf96e6e0ad
+f2c5a30e-8bfc-4370-b876-e76e4105bed8,infraspecies,Chromista,t0059578,"",Coscinodiscus curvatulus minor,Coscinodiscus curvatulus subsp. minor,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/f2c5a30e-8bfc-4370-b876-e76e4105bed8
+a929a4bd-afe7-4d58-a4d5-bf04f6a7e9f7,infraspecies,Chromista,t0058655,"",Ophiocytium capitatum capitatum,Ophiocytium capitatum var. capitatum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/a929a4bd-afe7-4d58-a4d5-bf04f6a7e9f7
+3c877b7c-69d4-4dd1-b557-8df9dd4745d9,infraspecies,Fungi,t0033891,"",Amanita hemibapha hemibapha,Amanita hemibapha hemibapha,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/3c877b7c-69d4-4dd1-b557-8df9dd4745d9
+66157c6d-01fd-44ad-b9ea-9e0a93cf13f7,infraspecies,Fungi,t0043722,"",Rhizopus microsporus chinensis,Rhizopus microsporus var. chinensis (Cohn) Schipper & Stalpers,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/66157c6d-01fd-44ad-b9ea-9e0a93cf13f7
+62ea342d-5d7e-439b-b970-162cdae94918,infraspecies,Fungi,t0043724,"",Rhizopus microsporus oligosporus,Rhizopus microsporus var. oligosporus (Saito) Schipper & Stalpers 1984,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/62ea342d-5d7e-439b-b970-162cdae94918
+f3d58329-8a40-40e5-9bd7-2c9df63ad5e6,species,Bacteria,t0033287,"",Oscillatoria tenuis,Oscillatoria tenuis Agardh,taiCOLNameCode重複,365,https://taxatree.tbn.org.tw/taxa/f3d58329-8a40-40e5-9bd7-2c9df63ad5e6
+e03f2e61-cc78-437a-ad5e-4c24a0ae3ddb,species,Bacteria,t0033002,"",Planktomyces bekefii,Planktomyces bekefii Gemesi,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/e03f2e61-cc78-437a-ad5e-4c24a0ae3ddb
+e6ed327f-0976-4c22-840d-af7a8d99232b,infraspecies,Bacteria,t0028577,"",Merismopedia glauca glauca,Merismopedia glauca var. glauca Yamagishi,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/e6ed327f-0976-4c22-840d-af7a8d99232b
+f473e874-d515-41dc-a96b-cec81c138ae3,species,Animalia,t0029608,"",Blattella formosana,Blattella formosana,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/f473e874-d515-41dc-a96b-cec81c138ae3
+1017b8cd-3812-4416-9295-2ca72b18acd1,species,Animalia,t0030651,"",Condate angulina,Condate angulina,taiCOLNameCode重複,13,https://taxatree.tbn.org.tw/taxa/1017b8cd-3812-4416-9295-2ca72b18acd1
+9dca09df-c982-4a32-8b4f-68468657b9a0,species,Animalia,t0027884,"",Meleonoma argometra,Meleonoma argometra,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/9dca09df-c982-4a32-8b4f-68468657b9a0
+7ae2e664-34bf-4a09-a7e1-c763b3a01899,species,Animalia,t0030651,"",Omphalomia hirta,Omphalomia hirta,taiCOLNameCode重複,32,https://taxatree.tbn.org.tw/taxa/7ae2e664-34bf-4a09-a7e1-c763b3a01899
+02e33fee-9f12-47e9-ad2e-b021fa725f0b,species,Plantae,t0026536,C303120303050402040107006002100001000,Aleuritopteris krameri,Aleuritopteris krameri (Franch. & Sav.) Ching,taiCOLNameCode重複,87,https://taxatree.tbn.org.tw/taxa/02e33fee-9f12-47e9-ad2e-b021fa725f0b
+49395a43-358b-46f8-bf58-2785ead757a1,infraspecies,Plantae,t0053131,C303120303050402050521002000600006001,Corydalis pallida pallida,Corydalis pallida var. pallida,taiCOLNameCode重複,13,https://taxatree.tbn.org.tw/taxa/49395a43-358b-46f8-bf58-2785ead757a1
+fddf6c6f-0b9d-4ce0-8fa3-33f7420dd632,infraspecies,Animalia,t0099135,"",Theretra nessus nessus,Theretra nessus nessus,taiCOLNameCode重複,488,https://taxatree.tbn.org.tw/taxa/fddf6c6f-0b9d-4ce0-8fa3-33f7420dd632
+3eff4e19-ba42-464e-95da-3ecc12d5f79f,infraspecies,Animalia,t0030636,"",Colpodes acroglyptus acroglyptus,Colpodes acroglyptus acroglyptus,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/3eff4e19-ba42-464e-95da-3ecc12d5f79f
+5e89e54f-4457-462f-9809-b911008e2ae9,species,Protozoa,t0031888,"",Physarum nutans,Physarum nutans,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/5e89e54f-4457-462f-9809-b911008e2ae9
+5458294a-bb3f-4aaf-8c80-aa04fe1ebbe8,species,Protozoa,t0028370,"",Ceratium symmetricum,Ceratium symmetricum,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/5458294a-bb3f-4aaf-8c80-aa04fe1ebbe8
+a36ba4e3-4332-473e-93c0-7af30554aad1,species,Fungi,t0044012,"",Septoria rubi,Septoria rubi,taiCOLNameCode重複,1,https://taxatree.tbn.org.tw/taxa/a36ba4e3-4332-473e-93c0-7af30554aad1
+58fc16d2-a9f9-40e3-b8d7-3f3c81b66d34,species,Animalia,t0029328,"",Ginebis convexiuscula,Ginebis convexiuscula,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/58fc16d2-a9f9-40e3-b8d7-3f3c81b66d34
+d9e02467-0bd1-470c-b6e9-4dd341bb66e1,species,Fungi,t0043722,"",Rhizopus chinensis,Rhizopus chinensis Saito,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/d9e02467-0bd1-470c-b6e9-4dd341bb66e1
+c6edbe86-37a3-4b70-a598-2c175e04614f,species,Fungi,t0043724,"",Rhizopus oligosporus,Rhizopus oligosporus Saito,taiCOLNameCode重複,0,https://taxatree.tbn.org.tw/taxa/c6edbe86-37a3-4b70-a598-2c175e04614f
+81fd12ab-5c80-4dad-aacc-2851961c860e,genus,Animalia,t0002127,"",Polybranchia,Polybranchia,taiCOLNameCode重複,2,https://taxatree.tbn.org.tw/taxa/81fd12ab-5c80-4dad-aacc-2851961c860e
