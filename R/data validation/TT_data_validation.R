@@ -25,7 +25,7 @@ df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_dat
 # Step 1: 篩選欄位
 df_TTrepeated <- df_TTsplist %>%
   select(
-    taxonUUID, taxonRank, kingdom,
+    taxonUUID, taxonRank, kingdom, taiCOLNameCode, tfNameCode, 
     simplifiedScientificName, scientificName, 
   )
 
@@ -89,9 +89,49 @@ dup_kingdom_author_rank <- df_taxa_duplicates %>%
   filter(is_dup_kingdom_author_rank) %>%
   mutate(reason = "相同Kingdom學名加命名者階層重複")
 
-# 再把它們合併起來
-df_duplicates_reasoned <- bind_rows(dup_global, dup_kingdom, dup_kingdom_author, dup_kingdom_author_rank) %>%
-  distinct()  # 去掉完全重複列（避免重複列入）
+# ===== 新增：重複識別碼欄位檢查 =====
+# 補充欄位（必要時先加入）
+df_id_check <- df_TTsplist %>%
+  select(taxonUUID, taiCOLNameCode, tfNameCode, taxonRank, kingdom, simplifiedScientificName, scientificName) %>%
+  mutate(across(everything(), as.character))  # 保險起見全轉成字串
+
+# 檢查各欄位是否重複
+dup_taxonUUID <- df_id_check %>%
+  group_by(taxonUUID) %>%
+  filter(n() > 1) %>%
+  mutate(reason = "taxonUUID重複")
+
+dup_taiCOLNameCode <- df_id_check %>%
+  filter(!is.na(taiCOLNameCode) & taiCOLNameCode != "") %>%
+  group_by(taiCOLNameCode) %>%
+  filter(n() > 1) %>%
+  mutate(reason = "taiCOLNameCode重複")
+
+dup_tfNameCode <- df_id_check %>%
+  filter(!is.na(tfNameCode) & tfNameCode != "") %>%
+  group_by(tfNameCode) %>%
+  filter(n() > 1) %>%
+  mutate(reason = "tfNameCode重複")
+
+# 合併為一份資料框
+df_id_duplicates <- bind_rows(
+  dup_taxonUUID,
+  dup_taiCOLNameCode,
+  dup_tfNameCode
+) %>%
+  distinct() %>%
+  mutate(TT_URL = sprintf("https://taxatree.tbn.org.tw/taxa/%s", taxonUUID)) %>%
+  select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, tfNameCode, simplifiedScientificName, scientificName, reason)
+
+
+
+
+
+df_duplicates_reasoned <- bind_rows(
+  df_duplicates_reasoned %>%
+    select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, tfNameCode, simplifiedScientificName, scientificName, reason),
+  df_id_duplicates
+)
 
 
 
