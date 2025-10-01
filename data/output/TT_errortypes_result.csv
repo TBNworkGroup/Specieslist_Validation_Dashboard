@@ -1,110 +1,94 @@
-taxonUUID,taxonRank,kingdom,phylum,class,order,family,genus,specificEpithet,subspecies,variety,form,cultigen,simplifiedScientificName,authorship,subspeciesAuthorship,varietyAuthorship,formAuthorship,errortypes,number_of_occurrence,TT_URL
-7470927c-8a21-4678-817d-d36bf1b95559,genus,,,,,,× Ascocenda,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/7470927c-8a21-4678-817d-d36bf1b95559
-da0101e9-de59-4995-ae66-0b82fd9d74b0,genus,,,,,,× Brassidium,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/da0101e9-de59-4995-ae66-0b82fd9d74b0
-d6f16a2f-ccee-4f77-9148-ae151d07ab56,genus,,,,,,× Brassocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/d6f16a2f-ccee-4f77-9148-ae151d07ab56
-2680221a-8700-42ac-b78d-7b660a7f78fb,genus,,,,,,× Brassolaelia,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/2680221a-8700-42ac-b78d-7b660a7f78fb
-889f9d13-251e-4652-b08d-3ab73eb2b602,genus,,,,,,× Brassolaeliocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/889f9d13-251e-4652-b08d-3ab73eb2b602
-fa501f1f-585e-4959-adb6-270e1b06f858,genus,,,,,,× Doritaenopsis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/fa501f1f-585e-4959-adb6-270e1b06f858
-828b03e7-4355-4a9b-8a3b-db76765ab52c,genus,,,,,,× Epiphronitis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/828b03e7-4355-4a9b-8a3b-db76765ab52c
-8b3a9355-79b3-429b-836b-51b3c607c2b6,genus,,,,,,× Laeliocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/8b3a9355-79b3-429b-836b-51b3c607c2b6
-3776d92e-90b6-453c-8c61-a4010ec9936f,genus,,,,,,× Potinara,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/3776d92e-90b6-453c-8c61-a4010ec9936f
-18134326-6ae7-4720-9341-614311089841,genus,,,,,,× Sophrolaeliocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/18134326-6ae7-4720-9341-614311089841
-a6484789-5787-48ba-851a-233ac536ee2a,genus,,,,,,× Vandachostylis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/a6484789-5787-48ba-851a-233ac536ee2a
-df8c669c-cfa7-441c-a364-571c601c9037,genus,,,,,,× Vandaenopsis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/df8c669c-cfa7-441c-a364-571c601c9037
-18e1a9b1-137d-4826-956e-5c19d1baf556,genus,,,,,,× Vandanthe,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/18e1a9b1-137d-4826-956e-5c19d1baf556
-d9cc5769-e6f7-491f-b76a-b633f29637db,genus,,,,,,× Phalandopsis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/d9cc5769-e6f7-491f-b76a-b633f29637db
-39e003f1-268f-47e5-8a58-e3cca83d1364,genus,,,,,,,,,,,,, Lindl.,,,,命名者欄位空格錯誤,767,https://taxatree.tbn.org.tw/taxa/39e003f1-268f-47e5-8a58-e3cca83d1364
-75428e40-3a44-465a-860d-b414bb6aae88,species,,,,,,,,,,,,,(J.Schmidt) Anagnostidis & Komárek 1988 ,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/75428e40-3a44-465a-860d-b414bb6aae88
-33479f44-74ef-4f95-8ce1-d18c6ceea0f7,species,,,,,,,,,,,,,"(Mont.)  Sing., 1945",,,,命名者欄位空格錯誤,14,https://taxatree.tbn.org.tw/taxa/33479f44-74ef-4f95-8ce1-d18c6ceea0f7
-e8e59120-7b61-4ce4-9cd4-16301e940eb8,species,,,,,,,,,,,,,"(Middelhoven, Hoogkamer-Te Niet & Kreger-van Rij) Kurtzman & Robnett 2007 ",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/e8e59120-7b61-4ce4-9cd4-16301e940eb8
-8d0f49e3-6833-4158-8c81-b8c877141fdd,species,,,,,,,,,,,,,Sawada 1959 ,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/8d0f49e3-6833-4158-8c81-b8c877141fdd
-3269f3fc-55d5-4256-8a36-94fa52c3346c,species,,,,,,,,,,,,,"(Farlow) Kepler, S.A. Rehner & Humber ",,,,命名者欄位空格錯誤,18,https://taxatree.tbn.org.tw/taxa/3269f3fc-55d5-4256-8a36-94fa52c3346c
-66162cbd-855c-46a8-a24c-d1ab97242d69,species,,,,,,,,,,,,,(Preuss) de Hoog & Arx 1973 ,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/66162cbd-855c-46a8-a24c-d1ab97242d69
-cb7c3f64-beaf-4032-993b-57b77fe8fb5e,species,,,,,,,,,,,,,"(Sacc. , Rouss. & Bomm.) S.J. Hughes ",,,,命名者欄位空格錯誤,1,https://taxatree.tbn.org.tw/taxa/cb7c3f64-beaf-4032-993b-57b77fe8fb5e
-0dc0fa44-2128-4386-9450-6e20afc326b8,species,,,,,,,,,,,,,"W.H. Hiseh, C.Y. Chen & Sivan. ",,,,命名者欄位空格錯誤,3,https://taxatree.tbn.org.tw/taxa/0dc0fa44-2128-4386-9450-6e20afc326b8
-e5587928-5c8a-4930-a542-187ac42c2ab7,species,,,,,,,,,,,,,"(Saito) Cif. & Redaelli, 1926 ",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/e5587928-5c8a-4930-a542-187ac42c2ab7
-db1f9c62-a245-4f9a-81e7-2bed7ed777bd,species,,,,,,,,,,,,,"Huang , Huang , Wang  1996",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/db1f9c62-a245-4f9a-81e7-2bed7ed777bd
-5f71606a-3c8d-4811-b6ed-eafceeecb24c,species,,,,,,,,,,,,,"Huang , Hong , Huang  1989",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/5f71606a-3c8d-4811-b6ed-eafceeecb24c
-c26d4a0f-9376-4859-9d3c-195db5fb99bc,species,,,,,,,,,,,,,Baker  1949,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/c26d4a0f-9376-4859-9d3c-195db5fb99bc
-6e79ea12-54a3-4583-8d5d-9c50a325c33e,species,,,,,,,,,,,,,Reck  1951,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/6e79ea12-54a3-4583-8d5d-9c50a325c33e
-28177715-3dcf-4267-95f6-ffe5f5dc8038,species,,,,,,,,,,,,,Lambardini  1951,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/28177715-3dcf-4267-95f6-ffe5f5dc8038
-4ce85551-f85d-4e44-8815-ec497d0d1383,species,,,,,,,,,,,,,Gaud & Barre  1988,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/4ce85551-f85d-4e44-8815-ec497d0d1383
-4cf543de-2f0d-496b-a159-937ea3100ed4,species,,,,,,,,,,,,,"(L. Koch, 1878) ",,,,命名者欄位空格錯誤,903,https://taxatree.tbn.org.tw/taxa/4cf543de-2f0d-496b-a159-937ea3100ed4
-31eb5062-6d2f-4083-9363-ff59d2d1285f,species,,,,,,,,,,,,,Hiramatsu & Hirschmann  1990,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/31eb5062-6d2f-4083-9363-ff59d2d1285f
-535c97eb-929c-43c9-8e5a-43359dbcf400,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2011",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/535c97eb-929c-43c9-8e5a-43359dbcf400
-dce7041d-df15-4a7c-8207-5b8ce1db0bad,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2012",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/dce7041d-df15-4a7c-8207-5b8ce1db0bad
-9585ff9c-65b1-401c-b3df-376bcae27be2,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2012",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/9585ff9c-65b1-401c-b3df-376bcae27be2
-d2f5054c-f279-4d95-901c-9a324920be56,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2013",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/d2f5054c-f279-4d95-901c-9a324920be56
-e0334ae2-9da4-4694-a6bb-115303134d75,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2014",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/e0334ae2-9da4-4694-a6bb-115303134d75
-911a81ae-4750-4578-a6df-652ca63db421,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2015",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/911a81ae-4750-4578-a6df-652ca63db421
-f2ab0304-4a07-47d3-ab70-5e12cedf7d49,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2011",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/f2ab0304-4a07-47d3-ab70-5e12cedf7d49
-881cbcb6-251d-45f0-a2a0-7741a81a272b,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,命名者欄位空格錯誤,1,https://taxatree.tbn.org.tw/taxa/881cbcb6-251d-45f0-a2a0-7741a81a272b
-c1e3abb9-efc2-4012-8568-ba49ee55aa95,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/c1e3abb9-efc2-4012-8568-ba49ee55aa95
-f17168a3-b92b-4438-a520-0d037d065268,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/f17168a3-b92b-4438-a520-0d037d065268
-bee13088-c6ef-4df3-aba3-1b9dd9a33a26,species,,,,,,,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/bee13088-c6ef-4df3-aba3-1b9dd9a33a26
-aff2050f-4276-4a1f-90f0-3cdc6175798d,species,,,,,,,,,,,,," Ho, Motomura, Hata and Chiang, 2017 ",,,,命名者欄位空格錯誤,4,https://taxatree.tbn.org.tw/taxa/aff2050f-4276-4a1f-90f0-3cdc6175798d
-a2f038f5-2991-4845-ad30-c766edf67ae8,species,,,,,,,,,,,,,"Temminck  &  Schlegel, 1846",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/a2f038f5-2991-4845-ad30-c766edf67ae8
-ac6acd99-3b92-4158-b242-30e58d8ba5cc,species,,,,,,,,,,,,,"Jordan &  Richardson, 1908",,,,命名者欄位空格錯誤,1,https://taxatree.tbn.org.tw/taxa/ac6acd99-3b92-4158-b242-30e58d8ba5cc
-fa561dd6-3909-42f3-9bc2-e4444c64c707,species,,,,,,,sp.,,,,,,,,,,錯誤符號與括號前後空格,10,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707
-774fb097-6a9c-4e9e-82ed-cb83fc287d6c,species,,,,,,,,,,,,,"Duméril  & Bibron, 1854",,,,命名者欄位空格錯誤,273,https://taxatree.tbn.org.tw/taxa/774fb097-6a9c-4e9e-82ed-cb83fc287d6c
-82cea777-387b-4f49-ab58-01ffe24d055e,species,,,,,,,,,,,,,"Ota  & Hikida, 1989",,,,命名者欄位空格錯誤,169,https://taxatree.tbn.org.tw/taxa/82cea777-387b-4f49-ab58-01ffe24d055e
-829f3f60-a99e-418d-b771-8989e34f62b3,species,,,,,,,,,,,,,"Duméril  & Bibron, 1836",,,,命名者欄位空格錯誤,108,https://taxatree.tbn.org.tw/taxa/829f3f60-a99e-418d-b771-8989e34f62b3
-32cd5e13-963c-4696-a20e-8531aa1c09c1,species,,,,,,,,,,,,,"Hubbs &  Follett, 1947",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/32cd5e13-963c-4696-a20e-8531aa1c09c1
-582207af-3756-4d9d-b125-0e3e2dc1f23b,species,,,,,,,,,,,,,"Chujo,  1962",,,,命名者欄位空格錯誤,6,https://taxatree.tbn.org.tw/taxa/582207af-3756-4d9d-b125-0e3e2dc1f23b
-0f46c84c-41a2-4422-80df-9793caff0683,infraspecies,,,,,,,,,,,,,"Walker, 1856 ",,,,命名者欄位空格錯誤,321,https://taxatree.tbn.org.tw/taxa/0f46c84c-41a2-4422-80df-9793caff0683
-0c22ffd9-f212-45ac-8436-baa00222aee4,infraspecies,,,,,,,,,,,,,"Westwood, 1848 ",,,,命名者欄位空格錯誤,58,https://taxatree.tbn.org.tw/taxa/0c22ffd9-f212-45ac-8436-baa00222aee4
-88880a61-3f7f-4c2b-9867-07cc3d3ead5e,species,,,,,,,,,,,,," Klug, 1810",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/88880a61-3f7f-4c2b-9867-07cc3d3ead5e
-49851c2d-c493-4d4f-9e0f-7d5465b0485c,infraspecies,,,,,,,,,,,,,," (Alexander, 1923)",,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/49851c2d-c493-4d4f-9e0f-7d5465b0485c
-ece48261-7897-475b-aafb-0a61c42f5227,species,,,,,,,,,,,,,"Aspöck,  Liu,  Aspöck, 2009",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/ece48261-7897-475b-aafb-0a61c42f5227
-d7183cdf-acca-44b7-940d-feed3af27e52,species,,,,,,,,,,,,,"Yeh ,Lee  & Wong, 2015",,,,命名者欄位空格錯誤,1,https://taxatree.tbn.org.tw/taxa/d7183cdf-acca-44b7-940d-feed3af27e52
-906db289-aaec-48ca-84fe-e3aac5fdc65e,infraspecies,,,,,,,,,,,,," Klug, 1810",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/906db289-aaec-48ca-84fe-e3aac5fdc65e
-44f652d1-36ad-414e-9c7c-a4daee60d033,species,,,,,,× Ascocenda,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/44f652d1-36ad-414e-9c7c-a4daee60d033
-13e48885-8e08-475c-b332-434fdf538dc5,species,,,,,,× Brassidium,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/13e48885-8e08-475c-b332-434fdf538dc5
-b621834d-279d-449b-977f-03ca5c0c7609,species,,,,,,× Brassocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/b621834d-279d-449b-977f-03ca5c0c7609
-034768d6-5c63-49e0-a516-ed2fae36e6e0,species,,,,,,× Brassolaelia,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/034768d6-5c63-49e0-a516-ed2fae36e6e0
-aa5ec0b0-ae9a-495f-a1cd-f1000f71bd43,species,,,,,,× Brassolaeliocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/aa5ec0b0-ae9a-495f-a1cd-f1000f71bd43
-ee3dd896-fb67-4996-8ad7-c875924e9f15,species,,,,,,× Doritaenopsis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/ee3dd896-fb67-4996-8ad7-c875924e9f15
-7c17999f-4d33-4da2-af09-2d5d0c23a447,species,,,,,,× Epiphronitis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/7c17999f-4d33-4da2-af09-2d5d0c23a447
-36906c3b-31fb-45e1-aa7e-444faa614ac1,species,,,,,,× Laeliocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/36906c3b-31fb-45e1-aa7e-444faa614ac1
-c2a8b686-31bc-42c8-8ef8-991d62f28a9a,species,,,,,,× Potinara,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/c2a8b686-31bc-42c8-8ef8-991d62f28a9a
-20cb21fa-812f-4596-a113-5d07d892acaf,species,,,,,,× Sophrolaeliocattleya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/20cb21fa-812f-4596-a113-5d07d892acaf
-7754275a-46bd-4ac6-a88a-94f3960a26c6,species,,,,,,× Vandachostylis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/7754275a-46bd-4ac6-a88a-94f3960a26c6
-20c7e668-07d7-4321-ae3d-9ef454b08928,species,,,,,,× Vandaenopsis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/20c7e668-07d7-4321-ae3d-9ef454b08928
-8d0f281b-87d1-4c1b-bf0c-3959c6558925,species,,,,,,× Vandanthe,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/8d0f281b-87d1-4c1b-bf0c-3959c6558925
-ab85b04f-2d91-4215-98ad-90b5402c5474,species,,,,,,× Phalandopsis,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/ab85b04f-2d91-4215-98ad-90b5402c5474
-187d3f66-b4ca-4620-b478-72705922e617,species,,,,,,,,,,,,,(Makino) Schltr. ,,,,命名者欄位空格錯誤,36,https://taxatree.tbn.org.tw/taxa/187d3f66-b4ca-4620-b478-72705922e617
-e80f0369-b2ef-4a9c-8814-48e7f5e95256,species,,,,,,,,,,,,,(K.Koch & Linden) Borchs. & S.Suárez ,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/e80f0369-b2ef-4a9c-8814-48e7f5e95256
-0d28ef52-53b5-4dc3-b1b2-cd5053ebcd9f,infraspecies,,,,,,,,,,,,,,,(H.Lév.) H.Lév. ,,命名者欄位空格錯誤,646,https://taxatree.tbn.org.tw/taxa/0d28ef52-53b5-4dc3-b1b2-cd5053ebcd9f
-7ba47f11-e29f-4603-8214-4e05466f032c,species,,,,,,,,,,,,, (Cooney & Emerson),,,,命名者欄位空格錯誤,1,https://taxatree.tbn.org.tw/taxa/7ba47f11-e29f-4603-8214-4e05466f032c
-2ed101e8-8b1f-456e-9e38-4a95a1df8344,species,,,,,,,,,,,,, (Pers.) T. Macbr. 1899,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/2ed101e8-8b1f-456e-9e38-4a95a1df8344
-b2a140c0-86d9-435e-a42d-cb5cae9e8f2d,species,,,,,,,,,,,,,"Racib. G.Lister,  1909",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/b2a140c0-86d9-435e-a42d-cb5cae9e8f2d
-ee9212fc-1c26-4efb-bc0b-3c247a27a972,infraspecies,,,,,,,,,,,,,,,,(Ehrenberg) Cleve ,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/ee9212fc-1c26-4efb-bc0b-3c247a27a972
-96cd5c7c-1e31-4c92-bda6-e826984a4f91,infraspecies,,,,,,,,,,,,, (Cooney & Emerson),,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/96cd5c7c-1e31-4c92-bda6-e826984a4f91
-778fcbf5-f30d-4b96-be0f-d6a890439341,infraspecies,,,,,,,,,,,,,,,,"Kawai, Suzuki & Kawai ",命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/778fcbf5-f30d-4b96-be0f-d6a890439341
-cb9e068e-a423-48fb-b811-d8e51e8c26a4,infraspecies,,,,,,,,,,,,,,,"(J. R. Johnst.) M.C. Tulloch, 1976 ",,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/cb9e068e-a423-48fb-b811-d8e51e8c26a4
-5806035e-2ba1-44cc-85fc-d7df8e16f68a,infraspecies,,,,,,,,,,,,, (Pers.) T. Macbr. 1899,,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/5806035e-2ba1-44cc-85fc-d7df8e16f68a
-27529265-6ee2-42d7-9f78-46f98fd7c1fb,infraspecies,,,,,,,,,,,,,,,W. & G. S. West ,,命名者欄位空格錯誤,1,https://taxatree.tbn.org.tw/taxa/27529265-6ee2-42d7-9f78-46f98fd7c1fb
-5fa81ac2-33b1-4448-8255-6ba10e1dac5e,infraspecies,,,,,,,,,,,,,,,Yamagishi ,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/5fa81ac2-33b1-4448-8255-6ba10e1dac5e
-bc9a5f78-b433-4ba5-abf7-dbc309076351,infraspecies,,,,,,,,,,,,,,,Yamagishi ,,命名者欄位空格錯誤,6,https://taxatree.tbn.org.tw/taxa/bc9a5f78-b433-4ba5-abf7-dbc309076351
-a4d28768-2e0c-416e-bc90-53865939aa7d,species,,,,,,,,,,,,,"Ho, Endo & Lee, 202-0 ",,,,命名者欄位空格錯誤,5,https://taxatree.tbn.org.tw/taxa/a4d28768-2e0c-416e-bc90-53865939aa7d
-6c6aae98-db31-40a6-ba80-764845863560,species,,,,,,,,,,,,,"Lloyd, 1909 ",,,,命名者欄位空格錯誤,4,https://taxatree.tbn.org.tw/taxa/6c6aae98-db31-40a6-ba80-764845863560
-8d36cd09-b31c-4b9b-b8e1-6c95e5ab50fa,species,,,,,,,,,,,,,"Smith & Radcliffe, 1912 ",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/8d36cd09-b31c-4b9b-b8e1-6c95e5ab50fa
-acc1a518-e50d-4c5d-b2f0-6351999bf9a2,infraspecies,,,,,,,,,,,,,," Frank & Sekerka, 2020",,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/acc1a518-e50d-4c5d-b2f0-6351999bf9a2
-7857ecde-c1d6-4770-ab3f-b82d52f5327c,species,,,,,,,,,,,,,(Hedw.) Warnst. ,,,,命名者欄位空格錯誤,11,https://taxatree.tbn.org.tw/taxa/7857ecde-c1d6-4770-ab3f-b82d52f5327c
-885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,,,,,,,,,,,'Array',,,,,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519
-2d8bcf8e-990e-4a2f-9608-b4ef3cbedf6f,species,,,,,,,,,,,,,"Westwood, 1848 ",,,,命名者欄位空格錯誤,58,https://taxatree.tbn.org.tw/taxa/2d8bcf8e-990e-4a2f-9608-b4ef3cbedf6f
-d92b4caf-674a-4c69-8e0e-9aa3820110cf,species,,,,,,,,,,,,,"Walker, 1856 ",,,,命名者欄位空格錯誤,363,https://taxatree.tbn.org.tw/taxa/d92b4caf-674a-4c69-8e0e-9aa3820110cf
-d4462017-0b38-4b00-9bd5-5505d8668eac,species,,,,,,,sinensis formosae × Pycnonotus taivanus,,,,,,,,,,大小寫錯誤,1554,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac
-a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,,,,,,,canorus × Garrulax taewanus,,,,,,,,,,大小寫錯誤,485,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379
-778f16f3-acf9-412f-b896-5a06e02fb799,species,,,,,,,,,,,,,"Pace, 2008 ",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/778f16f3-acf9-412f-b896-5a06e02fb799
-17d2f8f0-3601-4ad9-87eb-322179ce5f91,species,,,,,,,,,,,,, (Delile) Trevisan de Saint-Léon 1845,,,,命名者欄位空格錯誤,40,https://taxatree.tbn.org.tw/taxa/17d2f8f0-3601-4ad9-87eb-322179ce5f91
-d304e9f1-dbf5-4465-83cc-e6eea92a1afc,species,,,,,,,,,,,,," Chen, 2004",,,,命名者欄位空格錯誤,0,https://taxatree.tbn.org.tw/taxa/d304e9f1-dbf5-4465-83cc-e6eea92a1afc
-8ff8d907-4640-4f31-bb33-d7c9fecfcfae,genus,,,,,,,,,,,,, A.Gray,,,,命名者欄位空格錯誤,11,https://taxatree.tbn.org.tw/taxa/8ff8d907-4640-4f31-bb33-d7c9fecfcfae
-1027baf9-badd-47c6-807b-b45fec382348,genus,,,,,,× Rhaphiobotrya,,,,,,,,,,,高階層欄位出現多詞格式,0,https://taxatree.tbn.org.tw/taxa/1027baf9-badd-47c6-807b-b45fec382348
-8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,,,,,,,,,,,Big Purple,,,,,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd
-3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,,,,,,,,,,,Shu,,,,,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a
-3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,,,,,,,,,,,Baimiao,,,,,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da
-e7fcc177-ddde-4e80-8519-e09dd930bb17,species,,,,,,,fuscoguttatus × Epinephelus lanceolatus,,,,,,,,,,大小寫錯誤,10,https://taxatree.tbn.org.tw/taxa/e7fcc177-ddde-4e80-8519-e09dd930bb17
-fad8855a-c629-45ac-ba70-b5a7e97922a8,infraspecies,,,,,,,,,,,,,"Duméril  & Bibron, 1854",,,,命名者欄位空格錯誤,125,https://taxatree.tbn.org.tw/taxa/fad8855a-c629-45ac-ba70-b5a7e97922a8
-97a584e6-1689-45ee-a654-5dc2624f3143,genus,,,,,,,,,,,,,"Oberholser, 1899 ",,,,命名者欄位空格錯誤,1,https://taxatree.tbn.org.tw/taxa/97a584e6-1689-45ee-a654-5dc2624f3143
-d9b11d30-0c58-4f5d-b894-81050b1a110d,species,,,,,,,platyrhynchos × Anas zonorhyncha,,,,,,,,,,大小寫錯誤,0,https://taxatree.tbn.org.tw/taxa/d9b11d30-0c58-4f5d-b894-81050b1a110d
+taxonUUID,taxonRank,kingdom,simplifiedScientificName,specificEpithet,subspecies,variety,form,cultigen,authorship,subspeciesAuthorship,varietyAuthorship,formAuthorship,errortypes,TT_URL,number_of_occurrence
+7470927c-8a21-4678-817d-d36bf1b95559,genus,Plantae,× Ascocenda,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/7470927c-8a21-4678-817d-d36bf1b95559,0
+da0101e9-de59-4995-ae66-0b82fd9d74b0,genus,Plantae,× Brassidium,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/da0101e9-de59-4995-ae66-0b82fd9d74b0,0
+d6f16a2f-ccee-4f77-9148-ae151d07ab56,genus,Plantae,× Brassocattleya,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/d6f16a2f-ccee-4f77-9148-ae151d07ab56,0
+2680221a-8700-42ac-b78d-7b660a7f78fb,genus,Plantae,× Brassolaelia,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/2680221a-8700-42ac-b78d-7b660a7f78fb,0
+889f9d13-251e-4652-b08d-3ab73eb2b602,genus,Plantae,× Brassolaeliocattleya,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/889f9d13-251e-4652-b08d-3ab73eb2b602,0
+fa501f1f-585e-4959-adb6-270e1b06f858,genus,Plantae,× Doritaenopsis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/fa501f1f-585e-4959-adb6-270e1b06f858,0
+828b03e7-4355-4a9b-8a3b-db76765ab52c,genus,Plantae,× Epiphronitis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/828b03e7-4355-4a9b-8a3b-db76765ab52c,0
+8b3a9355-79b3-429b-836b-51b3c607c2b6,genus,Plantae,× Laeliocattleya,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/8b3a9355-79b3-429b-836b-51b3c607c2b6,0
+3776d92e-90b6-453c-8c61-a4010ec9936f,genus,Plantae,× Potinara,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/3776d92e-90b6-453c-8c61-a4010ec9936f,0
+18134326-6ae7-4720-9341-614311089841,genus,Plantae,× Sophrolaeliocattleya,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/18134326-6ae7-4720-9341-614311089841,0
+a6484789-5787-48ba-851a-233ac536ee2a,genus,Plantae,× Vandachostylis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/a6484789-5787-48ba-851a-233ac536ee2a,0
+df8c669c-cfa7-441c-a364-571c601c9037,genus,Plantae,× Vandaenopsis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/df8c669c-cfa7-441c-a364-571c601c9037,0
+18e1a9b1-137d-4826-956e-5c19d1baf556,genus,Plantae,× Vandanthe,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/18e1a9b1-137d-4826-956e-5c19d1baf556,0
+d9cc5769-e6f7-491f-b76a-b633f29637db,genus,Plantae,× Phalandopsis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/d9cc5769-e6f7-491f-b76a-b633f29637db,0
+75428e40-3a44-465a-860d-b414bb6aae88,species,Bacteria,,,,,,,(J.Schmidt) Anagnostidis & Komárek 1988 ,,,,文字後空格,https://taxatree.tbn.org.tw/taxa/75428e40-3a44-465a-860d-b414bb6aae88,0
+33479f44-74ef-4f95-8ce1-d18c6ceea0f7,species,Fungi,,,,,,,"(Mont.)  Sing., 1945",,,,連續空格,https://taxatree.tbn.org.tw/taxa/33479f44-74ef-4f95-8ce1-d18c6ceea0f7,14
+e8e59120-7b61-4ce4-9cd4-16301e940eb8,species,Fungi,,,,,,,"(Middelhoven, Hoogkamer-Te Niet & Kreger-van Rij) Kurtzman & Robnett 2007 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/e8e59120-7b61-4ce4-9cd4-16301e940eb8,0
+8d0f49e3-6833-4158-8c81-b8c877141fdd,species,Fungi,,,,,,,Sawada 1959 ,,,,文字後空格,https://taxatree.tbn.org.tw/taxa/8d0f49e3-6833-4158-8c81-b8c877141fdd,0
+3269f3fc-55d5-4256-8a36-94fa52c3346c,species,Fungi,,,,,,,"(Farlow) Kepler, S.A. Rehner & Humber ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/3269f3fc-55d5-4256-8a36-94fa52c3346c,19
+66162cbd-855c-46a8-a24c-d1ab97242d69,species,Fungi,,,,,,,(Preuss) de Hoog & Arx 1973 ,,,,文字後空格,https://taxatree.tbn.org.tw/taxa/66162cbd-855c-46a8-a24c-d1ab97242d69,0
+cb7c3f64-beaf-4032-993b-57b77fe8fb5e,species,Fungi,,,,,,,"(Sacc. , Rouss. & Bomm.) S.J. Hughes ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/cb7c3f64-beaf-4032-993b-57b77fe8fb5e,1
+0dc0fa44-2128-4386-9450-6e20afc326b8,species,Fungi,,,,,,,"W.H. Hiseh, C.Y. Chen & Sivan. ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/0dc0fa44-2128-4386-9450-6e20afc326b8,3
+e5587928-5c8a-4930-a542-187ac42c2ab7,species,Fungi,,,,,,,"(Saito) Cif. & Redaelli, 1926 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/e5587928-5c8a-4930-a542-187ac42c2ab7,0
+db1f9c62-a245-4f9a-81e7-2bed7ed777bd,species,Animalia,,,,,,,"Huang , Huang , Wang  1996",,,,連續空格,https://taxatree.tbn.org.tw/taxa/db1f9c62-a245-4f9a-81e7-2bed7ed777bd,0
+5f71606a-3c8d-4811-b6ed-eafceeecb24c,species,Animalia,,,,,,,"Huang , Hong , Huang  1989",,,,連續空格,https://taxatree.tbn.org.tw/taxa/5f71606a-3c8d-4811-b6ed-eafceeecb24c,0
+c26d4a0f-9376-4859-9d3c-195db5fb99bc,species,Animalia,,,,,,,Baker  1949,,,,連續空格,https://taxatree.tbn.org.tw/taxa/c26d4a0f-9376-4859-9d3c-195db5fb99bc,0
+6e79ea12-54a3-4583-8d5d-9c50a325c33e,species,Animalia,,,,,,,Reck  1951,,,,連續空格,https://taxatree.tbn.org.tw/taxa/6e79ea12-54a3-4583-8d5d-9c50a325c33e,0
+28177715-3dcf-4267-95f6-ffe5f5dc8038,species,Animalia,,,,,,,Lambardini  1951,,,,連續空格,https://taxatree.tbn.org.tw/taxa/28177715-3dcf-4267-95f6-ffe5f5dc8038,0
+4ce85551-f85d-4e44-8815-ec497d0d1383,species,Animalia,,,,,,,Gaud & Barre  1988,,,,連續空格,https://taxatree.tbn.org.tw/taxa/4ce85551-f85d-4e44-8815-ec497d0d1383,0
+4cf543de-2f0d-496b-a159-937ea3100ed4,species,Animalia,,,,,,,"(L. Koch, 1878) ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/4cf543de-2f0d-496b-a159-937ea3100ed4,1007
+31eb5062-6d2f-4083-9363-ff59d2d1285f,species,Animalia,,,,,,,Hiramatsu & Hirschmann  1990,,,,連續空格,https://taxatree.tbn.org.tw/taxa/31eb5062-6d2f-4083-9363-ff59d2d1285f,0
+535c97eb-929c-43c9-8e5a-43359dbcf400,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2011",,,,連續空格,https://taxatree.tbn.org.tw/taxa/535c97eb-929c-43c9-8e5a-43359dbcf400,0
+dce7041d-df15-4a7c-8207-5b8ce1db0bad,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2012",,,,連續空格,https://taxatree.tbn.org.tw/taxa/dce7041d-df15-4a7c-8207-5b8ce1db0bad,0
+9585ff9c-65b1-401c-b3df-376bcae27be2,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2012",,,,連續空格,https://taxatree.tbn.org.tw/taxa/9585ff9c-65b1-401c-b3df-376bcae27be2,0
+d2f5054c-f279-4d95-901c-9a324920be56,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2013",,,,連續空格,https://taxatree.tbn.org.tw/taxa/d2f5054c-f279-4d95-901c-9a324920be56,0
+e0334ae2-9da4-4694-a6bb-115303134d75,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2014",,,,連續空格,https://taxatree.tbn.org.tw/taxa/e0334ae2-9da4-4694-a6bb-115303134d75,0
+911a81ae-4750-4578-a6df-652ca63db421,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2015",,,,連續空格,https://taxatree.tbn.org.tw/taxa/911a81ae-4750-4578-a6df-652ca63db421,0
+f2ab0304-4a07-47d3-ab70-5e12cedf7d49,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2011",,,,連續空格,https://taxatree.tbn.org.tw/taxa/f2ab0304-4a07-47d3-ab70-5e12cedf7d49,0
+881cbcb6-251d-45f0-a2a0-7741a81a272b,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,連續空格,https://taxatree.tbn.org.tw/taxa/881cbcb6-251d-45f0-a2a0-7741a81a272b,1
+c1e3abb9-efc2-4012-8568-ba49ee55aa95,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,連續空格,https://taxatree.tbn.org.tw/taxa/c1e3abb9-efc2-4012-8568-ba49ee55aa95,0
+f17168a3-b92b-4438-a520-0d037d065268,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,連續空格,https://taxatree.tbn.org.tw/taxa/f17168a3-b92b-4438-a520-0d037d065268,0
+bee13088-c6ef-4df3-aba3-1b9dd9a33a26,species,Animalia,,,,,,,"Golovatch, Mikhaljova  & Chang 2010",,,,連續空格,https://taxatree.tbn.org.tw/taxa/bee13088-c6ef-4df3-aba3-1b9dd9a33a26,0
+aff2050f-4276-4a1f-90f0-3cdc6175798d,species,Animalia,,,,,,," Ho, Motomura, Hata and Chiang, 2017 ",,,,文字前空格,https://taxatree.tbn.org.tw/taxa/aff2050f-4276-4a1f-90f0-3cdc6175798d,4
+aff2050f-4276-4a1f-90f0-3cdc6175798d,species,Animalia,,,,,,," Ho, Motomura, Hata and Chiang, 2017 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/aff2050f-4276-4a1f-90f0-3cdc6175798d,4
+a2f038f5-2991-4845-ad30-c766edf67ae8,species,Animalia,,,,,,,"Temminck  &  Schlegel, 1846",,,,連續空格,https://taxatree.tbn.org.tw/taxa/a2f038f5-2991-4845-ad30-c766edf67ae8,0
+ac6acd99-3b92-4158-b242-30e58d8ba5cc,species,Animalia,,,,,,,"Jordan &  Richardson, 1908",,,,連續空格,https://taxatree.tbn.org.tw/taxa/ac6acd99-3b92-4158-b242-30e58d8ba5cc,1
+fa561dd6-3909-42f3-9bc2-e4444c64c707,species,Animalia,,sp.,,,,,,,,,錯誤符號與括號前後空格,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707,10
+774fb097-6a9c-4e9e-82ed-cb83fc287d6c,species,Animalia,,,,,,,"Duméril  & Bibron, 1854",,,,連續空格,https://taxatree.tbn.org.tw/taxa/774fb097-6a9c-4e9e-82ed-cb83fc287d6c,284
+82cea777-387b-4f49-ab58-01ffe24d055e,species,Animalia,,,,,,,"Ota  & Hikida, 1989",,,,連續空格,https://taxatree.tbn.org.tw/taxa/82cea777-387b-4f49-ab58-01ffe24d055e,183
+829f3f60-a99e-418d-b771-8989e34f62b3,species,Animalia,,,,,,,"Duméril  & Bibron, 1836",,,,連續空格,https://taxatree.tbn.org.tw/taxa/829f3f60-a99e-418d-b771-8989e34f62b3,114
+32cd5e13-963c-4696-a20e-8531aa1c09c1,species,Animalia,,,,,,,"Hubbs &  Follett, 1947",,,,連續空格,https://taxatree.tbn.org.tw/taxa/32cd5e13-963c-4696-a20e-8531aa1c09c1,0
+582207af-3756-4d9d-b125-0e3e2dc1f23b,species,Animalia,,,,,,,"Chujo,  1962",,,,連續空格,https://taxatree.tbn.org.tw/taxa/582207af-3756-4d9d-b125-0e3e2dc1f23b,6
+88880a61-3f7f-4c2b-9867-07cc3d3ead5e,species,Animalia,,,,,,," Klug, 1810",,,,文字前空格,https://taxatree.tbn.org.tw/taxa/88880a61-3f7f-4c2b-9867-07cc3d3ead5e,0
+ece48261-7897-475b-aafb-0a61c42f5227,species,Animalia,,,,,,,"Aspöck,  Liu,  Aspöck, 2009",,,,連續空格,https://taxatree.tbn.org.tw/taxa/ece48261-7897-475b-aafb-0a61c42f5227,0
+d7183cdf-acca-44b7-940d-feed3af27e52,species,Animalia,,,,,,,"Yeh ,Lee  & Wong, 2015",,,,連續空格,https://taxatree.tbn.org.tw/taxa/d7183cdf-acca-44b7-940d-feed3af27e52,1
+187d3f66-b4ca-4620-b478-72705922e617,species,Plantae,,,,,,,(Makino) Schltr. ,,,,文字後空格,https://taxatree.tbn.org.tw/taxa/187d3f66-b4ca-4620-b478-72705922e617,37
+e80f0369-b2ef-4a9c-8814-48e7f5e95256,species,Plantae,,,,,,,(K.Koch & Linden) Borchs. & S.Suárez ,,,,文字後空格,https://taxatree.tbn.org.tw/taxa/e80f0369-b2ef-4a9c-8814-48e7f5e95256,0
+7ba47f11-e29f-4603-8214-4e05466f032c,species,Fungi,,,,,,, (Cooney & Emerson),,,,文字前空格,https://taxatree.tbn.org.tw/taxa/7ba47f11-e29f-4603-8214-4e05466f032c,1
+2ed101e8-8b1f-456e-9e38-4a95a1df8344,species,Protozoa,,,,,,, (Pers.) T. Macbr. 1899,,,,文字前空格,https://taxatree.tbn.org.tw/taxa/2ed101e8-8b1f-456e-9e38-4a95a1df8344,0
+b2a140c0-86d9-435e-a42d-cb5cae9e8f2d,species,Protozoa,,,,,,,"Racib. G.Lister,  1909",,,,連續空格,https://taxatree.tbn.org.tw/taxa/b2a140c0-86d9-435e-a42d-cb5cae9e8f2d,0
+a4d28768-2e0c-416e-bc90-53865939aa7d,species,Animalia,,,,,,,"Ho, Endo & Lee, 202-0 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/a4d28768-2e0c-416e-bc90-53865939aa7d,5
+6c6aae98-db31-40a6-ba80-764845863560,species,Animalia,,,,,,,"Lloyd, 1909 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/6c6aae98-db31-40a6-ba80-764845863560,4
+8d36cd09-b31c-4b9b-b8e1-6c95e5ab50fa,species,Animalia,,,,,,,"Smith & Radcliffe, 1912 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/8d36cd09-b31c-4b9b-b8e1-6c95e5ab50fa,0
+7857ecde-c1d6-4770-ab3f-b82d52f5327c,species,Plantae,,,,,,,(Hedw.) Warnst. ,,,,文字後空格,https://taxatree.tbn.org.tw/taxa/7857ecde-c1d6-4770-ab3f-b82d52f5327c,11
+885353db-4aa8-4b4f-87e8-1cd9b3006519,infraspecies,Plantae,,,,,,'Array',,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/885353db-4aa8-4b4f-87e8-1cd9b3006519,0
+2d8bcf8e-990e-4a2f-9608-b4ef3cbedf6f,species,Animalia,,,,,,,"Westwood, 1848 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/2d8bcf8e-990e-4a2f-9608-b4ef3cbedf6f,58
+d92b4caf-674a-4c69-8e0e-9aa3820110cf,species,Animalia,,,,,,,"Walker, 1856 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/d92b4caf-674a-4c69-8e0e-9aa3820110cf,377
+d4462017-0b38-4b00-9bd5-5505d8668eac,species,Animalia,,sinensis formosae × Pycnonotus taivanus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac,1554
+a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,Animalia,,canorus × Garrulax taewanus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,485
+778f16f3-acf9-412f-b896-5a06e02fb799,species,Animalia,,,,,,,"Pace, 2008 ",,,,文字後空格,https://taxatree.tbn.org.tw/taxa/778f16f3-acf9-412f-b896-5a06e02fb799,0
+17d2f8f0-3601-4ad9-87eb-322179ce5f91,species,Plantae,,,,,,, (Delile) Trevisan de Saint-Léon 1845,,,,文字前空格,https://taxatree.tbn.org.tw/taxa/17d2f8f0-3601-4ad9-87eb-322179ce5f91,41
+d304e9f1-dbf5-4465-83cc-e6eea92a1afc,species,Animalia,,,,,,," Chen, 2004",,,,文字前空格,https://taxatree.tbn.org.tw/taxa/d304e9f1-dbf5-4465-83cc-e6eea92a1afc,0
+1027baf9-badd-47c6-807b-b45fec382348,genus,Plantae,× Rhaphiobotrya,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/1027baf9-badd-47c6-807b-b45fec382348,0
+8ea2f55c-1de8-4375-b15f-bbc76894f0dd,infraspecies,Plantae,,,,,,Big Purple,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/8ea2f55c-1de8-4375-b15f-bbc76894f0dd,0
+3fbadc15-5309-4b31-8136-459e9aec368a,infraspecies,Plantae,,,,,,Shu,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/3fbadc15-5309-4b31-8136-459e9aec368a,0
+3a2379af-82ae-4354-8953-8a3094a983da,infraspecies,Plantae,,,,,,Baimiao,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/3a2379af-82ae-4354-8953-8a3094a983da,0
+e7fcc177-ddde-4e80-8519-e09dd930bb17,species,Animalia,,fuscoguttatus × Epinephelus lanceolatus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/e7fcc177-ddde-4e80-8519-e09dd930bb17,10
+d9b11d30-0c58-4f5d-b894-81050b1a110d,species,Animalia,,platyrhynchos × Anas zonorhyncha,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/d9b11d30-0c58-4f5d-b894-81050b1a110d,0
+4434dd52-ae65-483d-9a96-b980f528d42c,species,Animalia,, anser × Anser cygnoides,,,,,,,,,文字前空格,https://taxatree.tbn.org.tw/taxa/4434dd52-ae65-483d-9a96-b980f528d42c,0
+4434dd52-ae65-483d-9a96-b980f528d42c,species,Animalia,, anser × Anser cygnoides,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/4434dd52-ae65-483d-9a96-b980f528d42c,0
+a02c7882-bc86-456d-bfd3-807215ae54ee,species,Animalia,, fuligula × Aythya marila,,,,,,,,,文字前空格,https://taxatree.tbn.org.tw/taxa/a02c7882-bc86-456d-bfd3-807215ae54ee,0
+a02c7882-bc86-456d-bfd3-807215ae54ee,species,Animalia,, fuligula × Aythya marila,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/a02c7882-bc86-456d-bfd3-807215ae54ee,0
+5d947327-9213-40e4-a0ae-1553675dbffd,species,Animalia,,nyroca × Aythya baeri,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/5d947327-9213-40e4-a0ae-1553675dbffd,0
+baeb660b-b9e1-46fc-8cd5-7c931d92f5d3,species,Animalia,,nyroca × Aythya fuligula,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/baeb660b-b9e1-46fc-8cd5-7c931d92f5d3,0
+ad333b7e-3695-4b54-b126-9f585a698ddb,species,Animalia,,moschata × Anas platyrhynchos,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/ad333b7e-3695-4b54-b126-9f585a698ddb,0
+aa8e1560-a3d3-4ef8-9a4f-5b249356374c,species,Animalia,,penelope × Mareca americana,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/aa8e1560-a3d3-4ef8-9a4f-5b249356374c,0
+7d829265-d00f-4386-a4b4-0748f7c7012f,species,Animalia,,nycticorax × Nycticorax caledonicus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/7d829265-d00f-4386-a4b4-0748f7c7012f,0
+2c16ea40-6145-4fd1-ad95-e23c3bc996a3,species,Animalia,,leucorodia × Platalea minor,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/2c16ea40-6145-4fd1-ad95-e23c3bc996a3,0
+fbb610de-e522-4025-8e9b-3a77e70bb3cd,species,Animalia,,clypeata × Mareca strepera,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/fbb610de-e522-4025-8e9b-3a77e70bb3cd,0
+ad62fe48-a0f2-4f21-8f00-48b6434d0dcb,species,Animalia,,discors × Spatula clypeata,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/ad62fe48-a0f2-4f21-8f00-48b6434d0dcb,0
+f70e12da-481c-4b20-9195-06a221800789,species,Animalia,,bergii × Thalasseus bernsteini,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/f70e12da-481c-4b20-9195-06a221800789,0
+e26461dc-0c39-47cd-9916-88d998263aae,species,Animalia,,atrogularis × Turdus ruficollis,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/e26461dc-0c39-47cd-9916-88d998263aae,0
+4527a4e4-f185-4874-accc-14026d37300e,species,Animalia,,eunomus × Turdus naumanni,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/4527a4e4-f185-4874-accc-14026d37300e,0

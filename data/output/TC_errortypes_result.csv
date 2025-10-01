@@ -1,8 +1,8 @@
 taxon_id,rank,simple_name,reason,TC_URL
 t0009100,Genus,× Chrinephrium,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0009100
 t0009100,Genus,× Chrinephrium,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0009100
-t0025573,Genus,Brassavola × Cattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025573
-t0025573,Genus,Brassavola × Cattleya,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0025573
+t0025573,Genus,× Brassocattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025573
+t0025573,Genus,× Brassocattleya,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0025573
 t0025574,Genus,× Brassolaelia,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025574
 t0025574,Genus,× Brassolaelia,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0025574
 t0025575,Genus,× Brassolaeliocattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025575
@@ -78,8 +78,6 @@ t0084577,Subspecies,Adenophora morrisonensis subsp. morrisonensis,錯誤符號�
 t0084578,Subspecies,Ardisia cornudentata subsp. cornudentata,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084578
 t0084579,Subspecies,Ardisia cornudentata subsp. morrisonensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084579
 t0084580,Subspecies,Asystasia gangetica subsp. gangetica,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084580
-t0084581,Subspecies,Brassica campestris subsp. chinensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084581
-t0084582,Subspecies,Brassica campestris subsp. pekinensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084582
 t0084583,Subspecies,Bryoxiphium norvegicum subsp. japonicum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084583
 t0084584,Subspecies,Buxus microphylla subsp. sinica,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084584
 t0084585,Subspecies,Capparis sikkimensis subsp. formosana,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084585
@@ -113,7 +111,6 @@ t0084617,Subspecies,Porella acutifolia subsp. tosana,錯誤符號與括號前後
 t0084618,Subspecies,Porella gracillima subsp. gracillima,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084618
 t0084619,Subspecies,Porella gracillima subsp. urogea,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084619
 t0084620,Subspecies,Prunella vulgaris subsp. asiatica,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084620
-t0084621,Subspecies,Pueraria lobata subsp. thomsonii,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084621
 t0084623,Subspecies,Rubus pseudoacer subsp. flexuosus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084623
 t0084624,Subspecies,Scapania ligulata subsp. ligulata,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084624
 t0084625,Subspecies,Scapania ligulata subsp. stephanii,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084625

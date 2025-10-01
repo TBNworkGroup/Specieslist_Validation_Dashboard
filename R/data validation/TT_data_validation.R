@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20250924"  # 舉例
+modified_date <- "20251001"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -132,268 +132,129 @@ fwrite(df_duplicates_reasoned, "../../data/output/TT_duplicates_result_vers2.csv
 # Part B: 學名欄位錯誤樣態檢核
 # ------------------------------------------------------------------
 # 先定義兩個檢查函式 check_string_lower()、check_string_vers()。
+# ------------------------
+# 輔助檢查函式（回傳錯誤標籤）
+# ------------------------
 
-check_string_lower <- function(string, columnname) {
-  # 如果是 under species 欄位，必須全部小寫或以 '×' 開頭
-  if (columnname %in% c("specificEpithet", "subspecies", "variety", "form", "cultigen", "cultivar")) {
-    # 注意：原 Python 似乎是 "cultivar"；如有 "cultigen"，自行確認。
-    # 判定方式：全部小寫或以 '×' 開頭
-    if (str_to_lower(string) == string || str_starts(string, "×")) {
-      return(TRUE)
-    } else {
-      return(FALSE)
-    }
-  } else {
-    # 其他欄位(非 taxonUUID, taxonRank, simplifiedScientificName)，
-    # 要求：首字大寫 + 後面小寫；或以 '×' 開頭
-    if (!columnname %in% c("taxonUUID", "taxonRank", "simplifiedScientificName")) {
-      # 先擷取字串首字母、其餘部分
-      first_letter <- substr(string, 1, 1)
-      remainder    <- substr(string, 2, nchar(string))
-      
-      if ((str_to_upper(first_letter) == first_letter &&
-           str_to_lower(remainder) == remainder) ||
-          str_starts(string, "×")) {
-        return(TRUE)
-      } else {
-        return(FALSE)
-      }
-    }
-    # 若是 taxonUUID, taxonRank, simplifiedScientificName，就不檢查大小寫
-    return(TRUE)
-  }
-}
-
-check_string_vers <- function(string, columnname) {
-  # 預設沒有問題 (FALSE 表示"沒有問題")
-  check <- FALSE
-  
-  # 1. 括號前後空白 & 特定符號
-  #    - ' )', '( ', '&', '_', '.' 均視為錯誤
-  if (str_detect(string, " \\)")  ||
-      str_detect(string, "\\( ")  ||
-      str_detect(string, "&")     ||
-      str_detect(string, "_")     ||
-      str_detect(string, "\\.")) {
-    check <- TRUE
-  }
-  
-  # 2. 檢查頭尾空白、連續空白
-  if (str_starts(string, " ")) {
-    check <- TRUE
-  }
-  if (str_ends(string, " ")) {
-    check <- TRUE
-  }
-  if (str_detect(string, "  ")) {
-    check <- TRUE
-  }
-  
-  # 3. 大小寫檢查
-  if (!check_string_lower(string, columnname)) {
-    check <- TRUE
-  }
-  
-  return(check)
-}
-
-check_higher_rank_format <- function(string, columnname) {
-  # 只對 kingdom 到 genus 檢查
-  if (!columnname %in% c("kingdom", "phylum", "class", "order", "family", "genus")) {
-    return(FALSE)  # 不檢查
-  }
-  
-  # 包含 incertae sedis 則視為合法
-  if (str_detect(str_to_lower(string), "incertae sedis")) {
-    return(FALSE)
-  }
-  
-  # 字串內若出現多個詞（空白分隔 > 1），則不合法
-  word_count <- str_count(string, "\\S+")
-  if (word_count > 1) {
-    return(TRUE)
-  } else {
-    return(FALSE)
-  }
-}
-
-check_authorship_space_error <- function(string) {
-  # 只檢查頭尾或連續空格
-  if (str_starts(string, " ") || str_ends(string, " ") || str_detect(string, "  ")) {
-    return(TRUE)
-  } else {
-    return(FALSE)
-  }
-}
-
-
-
-
-# (B1) 對非 simplifiedScientificName 欄位執行檢查
-# 模仿 Python 的 iterrows()，逐列 + 逐欄檢查
-errors_list <- list()  # 收集所有錯誤紀錄
-
-
-df_TTsubset <- df_TTsplist %>%
-  select(
-    taxonUUID, taxonRank, kingdom, phylum, class, order, family,
-    genus, specificEpithet, subspecies, variety, form, cultigen,
-    simplifiedScientificName, authorship, subspeciesAuthorship, varietyAuthorship, formAuthorship
-  )
-df_TTsubset$genus <- str_replace_all(df_TTsubset$genus, "<i>|</i>", "")
-
-
-for (i in seq_len(nrow(df_TTsubset))) {
-  row_data <- df_TTsubset[i, ]
-  
-  # 準備一個空的紀錄（同 df_TTsubset 的所有欄位，先設 NA）
-  error_record <- as.list(rep(NA, ncol(df_TTsubset)))
-  names(error_record) <- colnames(df_TTsubset)
-  
-  # 依序檢查每個欄位
-  for (colname in colnames(df_TTsubset)) {
-    val <- row_data[[colname]]
-    
-    if (is.na(val)) {
-      next
-    }
-    
-    # simplifiedScientificName 不檢查
-    if (colname == "simplifiedScientificName") {
-      next
-    }
-    
-    # authorship 類欄位：只做空白檢查
-    if (colname %in% c("authorship", "subspeciesAuthorship", "varietyAuthorship", "formAuthorship")) {
-      if (check_authorship_space_error(val)) {
-        error_record[["taxonUUID"]] <- row_data[["taxonUUID"]]
-        error_record[["taxonRank"]] <- row_data[["taxonRank"]]
-        error_record[[colname]]     <- val
-        errors_list <- append(errors_list, list(error_record))
-        break
-      }
-      next
-    }
-    
-    
-    # 執行檢查
-    check_result <- FALSE
-    
-    check_result <- tryCatch({
-      # 加入新的檢查邏輯
-      if (check_higher_rank_format(val, colname)) {
-        error_record[["taxonUUID"]] <- row_data[["taxonUUID"]]
-        error_record[["taxonRank"]] <- row_data[["taxonRank"]]
-        error_record[[colname]]     <- val
-        errors_list <- append(errors_list, list(error_record))
-        break
-      }
-      check_string_vers(val, colname)
-    }, error = function(e) {
-      # 如果函式本身執行時出錯，就回傳 NA 讓後面好判斷
-      NA
-    })
-    
-    # 若出現 NA，代表檢查函式壞掉，這邊就直接跳出該列
-    if (is.na(check_result)) {
-      break
-    }
-    if (check_result) {
-      # 一旦發現錯誤，記錄 taxonUUID, taxonRank, 問題欄位的值
-      error_record[["taxonUUID"]] <- row_data[["taxonUUID"]]
-      error_record[["taxonRank"]] <- row_data[["taxonRank"]]
-      error_record[[colname]]     <- val
-      
-      # 放入錯誤清單
-      errors_list <- append(errors_list, list(error_record))
-      # 因為該列已確定有問題，不檢查其他欄位，直接跳出
-      break
-    }
-  }
-}
-
-# (B2) 將錯誤清單轉成 DataFrame
-df_errors <- do.call(rbind, lapply(errors_list, as.data.frame))
-df_errors <- as.data.frame(df_errors, stringsAsFactors = FALSE)
-
-check_string_vers_detail_extended <- function(string, columnname) {
-  # 命名者欄位的特例檢查：只檢查空格問題
-  if (columnname %in% c("authorship", "subspeciesAuthorship", "varietyAuthorship", "formAuthorship")) {
-    reasons <- character(0)
-    if (str_starts(string, " ")) reasons <- c(reasons, "文字前空格")
-    if (str_ends(string, " ")) reasons <- c(reasons, "文字後空格")
-    if (str_detect(string, "  ")) reasons <- c(reasons, "連續空格")
-    
-    if (length(reasons) > 0) {
-      return("命名者欄位空格錯誤")
-    } else {
-      return("")
-    }
-  }
-  
-  # 一般欄位邏輯開始
+check_all_errors <- function(string, columnname, taxonRank) {
   reasons <- character(0)
   
-  # 舊有邏輯
   if (str_detect(string, " \\)") || str_detect(string, "\\( ") ||
       str_detect(string, "&") || str_detect(string, "_") || str_detect(string, "\\.")) {
     reasons <- c(reasons, "錯誤符號與括號前後空格")
   }
   if (str_starts(string, " ")) reasons <- c(reasons, "文字前空格")
-  if (str_ends(string, " ")) reasons <- c(reasons, "文字後空格")
+  if (str_ends(string, " "))   reasons <- c(reasons, "文字後空格")
   if (str_detect(string, "  ")) reasons <- c(reasons, "連續空格")
-  if (!check_string_lower(string, columnname)) reasons <- c(reasons, "大小寫錯誤")
   
-  # 新增邏輯
-  if (check_higher_rank_format(string, columnname)) {
+  # 大小寫錯誤（僅適用於非 authorship 類）
+  if (!(columnname %in% c("authorship", "subspeciesAuthorship", "varietyAuthorship", "formAuthorship"))) {
+    if (!check_string_lower(string, columnname)) {
+      reasons <- c(reasons, "大小寫錯誤")
+    }
+  }
+  
+  # 高階層多詞檢查（僅 simplifiedScientificName + 高階層 taxonRank）
+  if (columnname == "simplifiedScientificName" &&
+      taxonRank %in% c("kingdom", "phylum", "class", "order", "family", "genus") &&
+      !str_detect(str_to_lower(string), "incertae sedis") &&
+      str_count(string, "\\S+") > 1) {
     reasons <- c(reasons, "高階層欄位出現多詞格式")
   }
   
-  if (length(reasons) == 0) {
-    return("")
-  } else {
-    return(paste(unique(reasons), collapse = ";"))
+  return(unique(reasons))
+}
+
+# ------------------------
+# 主檢查邏輯
+# ------------------------
+# ============================
+# Initialize 儲存錯誤記錄的清單
+# ============================
+error_records <- list()
+
+for (i in seq_len(nrow(df_TTsplist))) {
+  row <- df_TTsplist[i, ]
+  uuid <- row$taxonUUID
+  rank <- row$taxonRank
+  kingdom <- row$kingdom
+  
+  # 基本結構（其他欄位初始化為 NA）
+  base <- list(
+    taxonUUID = uuid,
+    taxonRank = rank,
+    kingdom = kingdom,
+    simplifiedScientificName = NA_character_,
+    specificEpithet = NA_character_,
+    subspecies = NA_character_,
+    variety = NA_character_,
+    form = NA_character_,
+    cultigen = NA_character_,
+    authorship = NA_character_,
+    subspeciesAuthorship = NA_character_,
+    varietyAuthorship = NA_character_,
+    formAuthorship = NA_character_,
+    errortypes = NA_character_,
+    TT_URL = sprintf("https://taxatree.tbn.org.tw/taxa/%s", uuid)
+  )
+  
+  # ===== 類型 1：高階層 simplifiedScientificName =====
+  if (rank %in% c("kingdom", "phylum", "class", "order", "family", "genus")) {
+    val <- row$simplifiedScientificName
+    if (!is.na(val) && val != "") {
+      reasons <- check_all_errors(val, "simplifiedScientificName", rank)
+      for (reason in reasons) {
+        record <- base
+        record$simplifiedScientificName <- val
+        record$errortypes <- reason
+        error_records[[length(error_records) + 1]] <- as.data.frame(record, stringsAsFactors = FALSE)
+      }
+    }
+  }
+  
+  # ===== 類型 2：下階層字串欄位 =====
+  for (col in c("specificEpithet", "subspecies", "variety", "form", "cultigen")) {
+    val <- row[[col]]
+    if (!is.na(val) && val != "") {
+      reasons <- check_all_errors(val, col, rank)
+      for (reason in reasons) {
+        record <- base
+        record[[col]] <- val
+        record$errortypes <- reason
+        error_records[[length(error_records) + 1]] <- as.data.frame(record, stringsAsFactors = FALSE)
+      }
+    }
+  }
+  
+  # ===== 類型 3：命名者欄位空白檢查 =====
+  authorship_cols <- c()
+  if (rank == "species") {
+    authorship_cols <- c("authorship")
+  } else if (rank == "subspecies") {
+    authorship_cols <- c("subspeciesAuthorship", "varietyAuthorship", "formAuthorship")
+  }
+  
+  for (col in authorship_cols) {
+    val <- row[[col]]
+    if (!is.na(val) && val != "") {
+      # 只檢查空白錯誤
+      reasons <- character(0)
+      if (str_starts(val, " ")) reasons <- c(reasons, "文字前空格")
+      if (str_ends(val, " "))   reasons <- c(reasons, "文字後空格")
+      if (str_detect(val, "  ")) reasons <- c(reasons, "連續空格")
+      
+      for (reason in reasons) {
+        record <- base
+        record[[col]] <- val
+        record$errortypes <- reason
+        error_records[[length(error_records) + 1]] <- as.data.frame(record, stringsAsFactors = FALSE)
+      }
+    }
   }
 }
 
-# 先新增欄位 errortypes
-df_errors$errortypes <- NA_character_
-
-# 遍歷 df_errors 的每一列, 找出哪個欄位是出錯欄位(即有值), 
-# 然後用 check_string_vers_detail() 取得錯誤種類
-for (i in seq_len(nrow(df_errors))) {
-  # 這行數據
-  row_data <- df_errors[i, ]
-  
-  # 假設只有1個欄位(除了 taxonUUID, taxonRank, TT_URL... ) 會存到值
-  # 先找出 "非 NA" 的欄位
-  non_na_cols <- colnames(row_data)[which(!is.na(row_data) & row_data != "")]
-  
-  # 排除不需要檢查的欄位 (taxonUUID, taxonRank, TT_URL, simplifiedScientificName等)
-  # 你可自行增減排除清單
-  exclude_cols <- c("taxonUUID","taxonRank","TT_URL","simplifiedScientificName")
-  flagged_cols <- setdiff(non_na_cols, exclude_cols)
-  
-  if (length(flagged_cols) == 1) {
-    # 就用這個欄位為 "出錯欄位"
-    colname <- flagged_cols[1]
-    val <- row_data[[colname]]
-    
-    # 執行加強版檢查 -> 回傳一串錯誤描述
-    error_str <- check_string_vers_detail_extended(val, colname)
-    df_errors$errortypes[i] <- error_str
-  } else if (length(flagged_cols) > 1) {
-    # 若不只1個欄位(理論上不該發生, 因為你 break 了),
-    # 這裡可以自行決定怎麼處理, 例如只檢查第一個
-    colname <- flagged_cols[1]
-    val <- row_data[[colname]]
-    error_str <- error_str <- check_string_vers_detail_extended(val, colname)
-    df_errors$errortypes[i] <- error_str
-  } else {
-    # flagged_cols 長度是 0 => 找不到出錯欄位, 可能都 NA => 不做事
-  }
-}
-
+# 合併結果為資料框
+df_errors <- do.call(rbind, error_records)
 
 
 for (i in 1:nrow(df_errors)) {
@@ -500,29 +361,40 @@ df_TT_invasive <- df_TT_attribute %>%
 df_TT_invasive$reason <- "敏感狀態不等於無的外來種"
 
 df_TT_attribute_error <- rbind(df_TT_undertaxon, df_TT_redlist, df_TT_protected, df_TT_IUCN, df_TT_invasive)
+# ✅ 在這裡加判斷：完全包住 for 迴圈
 
-for (i in 1:nrow(df_TT_attribute_error)) {
+
+if (nrow(df_TT_attribute_error) > 0) {
   
-  while(TRUE) {
-    tryCatch({
-      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20", df_TT_attribute_error$taxonUUID[i]))
-      break
-    }, error = function(e) {
-      message("Error occurred: ", e)
-      message("Retrying after 5 seconds")
-      Sys.sleep(5)
-    })
+  for (i in 1:nrow(df_TT_attribute_error)) {
+    
+    while(TRUE) {
+      tryCatch({
+        TBN_result <- fromJSON(sprintf(
+          "https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20",
+          df_TT_attribute_error$taxonUUID[i]
+        ))
+        break
+      }, error = function(e) {
+        message("Error occurred: ", e)
+        message("Retrying after 5 seconds")
+        Sys.sleep(5)
+      })
+    }
+    
+    if (TBN_result$meta$status == "SUCCESS") {
+      df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$total
+    } else if (TBN_result$meta$status == "NOT FOUND") {
+      df_TT_attribute_error$number_of_occurrence[i] <- 0
+    } else {
+      df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$status
+    }
+    
+    print(paste("finish i=", i, " download"))
   }
   
-  if (TBN_result$meta$status == "SUCCESS") {
-    df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$total
-  } else if (TBN_result$meta$status == "NOT FOUND") {
-    df_TT_attribute_error$number_of_occurrence[i] <- 0
-  } else {
-    df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$status
-  }
-  
-  print(paste("finish i=", i, " download"))
+} else {
+  message("🛑 df_TT_attribute_error 沒有資料，跳過整個查詢迴圈。")
 }
 
 
@@ -765,16 +637,4 @@ df_speciesinfraspecies_attribute_mismatch$TT_URL <- sprintf("https://taxatree.tb
 fwrite(df_speciesinfraspecies_attribute_mismatch, "../../data/output/TT_speciesinfraspecies_attribute_mismatch.csv")
 
  
-#### === 確認結果 ===
-# A: 重複學名 -> df_duplicates_result
-# B: 欄位錯誤 -> df_errors
-# C: 屬性資料錯誤 <- df_TT_attribute_error
-# D: 沒有種階層分類群 <- df_TT_without_species
-# E: 種與種下階層的命名法規與保育等級 <- df_TT_species_attribute
-# F: 種與種下階層的屬性資料是否一致 <- df_speciesinfraspecies_attribute_mismatch
-print(df_duplicates_reasoned)
-print(df_errors)
-print(df_TT_attribute_error)
-print(df_TT_without_species)
-print(df_TT_species_attribute)
-print(df_speciesinfraspecies_attribute_mismatch)
+
