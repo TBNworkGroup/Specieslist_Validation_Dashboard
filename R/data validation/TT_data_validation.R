@@ -619,13 +619,14 @@ fwrite(df_TT_nomenclaturalCode, "../../data/output/TT_nomenclaturalCode.csv")
 # 最後輸出一張表df_TT_nomenclaturalCode
 
 df_TT_speciesinfraspecies_attribute <- df_TTsplist %>%
-  filter( taxonRank %in% c("species", "infraspecies")&
-            !(categoryRedlistTW %in% c("不適用", "暫無危機（LC, Least Concern）"))&
-                !(categoryRedlistTW %in% c("不適用", "暫無危機（LC, Least Concern）"))
-            ) %>% 
+  filter( taxonRank %in% c("species", "infraspecies")) %>% 
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
     nativeness, protectedStatusTW, categoryRedlistTW, categoryIUCN
+  ) %>%
+  filter(
+    !(categoryRedlistTW %in% c("不適用", "暫無危機（LC, Least Concern）")|
+        categoryIUCN %in% c("不適用", "暫無危機（LC, Least Concern）"))
   )
   
 df_species_list <- df_TT_speciesinfraspecies_attribute %>%
