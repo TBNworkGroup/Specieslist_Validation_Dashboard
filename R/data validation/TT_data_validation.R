@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20251001"  # 舉例
+modified_date <- "20251015"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -117,8 +117,7 @@ dup_tfNameCode <- df_id_check %>%
 df_id_duplicates <- bind_rows(
   dup_taxonUUID,
   dup_taiCOLNameCode,
-  dup_tfNameCode
-) %>%
+  dup_tfNameCode) %>%
   distinct() %>%
   mutate(TT_URL = sprintf("https://taxatree.tbn.org.tw/taxa/%s", taxonUUID)) %>%
   select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, tfNameCode, simplifiedScientificName, scientificName, reason)
@@ -127,11 +126,8 @@ df_id_duplicates <- bind_rows(
 
 
 
-df_duplicates_reasoned <- bind_rows(
-  df_duplicates_reasoned %>%
-    select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, tfNameCode, simplifiedScientificName, scientificName, reason),
-  df_id_duplicates
-)
+df_duplicates_reasoned <-df_id_duplicates %>%
+    select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, tfNameCode, simplifiedScientificName, scientificName, reason)
 
 
 
@@ -175,6 +171,32 @@ fwrite(df_duplicates_reasoned, "../../data/output/TT_duplicates_result_vers2.csv
 # ------------------------
 # 輔助檢查函式（回傳錯誤標籤）
 # ------------------------
+
+check_string_lower <- function(string, columnname) {
+  # 如果是 under species 欄位，必須全部小寫或以 '×' 開頭
+  if (columnname %in% c("specificEpithet", "subspecies", "variety", "form", "cultigen", "cultivar")) {
+    if (str_to_lower(string) == string || str_starts(string, "×")) {
+      return(TRUE)
+    } else {
+      return(FALSE)
+    }
+  } else {
+    if (!columnname %in% c("taxonUUID", "taxonRank", "simplifiedScientificName")) {
+      first_letter <- substr(string, 1, 1)
+      remainder    <- substr(string, 2, nchar(string))
+      if ((str_to_upper(first_letter) == first_letter &&
+           str_to_lower(remainder) == remainder) ||
+          str_starts(string, "×")) {
+        return(TRUE)
+      } else {
+        return(FALSE)
+      }
+    }
+    return(TRUE)
+  }
+}
+
+
 
 check_all_errors <- function(string, columnname, taxonRank) {
   reasons <- character(0)
@@ -268,7 +290,7 @@ for (i in seq_len(nrow(df_TTsplist))) {
   
   # ===== 類型 3：命名者欄位空白檢查 =====
   authorship_cols <- c()
-  if (rank == "species") {
+  if (rank %in% c("kingdom", "phylum", "class", "order", "family", "genus", "species ")) {
     authorship_cols <- c("authorship")
   } else if (rank == "subspecies") {
     authorship_cols <- c("subspeciesAuthorship", "varietyAuthorship", "formAuthorship")
@@ -597,13 +619,15 @@ fwrite(df_TT_nomenclaturalCode, "../../data/output/TT_nomenclaturalCode.csv")
 # 最後輸出一張表df_TT_nomenclaturalCode
 
 df_TT_speciesinfraspecies_attribute <- df_TTsplist %>%
-  filter( taxonRank %in% c("species", "infraspecies")) %>% 
+  filter( taxonRank %in% c("species", "infraspecies")&
+            !(categoryRedlistTW %in% c("不適用", "暫無危機（LC, Least Concern）"))&
+                !(categoryRedlistTW %in% c("不適用", "暫無危機（LC, Least Concern）"))
+            ) %>% 
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
     nativeness, protectedStatusTW, categoryRedlistTW, categoryIUCN
   )
-
-
+  
 df_species_list <- df_TT_speciesinfraspecies_attribute %>%
   # 1. 留下 taxonUUID 不在 parentUUID 集合裡
   filter(taxonUUID %in% df_TT_speciesinfraspecies_attribute$parentUUID|taxonRank %in% "infraspecies") %>%
