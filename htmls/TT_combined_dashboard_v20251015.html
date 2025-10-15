@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TT Validation Dashboard – version type 20251001</title>
+  <title>TT Validation Dashboard – version type 20251015</title>
 
   <!-- jQuery & DataTables -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -25,7 +25,7 @@
   </style>
 </head>
 <body>
-  <h1>TT Validation Dashboard – version type 20251001</h1>
+  <h1>TT Validation Dashboard – version type 20251015</h1>
   <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
 
 
@@ -159,7 +159,7 @@
   let conflictData = [];
   
   const expectedReasonsMap = {
-  "1. Duplicates Error": [
+  "1. Duplicate Errors": [
     "學名重複",
     "相同Kingdom學名重複",
     "相同Kingdom學名加命名者重複",
@@ -168,12 +168,12 @@
     "taiCOLNameCode重複",
     "tfNameCode重複"
   ],
-  "2. Nomenclatural Error": [
+  "2. Nomenclatural Errors": [
     "命名法規錯誤的植物",
     "命名法規錯誤的動物",
     "種與種下命名法規不同"
   ],
-  "3. String Error": [
+  "3. String Errors": [
     "錯誤符號與括號前後空格", "文字前空格", "文字後空格", "連續空格", "大小寫錯誤", "高階層欄位出現多詞格式"
   ],
   "4. Attribute Errors": [
@@ -280,9 +280,9 @@
     }
 
     const datasets = [
-      { name: "1. Duplicates Error", data: duplicatesData, field: "reason" },
-      { name: "2. Nomenclatural Error", data: nomenclErrorData, field: "reason" },
-      { name: "3. String Error", data: errorsData, field: "errortypes" },
+      { name: "1. Duplicate Errors", data: duplicatesData, field: "reason" },
+      { name: "2. Nomenclatural Errors", data: nomenclErrorData, field: "reason" },
+      { name: "3. String Errors", data: errorsData, field: "errortypes" },
       { name: "4. Attribute Errors", data: attributeData, field: "reason" },
       { name: "5. Conflict", data: conflictData, field: "reason" },
       { name: "6. Without Under Taxon", data: withoutData, field: "taxonRank" }
