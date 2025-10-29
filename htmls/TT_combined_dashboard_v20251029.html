@@ -113,7 +113,7 @@
       <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th><th>kingdom</th>
           <th>simplifiedScientificName</th><th>nativeness</th><th>sensitiveCategory</th>
           <th>protectedStatusTW</th><th>categoryRedlistTW</th><th>categoryIUCN</th>
-          <th>groupID</th><th>reason</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
+          <th>groupID</th><th>reason</th><th>filtered_values</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
     </thead><tbody></tbody>
   </table>
 </details><hr/>
@@ -872,7 +872,7 @@ function fillTableBodyConflict(dataArray){
   const fields = [
     "taxonUUID","taxonRank","parentUUID","kingdom","simplifiedScientificName",
     "nativeness","sensitiveCategory","protectedStatusTW","categoryRedlistTW",
-    "categoryIUCN","groupID","reason", "number_of_occurrence","TT_URL"
+    "categoryIUCN","groupID","reason", "filtered_values", "number_of_occurrence","TT_URL"
   ];
   dataArray.forEach(row=>{
     const tr=document.createElement('tr');
