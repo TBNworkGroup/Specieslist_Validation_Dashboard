@@ -232,7 +232,7 @@ e5eba07e-f5b7-4adb-88ca-d67404f2d21f,subgenus,e8e42887-6562-4080-95c2-5423fb6169
 06379e23-9bf6-4783-a5aa-f98b8133d4dc,subgenus,5f4b809a-ae15-423e-b8b9-c134d4d7ec92,Oligonychus (Wainsteiniella),Animalia,Arachnida,0,https://taxatree.tbn.org.tw/taxa/06379e23-9bf6-4783-a5aa-f98b8133d4dc
 ac367632-b9ec-4867-aed3-d5e0bbed54fe,subgenus,f945a7fd-03c7-4ef1-9233-1c9b38bfc064,Olingychus (Reckiella),Animalia,Arachnida,0,https://taxatree.tbn.org.tw/taxa/ac367632-b9ec-4867-aed3-d5e0bbed54fe
 70475c49-20c4-4cf1-be67-6b5589da8397,subgenus,c8337904-f33d-4dfb-8f4f-b0d42e7bbac7,Panonychus (Panonychus),Animalia,Arachnida,0,https://taxatree.tbn.org.tw/taxa/70475c49-20c4-4cf1-be67-6b5589da8397
-980ed518-4836-47f6-a9aa-ecb1bd5eff23,subgenus,ab518938-94c6-47c0-8052-9c4e58f5fdbb,Trombicula (Vorcana),Animalia,Arachnida,1,https://taxatree.tbn.org.tw/taxa/980ed518-4836-47f6-a9aa-ecb1bd5eff23
+980ed518-4836-47f6-a9aa-ecb1bd5eff23,subgenus,ab518938-94c6-47c0-8052-9c4e58f5fdbb,Trombicula (Vorcana),Animalia,Arachnida,0,https://taxatree.tbn.org.tw/taxa/980ed518-4836-47f6-a9aa-ecb1bd5eff23
 044a9145-eb4b-4f31-b746-2f082af1917d,genus,bc79fef1-6c7d-4c2f-97f0-fab2cf6dd596,Caloglyphus,Animalia,Arachnida,0,https://taxatree.tbn.org.tw/taxa/044a9145-eb4b-4f31-b746-2f082af1917d
 c97e1158-832d-428e-87b4-403782fb3dc0,genus,bc79fef1-6c7d-4c2f-97f0-fab2cf6dd596,Cologlyphus,Animalia,Arachnida,0,https://taxatree.tbn.org.tw/taxa/c97e1158-832d-428e-87b4-403782fb3dc0
 fbe8b644-44a6-4fe4-89c7-5fe120058ca5,genus,bc79fef1-6c7d-4c2f-97f0-fab2cf6dd596,Mycetosancassania,Animalia,Arachnida,0,https://taxatree.tbn.org.tw/taxa/fbe8b644-44a6-4fe4-89c7-5fe120058ca5
@@ -559,7 +559,7 @@ fdeee5b3-4a3b-484c-ad7f-76aa1b66fb73,genus,fca549ac-c047-4a23-aaef-3796bcaa781d,
 40244c2b-843d-48a2-9360-f8ee5a58a1e4,genus,0356df35-b8a6-4848-a6ff-16716730cdbb,Limnubius,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/40244c2b-843d-48a2-9360-f8ee5a58a1e4
 6d9c25c6-230a-4bbd-bb06-ba5efb6d89d3,subgenus,05f57aa8-244c-4506-b512-7e924d2769a4,Phelotrupes (Eogeotrupes),Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/6d9c25c6-230a-4bbd-bb06-ba5efb6d89d3
 a8a64979-09d0-4bc8-8a35-61afbe736bcd,subgenus,05f57aa8-244c-4506-b512-7e924d2769a4,Phelotrupes (Sinogeotrupes),Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/a8a64979-09d0-4bc8-8a35-61afbe736bcd
-872c29bb-b1f8-48d9-b40a-1836cb72b1c1,genus,f1b3fb3e-7241-4db8-82ba-eb47c663330e,Anthyria,Animalia,Insecta,3,https://taxatree.tbn.org.tw/taxa/872c29bb-b1f8-48d9-b40a-1836cb72b1c1
+872c29bb-b1f8-48d9-b40a-1836cb72b1c1,genus,f1b3fb3e-7241-4db8-82ba-eb47c663330e,Anthyria,Animalia,Insecta,2,https://taxatree.tbn.org.tw/taxa/872c29bb-b1f8-48d9-b40a-1836cb72b1c1
 dbf9ae9e-fe45-41d5-aa63-dce89a1942b7,genus,f1b3fb3e-7241-4db8-82ba-eb47c663330e,Crypsicometa,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/dbf9ae9e-fe45-41d5-aa63-dce89a1942b7
 94063288-5623-4cd7-8ca0-29aef16ebd87,genus,f1b3fb3e-7241-4db8-82ba-eb47c663330e,Eucosmabraxas,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/94063288-5623-4cd7-8ca0-29aef16ebd87
 3253da69-6160-4cfe-bea0-b1653a2a3096,genus,f1b3fb3e-7241-4db8-82ba-eb47c663330e,Eulithis,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/3253da69-6160-4cfe-bea0-b1653a2a3096
@@ -599,7 +599,7 @@ b4c66320-4d47-47e9-b9b9-5d8203d29739,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,
 6be2c072-6972-41df-9aea-03a224239696,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Eclipsea,Animalia,Insecta,1,https://taxatree.tbn.org.tw/taxa/6be2c072-6972-41df-9aea-03a224239696
 df0e519b-6937-420b-8ed3-a014ec2f3cdf,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Gargudinia,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/df0e519b-6937-420b-8ed3-a014ec2f3cdf
 f85ecb31-12d4-4d84-bfcb-23b58c0fc027,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Gontis,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/f85ecb31-12d4-4d84-bfcb-23b58c0fc027
-d8b20767-6ec0-4237-afa9-0df73eb6e534,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Lyclene,Animalia,Insecta,640,https://taxatree.tbn.org.tw/taxa/d8b20767-6ec0-4237-afa9-0df73eb6e534
+d8b20767-6ec0-4237-afa9-0df73eb6e534,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Lyclene,Animalia,Insecta,636,https://taxatree.tbn.org.tw/taxa/d8b20767-6ec0-4237-afa9-0df73eb6e534
 576d06f0-76b1-45be-ab1f-5e6297324904,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Neasura,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/576d06f0-76b1-45be-ab1f-5e6297324904
 dbad9c3e-d83d-4702-88f6-8201d5893c6a,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Neasuroides,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/dbad9c3e-d83d-4702-88f6-8201d5893c6a
 683eadd1-adfc-401e-b8a4-7940c3176fb0,genus,00ba932c-6b0d-4e1c-bba3-07cbf0f8b47f,Neochiera,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/683eadd1-adfc-401e-b8a4-7940c3176fb0
@@ -644,8 +644,8 @@ dbc27b06-38de-424c-a8fb-36de65742561,genus,f32d90e3-0668-4007-92e1-afded913e951,
 cce83dd2-c171-45c8-a0e3-ef92f5ab23e0,genus,63e7e423-5ec0-4e95-af80-f47f87a6096f,Parasarpa,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/cce83dd2-c171-45c8-a0e3-ef92f5ab23e0
 79120a1f-a59b-49f7-9581-11dc4d14a2f7,genus,5853a961-6696-41b2-ba86-97f0dcf4b8e6,Peracma,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/79120a1f-a59b-49f7-9581-11dc4d14a2f7
 9b6756cf-4337-4d00-8a72-ee1184d418f4,genus,007f911a-2332-44ad-a2ad-5af07c3e0437,Lysipatha,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/9b6756cf-4337-4d00-8a72-ee1184d418f4
-759c2caf-ae9a-4df0-b06c-ba6844d2b61e,genus,8a26c205-4aff-4b3e-888c-2b06a7205df6,Chilasa,Animalia,Insecta,18,https://taxatree.tbn.org.tw/taxa/759c2caf-ae9a-4df0-b06c-ba6844d2b61e
-6ed2e8d0-8b05-42ec-a44e-a87a019245e6,genus,8a26c205-4aff-4b3e-888c-2b06a7205df6,Pazala,Animalia,Insecta,54,https://taxatree.tbn.org.tw/taxa/6ed2e8d0-8b05-42ec-a44e-a87a019245e6
+759c2caf-ae9a-4df0-b06c-ba6844d2b61e,genus,8a26c205-4aff-4b3e-888c-2b06a7205df6,Chilasa,Animalia,Insecta,10,https://taxatree.tbn.org.tw/taxa/759c2caf-ae9a-4df0-b06c-ba6844d2b61e
+6ed2e8d0-8b05-42ec-a44e-a87a019245e6,genus,8a26c205-4aff-4b3e-888c-2b06a7205df6,Pazala,Animalia,Insecta,46,https://taxatree.tbn.org.tw/taxa/6ed2e8d0-8b05-42ec-a44e-a87a019245e6
 9cce21a9-354f-49e2-9780-5c4f8e7da8dd,genus,fd81aa93-b308-4c4f-b868-b12dc4b656d0,Neoblastobasis,Animalia,Insecta,2,https://taxatree.tbn.org.tw/taxa/9cce21a9-354f-49e2-9780-5c4f8e7da8dd
 c95cbb1b-a790-449d-b7f9-5f18f87045e2,genus,29258d69-cbc8-4f66-8426-2c8ee350740f,Spatularia,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/c95cbb1b-a790-449d-b7f9-5f18f87045e2
 9a842553-029f-4320-b934-5dd7943673a0,genus,0f0ae753-c82b-43ee-a961-c6a802a4cb65,Chimaerosphecia,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/9a842553-029f-4320-b934-5dd7943673a0
@@ -1029,10 +1029,10 @@ a1e1a1ee-55bd-47d1-9fc6-3fae21d033bb,subgenus,8b2baa64-21d6-4942-a4ca-f9bdb149ee
 a996cb46-ab83-4825-96ed-5cb03f7d3681,genus,88dccc1a-8797-4b3f-bb5b-75f5b7bbcb0f,Danaea,Plantae,Marattiopsida,0,https://taxatree.tbn.org.tw/taxa/a996cb46-ab83-4825-96ed-5cb03f7d3681
 5b1978c6-88b3-431c-9c35-cc4fe41bbc44,genus,88dccc1a-8797-4b3f-bb5b-75f5b7bbcb0f,Eupodium,Plantae,Marattiopsida,0,https://taxatree.tbn.org.tw/taxa/5b1978c6-88b3-431c-9c35-cc4fe41bbc44
 cdc78087-245a-4c7b-a4a2-c7986e55cffb,genus,88dccc1a-8797-4b3f-bb5b-75f5b7bbcb0f,Christensenia,Plantae,Marattiopsida,0,https://taxatree.tbn.org.tw/taxa/cdc78087-245a-4c7b-a4a2-c7986e55cffb
-c27c7fa0-59d5-4e22-9ae1-b9d1c8dad5bd,genus,88dccc1a-8797-4b3f-bb5b-75f5b7bbcb0f,Marattia,Plantae,Marattiopsida,150,https://taxatree.tbn.org.tw/taxa/c27c7fa0-59d5-4e22-9ae1-b9d1c8dad5bd
+c27c7fa0-59d5-4e22-9ae1-b9d1c8dad5bd,genus,88dccc1a-8797-4b3f-bb5b-75f5b7bbcb0f,Marattia,Plantae,Marattiopsida,163,https://taxatree.tbn.org.tw/taxa/c27c7fa0-59d5-4e22-9ae1-b9d1c8dad5bd
 bee4d7bb-c14c-4625-8020-8a3b9967459e,genus,46141301-7c0f-4305-8af1-8508c2035926,Leptopteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/bee4d7bb-c14c-4625-8020-8a3b9967459e
 ff84c4e8-fc0e-4ed5-bff0-2c1813848dbe,genus,46141301-7c0f-4305-8af1-8508c2035926,Todea,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/ff84c4e8-fc0e-4ed5-bff0-2c1813848dbe
-cbaa0f6a-a21e-4f00-82c9-c2cecc741544,genus,676ea379-9b1a-4079-842a-2b08f2f04b6b,Trichomanes,Plantae,Polypodiopsida,349,https://taxatree.tbn.org.tw/taxa/cbaa0f6a-a21e-4f00-82c9-c2cecc741544
+cbaa0f6a-a21e-4f00-82c9-c2cecc741544,genus,676ea379-9b1a-4079-842a-2b08f2f04b6b,Trichomanes,Plantae,Polypodiopsida,390,https://taxatree.tbn.org.tw/taxa/cbaa0f6a-a21e-4f00-82c9-c2cecc741544
 40344d0d-c2ab-48fe-b077-509c89be2716,genus,676ea379-9b1a-4079-842a-2b08f2f04b6b,Polyphlebium,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/40344d0d-c2ab-48fe-b077-509c89be2716
 91e9a317-17fd-4d40-9f61-002bd7202961,genus,98dcd898-2be2-46a2-8280-e03c3c28b132,Gleichenella,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/91e9a317-17fd-4d40-9f61-002bd7202961
 1706b73b-24c3-4ec6-9bc1-d12ba137bac3,genus,98dcd898-2be2-46a2-8280-e03c3c28b132,Sticherus,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/1706b73b-24c3-4ec6-9bc1-d12ba137bac3
@@ -1047,9 +1047,9 @@ d3ca2ca9-4f88-4444-ac87-f3c3ceb1a737,genus,e2fb81ab-1d50-4391-b385-f5d4e5f33000,
 317c2eaf-0be9-4491-a767-991dfb4081c3,genus,efced2d2-2d46-4ad0-9b6e-c68e93f32690,Loxsoma,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/317c2eaf-0be9-4491-a767-991dfb4081c3
 5b8a903f-a0e2-4eb4-a413-adb0589726f8,genus,efced2d2-2d46-4ad0-9b6e-c68e93f32690,Loxsomopsis,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/5b8a903f-a0e2-4eb4-a413-adb0589726f8
 87fe9b9d-8291-4f3c-8b27-480d2edad7c1,genus,b4b98498-3c09-4220-82b0-9635fa02c111,Culcita,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/87fe9b9d-8291-4f3c-8b27-480d2edad7c1
-59ea018e-ef7e-4a82-a462-7e7c77fbd65c,genus,bf91926f-77b2-4daa-b0dc-174ebc72116f,Cyathea,Plantae,Polypodiopsida,3908,https://taxatree.tbn.org.tw/taxa/59ea018e-ef7e-4a82-a462-7e7c77fbd65c
+59ea018e-ef7e-4a82-a462-7e7c77fbd65c,genus,bf91926f-77b2-4daa-b0dc-174ebc72116f,Cyathea,Plantae,Polypodiopsida,3996,https://taxatree.tbn.org.tw/taxa/59ea018e-ef7e-4a82-a462-7e7c77fbd65c
 92a5d8ed-237a-4336-9af1-d4658c10d9f9,genus,bf91926f-77b2-4daa-b0dc-174ebc72116f,Gymnosphaera,Plantae,Polypodiopsida,108,https://taxatree.tbn.org.tw/taxa/92a5d8ed-237a-4336-9af1-d4658c10d9f9
-b99ef3c4-233a-4947-899e-66ba6a77a605,genus,bf91926f-77b2-4daa-b0dc-174ebc72116f,Sphaeropteris,Plantae,Polypodiopsida,42647,https://taxatree.tbn.org.tw/taxa/b99ef3c4-233a-4947-899e-66ba6a77a605
+b99ef3c4-233a-4947-899e-66ba6a77a605,genus,bf91926f-77b2-4daa-b0dc-174ebc72116f,Sphaeropteris,Plantae,Polypodiopsida,42670,https://taxatree.tbn.org.tw/taxa/b99ef3c4-233a-4947-899e-66ba6a77a605
 fa485b20-f84b-416f-8075-28919d9c2782,genus,2f650ff5-45ce-4b30-8d74-3ed84192fa56,Calochlaena,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/fa485b20-f84b-416f-8075-28919d9c2782
 7de14727-8344-4eae-be67-c221db6d09b5,genus,2f650ff5-45ce-4b30-8d74-3ed84192fa56,Dicksonia,Plantae,Polypodiopsida,1,https://taxatree.tbn.org.tw/taxa/7de14727-8344-4eae-be67-c221db6d09b5
 3b851138-e1bd-462e-a257-f77465ac8e57,genus,2f650ff5-45ce-4b30-8d74-3ed84192fa56,Lophosoria,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/3b851138-e1bd-462e-a257-f77465ac8e57
@@ -1058,7 +1058,7 @@ fa485b20-f84b-416f-8075-28919d9c2782,genus,2f650ff5-45ce-4b30-8d74-3ed84192fa56,
 ba0b1e9d-7cc9-4293-a13a-3a01b8a8cbf4,genus,0c8449f4-3a84-4471-8715-cc7478d5ad9f,Saccoloma,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/ba0b1e9d-7cc9-4293-a13a-3a01b8a8cbf4
 9e47b0d6-8ac2-4f8b-9e58-82ef172eab5a,genus,0c8449f4-3a84-4471-8715-cc7478d5ad9f,Orthiopteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/9e47b0d6-8ac2-4f8b-9e58-82ef172eab5a
 67569209-8677-4c93-8faa-95b8aa3ab6a5,genus,8f02a41a-bd3e-4410-a954-e6aae8a22cdd,Cystodium,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/67569209-8677-4c93-8faa-95b8aa3ab6a5
-3004cd94-183f-4539-8ed2-d40da12c9591,genus,263c3f2c-695e-4515-9819-6480dd7b0e4a,Sphenomeris,Plantae,Polypodiopsida,92,https://taxatree.tbn.org.tw/taxa/3004cd94-183f-4539-8ed2-d40da12c9591
+3004cd94-183f-4539-8ed2-d40da12c9591,genus,263c3f2c-695e-4515-9819-6480dd7b0e4a,Sphenomeris,Plantae,Polypodiopsida,94,https://taxatree.tbn.org.tw/taxa/3004cd94-183f-4539-8ed2-d40da12c9591
 f9eaba72-3f61-48f6-86e4-b7d3d0567d47,genus,263c3f2c-695e-4515-9819-6480dd7b0e4a,Nesolindsaea,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/f9eaba72-3f61-48f6-86e4-b7d3d0567d47
 3208cead-5667-4552-aad5-3daa9e64bb44,genus,263c3f2c-695e-4515-9819-6480dd7b0e4a,Xyropteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/3208cead-5667-4552-aad5-3daa9e64bb44
 1b800883-f0ac-4c02-8625-50e19351b9b4,genus,d73838bb-f535-4eab-93ac-e0b532849469,Blotiella,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/1b800883-f0ac-4c02-8625-50e19351b9b4
@@ -1083,7 +1083,7 @@ bf189cc1-fbbb-4def-8157-c503ae420f72,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,
 0fee32cb-a032-496a-9117-2601d5bd9cdf,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Calciphilopteris,Plantae,Polypodiopsida,4,https://taxatree.tbn.org.tw/taxa/0fee32cb-a032-496a-9117-2601d5bd9cdf
 7e18b850-0fef-4dc1-aceb-84c8a9bbce93,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Cassebeera,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/7e18b850-0fef-4dc1-aceb-84c8a9bbce93
 0c62509d-6c2d-42ad-b40d-9765db3ba712,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Cheiloplecton,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/0c62509d-6c2d-42ad-b40d-9765db3ba712
-1b011310-3154-4fbb-8381-0690ecd66fe2,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Hemionitis,Plantae,Polypodiopsida,21,https://taxatree.tbn.org.tw/taxa/1b011310-3154-4fbb-8381-0690ecd66fe2
+1b011310-3154-4fbb-8381-0690ecd66fe2,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Hemionitis,Plantae,Polypodiopsida,27,https://taxatree.tbn.org.tw/taxa/1b011310-3154-4fbb-8381-0690ecd66fe2
 8ea320b3-fc09-43de-b12f-13b16efc5739,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Paraceterach,Plantae,Polypodiopsida,4,https://taxatree.tbn.org.tw/taxa/8ea320b3-fc09-43de-b12f-13b16efc5739
 361e8931-b334-4e90-af9e-f583f4b9d4f5,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Pellaea,Plantae,Polypodiopsida,18,https://taxatree.tbn.org.tw/taxa/361e8931-b334-4e90-af9e-f583f4b9d4f5
 adfe827a-35ef-4e0b-aabe-10b93983714b,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Pentagramma,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/adfe827a-35ef-4e0b-aabe-10b93983714b
@@ -1092,12 +1092,12 @@ adfe827a-35ef-4e0b-aabe-10b93983714b,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,
 50c4af7e-4ce1-45b6-b3fc-10136c2d0cec,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Ananthacorus,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/50c4af7e-4ce1-45b6-b3fc-10136c2d0cec
 f9f82a77-1ba9-4ab3-a147-8523849f775d,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Anetium,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/f9f82a77-1ba9-4ab3-a147-8523849f775d
 9cc37f98-4823-4c26-9571-6a921076acc0,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Hecistopteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/9cc37f98-4823-4c26-9571-6a921076acc0
-51ae93f3-3de4-4934-b07f-27325557f581,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Monogramma,Plantae,Polypodiopsida,37,https://taxatree.tbn.org.tw/taxa/51ae93f3-3de4-4934-b07f-27325557f581
+51ae93f3-3de4-4934-b07f-27325557f581,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Monogramma,Plantae,Polypodiopsida,39,https://taxatree.tbn.org.tw/taxa/51ae93f3-3de4-4934-b07f-27325557f581
 dfda0993-d86b-48bf-8d47-05b551fe1dba,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Polytaenium,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/dfda0993-d86b-48bf-8d47-05b551fe1dba
 54278066-84ef-4aba-8baa-cb34a777859e,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Radiovittaria,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/54278066-84ef-4aba-8baa-cb34a777859e
 e3b7b6f4-d25a-4689-8523-78533755d30e,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Rheopteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/e3b7b6f4-d25a-4689-8523-78533755d30e
 da5ab667-8bcc-4dbf-aa92-df90bdc8e832,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Scoliosorus,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/da5ab667-8bcc-4dbf-aa92-df90bdc8e832
-ae601e72-a0d6-4736-8619-983eedea6ebe,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Vittaria,Plantae,Polypodiopsida,863,https://taxatree.tbn.org.tw/taxa/ae601e72-a0d6-4736-8619-983eedea6ebe
+ae601e72-a0d6-4736-8619-983eedea6ebe,genus,4c61f6d2-53ea-467c-8a19-7203ff756177,Vittaria,Plantae,Polypodiopsida,1064,https://taxatree.tbn.org.tw/taxa/ae601e72-a0d6-4736-8619-983eedea6ebe
 96806dff-b713-4a9d-86f9-395ec49e5c34,genus,20331920-74f1-419f-815f-fea513a39945,Cystoathyrium,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/96806dff-b713-4a9d-86f9-395ec49e5c34
 5bf5e4b4-b779-488d-aa35-d2fc7a71e619,genus,91a4d138-4ce9-4a39-b07c-b045f02b6dd8,Hemidictyum,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/5bf5e4b4-b779-488d-aa35-d2fc7a71e619
 b554fa69-f75a-4309-8ae5-d44c9d36d977,genus,91a4d138-4ce9-4a39-b07c-b045f02b6dd8,Homalosorus,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/b554fa69-f75a-4309-8ae5-d44c9d36d977
@@ -1109,15 +1109,15 @@ f1384be2-d3ef-41b7-b7cb-7a9d4d41204d,genus,ce52e706-4cdb-46dd-ae05-eb3a24d4e858,
 d2a938a6-945d-4dd2-bfad-cddd3aeb7aaf,genus,9a56e770-3614-4c96-a1a1-7d0bdb65a97c,Stenochlaena,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/d2a938a6-945d-4dd2-bfad-cddd3aeb7aaf
 5c32fe4a-89c3-4275-99ac-354f9796a917,genus,9a56e770-3614-4c96-a1a1-7d0bdb65a97c,Sadleria,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/5c32fe4a-89c3-4275-99ac-354f9796a917
 3e79b5bf-0574-4895-9375-f207300accbe,genus,9a56e770-3614-4c96-a1a1-7d0bdb65a97c,Pteridoblechnum,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/3e79b5bf-0574-4895-9375-f207300accbe
-d248b0f5-b997-4403-b8fe-2fa993cee33c,genus,9a56e770-3614-4c96-a1a1-7d0bdb65a97c,Blechnum,Plantae,Polypodiopsida,1381,https://taxatree.tbn.org.tw/taxa/d248b0f5-b997-4403-b8fe-2fa993cee33c
+d248b0f5-b997-4403-b8fe-2fa993cee33c,genus,9a56e770-3614-4c96-a1a1-7d0bdb65a97c,Blechnum,Plantae,Polypodiopsida,1441,https://taxatree.tbn.org.tw/taxa/d248b0f5-b997-4403-b8fe-2fa993cee33c
 4f833b56-fce7-4e7e-b928-13d0df9249af,genus,349c2334-c934-4ae8-98f9-ea5b823dc97f,Didymochlaena,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/4f833b56-fce7-4e7e-b928-13d0df9249af
 4e590a01-6ad6-42d5-9fcf-c627818f8f99,genus,f64aca36-6427-4696-983d-2d1759729ae6,Adenoderris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/4e590a01-6ad6-42d5-9fcf-c627818f8f99
 466f85be-f547-44e0-9f4e-5ae6da37201e,genus,f64aca36-6427-4696-983d-2d1759729ae6,Coveniella,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/466f85be-f547-44e0-9f4e-5ae6da37201e
 4436a40b-2a4e-42a2-b4c6-4c7c8b71efb7,genus,f64aca36-6427-4696-983d-2d1759729ae6,Dracoglossum,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/4436a40b-2a4e-42a2-b4c6-4c7c8b71efb7
 45ce012c-3482-4c0a-b276-7f9a7eabede1,genus,f64aca36-6427-4696-983d-2d1759729ae6,Revwattsia,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/45ce012c-3482-4c0a-b276-7f9a7eabede1
 2d506f14-a9fe-499d-8a8f-ff7a076f40e3,genus,f64aca36-6427-4696-983d-2d1759729ae6,Stenolepia,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/2d506f14-a9fe-499d-8a8f-ff7a076f40e3
-556f2df5-47ef-4242-9775-3b77f067837c,genus,f64aca36-6427-4696-983d-2d1759729ae6,Acrophorus,Plantae,Polypodiopsida,873,https://taxatree.tbn.org.tw/taxa/556f2df5-47ef-4242-9775-3b77f067837c
-a6f383e4-f4f3-441f-9503-7c787a9cc714,genus,f64aca36-6427-4696-983d-2d1759729ae6,Cyrtogonellum,Plantae,Polypodiopsida,37,https://taxatree.tbn.org.tw/taxa/a6f383e4-f4f3-441f-9503-7c787a9cc714
+556f2df5-47ef-4242-9775-3b77f067837c,genus,f64aca36-6427-4696-983d-2d1759729ae6,Acrophorus,Plantae,Polypodiopsida,872,https://taxatree.tbn.org.tw/taxa/556f2df5-47ef-4242-9775-3b77f067837c
+a6f383e4-f4f3-441f-9503-7c787a9cc714,genus,f64aca36-6427-4696-983d-2d1759729ae6,Cyrtogonellum,Plantae,Polypodiopsida,39,https://taxatree.tbn.org.tw/taxa/a6f383e4-f4f3-441f-9503-7c787a9cc714
 2c101300-0348-48ec-9604-f3790e4aecaa,genus,f64aca36-6427-4696-983d-2d1759729ae6,Cyrtomidictyum,Plantae,Polypodiopsida,16,https://taxatree.tbn.org.tw/taxa/2c101300-0348-48ec-9604-f3790e4aecaa
 2972d04c-3917-4fb5-8c72-4e8d7ce87c6d,genus,f64aca36-6427-4696-983d-2d1759729ae6,Dryopolystichum,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/2972d04c-3917-4fb5-8c72-4e8d7ce87c6d
 61b8590b-a420-481c-9029-fa6f34226d4d,genus,f64aca36-6427-4696-983d-2d1759729ae6,Phanerophlebia,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/61b8590b-a420-481c-9029-fa6f34226d4d
@@ -1143,17 +1143,17 @@ f95cf476-7a6c-49e2-8412-2c5c487ed4e0,genus,a1639c59-b12b-41fd-9c75-fae8e66ac5c7,
 5c80d242-4661-4112-aa72-ff73e6462923,genus,5933499b-525d-438a-a37e-5ad373dea773,Wagneriopteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/5c80d242-4661-4112-aa72-ff73e6462923
 3ea97875-37e4-4911-b4f8-4cacb94c775b,genus,01d81900-e524-44b4-842b-1d9738a48f22,Davallodes,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/3ea97875-37e4-4911-b4f8-4cacb94c775b
 d875ee1a-1fb3-4bd2-8d0f-999f125014ce,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Christiopteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/d875ee1a-1fb3-4bd2-8d0f-999f125014ce
-9fa1ba6b-25be-4c92-8ed0-194b7eac67a8,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Drynaria,Plantae,Polypodiopsida,263,https://taxatree.tbn.org.tw/taxa/9fa1ba6b-25be-4c92-8ed0-194b7eac67a8
+9fa1ba6b-25be-4c92-8ed0-194b7eac67a8,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Drynaria,Plantae,Polypodiopsida,296,https://taxatree.tbn.org.tw/taxa/9fa1ba6b-25be-4c92-8ed0-194b7eac67a8
 e907069f-6c8d-4cfb-b6a2-452a688b4454,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Gymnogrammitis,Plantae,Polypodiopsida,1,https://taxatree.tbn.org.tw/taxa/e907069f-6c8d-4cfb-b6a2-452a688b4454
 ee46324e-de75-4f34-83f8-80fa125cff01,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Paraselliguea,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/ee46324e-de75-4f34-83f8-80fa125cff01
-b87f882d-4789-4cb4-9fce-601ce42e8716,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Phymatopteris,Plantae,Polypodiopsida,184,https://taxatree.tbn.org.tw/taxa/b87f882d-4789-4cb4-9fce-601ce42e8716
+b87f882d-4789-4cb4-9fce-601ce42e8716,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Phymatopteris,Plantae,Polypodiopsida,190,https://taxatree.tbn.org.tw/taxa/b87f882d-4789-4cb4-9fce-601ce42e8716
 ff709517-7741-4881-948c-c69327f2faf6,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Dendroconche,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/ff709517-7741-4881-948c-c69327f2faf6
 fa993e57-2274-4721-89b7-005d46999c07,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Kaulinia,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/fa993e57-2274-4721-89b7-005d46999c07
 0c83d09b-8d8c-4870-9864-26965aba69dc,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Kontumia,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/0c83d09b-8d8c-4870-9864-26965aba69dc
 7c6dd89d-b48b-4f5b-ba6c-f3bcdb148747,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Lecanopteris,Plantae,Polypodiopsida,2,https://taxatree.tbn.org.tw/taxa/7c6dd89d-b48b-4f5b-ba6c-f3bcdb148747
 7a1f1b64-c4a3-491b-86a6-7b81cbd0cc16,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Neocheiropteris,Plantae,Polypodiopsida,171,https://taxatree.tbn.org.tw/taxa/7a1f1b64-c4a3-491b-86a6-7b81cbd0cc16
 7f1423bd-fc5c-422d-aab4-7df153da8b50,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Paragramma,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/7f1423bd-fc5c-422d-aab4-7df153da8b50
-56b211c4-f1f8-4324-9d72-1e5f05de8c20,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Phymatosorus,Plantae,Polypodiopsida,29,https://taxatree.tbn.org.tw/taxa/56b211c4-f1f8-4324-9d72-1e5f05de8c20
+56b211c4-f1f8-4324-9d72-1e5f05de8c20,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Phymatosorus,Plantae,Polypodiopsida,20,https://taxatree.tbn.org.tw/taxa/56b211c4-f1f8-4324-9d72-1e5f05de8c20
 bd7bb19c-b112-4fe4-a26a-13a313bf863f,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Podosorus,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/bd7bb19c-b112-4fe4-a26a-13a313bf863f
 e3553e4e-180c-4689-8757-31db8d0aabf1,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Thylacopteris,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/e3553e4e-180c-4689-8757-31db8d0aabf1
 5446a76b-c29f-4cbc-bf78-e2c7f4830836,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Campyloneurum,Plantae,Polypodiopsida,1,https://taxatree.tbn.org.tw/taxa/5446a76b-c29f-4cbc-bf78-e2c7f4830836
@@ -1162,14 +1162,14 @@ b5c429cb-0ef8-4419-a0ac-a040ee241278,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,
 666b7df4-d417-443a-b33c-380e03292f57,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Pecluma,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/666b7df4-d417-443a-b33c-380e03292f57
 df437a3a-a6a5-43ca-8c0b-e7b400e1014a,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Phlebodium,Plantae,Polypodiopsida,11,https://taxatree.tbn.org.tw/taxa/df437a3a-a6a5-43ca-8c0b-e7b400e1014a
 244d168b-a9a4-4719-9dfc-d5a69608de24,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Pleurosoriopsis,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/244d168b-a9a4-4719-9dfc-d5a69608de24
-da86bb31-b1cb-4c2d-b549-51612d1d2875,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Polypodium,Plantae,Polypodiopsida,827,https://taxatree.tbn.org.tw/taxa/da86bb31-b1cb-4c2d-b549-51612d1d2875
+da86bb31-b1cb-4c2d-b549-51612d1d2875,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Polypodium,Plantae,Polypodiopsida,833,https://taxatree.tbn.org.tw/taxa/da86bb31-b1cb-4c2d-b549-51612d1d2875
 a28427f4-92af-4c95-b005-2140e8ee1763,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Serpocaulon,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/a28427f4-92af-4c95-b005-2140e8ee1763
 995adc8c-6f03-4cd2-adfd-fe967678e4d4,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Synammia,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/995adc8c-6f03-4cd2-adfd-fe967678e4d4
 cf0f1b75-c732-417c-9748-e5c37172dbef,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Acrosorus,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/cf0f1b75-c732-417c-9748-e5c37172dbef
 56776132-a594-4bcc-944e-e484d0baa503,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Adenophorus,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/56776132-a594-4bcc-944e-e484d0baa503
 79661d38-2498-42f6-824d-a2e6f1a56174,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Ceradenia,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/79661d38-2498-42f6-824d-a2e6f1a56174
 a0439be0-992e-40aa-81a9-024badaaaa63,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Cochlidium,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/a0439be0-992e-40aa-81a9-024badaaaa63
-a187cec1-3cbe-494b-9bb1-44c47ee98e98,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Ctenopteris,Plantae,Polypodiopsida,560,https://taxatree.tbn.org.tw/taxa/a187cec1-3cbe-494b-9bb1-44c47ee98e98
+a187cec1-3cbe-494b-9bb1-44c47ee98e98,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Ctenopteris,Plantae,Polypodiopsida,668,https://taxatree.tbn.org.tw/taxa/a187cec1-3cbe-494b-9bb1-44c47ee98e98
 45e94534-c04f-4269-b302-8feed75912ea,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Enterosora,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/45e94534-c04f-4269-b302-8feed75912ea
 1dd8a39c-eb08-41e2-a763-00afabbd32b8,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Lellingeria,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/1dd8a39c-eb08-41e2-a763-00afabbd32b8
 95f0ebcc-d87b-416a-bb81-0a5c78c9a849,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Leucotrichum,Plantae,Polypodiopsida,0,https://taxatree.tbn.org.tw/taxa/95f0ebcc-d87b-416a-bb81-0a5c78c9a849
@@ -1186,7 +1186,7 @@ b1976639-85d7-430a-b65e-5e0741b8985f,genus,e509b71b-a1de-4d4c-9d6f-5f44fed19f83,
 a68eeabb-8713-45cf-8e08-b4d9546b686d,genus,e509b71b-a1de-4d4c-9d6f-5f44fed19f83,Ceratozamia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/a68eeabb-8713-45cf-8e08-b4d9546b686d
 0edeff2a-5ebf-4479-8310-8b6d087f53b2,genus,e509b71b-a1de-4d4c-9d6f-5f44fed19f83,Microcycas,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/0edeff2a-5ebf-4479-8310-8b6d087f53b2
 85eb7285-b323-4998-a5ac-716b9ad71465,genus,9f17acad-5f6b-4eaf-bb23-ed3fbb15bec5,Welwitschia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/85eb7285-b323-4998-a5ac-716b9ad71465
-87600c3e-218c-4465-9381-0bb9c1f54fe5,genus,4c160bcf-daed-47f3-9c52-1d08fb0c115f,Gnetum,Plantae,Spermatopsida,19,https://taxatree.tbn.org.tw/taxa/87600c3e-218c-4465-9381-0bb9c1f54fe5
+87600c3e-218c-4465-9381-0bb9c1f54fe5,genus,4c160bcf-daed-47f3-9c52-1d08fb0c115f,Gnetum,Plantae,Spermatopsida,20,https://taxatree.tbn.org.tw/taxa/87600c3e-218c-4465-9381-0bb9c1f54fe5
 5ec6da35-c58a-4d61-b7ea-2b81a6fb743b,genus,a397ba47-c0ba-4732-911f-2cf58b7ba5db,Ephedra,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/5ec6da35-c58a-4d61-b7ea-2b81a6fb743b
 75662c1b-aa8d-449b-a150-7ae4111d51fb,genus,f196256d-fa87-4caa-8d8d-fcb91a8c9361,Cathaya,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/75662c1b-aa8d-449b-a150-7ae4111d51fb
 3a71b121-837b-4f12-bdac-1880203246b6,genus,f196256d-fa87-4caa-8d8d-fcb91a8c9361,Nothotsuga,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/3a71b121-837b-4f12-bdac-1880203246b6
@@ -1230,7 +1230,7 @@ fbdca96f-6849-4991-87f8-fe504bef5dff,genus,6ef55651-81e3-44e9-a429-ef5a52a8b7b4,
 8edfac56-8cb3-4115-b277-1711b92e5836,genus,6401b27b-7d25-4277-8cad-3c3789b79c04,Horsfieldia,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/8edfac56-8cb3-4115-b277-1711b92e5836
 62d12c2c-8bc6-4836-a40e-827e9de80b31,genus,6401b27b-7d25-4277-8cad-3c3789b79c04,Virola,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/62d12c2c-8bc6-4836-a40e-827e9de80b31
 e88dcc8d-eee4-46c8-88ad-fde8d6f8597e,genus,56e24bbe-b69e-40ed-8e6d-6b92090f05ca,Guatteria,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/e88dcc8d-eee4-46c8-88ad-fde8d6f8597e
-a0f294fd-697b-4453-af15-fede15da7eac,genus,56e24bbe-b69e-40ed-8e6d-6b92090f05ca,Polyalthia,Plantae,Spermatopsida,15,https://taxatree.tbn.org.tw/taxa/a0f294fd-697b-4453-af15-fede15da7eac
+a0f294fd-697b-4453-af15-fede15da7eac,genus,56e24bbe-b69e-40ed-8e6d-6b92090f05ca,Polyalthia,Plantae,Spermatopsida,16,https://taxatree.tbn.org.tw/taxa/a0f294fd-697b-4453-af15-fede15da7eac
 53dd1c5f-cb38-40e5-83e7-32bc08023758,genus,56e24bbe-b69e-40ed-8e6d-6b92090f05ca,Xylopia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/53dd1c5f-cb38-40e5-83e7-32bc08023758
 212caf6f-9340-49f4-b7c4-726047175631,genus,56e24bbe-b69e-40ed-8e6d-6b92090f05ca,Uvaria,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/212caf6f-9340-49f4-b7c4-726047175631
 0c101ddb-6a0b-4969-827f-1b7db5c047d7,genus,56e24bbe-b69e-40ed-8e6d-6b92090f05ca,Monodora,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/0c101ddb-6a0b-4969-827f-1b7db5c047d7
@@ -1243,11 +1243,11 @@ a1c6b536-2b04-403f-bb38-7c8b76f26a3b,genus,56e24bbe-b69e-40ed-8e6d-6b92090f05ca,
 3bb4100e-0b36-46ea-8dd0-720ca3043716,genus,44ab47eb-ac95-44f4-adbd-ead30bd016af,Umbellularia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/3bb4100e-0b36-46ea-8dd0-720ca3043716
 17e4120f-a1fd-4cb8-a3d9-f1b5489a9715,genus,44ab47eb-ac95-44f4-adbd-ead30bd016af,Chlorocardium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/17e4120f-a1fd-4cb8-a3d9-f1b5489a9715
 ff06cd1e-67f9-4f30-9d39-9cc50265f728,genus,44ab47eb-ac95-44f4-adbd-ead30bd016af,Lepidadenia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/ff06cd1e-67f9-4f30-9d39-9cc50265f728
-12d13e6c-b2b2-423b-ac15-2d19843b8e03,genus,44ab47eb-ac95-44f4-adbd-ead30bd016af,Nothaphoebe,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/12d13e6c-b2b2-423b-ac15-2d19843b8e03
+12d13e6c-b2b2-423b-ac15-2d19843b8e03,genus,44ab47eb-ac95-44f4-adbd-ead30bd016af,Nothaphoebe,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/12d13e6c-b2b2-423b-ac15-2d19843b8e03
 589fb5b0-466c-4fd7-90f6-aa34574869a2,genus,46d8188f-bcc4-4fd6-b88f-46f0e367fe06,Orontium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/589fb5b0-466c-4fd7-90f6-aa34574869a2
 9dc9b606-1f9c-452a-a0f7-eac30aa7dcb6,genus,46d8188f-bcc4-4fd6-b88f-46f0e367fe06,Peltandra,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/9dc9b606-1f9c-452a-a0f7-eac30aa7dcb6
 9a47ec5b-7501-4f9c-ad3a-14db6a0f70fb,genus,46d8188f-bcc4-4fd6-b88f-46f0e367fe06,Spathicarpa,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/9a47ec5b-7501-4f9c-ad3a-14db6a0f70fb
-c30e1bd6-49b3-446b-8ecc-80d80e3b032f,genus,46d8188f-bcc4-4fd6-b88f-46f0e367fe06,Zamioculcas,Plantae,Spermatopsida,6,https://taxatree.tbn.org.tw/taxa/c30e1bd6-49b3-446b-8ecc-80d80e3b032f
+c30e1bd6-49b3-446b-8ecc-80d80e3b032f,genus,46d8188f-bcc4-4fd6-b88f-46f0e367fe06,Zamioculcas,Plantae,Spermatopsida,7,https://taxatree.tbn.org.tw/taxa/c30e1bd6-49b3-446b-8ecc-80d80e3b032f
 06733f59-24f3-4bad-8501-afa03c81e9be,genus,5a3e3b2e-976a-4ab3-87ea-e4db8065cd48,Echinodorus,Plantae,Spermatopsida,12,https://taxatree.tbn.org.tw/taxa/06733f59-24f3-4bad-8501-afa03c81e9be
 8d3a9909-c5d3-4873-83c2-e2600b79dbc6,genus,5a3e3b2e-976a-4ab3-87ea-e4db8065cd48,Damasonium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/8d3a9909-c5d3-4873-83c2-e2600b79dbc6
 4b865160-aca9-4ac1-9cfa-db551861ea63,genus,e4f291e0-2eae-41cd-93be-551e4a5c2fad,Enhalus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/4b865160-aca9-4ac1-9cfa-db551861ea63
@@ -1350,7 +1350,7 @@ fba5aa0a-973b-4d26-88ab-b5b918ab629f,genus,22f0d4e0-9f68-43c3-a406-e56f604c246b,
 24f963d4-87e3-4225-8266-885057de4e11,genus,22f0d4e0-9f68-43c3-a406-e56f604c246b,Thrinax,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/24f963d4-87e3-4225-8266-885057de4e11
 06eae701-70b2-4ba8-a60e-6c4e448ac288,genus,766e629a-2dc2-4c4b-9d25-f20459111db7,Aneilema,Plantae,Spermatopsida,165,https://taxatree.tbn.org.tw/taxa/06eae701-70b2-4ba8-a60e-6c4e448ac288
 fd5fb76e-f7c7-47c1-9c6e-a2ed2f95023f,genus,cb99809c-5ffb-4cdb-b3d3-2aac004593e2,Heteranthera,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/fd5fb76e-f7c7-47c1-9c6e-a2ed2f95023f
-388263c0-1a53-466b-954a-5eb56f9f42a3,genus,cb99809c-5ffb-4cdb-b3d3-2aac004593e2,Pontederia,Plantae,Spermatopsida,18,https://taxatree.tbn.org.tw/taxa/388263c0-1a53-466b-954a-5eb56f9f42a3
+388263c0-1a53-466b-954a-5eb56f9f42a3,genus,cb99809c-5ffb-4cdb-b3d3-2aac004593e2,Pontederia,Plantae,Spermatopsida,19,https://taxatree.tbn.org.tw/taxa/388263c0-1a53-466b-954a-5eb56f9f42a3
 f0055a37-e9c5-4ae9-9115-ab16018824f0,genus,63c6f139-8331-45c9-a8d1-a7f9768e9878,Anigozanthos,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/f0055a37-e9c5-4ae9-9115-ab16018824f0
 aedf06be-470d-4e29-9238-35fc6d5d37e6,genus,63c6f139-8331-45c9-a8d1-a7f9768e9878,Conostylis,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/aedf06be-470d-4e29-9238-35fc6d5d37e6
 817256c3-f7db-4d23-ba2e-67faf814c773,genus,63c6f139-8331-45c9-a8d1-a7f9768e9878,Haemodorum,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/817256c3-f7db-4d23-ba2e-67faf814c773
@@ -1365,13 +1365,13 @@ bb4dcd49-5c03-4319-836c-bf2e8879992d,genus,cb90d59a-b1a8-450a-9c4c-edcb7487880c,
 df1899e4-593f-4a17-95b2-81f78c86bdc9,genus,ffe6fe42-e08c-4b0c-8aca-de9b592875a7,Leiothrix,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/df1899e4-593f-4a17-95b2-81f78c86bdc9
 17af20a7-5b31-4a5b-b538-e65372582467,genus,ffe6fe42-e08c-4b0c-8aca-de9b592875a7,Paepalanthus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/17af20a7-5b31-4a5b-b538-e65372582467
 57aeb4b7-183d-4c22-a424-c7314420fbbc,genus,ffe6fe42-e08c-4b0c-8aca-de9b592875a7,Syngonanthus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/57aeb4b7-183d-4c22-a424-c7314420fbbc
-88caca45-b961-4571-8a99-33d22e52b3c8,genus,2064932e-dfa5-4456-ae9f-0217558ad833,Kyllinga,Plantae,Spermatopsida,1592,https://taxatree.tbn.org.tw/taxa/88caca45-b961-4571-8a99-33d22e52b3c8
+88caca45-b961-4571-8a99-33d22e52b3c8,genus,2064932e-dfa5-4456-ae9f-0217558ad833,Kyllinga,Plantae,Spermatopsida,1593,https://taxatree.tbn.org.tw/taxa/88caca45-b961-4571-8a99-33d22e52b3c8
 2fd7d8ef-eff9-4049-a361-5c646badd270,genus,968285ab-f032-4613-bfed-d612f632b6ab,Chondropetalum,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/2fd7d8ef-eff9-4049-a361-5c646badd270
 56035fe8-0d48-494c-8c38-3bf1e62dc4f9,genus,968285ab-f032-4613-bfed-d612f632b6ab,Elegia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/56035fe8-0d48-494c-8c38-3bf1e62dc4f9
 31f0d692-af66-4e91-8941-bb168c34e07d,genus,968285ab-f032-4613-bfed-d612f632b6ab,Ischyrolepis,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/31f0d692-af66-4e91-8941-bb168c34e07d
 e526b094-9faa-4628-9646-606cc47f83b7,genus,968285ab-f032-4613-bfed-d612f632b6ab,Restio,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/e526b094-9faa-4628-9646-606cc47f83b7
 2155f923-dcf8-4ac7-8e04-6b0679bf93bc,genus,968285ab-f032-4613-bfed-d612f632b6ab,Thamnochortus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/2155f923-dcf8-4ac7-8e04-6b0679bf93bc
-80e1ef00-cced-468a-a962-a5785366d5b0,genus,cc752439-6ae5-4e73-84ad-f22be8ae3f60,Andropogon,Plantae,Spermatopsida,119,https://taxatree.tbn.org.tw/taxa/80e1ef00-cced-468a-a962-a5785366d5b0
+80e1ef00-cced-468a-a962-a5785366d5b0,genus,cc752439-6ae5-4e73-84ad-f22be8ae3f60,Andropogon,Plantae,Spermatopsida,124,https://taxatree.tbn.org.tw/taxa/80e1ef00-cced-468a-a962-a5785366d5b0
 be886b0b-1f1a-4a6b-bb4d-4cadf17586d8,genus,cc752439-6ae5-4e73-84ad-f22be8ae3f60,Erianthus,Plantae,Spermatopsida,65,https://taxatree.tbn.org.tw/taxa/be886b0b-1f1a-4a6b-bb4d-4cadf17586d8
 d14b5dcd-f76a-446a-924c-d17dbbf7e8ee,genus,cc752439-6ae5-4e73-84ad-f22be8ae3f60,Sasa,Plantae,Spermatopsida,4,https://taxatree.tbn.org.tw/taxa/d14b5dcd-f76a-446a-924c-d17dbbf7e8ee
 715abf10-bb8e-4f4b-8388-7509ea69337b,genus,cc752439-6ae5-4e73-84ad-f22be8ae3f60,Stipa,Plantae,Spermatopsida,4,https://taxatree.tbn.org.tw/taxa/715abf10-bb8e-4f4b-8388-7509ea69337b
@@ -1395,12 +1395,12 @@ ebea3aa6-46af-4391-9d2f-7da6281866b6,genus,76fbe906-8db5-456a-8f2d-6d027714ddea,
 32b9bc5b-8ae6-46c5-b3e5-f007c296579f,genus,4fbe9759-765e-420d-b1ab-8c1ef001775a,Caulophyllum,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/32b9bc5b-8ae6-46c5-b3e5-f007c296579f
 6b4cd9ed-15e5-4830-913f-7d99f0b5275c,genus,4fbe9759-765e-420d-b1ab-8c1ef001775a,Diphylleia,Plantae,Spermatopsida,6,https://taxatree.tbn.org.tw/taxa/6b4cd9ed-15e5-4830-913f-7d99f0b5275c
 03a58589-1de9-4a3a-a3db-a77f13765459,genus,4fbe9759-765e-420d-b1ab-8c1ef001775a,Jeffersonia,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/03a58589-1de9-4a3a-a3db-a77f13765459
-79a4e56f-27ef-4317-a346-30dd4764b85a,genus,4fbe9759-765e-420d-b1ab-8c1ef001775a,Podophyllum,Plantae,Spermatopsida,34,https://taxatree.tbn.org.tw/taxa/79a4e56f-27ef-4317-a346-30dd4764b85a
+79a4e56f-27ef-4317-a346-30dd4764b85a,genus,4fbe9759-765e-420d-b1ab-8c1ef001775a,Podophyllum,Plantae,Spermatopsida,35,https://taxatree.tbn.org.tw/taxa/79a4e56f-27ef-4317-a346-30dd4764b85a
 89d1c5ba-792f-4558-9d6c-4c149b0d692e,genus,4fbe9759-765e-420d-b1ab-8c1ef001775a,Vancouveria,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/89d1c5ba-792f-4558-9d6c-4c149b0d692e
 16c6789b-0f54-46dc-8468-e09831c13c1b,genus,e16bcf4b-29d4-407a-8cb1-3b6c833e7547,Actaea,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/16c6789b-0f54-46dc-8468-e09831c13c1b
 5e427259-cc77-4809-841b-7be86802e155,genus,e16bcf4b-29d4-407a-8cb1-3b6c833e7547,Caltha,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/5e427259-cc77-4809-841b-7be86802e155
 db1bba10-64dc-4339-ac28-b90c1919704e,genus,e16bcf4b-29d4-407a-8cb1-3b6c833e7547,Hydrastis,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/db1bba10-64dc-4339-ac28-b90c1919704e
-16edd0c2-7377-475d-b8f4-892fb8dfb5fa,genus,e16bcf4b-29d4-407a-8cb1-3b6c833e7547,Isopyrum,Plantae,Spermatopsida,20,https://taxatree.tbn.org.tw/taxa/16edd0c2-7377-475d-b8f4-892fb8dfb5fa
+16edd0c2-7377-475d-b8f4-892fb8dfb5fa,genus,e16bcf4b-29d4-407a-8cb1-3b6c833e7547,Isopyrum,Plantae,Spermatopsida,21,https://taxatree.tbn.org.tw/taxa/16edd0c2-7377-475d-b8f4-892fb8dfb5fa
 ce5ae440-d94d-49c4-a0ca-4c5036479403,genus,e16bcf4b-29d4-407a-8cb1-3b6c833e7547,Myosurus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/ce5ae440-d94d-49c4-a0ca-4c5036479403
 d3de4a53-efe6-48f0-ad48-c7a9bfd4bf0c,genus,e16bcf4b-29d4-407a-8cb1-3b6c833e7547,Xanthorhiza,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/d3de4a53-efe6-48f0-ad48-c7a9bfd4bf0c
 99827110-ac74-40e2-aca7-11cd5b2b02cc,genus,0263f1ea-0ee3-48e0-8399-881bcd9d3414,Banksia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/99827110-ac74-40e2-aca7-11cd5b2b02cc
@@ -1442,7 +1442,7 @@ b36f892a-e545-4d4f-881e-9780141fe32a,genus,929ea977-ad32-4f3a-8e86-e1935562ac34,
 85347225-5246-4730-b307-8c15d37f9464,genus,07744472-340e-41ff-a789-6173b2e3f22c,Monnina,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/85347225-5246-4730-b307-8c15d37f9464
 6470a950-7696-440f-8e6c-f6cce0fedf11,genus,07744472-340e-41ff-a789-6173b2e3f22c,Muraltia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/6470a950-7696-440f-8e6c-f6cce0fedf11
 2839001a-f123-453a-bca9-9cba0f555adc,genus,07744472-340e-41ff-a789-6173b2e3f22c,Securidaca,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/2839001a-f123-453a-bca9-9cba0f555adc
-6754a329-c10a-4697-a71b-8e0921ca6be5,genus,8b1518f4-37a2-4cd0-be88-35cb299ce0e7,Alchemilla,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/6754a329-c10a-4697-a71b-8e0921ca6be5
+6754a329-c10a-4697-a71b-8e0921ca6be5,genus,8b1518f4-37a2-4cd0-be88-35cb299ce0e7,Alchemilla,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/6754a329-c10a-4697-a71b-8e0921ca6be5
 77372892-edc1-4e7d-bbab-6a57c3b115e7,genus,8b1518f4-37a2-4cd0-be88-35cb299ce0e7,Amelanchier,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/77372892-edc1-4e7d-bbab-6a57c3b115e7
 2c35b870-c10b-4f69-b7af-878ea2008531,genus,8b1518f4-37a2-4cd0-be88-35cb299ce0e7,Exochorda,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/2c35b870-c10b-4f69-b7af-878ea2008531
 7cc45f32-8695-434b-aeed-2454fbe98e81,genus,8b1518f4-37a2-4cd0-be88-35cb299ce0e7,Kerria,Plantae,Spermatopsida,4,https://taxatree.tbn.org.tw/taxa/7cc45f32-8695-434b-aeed-2454fbe98e81
@@ -1474,7 +1474,7 @@ c356ed91-96f8-44aa-8d59-0dde2a9def92,genus,da467a60-0def-427c-b837-a7ff5f07ad16,
 4774e4be-4504-40ed-8d61-d678f9653f75,genus,da467a60-0def-427c-b837-a7ff5f07ad16,Gurania,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/4774e4be-4504-40ed-8d61-d678f9653f75
 e3d5998c-f650-45ce-af93-f29d4f47ca95,genus,d631bee4-1a86-45ba-bf71-975f879479d6,Hillebrandia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/e3d5998c-f650-45ce-af93-f29d4f47ca95
 f6df82b1-7f05-45ab-923f-95a5b99cad79,genus,b775578f-f770-485c-b1bd-efe745da1e5b,Crossopetalum,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/f6df82b1-7f05-45ab-923f-95a5b99cad79
-53a81d71-9dbb-4186-bac2-a3f2e86a8bcc,genus,b775578f-f770-485c-b1bd-efe745da1e5b,Salacia,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/53a81d71-9dbb-4186-bac2-a3f2e86a8bcc
+53a81d71-9dbb-4186-bac2-a3f2e86a8bcc,genus,b775578f-f770-485c-b1bd-efe745da1e5b,Salacia,Plantae,Spermatopsida,3,https://taxatree.tbn.org.tw/taxa/53a81d71-9dbb-4186-bac2-a3f2e86a8bcc
 2ccc7b7b-d21e-405a-860b-82823c96f7a6,genus,b775578f-f770-485c-b1bd-efe745da1e5b,Hippocratea,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/2ccc7b7b-d21e-405a-860b-82823c96f7a6
 b8dc1610-ad9c-49c6-b7fa-b529b324ce18,genus,b775578f-f770-485c-b1bd-efe745da1e5b,Paxistima,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/b8dc1610-ad9c-49c6-b7fa-b529b324ce18
 f87967d2-9ec5-4ff1-9da1-593cb2b8e5cc,genus,b775578f-f770-485c-b1bd-efe745da1e5b,Schaefferia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/f87967d2-9ec5-4ff1-9da1-593cb2b8e5cc
@@ -1505,7 +1505,7 @@ b3266f40-d889-4e6f-9ea8-65e820dcf071,genus,0beb9088-a93d-418d-9a77-1df2ab319284,
 8fd63524-64d3-416b-ae8b-d5610789f39e,genus,0beb9088-a93d-418d-9a77-1df2ab319284,Savia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/8fd63524-64d3-416b-ae8b-d5610789f39e
 014be398-3ad2-48a0-806b-9a28e84aa34a,genus,5b0f52ba-786a-44c1-8c98-0d55cc273ce5,Bucida,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/014be398-3ad2-48a0-806b-9a28e84aa34a
 67e50e74-46d8-4e4a-a7eb-0734b9eda9d9,genus,5b0f52ba-786a-44c1-8c98-0d55cc273ce5,Laguncularia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/67e50e74-46d8-4e4a-a7eb-0734b9eda9d9
-0d334b44-64cc-47d8-b4f3-1553afbfde39,genus,5b0f52ba-786a-44c1-8c98-0d55cc273ce5,Quisqualis,Plantae,Spermatopsida,102,https://taxatree.tbn.org.tw/taxa/0d334b44-64cc-47d8-b4f3-1553afbfde39
+0d334b44-64cc-47d8-b4f3-1553afbfde39,genus,5b0f52ba-786a-44c1-8c98-0d55cc273ce5,Quisqualis,Plantae,Spermatopsida,103,https://taxatree.tbn.org.tw/taxa/0d334b44-64cc-47d8-b4f3-1553afbfde39
 52604a3c-f0d3-44df-af2f-132abc500082,genus,3a833367-4164-4251-84a4-0d541e9854b2,Decodon,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/52604a3c-f0d3-44df-af2f-132abc500082
 091d0207-ad4d-4bf1-8f48-4f0577c8f616,genus,3a833367-4164-4251-84a4-0d541e9854b2,Didiplis,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/091d0207-ad4d-4bf1-8f48-4f0577c8f616
 4fcf6062-12e1-4a1c-9afc-298dad1bf05c,genus,3a833367-4164-4251-84a4-0d541e9854b2,Diplusodon,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/4fcf6062-12e1-4a1c-9afc-298dad1bf05c
@@ -1537,7 +1537,7 @@ f7a154d0-e501-4a90-86a5-d4fa47ab794b,genus,f3d72fb6-8284-4a5a-812c-d098976c44b1,
 3949fd34-1d09-4cea-a2a4-2aefdd33769f,genus,f3d72fb6-8284-4a5a-812c-d098976c44b1,Commiphora,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/3949fd34-1d09-4cea-a2a4-2aefdd33769f
 ad30967a-0c1d-4e28-80c9-3172428dc035,genus,f3d72fb6-8284-4a5a-812c-d098976c44b1,Protium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/ad30967a-0c1d-4e28-80c9-3172428dc035
 7d4fabfb-7c29-4202-8059-901da33d37d1,genus,faaf3c47-b230-4bc0-be1c-c578ace764b7,Astronium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/7d4fabfb-7c29-4202-8059-901da33d37d1
-0892df50-8dea-4f77-bf66-44bc4779fea3,genus,faaf3c47-b230-4bc0-be1c-c578ace764b7,Cotinus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/0892df50-8dea-4f77-bf66-44bc4779fea3
+0892df50-8dea-4f77-bf66-44bc4779fea3,genus,faaf3c47-b230-4bc0-be1c-c578ace764b7,Cotinus,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/0892df50-8dea-4f77-bf66-44bc4779fea3
 9c691a59-9115-442f-9322-38000537dcf1,genus,faaf3c47-b230-4bc0-be1c-c578ace764b7,Lannea,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/9c691a59-9115-442f-9322-38000537dcf1
 9462fdfe-ecbb-4394-8a42-484c1a0347bc,genus,faaf3c47-b230-4bc0-be1c-c578ace764b7,Loxopterygium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/9462fdfe-ecbb-4394-8a42-484c1a0347bc
 a0e4e52b-10d9-43f7-9cff-54db09948295,genus,faaf3c47-b230-4bc0-be1c-c578ace764b7,Metopium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/a0e4e52b-10d9-43f7-9cff-54db09948295
@@ -1583,7 +1583,7 @@ a3811a67-0608-4080-a438-da59a950d836,genus,a07b2eb3-9862-4b97-9e9a-36180ac6ad36,
 8492286b-514b-47f4-b8cb-cc36e776d8b7,genus,53afe283-43ac-42ac-98ef-028e48999cec,Aurinia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/8492286b-514b-47f4-b8cb-cc36e776d8b7
 442bebad-7cf9-4052-87d1-995ec5d96b07,genus,53afe283-43ac-42ac-98ef-028e48999cec,Cakile,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/442bebad-7cf9-4052-87d1-995ec5d96b07
 8c38c38b-f357-45a9-aec4-04dd6794b0c5,genus,53afe283-43ac-42ac-98ef-028e48999cec,Caulanthus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/8c38c38b-f357-45a9-aec4-04dd6794b0c5
-3b79a1ba-c23e-43a3-974b-a440960b1e39,genus,53afe283-43ac-42ac-98ef-028e48999cec,Cochlearia,Plantae,Spermatopsida,36,https://taxatree.tbn.org.tw/taxa/3b79a1ba-c23e-43a3-974b-a440960b1e39
+3b79a1ba-c23e-43a3-974b-a440960b1e39,genus,53afe283-43ac-42ac-98ef-028e48999cec,Cochlearia,Plantae,Spermatopsida,42,https://taxatree.tbn.org.tw/taxa/3b79a1ba-c23e-43a3-974b-a440960b1e39
 66289e0c-d90e-41e7-8792-85717f0f229a,genus,53afe283-43ac-42ac-98ef-028e48999cec,Descurainia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/66289e0c-d90e-41e7-8792-85717f0f229a
 0bae9c2e-ce41-4996-9fa9-c60463294bd6,genus,53afe283-43ac-42ac-98ef-028e48999cec,Dimorphocarpa,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/0bae9c2e-ce41-4996-9fa9-c60463294bd6
 c36dc7fe-9128-40ee-a09f-6a70e28b79c7,genus,53afe283-43ac-42ac-98ef-028e48999cec,Erysimum,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/c36dc7fe-9128-40ee-a09f-6a70e28b79c7
@@ -1689,11 +1689,11 @@ a619041e-da1e-4666-8c74-e5829bd8bbff,genus,8be22fde-2d2b-4f7e-926c-d6eb28a4e0a4,
 fe8c1c9b-0e4b-416f-bc60-7f7918f72e6f,genus,8be22fde-2d2b-4f7e-926c-d6eb28a4e0a4,Wallenia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/fe8c1c9b-0e4b-416f-bc60-7f7918f72e6f
 e6b80deb-c0ff-4710-8cfc-db83c0b32f4f,genus,56c6e0a5-e006-4301-90fe-0e2dade1f8c0,Franklinia,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/e6b80deb-c0ff-4710-8cfc-db83c0b32f4f
 45a47caf-20d1-4857-9aea-68d656886d0c,genus,56c6e0a5-e006-4301-90fe-0e2dade1f8c0,Laplacea,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/45a47caf-20d1-4857-9aea-68d656886d0c
-e9b0f634-0c6f-44f9-bf9d-7866b4d6e210,genus,56c6e0a5-e006-4301-90fe-0e2dade1f8c0,Polyspora,Plantae,Spermatopsida,134,https://taxatree.tbn.org.tw/taxa/e9b0f634-0c6f-44f9-bf9d-7866b4d6e210
+e9b0f634-0c6f-44f9-bf9d-7866b4d6e210,genus,56c6e0a5-e006-4301-90fe-0e2dade1f8c0,Polyspora,Plantae,Spermatopsida,190,https://taxatree.tbn.org.tw/taxa/e9b0f634-0c6f-44f9-bf9d-7866b4d6e210
 ff8361dc-52f7-4315-b409-893c682e6e80,genus,56c6e0a5-e006-4301-90fe-0e2dade1f8c0,Stewartia,Plantae,Spermatopsida,12,https://taxatree.tbn.org.tw/taxa/ff8361dc-52f7-4315-b409-893c682e6e80
 007a5cc1-16ba-496c-aa3b-384cfde44c02,genus,73b15ce0-cc67-48be-a44b-f185a473650b,Heliamphora,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/007a5cc1-16ba-496c-aa3b-384cfde44c02
 9e480ad7-a1bb-47ba-b337-2f098a1ab88f,genus,73b15ce0-cc67-48be-a44b-f185a473650b,Darlingtonia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/9e480ad7-a1bb-47ba-b337-2f098a1ab88f
-ef1eb501-dc40-469c-9dec-53afae7fd1eb,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Agapetes,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/ef1eb501-dc40-469c-9dec-53afae7fd1eb
+ef1eb501-dc40-469c-9dec-53afae7fd1eb,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Agapetes,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/ef1eb501-dc40-469c-9dec-53afae7fd1eb
 5a42a8ce-f84d-4bbf-b2c8-7303c63e79ab,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Agarista,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/5a42a8ce-f84d-4bbf-b2c8-7303c63e79ab
 8e61d9e0-e4d4-4139-a5b5-1eb8e0c6ba80,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Andromeda,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/8e61d9e0-e4d4-4139-a5b5-1eb8e0c6ba80
 09b1da69-41bb-4174-85a3-7edca8d95fef,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Arbutus,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/09b1da69-41bb-4174-85a3-7edca8d95fef
@@ -1715,7 +1715,7 @@ b7631999-e9e2-4607-83e2-0c70d576a6e1,genus,5cf5124c-c782-437a-ad5e-972684b056bb,
 e40a3a93-70a7-4e8d-b1b1-6b470604dcd3,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Monotropsis,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/e40a3a93-70a7-4e8d-b1b1-6b470604dcd3
 ee37dd3b-4a2a-4900-9537-3184a9d24916,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Oxydendrum,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/ee37dd3b-4a2a-4900-9537-3184a9d24916
 b10b3a8e-0a23-4f20-90a5-ef0fde655d63,genus,5cf5124c-c782-437a-ad5e-972684b056bb,Pterospora,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/b10b3a8e-0a23-4f20-90a5-ef0fde655d63
-fdc399e3-5d37-4a75-8327-2fe7be3ca1c7,genus,b4e7ee29-5ebd-4630-9518-6d069f98c5a2,Randia,Plantae,Spermatopsida,92,https://taxatree.tbn.org.tw/taxa/fdc399e3-5d37-4a75-8327-2fe7be3ca1c7
+fdc399e3-5d37-4a75-8327-2fe7be3ca1c7,genus,b4e7ee29-5ebd-4630-9518-6d069f98c5a2,Randia,Plantae,Spermatopsida,96,https://taxatree.tbn.org.tw/taxa/fdc399e3-5d37-4a75-8327-2fe7be3ca1c7
 cd609fae-7bb0-4643-b18a-de4856622094,genus,b4e7ee29-5ebd-4630-9518-6d069f98c5a2,Palicourea,Plantae,Spermatopsida,6,https://taxatree.tbn.org.tw/taxa/cd609fae-7bb0-4643-b18a-de4856622094
 a74dc8b0-6892-4332-89cd-45487a3bfebc,genus,b4e7ee29-5ebd-4630-9518-6d069f98c5a2,Rondeletia,Plantae,Spermatopsida,7,https://taxatree.tbn.org.tw/taxa/a74dc8b0-6892-4332-89cd-45487a3bfebc
 7ea0fb86-c28f-4ccd-a2a2-348761daa220,genus,b4e7ee29-5ebd-4630-9518-6d069f98c5a2,Cliococca,Plantae,Spermatopsida,6,https://taxatree.tbn.org.tw/taxa/7ea0fb86-c28f-4ccd-a2a2-348761daa220
@@ -1774,7 +1774,7 @@ abe787cd-5b18-414f-8b31-8c9b14aecbe5,genus,d0ee932d-401b-4129-bc82-41175cbb2829,
 3db559ef-7f7e-4c66-99a5-5beb4b13e499,genus,967c0ab4-d1d1-441b-a505-d9b6eb2f4eb1,Forestiera,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/3db559ef-7f7e-4c66-99a5-5beb4b13e499
 bd3a8c48-a43e-4056-bfb1-bf73c47c0e4e,genus,967c0ab4-d1d1-441b-a505-d9b6eb2f4eb1,Forsythia,Plantae,Spermatopsida,3,https://taxatree.tbn.org.tw/taxa/bd3a8c48-a43e-4056-bfb1-bf73c47c0e4e
 4e6b73db-9699-441a-ac1a-8fef247ce6b8,genus,9d94f30d-5071-43b5-8590-f8fab1b51a7f,Besleria,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/4e6b73db-9699-441a-ac1a-8fef247ce6b8
-72b2fd9a-a0b2-4ee7-a7fa-8c1f644ef206,genus,9d94f30d-5071-43b5-8590-f8fab1b51a7f,Henckelia,Plantae,Spermatopsida,10,https://taxatree.tbn.org.tw/taxa/72b2fd9a-a0b2-4ee7-a7fa-8c1f644ef206
+72b2fd9a-a0b2-4ee7-a7fa-8c1f644ef206,genus,9d94f30d-5071-43b5-8590-f8fab1b51a7f,Henckelia,Plantae,Spermatopsida,18,https://taxatree.tbn.org.tw/taxa/72b2fd9a-a0b2-4ee7-a7fa-8c1f644ef206
 35385eb5-6604-4c2f-bce8-ae8de3267fe0,genus,9d94f30d-5071-43b5-8590-f8fab1b51a7f,Alloplectus,Plantae,Spermatopsida,3,https://taxatree.tbn.org.tw/taxa/35385eb5-6604-4c2f-bce8-ae8de3267fe0
 eb69ab85-d8ab-4c36-85b4-3bdc54ef5160,genus,9d94f30d-5071-43b5-8590-f8fab1b51a7f,Gesneria,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/eb69ab85-d8ab-4c36-85b4-3bdc54ef5160
 d1f3c742-1a5e-4006-9965-58907dfe1145,genus,9d94f30d-5071-43b5-8590-f8fab1b51a7f,Gloxinia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/d1f3c742-1a5e-4006-9965-58907dfe1145
@@ -1883,7 +1883,7 @@ ebf2c8aa-762e-470e-8fd8-930554fb8267,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,
 b3b3e8de-1f0a-417c-87d0-7456d67c67b6,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Notoseris,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/b3b3e8de-1f0a-417c-87d0-7456d67c67b6
 fa125d4a-0076-4f9a-be27-67ba08a9e6d3,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Gazania,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/fa125d4a-0076-4f9a-be27-67ba08a9e6d3
 056fa34f-315a-42df-a1b2-80fb2b927621,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Pseudoconyza,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/056fa34f-315a-42df-a1b2-80fb2b927621
-92b428f4-1616-4908-b805-749155b40d82,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Lapsana,Plantae,Spermatopsida,13,https://taxatree.tbn.org.tw/taxa/92b428f4-1616-4908-b805-749155b40d82
+92b428f4-1616-4908-b805-749155b40d82,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Lapsana,Plantae,Spermatopsida,21,https://taxatree.tbn.org.tw/taxa/92b428f4-1616-4908-b805-749155b40d82
 cbd36be7-880a-45bd-8404-4d67a8b02423,genus,e749f097-667f-4585-a6ee-d5c02bc1a2f6,Adoxa,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/cbd36be7-880a-45bd-8404-4d67a8b02423
 558151aa-14d0-4cfc-a122-4d13b3c2a0a2,genus,cc3af2f4-ddea-4b53-8b44-f0756a4135bd,Valerianella,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/558151aa-14d0-4cfc-a122-4d13b3c2a0a2
 1a92bc4b-aca2-47a9-a133-740b2be6f16d,genus,cc3af2f4-ddea-4b53-8b44-f0756a4135bd,Dipsacus,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/1a92bc4b-aca2-47a9-a133-740b2be6f16d
@@ -1891,7 +1891,7 @@ ba595217-3a29-452b-bdee-b977733ba372,genus,cc3af2f4-ddea-4b53-8b44-f0756a4135bd,
 cfae33cc-907b-4a85-aa34-cce38318f9af,genus,cc3af2f4-ddea-4b53-8b44-f0756a4135bd,Diervilla,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/cfae33cc-907b-4a85-aa34-cce38318f9af
 4246d3a0-24e5-4487-a0e4-ffc5cec0b8f7,genus,cc3af2f4-ddea-4b53-8b44-f0756a4135bd,Weigela,Plantae,Spermatopsida,3,https://taxatree.tbn.org.tw/taxa/4246d3a0-24e5-4487-a0e4-ffc5cec0b8f7
 45dc7303-2124-4241-b627-6a1b094cce23,genus,cc3af2f4-ddea-4b53-8b44-f0756a4135bd,Kolkwitzia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/45dc7303-2124-4241-b627-6a1b094cce23
-c7098956-54d4-4554-91a1-fa118f63df0c,genus,46c53ce1-7610-4b5e-976e-ca9bf607c8fe,Schefflera,Plantae,Spermatopsida,107,https://taxatree.tbn.org.tw/taxa/c7098956-54d4-4554-91a1-fa118f63df0c
+c7098956-54d4-4554-91a1-fa118f63df0c,genus,46c53ce1-7610-4b5e-976e-ca9bf607c8fe,Schefflera,Plantae,Spermatopsida,99,https://taxatree.tbn.org.tw/taxa/c7098956-54d4-4554-91a1-fa118f63df0c
 8d644c5d-e6af-4ce9-9906-26f86e7d1d3a,genus,46c53ce1-7610-4b5e-976e-ca9bf607c8fe,Oreopanax,Plantae,Spermatopsida,16,https://taxatree.tbn.org.tw/taxa/8d644c5d-e6af-4ce9-9906-26f86e7d1d3a
 62026265-4164-4c9d-8479-9c751f4387fc,genus,98ad17db-cdd2-47ab-9663-2e21ca170e6e,Ferula,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/62026265-4164-4c9d-8479-9c751f4387fc
 7a734a98-1315-4a4c-99ae-09aab1548965,genus,98ad17db-cdd2-47ab-9663-2e21ca170e6e,Lomatium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/7a734a98-1315-4a4c-99ae-09aab1548965
@@ -1909,8 +1909,8 @@ ced4a2af-711e-49b5-96c8-586dd11eee0c,genus,98ad17db-cdd2-47ab-9663-2e21ca170e6e,
 ff7ed51c-97dc-4caf-a023-e96c39564d7d,genus,98ad17db-cdd2-47ab-9663-2e21ca170e6e,Conium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/ff7ed51c-97dc-4caf-a023-e96c39564d7d
 157f1b7f-5bd0-4510-8c45-28605bfd14ba,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Spilanthes,Plantae,Spermatopsida,15,https://taxatree.tbn.org.tw/taxa/157f1b7f-5bd0-4510-8c45-28605bfd14ba
 9eb5fab6-b45d-45bd-aeaf-2954a6db5cd6,genus,10a6aba3-81de-4e81-9f27-55cffb906839,Herissantia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/9eb5fab6-b45d-45bd-aeaf-2954a6db5cd6
-e807f2a8-17fd-45bc-a81a-89792e94ddaa,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Crypsinus,Plantae,Polypodiopsida,409,https://taxatree.tbn.org.tw/taxa/e807f2a8-17fd-45bc-a81a-89792e94ddaa
-d7eba461-b915-4d05-9dcd-686d3c69cfa1,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Humbertacalia,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/d7eba461-b915-4d05-9dcd-686d3c69cfa1
+e807f2a8-17fd-45bc-a81a-89792e94ddaa,genus,44c7d42f-44ae-4719-9d70-d24a6e129feb,Crypsinus,Plantae,Polypodiopsida,543,https://taxatree.tbn.org.tw/taxa/e807f2a8-17fd-45bc-a81a-89792e94ddaa
+d7eba461-b915-4d05-9dcd-686d3c69cfa1,genus,f50e7746-7c72-4e81-9f6f-68b33de13d71,Humbertacalia,Plantae,Spermatopsida,7,https://taxatree.tbn.org.tw/taxa/d7eba461-b915-4d05-9dcd-686d3c69cfa1
 d15e0dce-a20f-4078-a39d-cf48fb703c25,genus,3cf4290a-3f53-4a14-a416-ababa7919408,Chelonopsis,Plantae,Spermatopsida,2,https://taxatree.tbn.org.tw/taxa/d15e0dce-a20f-4078-a39d-cf48fb703c25
 0aafe60c-2236-438a-978e-771db5e644e9,genus,e884de67-fd62-4024-a9f8-129016382b5c,Discospaera,Chromista,Coccolithophyceae,0,https://taxatree.tbn.org.tw/taxa/0aafe60c-2236-438a-978e-771db5e644e9
 71117f78-afde-46f2-b58d-259ba8f5f4bd,genus,346fa6a8-fc1d-4fc5-8dc3-080abf6f2412,Peronoplasmopara,Chromista,Peronosporea,0,https://taxatree.tbn.org.tw/taxa/71117f78-afde-46f2-b58d-259ba8f5f4bd
@@ -2043,7 +2043,7 @@ b171dc05-c8fd-4e82-b141-7f117bc01272,genus,13ef7013-3d34-47a3-a024-3fa355fc2408,
 705455ce-00b6-44c2-9039-97d22a0521e8,genus,13ef7013-3d34-47a3-a024-3fa355fc2408,Borboropactus,Animalia,Arachnida,5,https://taxatree.tbn.org.tw/taxa/705455ce-00b6-44c2-9039-97d22a0521e8
 6b0ee843-5e1f-4c91-91d1-269bdb508f67,genus,13ef7013-3d34-47a3-a024-3fa355fc2408,Epidius,Animalia,Arachnida,2,https://taxatree.tbn.org.tw/taxa/6b0ee843-5e1f-4c91-91d1-269bdb508f67
 b8e781e8-5c7a-4d5b-8ae1-334aa265135c,genus,13ef7013-3d34-47a3-a024-3fa355fc2408,Strigoplus,Animalia,Arachnida,11,https://taxatree.tbn.org.tw/taxa/b8e781e8-5c7a-4d5b-8ae1-334aa265135c
-2947a6c9-98bc-423d-9644-6e80702cea73,genus,81c1864f-197f-4486-956c-b240c5ec2923,Cyphalonotus,Animalia,Arachnida,4,https://taxatree.tbn.org.tw/taxa/2947a6c9-98bc-423d-9644-6e80702cea73
+2947a6c9-98bc-423d-9644-6e80702cea73,genus,81c1864f-197f-4486-956c-b240c5ec2923,Cyphalonotus,Animalia,Arachnida,6,https://taxatree.tbn.org.tw/taxa/2947a6c9-98bc-423d-9644-6e80702cea73
 f4f80d49-30b0-4cdc-8993-1f3efc37c838,genus,8e32cafe-f4bb-4322-9087-3480c2b327a7,Leptopholcus,Animalia,Arachnida,7,https://taxatree.tbn.org.tw/taxa/f4f80d49-30b0-4cdc-8993-1f3efc37c838
 53b89abd-65fa-45fe-9843-b82e1107c808,genus,51658d7c-9356-49ad-8f6c-b02b2c0f4f67,Cyrba,Animalia,Arachnida,3,https://taxatree.tbn.org.tw/taxa/53b89abd-65fa-45fe-9843-b82e1107c808
 2d9c47ed-81d5-4613-8c46-a9f6590cc3f3,genus,51658d7c-9356-49ad-8f6c-b02b2c0f4f67,Icius,Animalia,Arachnida,1,https://taxatree.tbn.org.tw/taxa/2d9c47ed-81d5-4613-8c46-a9f6590cc3f3
@@ -2174,7 +2174,7 @@ e4c1ab8c-ab7f-4cae-a8cb-d703923dd14b,genus,53d9e23c-17df-4a46-b851-12d5f5ce2943,
 1b565fbb-6421-4de1-b510-b8df7eb6588c,genus,da3cd02a-fd28-4442-99f2-d793c6dd5515,Chaetomitrium,Plantae,Bryopsida,1,https://taxatree.tbn.org.tw/taxa/1b565fbb-6421-4de1-b510-b8df7eb6588c
 b3d7ed23-7df5-4e59-9d7d-bb948047232e,genus,462ad8fb-5cb3-4ebc-84c3-4ab26c81c57b,Amblystegium,Plantae,Bryopsida,6,https://taxatree.tbn.org.tw/taxa/b3d7ed23-7df5-4e59-9d7d-bb948047232e
 63d3feaf-8264-444c-ae84-374d28918ced,genus,1928e8be-10ab-413f-8084-bfd4eaf1d218,Oxyrrhynchium,Plantae,Bryopsida,2,https://taxatree.tbn.org.tw/taxa/63d3feaf-8264-444c-ae84-374d28918ced
-ed8af0cc-88e4-4066-99fa-48fca5c2a0f3,genus,d1147976-5010-4f07-bcdb-e41e166abe2e,Meteorium,Plantae,Bryopsida,319,https://taxatree.tbn.org.tw/taxa/ed8af0cc-88e4-4066-99fa-48fca5c2a0f3
+ed8af0cc-88e4-4066-99fa-48fca5c2a0f3,genus,d1147976-5010-4f07-bcdb-e41e166abe2e,Meteorium,Plantae,Bryopsida,321,https://taxatree.tbn.org.tw/taxa/ed8af0cc-88e4-4066-99fa-48fca5c2a0f3
 21476cab-ed4d-4b41-a446-8805a7b04b63,genus,958987b8-c59e-4400-a6c9-41f65e885ff1,Pterobryopsis,Plantae,Bryopsida,18,https://taxatree.tbn.org.tw/taxa/21476cab-ed4d-4b41-a446-8805a7b04b63
 7df4fe3b-bebb-487a-81bb-6fbd4831155f,genus,d2ae769a-4108-4de0-b466-22303fadcfcb,Neacroporium,Plantae,Bryopsida,0,https://taxatree.tbn.org.tw/taxa/7df4fe3b-bebb-487a-81bb-6fbd4831155f
 1eb8ceae-a575-4fe8-a39c-e0f65f8d52f2,genus,d2ae769a-4108-4de0-b466-22303fadcfcb,Clastobryopsis,Plantae,Bryopsida,1,https://taxatree.tbn.org.tw/taxa/1eb8ceae-a575-4fe8-a39c-e0f65f8d52f2
@@ -2228,10 +2228,10 @@ c41ced75-be85-4a7c-a223-8dfe267cc4fd,phylum,9f92662d-1859-49e7-a0be-9272a8ab6e80
 9417f07e-e4cd-42ca-a55c-d16f290fed97,subclass,b99a6707-0557-4f5a-95f8-ca94b8bfbf0d,Lecanoromycetidae,Fungi,Lecanoromycetes,0,https://taxatree.tbn.org.tw/taxa/9417f07e-e4cd-42ca-a55c-d16f290fed97
 70c38cae-b45a-443d-beac-b8dd5bc597c3,superclass,4907ba20-2030-4968-8492-65c1d47f7676,Leotiomyceta,Podiata,"",0,https://taxatree.tbn.org.tw/taxa/70c38cae-b45a-443d-beac-b8dd5bc597c3
 c16e3c04-c517-4784-9a48-4c61ba2ebb2d,order,aab656bf-60d5-4db4-9a09-a533026836c9,Desmidiales,Plantae,Zygnematophyceae,0,https://taxatree.tbn.org.tw/taxa/c16e3c04-c517-4784-9a48-4c61ba2ebb2d
-62975737-a341-4bc6-b060-687df2db5a55,order,35098854-7b53-4742-aeef-00ffefad6a4c,Sphaeropleales,Plantae,Chlorophyceae,0,https://taxatree.tbn.org.tw/taxa/62975737-a341-4bc6-b060-687df2db5a55
+62975737-a341-4bc6-b060-687df2db5a55,order,35098854-7b53-4742-aeef-00ffefad6a4c,Sphaeropleales,Plantae,Chlorophyceae,25,https://taxatree.tbn.org.tw/taxa/62975737-a341-4bc6-b060-687df2db5a55
 070cfbe2-789a-4c1b-b8ae-c1008ee97513,genus,4fce3eb4-3455-4d1c-b7a6-00ebc1a261a5,Satyrium,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/070cfbe2-789a-4c1b-b8ae-c1008ee97513
 ede9e574-b395-4187-ab74-246891d9da83,genus,cc752439-6ae5-4e73-84ad-f22be8ae3f60,Aira,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/ede9e574-b395-4187-ab74-246891d9da83
-b7268b71-85b9-4996-b26f-e2309a592474,genus,315b6de4-3201-4841-b84c-de8d77b1faf7,Tournefortia,Plantae,Spermatopsida,8,https://taxatree.tbn.org.tw/taxa/b7268b71-85b9-4996-b26f-e2309a592474
+b7268b71-85b9-4996-b26f-e2309a592474,genus,315b6de4-3201-4841-b84c-de8d77b1faf7,Tournefortia,Plantae,Spermatopsida,11,https://taxatree.tbn.org.tw/taxa/b7268b71-85b9-4996-b26f-e2309a592474
 6c008fe9-debf-4d46-b938-c5502fefcab3,genus,b6c1e049-e9e0-4af4-af3f-71804fe2e869,Meyenia,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/6c008fe9-debf-4d46-b938-c5502fefcab3
 df3af8b3-91c7-49ba-a472-5dd97329f03b,genus,b6c1e049-e9e0-4af4-af3f-71804fe2e869,Hexacentris,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/df3af8b3-91c7-49ba-a472-5dd97329f03b
 ad724aea-a658-4c9c-b0ec-13944569e615,genus,3cf4290a-3f53-4a14-a416-ababa7919408,Acrocephalus,Plantae,Spermatopsida,1,https://taxatree.tbn.org.tw/taxa/ad724aea-a658-4c9c-b0ec-13944569e615
@@ -2254,4 +2254,4 @@ bcfe5d75-fe92-4a73-8a55-88829755d4c4,genus,929ea977-ad32-4f3a-8e86-e1935562ac34,
 51029e95-cde9-4094-92b7-f17e11743c58,genus,1a57a71d-8b60-4189-a6a9-d3fc25fa2694,Nostoc,Bacteria,Cyanophyceae,1,https://taxatree.tbn.org.tw/taxa/51029e95-cde9-4094-92b7-f17e11743c58
 fa7a64e8-23bd-4a16-b90f-aebdcb385717,genus,929ea977-ad32-4f3a-8e86-e1935562ac34,Cytisophyllum,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/fa7a64e8-23bd-4a16-b90f-aebdcb385717
 d909fe6d-dd5d-475a-9b5b-dfbd80629771,genus,46c53ce1-7610-4b5e-976e-ca9bf607c8fe,Brassaiopsis,Plantae,Spermatopsida,0,https://taxatree.tbn.org.tw/taxa/d909fe6d-dd5d-475a-9b5b-dfbd80629771
-cbb05dbf-d4c3-4239-a11a-acba3d38d044,genus,d9f9d84b-730b-4325-8aa9-11ec151474fe,Anarhynchus,Animalia,Aves,2,https://taxatree.tbn.org.tw/taxa/cbb05dbf-d4c3-4239-a11a-acba3d38d044
+cbb05dbf-d4c3-4239-a11a-acba3d38d044,genus,d9f9d84b-730b-4325-8aa9-11ec151474fe,Anarhynchus,Animalia,Aves,4,https://taxatree.tbn.org.tw/taxa/cbb05dbf-d4c3-4239-a11a-acba3d38d044

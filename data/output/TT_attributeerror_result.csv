@@ -1,3 +1,4 @@
 taxonUUID,taxonRank,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,number_of_occurrence,TT_URL
 0a59b985-8f0c-431b-9fd2-3a8e1e8f9e2c,infraspecies,Papilio machaon schantungensis,"",原生 Native,"","極危（CR, Critically Endangered）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,0,https://taxatree.tbn.org.tw/taxa/0a59b985-8f0c-431b-9fd2-3a8e1e8f9e2c
+0b16d184-e6e6-4fcf-a1f5-2ddbd8ca43bd,species,Garrulax canorus,"",原生 Native,珍貴稀有保育類野生動物,"暫無危機（LC, Least Concern）","暫無危機（LC, Least Concern）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,31815,https://taxatree.tbn.org.tw/taxa/0b16d184-e6e6-4fcf-a1f5-2ddbd8ca43bd
 61994044-0057-476f-b522-3747c1195df7,infraspecies,Charadrius mongolus stegmanni,"",原生 Native,"","暫無危機（LC, Least Concern）","瀕危（EN, Endangered）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,1,https://taxatree.tbn.org.tw/taxa/61994044-0057-476f-b522-3747c1195df7
