@@ -623,10 +623,6 @@ df_TT_speciesinfraspecies_attribute <- df_TTsplist %>%
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
     nativeness, protectedStatusTW, categoryRedlistTW, categoryIUCN
-  ) %>%
-  filter(
-    !(categoryRedlistTW %in% c("不適用", "暫無危機（LC, Least Concern）")|
-        categoryIUCN %in% c("不適用", "暫無危機（LC, Least Concern）"))
   )
   
 df_species_list <- df_TT_speciesinfraspecies_attribute %>%
@@ -652,16 +648,29 @@ check_columns <- list(
   categoryIUCN = "IUCN紅皮書不同"
 )
 
+# 定義紅皮書「不比較」的值
+ignore_vals <- c("不適用", "暫無危機（LC, Least Concern）")
+
 # 遍歷每一組 group
 for (group_id in names(df_species_list)) {
   group_df <- df_species_list[[group_id]]
   
   for (col in names(check_columns)) {
     distinct_vals <- unique(group_df[[col]])
-    # 保留 NA 與空字串以便檢查完整差異
-    if (length(distinct_vals) > 1) {
+    distinct_vals <- distinct_vals[distinct_vals != ""]  # 移除空白
+    
+    # 對於紅皮書類別，要先排除 ignore 值
+    if (col %in% c("categoryRedlistTW", "categoryIUCN")) {
+      filtered_vals <- setdiff(distinct_vals, ignore_vals)
+    } else {
+      filtered_vals <- distinct_vals
+    }
+    
+    # 如果排除後還有超過1個不同值，才視為差異
+    if (length(filtered_vals) > 1) {
       group_df$reason <- check_columns[[col]]
-      group_df$check_column <- col  # 可選擇是否保留這個輔助欄
+      group_df$check_column <- col
+      group_df$filtered_values <- paste(filtered_vals, collapse = ";")
       records[[length(records) + 1]] <- group_df
     }
   }
@@ -669,6 +678,8 @@ for (group_id in names(df_species_list)) {
 
 # 將所有有問題的 group 綁在一起
 df_speciesinfraspecies_attribute_mismatch <- bind_rows(records)
+
+
 
 for (i in 1:nrow(df_speciesinfraspecies_attribute_mismatch)) {
   
