@@ -147,6 +147,7 @@ t0016240,Genus,Scoparia,"Haworth, 1811",TRUE,FALSE,FALSE,學名重複,https://ta
 t0016498,Genus,Siphonaria,H.E.Petersen,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016498
 t0016743,Genus,Stellaria,"Møller, 1832",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016743
 t0016756,Genus,Stenella,"Gray, 1866",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016756
+t0016766,Genus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016766
 t0016854,Genus,Stilbum,"Spinola, 1806",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0016854
 t0017206,Genus,Tapinella,"Enderlein, 1908",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017206
 t0017254,Genus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0017254
@@ -299,8 +300,7 @@ t0122494,Subgenus,Metriogryllacris,"Karny, 1937",TRUE,TRUE,FALSE,學名重複,ht
 t0122538,Genus,Quadrula,"Rafinesque, 1820",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122538
 t0122596,Subgenus,Plagiorhynchus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122596
 t0122659,Genus,Ranzania,T.Itô,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122659
-t0123736,Species,Davallia bullata,Wall. ex Hook.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123736
-t0123737,Species,Davallia bullata,Wall.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123737
+t0123754,Subgenus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123754
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
@@ -320,6 +320,7 @@ t0010359,Genus,Armigeres,"Theobald, 1901",TRUE,TRUE,FALSE,學名加命名者重�
 t0010533,Genus,Atomaria,"Stephens, 1829",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0010533
 t0014489,Genus,Phaloria,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0014489
 t0015566,Genus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0015566
+t0016766,Genus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0016766
 t0017254,Genus,Teleogryllus,"Chopard, 1961",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0017254
 t0018044,Genus,Velarifictorus,"Randell, 1964",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0018044
 t0018682,Genus,Diestrammena,"Brunner von Wattenwyl, 1888",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0018682
@@ -357,3 +358,4 @@ t0121727,Genus,Parasarcophaga,"Johnston & Tiegs, 1921",TRUE,TRUE,FALSE,學名加
 t0121728,Subgenus,Parasarcophaga,"Johnston & Tiegs, 1921",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0121728
 t0121729,Subgenus,Sinonipponia,"Rohdendorf, 1965",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0121729
 t0122494,Subgenus,Metriogryllacris,"Karny, 1937",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0122494
+t0123754,Subgenus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0123754

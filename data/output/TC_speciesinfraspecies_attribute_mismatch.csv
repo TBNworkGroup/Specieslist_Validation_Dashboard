@@ -183,12 +183,8 @@ t0084612,Subspecies,t0084611,Oxalis griffithii subsp. taimonii,native,TRUE,"",VU
 t0101126,Subspecies,t0084611,Oxalis griffithii subsp. formosana,native,TRUE,"",LC,"","",t0084611,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0101126
 t0085439,Species,t0123517,Anarhynchus mongolus,native,TRUE,"",LC,EN,"",t0085439,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085439
 t0085440,Subspecies,t0085439,Anarhynchus mongolus stegmanni,native,TRUE,"",LC,"","",t0085439,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085440
-t0086298,Species,t0102344,Spilopelia chinensis,native,TRUE,"",LC,LC,"",t0086298,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086298
-t0102334,Subspecies,t0086298,Streptopelia chinensis chinensis,native,TRUE,"",LC,"","",t0086298,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0102334
-t0123702,Subspecies,t0086298,Streptopelia chinensis formosa,"",TRUE,"","","","",t0086298,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0123702
 t0086298,Species,t0102344,Spilopelia chinensis,native,TRUE,"",LC,LC,"",t0086298,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086298
-t0102334,Subspecies,t0086298,Streptopelia chinensis chinensis,native,TRUE,"",LC,"","",t0086298,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0102334
-t0123702,Subspecies,t0086298,Streptopelia chinensis formosa,"",TRUE,"","","","",t0086298,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123702
+t0102334,Subspecies,t0086298,Spilopelia chinensis chinensis,native,TRUE,"",LC,"","",t0086298,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0102334
 t0027176,Subspecies,t0095945,Ixias pyrene insignis,native,TRUE,"",NT,"","",t0095945,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0027176
 t0027177,Subspecies,t0095945,Ixias pyrene pyrene,native,TRUE,"","","","",t0095945,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0027177
 t0095945,Species,t0021246,Ixias pyrene,"",TRUE,"",NT,"","",t0095945,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0095945

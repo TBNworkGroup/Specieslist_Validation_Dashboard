@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20251029"  # 舉例
+modified_date <- "20251105"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -657,7 +657,7 @@ for (group_id in names(df_species_list)) {
   
   for (col in names(check_columns)) {
     distinct_vals <- unique(group_df[[col]])
-    distinct_vals <- distinct_vals[distinct_vals != ""]  # 移除空白
+    #distinct_vals <- distinct_vals[distinct_vals != ""]  # 移除空白
     
     # 對於紅皮書類別，要先排除 ignore 值
     if (col %in% c("categoryRedlistTW", "categoryIUCN")) {
