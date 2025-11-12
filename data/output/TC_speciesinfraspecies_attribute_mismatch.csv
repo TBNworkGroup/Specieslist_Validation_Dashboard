@@ -833,7 +833,7 @@ t0098079,Species,t0013215,Notocrypta feisthamelii,"",TRUE,"",NT,"","",t0098079,�
 t0085982,Subspecies,t0098084,Nucifraga caryocatactes owstoni,native,TRUE,"",LC,"","",t0098084,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085982
 t0098084,Species,t0013245,Nucifraga caryocatactes,native,TRUE,"",LC,LC,"",t0098084,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098084
 t0031205,Subspecies,t0098089,Numenius arquata orientalis,native,TRUE,III,VU,"","",t0098089,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0031205
-t0098089,Species,t0013254,Numenius arquata,native,TRUE,III,VU,NT,"",t0098089,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098089
+t0098089,Species,t0013254,Numenius arquata,native,TRUE,III,VU,NT,輕度,t0098089,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098089
 t0031207,Subspecies,t0098090,Numenius phaeopus variegatus,native,TRUE,"",LC,"","",t0098090,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0031207
 t0098090,Species,t0013254,Numenius phaeopus,native,TRUE,"",LC,LC,"",t0098090,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098090
 t0101044,Subspecies,t0098090,Numenius phaeopus hudsonicus,native,TRUE,"",LC,"","",t0098090,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0101044
@@ -930,6 +930,8 @@ t0084951,Subspecies,t0098373,Pelopidas mathias oberthueri,native,TRUE,"",NT,"","
 t0098373,Species,t0014319,Pelopidas mathias,"",TRUE,"",NT,LC,"",t0098373,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098373
 t0086081,Subspecies,t0098390,Pericrocotus ethologus ethologus,native,TRUE,"","","","",t0098390,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086081
 t0098390,Species,t0014394,Pericrocotus ethologus,native,TRUE,"","",LC,"",t0098390,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098390
+t0086082,Subspecies,t0098391,Pericrocotus solaris griseogularis,native,TRUE,"",LC,"","",t0098391,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086082
+t0098391,Species,t0014394,Pericrocotus solaris,native,TRUE,"",LC,LC,"",t0098391,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098391
 t0098397,Species,t0014413,Periparus ater,native,TRUE,III,LC,LC,"",t0098397,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098397
 t0104372,Subspecies,t0098397,Periparus ater ptilosus,native,TRUE,III,LC,"","",t0098397,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0104372
 t0086088,Subspecies,t0098408,Phaethon aethereus mesonauta,native,TRUE,"","","","",t0098408,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086088
@@ -974,6 +976,8 @@ t0086110,Subspecies,t0098480,Phylloscopus goodsoni fokiensis,native,TRUE,"","","
 t0098480,Species,t0014650,Phylloscopus goodsoni,native,TRUE,"","",LC,"",t0098480,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098480
 t0086111,Subspecies,t0098481,Phylloscopus intermedius intermedius,native,TRUE,"","","","",t0098481,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086111
 t0098481,Species,t0014650,Phylloscopus intermedius,native,TRUE,"","",LC,"",t0098481,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098481
+t0086114,Subspecies,t0098494,Picus canus tancolo,native,TRUE,II,VU,"","",t0098494,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086114
+t0098494,Species,t0014703,Picus canus,native,TRUE,II,VU,LC,"",t0098494,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098494
 t0086120,Subspecies,t0098509,Pitta sordida sordida,native,TRUE,"","","","",t0098509,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086120
 t0098509,Species,t0014756,Pitta sordida,native,TRUE,"","",LC,"",t0098509,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098509
 t0086123,Subspecies,t0098514,Planaeschna risi risi,native,TRUE,"","","","",t0098514,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086123
@@ -1334,3 +1338,5 @@ t0123542,Species,t0123519,Orthotomus sutorius,native,TRUE,"","",LC,"",t0123542,I
 t0123543,Subspecies,t0123542,Orthotomus sutorius longicauda,native,TRUE,"","","","",t0123542,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123543
 t0085096,Subspecies,t0123611,Cyperus nutans subsp. subprolixus,native,TRUE,"",LC,"","",t0123611,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085096
 t0123611,Species,t0023618,Cyperus nutans,"",TRUE,"",LC,LC,"",t0123611,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123611
+t0123613,Subspecies,t0123614,Crocuta crocuta ultima,"",TRUE,"","","","",t0123614,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123613
+t0123614,Species,t0123615,Crocuta crocuta,"",TRUE,"","",LC,"",t0123614,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0123614

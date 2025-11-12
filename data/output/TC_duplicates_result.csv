@@ -110,6 +110,7 @@ t0009160,Genus,Breynia,"Desor, 1847",TRUE,FALSE,FALSE,學名重複,https://taico
 t0009184,Genus,Chondria,"Gorham, 1888",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009184
 t0009349,Genus,Acmella,"Blanford, 1869",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009349
 t0009376,Genus,Acrocephalus,"Burmeister, 1835",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009376
+t0009490,Genus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009490
 t0009541,Genus,Agathis,"Latreille, 1804",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009541
 t0009556,Genus,Aglaomorpha,"Koda, 1988",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009556
 t0009798,Genus,Amesia,"Duncan, 1841",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0009798
@@ -301,6 +302,7 @@ t0122538,Genus,Quadrula,"Rafinesque, 1820",TRUE,FALSE,FALSE,學名重複,https:/
 t0122596,Subgenus,Plagiorhynchus,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122596
 t0122659,Genus,Ranzania,T.Itô,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122659
 t0123754,Subgenus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123754
+t0123770,Subgenus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123770
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
@@ -316,6 +318,7 @@ t0002891,Class,Chondrichthyes,"",TRUE,TRUE,FALSE,學名加命名者重複,https:
 t0002920,Class,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002920
 t0002921,Class,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002921
 t0006905,Genus,Sesapa,"Walker, 1854",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0006905
+t0009490,Genus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0009490
 t0010359,Genus,Armigeres,"Theobald, 1901",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0010359
 t0010533,Genus,Atomaria,"Stephens, 1829",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0010533
 t0014489,Genus,Phaloria,"Stål, 1877",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0014489
@@ -359,3 +362,4 @@ t0121728,Subgenus,Parasarcophaga,"Johnston & Tiegs, 1921",TRUE,TRUE,FALSE,學名
 t0121729,Subgenus,Sinonipponia,"Rohdendorf, 1965",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0121729
 t0122494,Subgenus,Metriogryllacris,"Karny, 1937",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0122494
 t0123754,Subgenus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0123754
+t0123770,Subgenus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0123770
