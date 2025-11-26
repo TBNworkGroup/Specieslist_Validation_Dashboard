@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20251112"  # 舉例
+modified_date <- "20251126"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -126,7 +126,12 @@ df_id_duplicates <- bind_rows(
 
 
 
-df_duplicates_reasoned <-df_id_duplicates %>%
+df_duplicates_reasoned <-bind_rows(
+  df_id_duplicates,
+  dup_global,
+  dup_kingdom,
+  dup_kingdom_author,
+  dup_kingdom_author_rank) %>%
     select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, tfNameCode, simplifiedScientificName, scientificName, reason)
 
 

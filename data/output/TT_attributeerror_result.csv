@@ -1,1 +1,41 @@
-taxonUUID,taxonRank,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,TT_URL
+taxonUUID,taxonRank,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,number_of_occurrence,TT_URL
+82dab9b9-52be-4ce7-aa00-3c080c6308b4,species,Polistes tenebricosus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/82dab9b9-52be-4ce7-aa00-3c080c6308b4
+61b6c7e0-2450-4a97-ab7f-2fce0b23ad4d,species,Pycnoscelus indicus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/61b6c7e0-2450-4a97-ab7f-2fce0b23ad4d
+552edab2-2f4c-41c8-b75e-63b6906efa0e,species,Daphnephila urnicola,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/552edab2-2f4c-41c8-b75e-63b6906efa0e
+a17f92e7-5fdf-435b-9fd0-8b2d20ff2a0b,species,Atkinsoniella alternata,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/a17f92e7-5fdf-435b-9fd0-8b2d20ff2a0b
+088dfb4b-ca08-42ed-b674-d3d7bc5b1f9d,species,Mycena lazulina,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/088dfb4b-ca08-42ed-b674-d3d7bc5b1f9d
+77c4a9b4-85e5-4804-bbe6-40ca39ff1e33,species,Culex pipiens,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/77c4a9b4-85e5-4804-bbe6-40ca39ff1e33
+110da285-3948-4d7c-aad8-fdf0fb2564b7,species,Maiestas dorsalis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/110da285-3948-4d7c-aad8-fdf0fb2564b7
+b15ea590-b1f6-4d4c-8d43-b77a12d5dafb,species,Polistes strigosus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/b15ea590-b1f6-4d4c-8d43-b77a12d5dafb
+3f565963-776e-45cf-8651-c8550f9d0d2d,species,Lema trivittata,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/3f565963-776e-45cf-8651-c8550f9d0d2d
+b1394712-9842-47bb-80f8-8df91725b11e,species,Asarkina porcina,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/b1394712-9842-47bb-80f8-8df91725b11e
+28e27fab-d61d-4e25-b0c7-2a02c72bab4f,species,Myrmeleon tenuipennis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/28e27fab-d61d-4e25-b0c7-2a02c72bab4f
+e3516158-e95c-4ab6-ad79-6cfe6d8c75bb,species,Myriochila specularis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/e3516158-e95c-4ab6-ad79-6cfe6d8c75bb
+2baab6d1-5f47-455e-ac36-fc3ac835d37b,species,Agrilus pericles,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/2baab6d1-5f47-455e-ac36-fc3ac835d37b
+34eeb1e6-13d0-41b8-b5b0-4b7dfcb7ab48,species,Dorcus yaksha,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/34eeb1e6-13d0-41b8-b5b0-4b7dfcb7ab48
+80b08e82-a406-4fcd-acd9-c13e9395ad80,species,Culex pipiens,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/80b08e82-a406-4fcd-acd9-c13e9395ad80
+24042b09-8025-48a0-9e10-43f4a343a434,species,Polistes stigma,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/24042b09-8025-48a0-9e10-43f4a343a434
+f2e385a5-7604-4b30-b3f2-1c3a8b4d19c5,species,Agrilus esakii,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/f2e385a5-7604-4b30-b3f2-1c3a8b4d19c5
+36b07a20-4ccb-413d-9199-9d04641b85ee,species,Java nigrita,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/36b07a20-4ccb-413d-9199-9d04641b85ee
+28ff3729-b704-44a4-a1f9-5dec658023b4,species,Serrognathus titanus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/28ff3729-b704-44a4-a1f9-5dec658023b4
+0ee1caef-fdfc-47f1-818f-c85e4e3c55ce,species,Lebinthus lanyuensis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/0ee1caef-fdfc-47f1-818f-c85e4e3c55ce
+2642bc16-9eb0-4fb6-a7dd-42e871f6407f,species,Priotyrannus closteroides,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/2642bc16-9eb0-4fb6-a7dd-42e871f6407f
+7c26ca50-f336-4b79-98e5-1af7dea77f38,species,Diestramima taiwanensis,台灣特有,"","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/7c26ca50-f336-4b79-98e5-1af7dea77f38
+c1507132-da8f-4b50-a1c5-9045e77fe2c6,species,Pachymetopius decoratus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/c1507132-da8f-4b50-a1c5-9045e77fe2c6
+cb12c3af-55fd-4466-b36a-90f06804dfeb,species,Modicogryllus consobrinus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/cb12c3af-55fd-4466-b36a-90f06804dfeb
+78a55a4b-ec0d-426f-af2f-2d0e1a434b45,species,Pitydiplosis puerariae,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/78a55a4b-ec0d-426f-af2f-2d0e1a434b45
+0f6c520c-2795-4beb-95e7-9f2b5024913d,species,Mesopteryx alata,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/0f6c520c-2795-4beb-95e7-9f2b5024913d
+8e19365f-34dc-4372-bffb-51cfc77f9165,species,Ophiuchus bizonatus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/8e19365f-34dc-4372-bffb-51cfc77f9165
+abad8aba-c8f7-431f-a798-fbafcaa950a0,species,Schizomyia maesae,台灣特有,"","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/abad8aba-c8f7-431f-a798-fbafcaa950a0
+0375222a-a278-4f4c-bdf5-4f2b0355d6f4,species,Dryadomorpha pallida,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/0375222a-a278-4f4c-bdf5-4f2b0355d6f4
+d44e4f2a-7c51-49c9-8bfc-dcf346227f79,species,Dracogryllacris latilamargis,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/d44e4f2a-7c51-49c9-8bfc-dcf346227f79
+2bb76074-8a63-40ac-8bdd-8f6383198b00,species,Pentacentrus formosanus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/2bb76074-8a63-40ac-8bdd-8f6383198b00
+af819505-2140-4cf7-a2da-07531d9da690,species,Pharambara splendida,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/af819505-2140-4cf7-a2da-07531d9da690
+5f53c65d-2fee-47e2-8caa-a99e5271595b,species,Pseudasphondylia kiwiphila,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/5f53c65d-2fee-47e2-8caa-a99e5271595b
+133116db-75d0-4b4f-ab20-947000e23864,species,Sclerogryllus punctatus,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/133116db-75d0-4b4f-ab20-947000e23864
+b369fe3e-dade-4db0-93cf-c96c99ce6e5e,species,Mnesibulus okunii,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/b369fe3e-dade-4db0-93cf-c96c99ce6e5e
+99e240e9-2269-4b73-89d2-354ead4e0d9a,species,Pseudasphondylia elaeocarpi,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/99e240e9-2269-4b73-89d2-354ead4e0d9a
+cc16e6eb-fd2e-49be-b5d8-07ed94ee89c5,species,Pseudomadasumma maculata,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/cc16e6eb-fd2e-49be-b5d8-07ed94ee89c5
+ae693219-b108-4607-92b9-ca70d7fd4505,species,Shortcrowna flavocapitata,"","","","","","",種與種下原生性空白,0,https://taxatree.tbn.org.tw/taxa/ae693219-b108-4607-92b9-ca70d7fd4505
+7d0dd940-e215-42bd-b359-02d39268612f,species,Nidirana shyhhuangi,台灣特有,原生 Native,"","極危（CR, Critically Endangered）","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,0,https://taxatree.tbn.org.tw/taxa/7d0dd940-e215-42bd-b359-02d39268612f
+d6fab4f0-3357-4883-8dce-ef286abd077b,species,Pocillopora acuta,"",原生 Native,"","","瀕危（EN, Endangered）","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,0,https://taxatree.tbn.org.tw/taxa/d6fab4f0-3357-4883-8dce-ef286abd077b
