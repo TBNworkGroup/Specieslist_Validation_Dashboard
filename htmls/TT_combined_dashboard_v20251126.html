@@ -1,0 +1,914 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>TT Validation Dashboard – version type 20251126</title>
+
+  <!-- jQuery & DataTables -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css" />
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+  <!-- Papa Parse -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { margin-bottom: 10px; }
+    .filter-section { margin: 10px 0; }
+    .filter-section label { margin-right: 5px; }
+    table.dataTable thead th { white-space: nowrap; }
+    hr { margin: 40px 0; border-top: 1px solid #ccc; }
+    summary { font-size: 1.2em; font-weight: bold; cursor: pointer; }
+    details { margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <h1>TT Validation Dashboard – version type 20251126</h1>
+  <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
+
+
+<!-- ========== Dashboard #1: Species Duplicates Dashboard ========== -->
+<details id="dashboard-1">
+  <summary>1. Species Duplicates Dashboard</summary>
+  <div class="filter-section">
+    <label for="reason-dup-select">重複樣態 (reason):</label>
+    <select id="reason-dup-select"><option value="All" selected>All</option></select>
+
+    <label for="kingdom-dup-select">Kingdom:</label>
+    <select id="kingdom-dup-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="duplicates-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxonUUID</th><th>taxonRank</th><th>kingdom</th>
+          <th>simplifiedScientificName</th><th>scientificName</th><th>authorshipCheck</th><th>reason</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
+<!-- ========== Dashboard #2: Nomenclatural Error Dashboard ========== -->
+<details id="dashboard-2">
+  <summary>2. Nomenclatural Error Dashboard</summary>
+  <div class="filter-section">
+    <label for="nom-reason-select">篩選 reason:</label>
+    <select id="nom-reason-select"><option value="All" selected>All</option></select>
+    <label for="groupid-select">篩選 groupID:</label>
+    <select id="groupid-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="nomencl-error-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th>
+          <th>kingdom</th><th>simplifiedScientificName</th>
+          <th>nomenclaturalCode</th><th>groupID</th><th>reason</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
+<!-- ========== Dashboard #3: Species Error Types Dashboard ========== -->
+<details id="dashboard-3">
+  <summary>3. Species Error Types Dashboard</summary>
+  <div class="filter-section">
+    <label for="errortypes-select">錯誤樣態:</label>
+    <select id="errortypes-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="errors-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxonUUID</th><th>taxonRank</th><th>kingdom</th><th>specificEpithet</th>
+          <th>subspecies</th><th>variety</th><th>form</th><th>cultigen</th>
+          <th>simplifiedScientificName</th><th>authorship</th><th>subspeciesAuthorship</th><th>varietyAuthorship</th><th>formAuthorship</th>
+          <th>errortypes</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
+<!-- ========== Dashboard #4: Species Attribute Error Dashboard ========== -->
+<details id="dashboard-4">
+  <summary>4. Species Attribute Error Dashboard</summary>
+  <div class="filter-section">
+    <label for="reason-select">錯誤原因:</label>
+    <select id="reason-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="attribute-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxonUUID</th><th>taxonRank</th><th>simplifiedScientificName</th>
+          <th>endemism</th><th>nativeness</th><th>protectedStatusTW</th>
+          <th>categoryRedlistTW</th><th>categoryIUCN</th><th>sensitiveCategory</th><th>reason</th><th>number_of_occurrence</th>
+          <th>TT_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
+<!-- ========== Dashboard #5: Species/Infraspecies Attribute Conflict ========== -->
+<details id="dashboard-5">
+  <summary>5. Species/Infraspecies Attribute Conflict Dashboard</summary>
+  <div class="filter-section">
+    <label for="conflict-reason-select">篩選 reason:</label>
+    <select id="conflict-reason-select"><option value="All" selected>All</option></select>
+    <label for="conflict-groupid-select">篩選 groupID:</label>
+    <select id="conflict-groupid-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="conflict-table" class="display" style="width:100%">
+    <thead>
+      <tr><th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th><th>kingdom</th>
+          <th>simplifiedScientificName</th><th>nativeness</th><th>sensitiveCategory</th>
+          <th>protectedStatusTW</th><th>categoryRedlistTW</th><th>categoryIUCN</th>
+          <th>groupID</th><th>reason</th><th>filtered_values</th><th>number_of_occurrence</th><th>TT_URL</th></tr>
+    </thead><tbody></tbody>
+  </table>
+</details><hr/>
+
+<!-- ========== Dashboard #6: Without Under Taxon Dashboard ========== -->
+<details id="dashboard-6">
+  <summary>6. Without Under Taxon Dashboard</summary>
+  <div class="filter-section">
+    <label for="taxonrank-select">篩選 taxonRank:</label>
+    <select id="taxonrank-select"><option value="All" selected>All</option></select>
+    <label for="kingdom-select">篩選 kingdom:</label>
+    <select id="kingdom-select"><option value="All" selected>All</option></select>
+    <label for="class-select">篩選 class:</label>
+    <select id="class-select"><option value="All" selected>All</option></select>
+  </div>
+  <table id="without-table" class="display" style="width:100%">
+    <thead>
+      <tr>
+        <th>taxonUUID</th><th>taxonRank</th><th>parentUUID</th>
+        <th>simplifiedScientificName</th><th>kingdom</th><th>class</th>
+        <th>number_of_occurrence</th><th>TT_URL</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+</details><hr/>
+<script>
+  // ======== GitHub Raw CSV URLs (依需求替換) ========
+  const CSV_URL_1 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_duplicates_result_vers2.csv";
+  const CSV_URL_2 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_errortypes_result.csv";
+  const CSV_URL_3 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_attributeerror_result.csv";
+  const CSV_URL_4 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_without_species.csv";
+  const CSV_URL_5 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_nomenclaturalCode.csv";
+  const CSV_URL_6 = "https://raw.githubusercontent.com/TBNworkGroup/Specieslist_Validation_Dashboard/refs/heads/main/data/output/TT_speciesinfraspecies_attribute_mismatch.csv";
+
+
+  // 全域變數
+  let duplicatesData = [];
+  let errorsData = [];
+  let attributeData = [];
+  let withoutData = [];
+  let nomenclErrorData = [];
+  let conflictData = [];
+  
+  const expectedReasonsMap = {
+  "1. Duplicate Errors": [
+    "學名重複",
+    "相同Kingdom學名重複",
+    "相同Kingdom學名加命名者重複",
+    "相同Kingdom學名加命名者階層重複",
+    "taxonUUID重複",
+    "taiCOLNameCode重複",
+    "tfNameCode重複"
+  ],
+  "2. Nomenclatural Errors": [
+    "命名法規錯誤的植物",
+    "命名法規錯誤的動物",
+    "種與種下命名法規不同"
+  ],
+  "3. String Errors": [
+    "錯誤符號與括號前後空格", "文字前空格", "文字後空格", "連續空格", "大小寫錯誤", "高階層欄位出現多詞格式"
+  ],
+  "4. Attribute Errors": [
+    "種與種下原生性空白",
+    "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種",
+    "敏感狀態不等於無的外來種"
+  ],
+  "5. Conflict": [
+    "保育等級不同", "國內紅皮書不同", "IUCN紅皮書不同"
+  ]
+  };
+
+
+
+  // (1) 下載 duplicates CSV
+  Papa.parse(CSV_URL_1, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      duplicatesData = results.data;
+      initDuplicatesDashboard();
+    },
+    error: function(err) {
+      console.error("Error loading duplicatesData CSV:", err);
+    }
+  });
+
+  // (2) 下載 errors CSV
+  Papa.parse(CSV_URL_2, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      errorsData = results.data;
+      initErrorsDashboard();
+    },
+    error: function(err) {
+      console.error("Error loading errorsData CSV:", err);
+    }
+  });
+
+  // (3) 下載 attribute CSV
+  Papa.parse(CSV_URL_3, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      attributeData = results.data;
+      initAttributeDashboard();
+    },
+    error: function(err) {
+      console.error("Error loading attributeData CSV:", err);
+    }
+  });
+
+  // (4) 下載 without CSV
+  Papa.parse(CSV_URL_4, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      withoutData = results.data;
+      initWithoutDashboard();
+    },
+    error: function(err) {
+      console.error("Error loading withoutData CSV:", err);
+    }
+  });
+
+  // (5) 下載 nomenclError CSV
+  Papa.parse(CSV_URL_5, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      nomenclErrorData = results.data;
+      initNomenclErrorDashboard();
+    },
+    error: function(err) {
+      console.error("Error loading nomenclErrorData CSV:", err);
+    }
+  });
+  // (6) 下載 species‑infraspecies conflict CSV
+  Papa.parse(CSV_URL_6, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      conflictData = results.data;
+      initConflictDashboard();
+      initSummaryTable();  // ✅ 加在最後一個 Papa.parse 裡
+    },
+    error: function(err) {
+      console.error("Error loading conflictData CSV:", err);
+    }
+  });
+// ======== Summary Table 函式定義 ========
+ function initSummaryTable() {
+    const section = document.getElementById("summary-section");
+    if (!section) {
+      console.warn("⚠️ 找不到 #summary-section 元素，無法渲染 summary table");
+      return;
+    }
+
+    const datasets = [
+      { name: "1. Duplicate Errors", data: duplicatesData, field: "reason" },
+      { name: "2. Nomenclatural Errors", data: nomenclErrorData, field: "reason" },
+      { name: "3. String Errors", data: errorsData, field: "errortypes" },
+      { name: "4. Attribute Errors", data: attributeData, field: "reason" },
+      { name: "5. Conflict", data: conflictData, field: "reason" },
+      { name: "6. Without Under Taxon", data: withoutData, field: "taxonRank" }
+    ];
+
+    let html = "<h3>📊 Dashboard Summary</h3><table border='1' cellpadding='5' cellspacing='0'><thead><tr><th>Dashboard</th><th>Reason / Type</th><th>Count</th></tr></thead><tbody>";
+
+    datasets.forEach(d => {
+      if (!d.field) {
+        html += `<tr><td>${d.name}</td><td colspan="2" style="color: gray;">(不支援分類統計)</td></tr>`;
+        return;
+      }
+
+      const expectedList = expectedReasonsMap[d.name] || [];
+      const countMap = {};
+
+      // ✅ 先初始化 expectedList 裡的 key → 保證至少有 key = 0
+      expectedList.forEach(reason => {
+        countMap[reason] = 0;
+      });
+
+      // ✅ 再根據資料去累加
+      d.data.forEach(row => {
+        const val = row[d.field] || "(空白)";
+        if (countMap.hasOwnProperty(val)) {
+          countMap[val] += 1;
+        } else {
+          countMap[val] = 1;
+        }
+      });
+
+      let entries = [];
+
+      // ✅ entries 按 expectedList 順序列出
+      expectedList.forEach(reason => {
+        entries.push([reason, countMap[reason]]);
+      });
+
+      // ✅ 另外找出不在 expectedList 裡的其他 key
+      const extraKeys = Object.keys(countMap).filter(k => !expectedList.includes(k));
+      extraKeys.forEach(key => {
+        entries.push([key, countMap[key]]);
+      });
+
+      entries.forEach(([key, val], idx) => {
+        html += `<tr>
+          <td>${idx === 0 ? `<a href="#dashboard-${d.name[0]}" class="dashboard-link">${d.name}</a>` : ""}</td>
+          <td>${key}</td>
+          <td style='text-align: right;'>${val}</td>
+        </tr>`;
+      });
+    });
+
+    html += "</tbody></table>";
+    section.innerHTML = html;
+
+    // 🔁 綁定點擊事件：收起所有 details，只展開目標 dashboard
+    setTimeout(() => {
+      document.querySelectorAll('.dashboard-link').forEach(link => {
+        link.addEventListener('click', function(e) {
+          e.preventDefault();
+          const targetID = this.getAttribute('href').substring(1);
+          const allDetails = document.querySelectorAll('details');
+
+          allDetails.forEach(d => d.open = false);
+          const target = document.getElementById(targetID);
+          if (target) {
+            target.open = true;
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        });
+      });
+    }, 0);
+  }
+
+
+// ================== Dashboard #1: Duplicates ==================
+let myDataTable1 = null;
+
+function initDuplicatesDashboard() {
+  populateReasonDropdownDuplicates();
+  populateKingdomDropdownDuplicates("All");  // 預設顯示全部
+
+  initDataTableDuplicates(duplicatesData);
+
+  document.getElementById("reason-dup-select")
+          .addEventListener("change", () => {
+            const r = document.getElementById("reason-dup-select").value;
+            populateKingdomDropdownDuplicates(r);
+            updateDataTableDuplicates();
+          });
+
+  document.getElementById("kingdom-dup-select")
+          .addEventListener("change", updateDataTableDuplicates);
+}
+
+function populateReasonDropdownDuplicates() {
+  const sel = document.getElementById("reason-dup-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  const values = duplicatesData.map(d => d.reason).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  unique.forEach(val => {
+    const opt = document.createElement("option");
+    opt.value = val;
+    opt.textContent = val;
+    sel.appendChild(opt);
+  });
+}
+
+function populateKingdomDropdownDuplicates(reasonVal) {
+  const sel = document.getElementById("kingdom-dup-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  let data = duplicatesData;
+  if (reasonVal !== "All") {
+    data = data.filter(d => (d.reason || "").trim() === reasonVal);
+  }
+  const kingdoms = data.map(d => d.kingdom).filter(Boolean);
+  const unique = [...new Set(kingdoms)].sort();
+  unique.forEach(k => {
+    const opt = document.createElement("option");
+    opt.value = k;
+    opt.textContent = k;
+    sel.appendChild(opt);
+  });
+}
+
+function initDataTableDuplicates(dataArray) {
+  fillTableBodyDuplicates(dataArray);
+  myDataTable1 = $('#duplicates-table').DataTable({
+    pageLength: 10,
+    order: [[6, 'desc']]  // ✅ index=6
+  });
+}
+
+function fillTableBodyDuplicates(dataArray) {
+  const tbody = document.querySelector('#duplicates-table tbody');
+  tbody.innerHTML = '';
+  const displayFields = [
+    "taxonUUID", "taxonRank", "kingdom", "simplifiedScientificName", "scientificName", "authorshipCheck", "reason", "number_of_occurrence", "TT_URL"
+  ];
+  dataArray.forEach(row => {
+    const tr = document.createElement('tr');
+    displayFields.forEach(field => {
+      const val = row[field] || "";
+      const td = document.createElement('td');
+      if (field === "TT_URL" && val) {
+        const link = document.createElement('a');
+        link.href = val;
+        link.target = "_blank";
+        link.textContent = val;
+        td.appendChild(link);
+      } else {
+        td.textContent = val;
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+function updateDataTableDuplicates() {
+  const reasonVal = document.getElementById("reason-dup-select").value;
+  const kingdomVal = document.getElementById("kingdom-dup-select").value;
+
+  let filtered = duplicatesData;
+  if (reasonVal !== "All") {
+    filtered = filtered.filter(d => (d.reason || "").trim() === reasonVal);
+  }
+  if (kingdomVal !== "All") {
+    filtered = filtered.filter(d => (d.kingdom || "").trim() === kingdomVal);
+  }
+
+  if (myDataTable1) {
+    myDataTable1.clear().destroy();
+  }
+  fillTableBodyDuplicates(filtered);
+  myDataTable1 = $('#duplicates-table').DataTable({
+    pageLength: 10,
+    order: [[3, 'asc']]
+  });
+}
+
+  // ================== Dashboard #2: Errors ==================
+  let myDataTable2 = null;
+  function initErrorsDashboard(){
+    populateErrorTypesDropdown();
+    initDataTableErrors(errorsData);
+    document.getElementById("errortypes-select")
+            .addEventListener("change", updateDataTableErrors);
+  }
+  function populateErrorTypesDropdown(){
+    const allTypes = errorsData.map(d => d.errortypes).filter(x => x);
+    const uniqueTypes = [...new Set(allTypes)].sort();
+    const selectEl = document.getElementById("errortypes-select");
+    uniqueTypes.forEach(t => {
+      const opt = document.createElement("option");
+      opt.value = t; opt.textContent = t;
+      selectEl.appendChild(opt);
+    });
+  }
+  function initDataTableErrors(dataArray) {
+  fillTableBodyErrors(dataArray);
+  myDataTable2 = $('#errors-table').DataTable({
+    pageLength: 10,
+    order: [[15, 'desc']]  // ✅ index=15
+      });
+    }
+
+  function fillTableBodyErrors(dataArray){
+    const tbody = document.querySelector('#errors-table tbody');
+    tbody.innerHTML = '';
+    const displayFields = [
+      "taxonUUID","taxonRank","kingdom",
+      "specificEpithet","subspecies","variety","form","cultigen","simplifiedScientificName",
+      "authorship", "subspeciesAuthorship", "varietyAuthorship", "formAuthorship",
+      "errortypes", "number_of_occurrence", "TT_URL"
+    ];
+    dataArray.forEach(row => {
+      const tr = document.createElement('tr');
+      displayFields.forEach(field => {
+        const val = row[field] || "";
+        const td  = document.createElement('td');
+        if (field === "TT_URL" && val) {
+          const link = document.createElement('a');
+          link.href = val; link.target = "_blank"; link.textContent = val;
+          td.appendChild(link);
+        } else {
+          td.textContent = val;
+        }
+        tr.appendChild(td);
+      });
+      tbody.appendChild(tr);
+    });
+  }
+  function updateDataTableErrors(){
+    const selectedErrortype = document.getElementById("errortypes-select").value;
+    let filtered = errorsData;
+    if (selectedErrortype !== "All") {
+      filtered = filtered.filter(d => d.errortypes === selectedErrortype);
+    }
+    if (myDataTable2) {
+      myDataTable2.clear().destroy();
+    }
+    fillTableBodyErrors(filtered);
+    myDataTable2 = $('#errors-table').DataTable({ pageLength: 10 });
+  }
+
+  // ================== Dashboard #3: Attribute ==================
+  let myDataTable3 = null;
+  function initAttributeDashboard(){
+    populateReasonDropdown();
+    initDataTableAttribute(attributeData);
+    document.getElementById("reason-select")
+            .addEventListener("change", updateDataTableAttribute);
+  }
+  function populateReasonDropdown(){
+    const allReasons = attributeData.map(d => d.reason).filter(x => x);
+    const uniqueReasons = [...new Set(allReasons)].sort();
+    const selectEl = document.getElementById("reason-select");
+    uniqueReasons.forEach(r => {
+      const opt = document.createElement("option");
+      opt.value = r; opt.textContent = r;
+      selectEl.appendChild(opt);
+    });
+  }
+  function initDataTableAttribute(dataArray) {
+  fillTableBodyAttribute(dataArray);
+  myDataTable3 = $('#attribute-table').DataTable({
+    pageLength: 10,
+    order: [[10, 'desc']]  // ✅ index=10
+  });
+}
+  function fillTableBodyAttribute(dataArray){
+    const tbody = document.querySelector('#attribute-table tbody');
+    tbody.innerHTML = '';
+    const displayFields = [
+      "taxonUUID","taxonRank","simplifiedScientificName",
+      "endemism","nativeness","protectedStatusTW","categoryRedlistTW","categoryIUCN",
+      "sensitiveCategory","reason", "number_of_occurrence","TT_URL"
+    ];
+    dataArray.forEach(row => {
+      const tr = document.createElement('tr');
+      displayFields.forEach(field => {
+        const val = row[field] || "";
+        const td  = document.createElement('td');
+        if (field === "TT_URL" && val) {
+          const link = document.createElement('a');
+          link.href = val; link.target = "_blank"; link.textContent = val;
+          td.appendChild(link);
+        } else {
+          td.textContent = val;
+        }
+        tr.appendChild(td);
+      });
+      tbody.appendChild(tr);
+    });
+  }
+  function updateDataTableAttribute(){
+    const selectedReason = document.getElementById("reason-select").value;
+    let filtered = attributeData;
+    if (selectedReason !== "All") {
+      filtered = filtered.filter(d => d.reason === selectedReason);
+    }
+    if (myDataTable3) {
+      myDataTable3.clear().destroy();
+    }
+    fillTableBodyAttribute(filtered);
+    myDataTable3 = $('#attribute-table').DataTable({
+      pageLength: 10, order: [[2, 'asc']]
+    });
+  }
+
+// ================== Dashboard #4: Without Under Taxon ==================
+let myDataTable4 = null;
+
+function initWithoutDashboard() {
+  populateTaxonRankDropdown();
+  populateKingdomDropdown("All");
+  populateClassDropdown("All", "All");
+  initDataTableWithout(withoutData);
+
+  document.getElementById("taxonrank-select")
+          .addEventListener("change", function() {
+            const selectedTaxonRank = this.value;
+            populateKingdomDropdown(selectedTaxonRank);
+            populateClassDropdown(selectedTaxonRank, "All");
+            updateDataTableWithout();
+          });
+
+  document.getElementById("kingdom-select")
+          .addEventListener("change", function() {
+            const selectedTaxonRank = document.getElementById("taxonrank-select").value;
+            const selectedKingdom = this.value;
+            populateClassDropdown(selectedTaxonRank, selectedKingdom);
+            updateDataTableWithout();
+          });
+
+  document.getElementById("class-select")
+          .addEventListener("change", updateDataTableWithout);
+}
+
+function populateTaxonRankDropdown() {
+  const values = withoutData.map(d => d.taxonRank).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  const sel = document.getElementById("taxonrank-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  unique.forEach(v => {
+    const opt = document.createElement("option");
+    opt.value = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+function populateKingdomDropdown(selectedTaxonRank) {
+  let data = withoutData;
+  if (selectedTaxonRank !== "All") {
+    data = data.filter(d => (d.taxonRank || "") === selectedTaxonRank);
+  }
+  const values = data.map(d => d.kingdom).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  const sel = document.getElementById("kingdom-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  unique.forEach(v => {
+    const opt = document.createElement("option");
+    opt.value = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+function populateClassDropdown(selectedTaxonRank, selectedKingdom) {
+  let data = withoutData;
+  if (selectedTaxonRank !== "All") {
+    data = data.filter(d => (d.taxonRank || "") === selectedTaxonRank);
+  }
+  if (selectedKingdom !== "All") {
+    data = data.filter(d => (d.kingdom || "") === selectedKingdom);
+  }
+  const values = data.map(d => d.class).filter(Boolean);
+  const unique = [...new Set(values)].sort();
+  const sel = document.getElementById("class-select");
+  sel.innerHTML = "<option value='All' selected>All</option>";
+  unique.forEach(v => {
+    const opt = document.createElement("option");
+    opt.value = v;
+    opt.textContent = v;
+    sel.appendChild(opt);
+  });
+}
+
+function initDataTableWithout(dataArray) {
+  fillTableBodyWithout(dataArray);
+  myDataTable4 = $('#without-table').DataTable({
+    pageLength: 10,
+    order: [[6, 'desc']]
+  });
+}
+
+function fillTableBodyWithout(dataArray) {
+  const tbody = document.querySelector('#without-table tbody');
+  tbody.innerHTML = '';
+  const displayFields = [
+    "taxonUUID", "taxonRank", "parentUUID", "simplifiedScientificName",
+    "kingdom", "class", "number_of_occurrence","TT_URL"
+  ];
+  dataArray.forEach(row => {
+    const tr = document.createElement('tr');
+    displayFields.forEach(field => {
+      const val = row[field] || "";
+      const td = document.createElement('td');
+      if (field === "TT_URL" && val) {
+        const link = document.createElement('a');
+        link.href = val;
+        link.target = "_blank";
+        link.textContent = val;
+        td.appendChild(link);
+      } else {
+        td.textContent = val;
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+function updateDataTableWithout() {
+  const selTaxonRank = document.getElementById("taxonrank-select").value;
+  const selKingdom = document.getElementById("kingdom-select").value;
+  const selClass = document.getElementById("class-select").value;
+
+  let filtered = withoutData;
+
+  if (selTaxonRank !== "All") {
+    filtered = filtered.filter(d => (d.taxonRank || "") === selTaxonRank);
+  }
+  if (selKingdom !== "All") {
+    filtered = filtered.filter(d => (d.kingdom || "") === selKingdom);
+  }
+  if (selClass !== "All") {
+    filtered = filtered.filter(d => (d.class || "") === selClass);
+  }
+
+  if (myDataTable4) {
+    myDataTable4.clear().destroy();
+  }
+  fillTableBodyWithout(filtered);
+  myDataTable4 = $('#without-table').DataTable({
+    pageLength: 10,
+    order: [[6, 'desc']]
+  });
+}
+  // ================== Dashboard #5: Nomenclatural Error ==================
+  let myDataTable5 = null;
+  function initNomenclErrorDashboard(){
+    populateNomenclFilters();
+    initDataTableNomencl(nomenclErrorData);
+    document.getElementById("nom-reason-select")
+            .addEventListener("change", updateDataTableNomencl);
+    document.getElementById("groupid-select")
+            .addEventListener("change", updateDataTableNomencl);
+  }
+  function populateNomenclFilters(){
+    // reason
+    const reasons = nomenclErrorData.map(d => d.reason).filter(x => x);
+    const uniqueReasons = [...new Set(reasons)].sort();
+    const reasonSelect = document.getElementById("nom-reason-select");
+    uniqueReasons.forEach(r => {
+      const opt = document.createElement("option");
+      opt.value = r; opt.textContent = r;
+      reasonSelect.appendChild(opt);
+    });
+    // groupID
+    const groupids = nomenclErrorData.map(d => d.groupID).filter(x => x);
+    const uniqueGroups = [...new Set(groupids)].sort();
+    const groupidSelect = document.getElementById("groupid-select");
+    uniqueGroups.forEach(g => {
+      const opt = document.createElement("option");
+      opt.value = g; opt.textContent = g;
+      groupidSelect.appendChild(opt);
+    });
+  }
+function initDataTableNomencl(dataArray) {
+  fillTableBodyNomencl(dataArray);
+  myDataTable5 = $('#nomencl-error-table').DataTable({
+    pageLength: 10,
+    order: [[8, 'desc']]  // ✅ index=8
+  });
+}
+  function fillTableBodyNomencl(dataArray){
+    const tbody = document.querySelector('#nomencl-error-table tbody');
+    tbody.innerHTML = '';
+    const displayFields = [
+      "taxonUUID","taxonRank","parentUUID","kingdom","simplifiedScientificName",
+      "nomenclaturalCode","groupID","reason", "number_of_occurrence","TT_URL"
+    ];
+    dataArray.forEach(row => {
+      const tr = document.createElement('tr');
+      displayFields.forEach(field => {
+        const val = row[field] || "";
+        const td  = document.createElement('td');
+        if (field === "TT_URL" && val) {
+          const link = document.createElement('a');
+          link.href = val; link.target = "_blank"; link.textContent = val;
+          td.appendChild(link);
+        } else {
+          td.textContent = val;
+        }
+        tr.appendChild(td);
+      });
+      tbody.appendChild(tr);
+    });
+  }
+  function updateDataTableNomencl(){
+    const selectedReason = document.getElementById("nom-reason-select").value;
+    const selectedGroupID = document.getElementById("groupid-select").value;
+    let filtered = nomenclErrorData;
+    if (selectedReason !== "All") {
+      filtered = filtered.filter(d => d.reason === selectedReason);
+    }
+    if (selectedGroupID !== "All") {
+      filtered = filtered.filter(d => d.groupID === selectedGroupID);
+    }
+    if (myDataTable5) {
+      myDataTable5.clear().destroy();
+    }
+    fillTableBodyNomencl(filtered);
+    myDataTable5 = $('#nomencl-error-table').DataTable({ pageLength: 10 });
+  }
+  // ================== Dashboard #6: Species/Infraspecies Attribute Conflict ==================
+let myDataTable6 = null;
+
+function initConflictDashboard(){
+  populateConflictReasonFilter();          // 只先 reason
+  populateConflictGroupFilter("All");      // 依 reason 塞 groupID
+
+  initDataTableConflict(conflictData);
+
+  document.getElementById("conflict-reason-select")
+          .addEventListener("change", function(){
+              populateConflictGroupFilter(this.value);
+              updateDataTableConflict();
+          });
+
+  document.getElementById("conflict-groupid-select")
+          .addEventListener("change", updateDataTableConflict);
+}
+
+function populateConflictReasonFilter(){
+  const reasons = conflictData.map(d=>d.reason).filter(x=>x);
+  const unique=[...new Set(reasons)].sort();
+  const sel=document.getElementById("conflict-reason-select");
+  unique.forEach(r=>{
+    const opt=document.createElement("option");
+    opt.value=r; opt.textContent=r;
+    sel.appendChild(opt);
+  });
+}
+
+function populateConflictGroupFilter(selectedReason){
+  const gSel=document.getElementById("conflict-groupid-select");
+  gSel.innerHTML = '<option value="All" selected>All</option>';
+
+  let pool = conflictData;
+  if(selectedReason!=="All") {
+    pool = pool.filter(d => d.reason === selectedReason);
+  }
+  const groups = pool.map(d=>d.groupID).filter(x=>x);
+  const unique=[...new Set(groups)].sort();
+  unique.forEach(g=>{
+    const opt=document.createElement("option");
+    opt.value=g; opt.textContent=g;
+    gSel.appendChild(opt);
+  });
+}
+
+function initDataTableConflict(dataArray) {
+  fillTableBodyConflict(dataArray);
+  myDataTable6 = $('#conflict-table').DataTable({
+    pageLength: 10,
+    order: [[12, 'desc']]  // ✅ index=12
+  });
+}
+function fillTableBodyConflict(dataArray){
+  const tbody = document.querySelector('#conflict-table tbody');
+  tbody.innerHTML = '';
+  const fields = [
+    "taxonUUID","taxonRank","parentUUID","kingdom","simplifiedScientificName",
+    "nativeness","sensitiveCategory","protectedStatusTW","categoryRedlistTW",
+    "categoryIUCN","groupID","reason", "filtered_values", "number_of_occurrence","TT_URL"
+  ];
+  dataArray.forEach(row=>{
+    const tr=document.createElement('tr');
+    fields.forEach(f=>{
+      const val=row[f] || "";
+      const td=document.createElement('td');
+      if(f==="TT_URL" && val){
+        const a=document.createElement('a');
+        a.href=val; a.target="_blank"; a.textContent=val;
+        td.appendChild(a);
+      }else{ td.textContent=val; }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+}
+
+function updateDataTableConflict(){
+  const selReason = document.getElementById("conflict-reason-select").value;
+  const selGroup  = document.getElementById("conflict-groupid-select").value;
+
+  let filtered = conflictData;
+  if(selReason!=="All") {
+    filtered = filtered.filter(d => d.reason === selReason);
+  }
+  if(selGroup!=="All") {
+    filtered = filtered.filter(d => d.groupID === selGroup);
+  }
+
+  if(myDataTable6) {
+    myDataTable6.clear().destroy();
+  }
+  fillTableBodyConflict(filtered);
+  myDataTable6 = $('#conflict-table').DataTable({ pageLength: 10 });
+}
+
+</script>
+</body>
+</html>
