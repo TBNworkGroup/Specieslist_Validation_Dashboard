@@ -91,7 +91,7 @@
   </div>
   <table id="attribute-table" class="display" style="width:100%">
     <thead>
-      <tr><th>taxonUUID</th><th>taxonRank</th><th>simplifiedScientificName</th>
+      <tr><th>taxonUUID</th><th>taxonRank</th><th>simplifiedScientificName</th><th>kingdom</th>
           <th>endemism</th><th>nativeness</th><th>protectedStatusTW</th>
           <th>categoryRedlistTW</th><th>categoryIUCN</th><th>sensitiveCategory</th><th>reason</th><th>number_of_occurrence</th>
           <th>TT_URL</th></tr>
@@ -179,7 +179,8 @@
   "4. Attribute Errors": [
     "種與種下原生性空白",
     "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種",
-    "敏感狀態不等於無的外來種"
+    "敏感狀態不等於無的外來種",
+    "原生性等於外來栽培or外來歸化的動物"
   ],
   "5. Conflict": [
     "保育等級不同", "國內紅皮書不同", "IUCN紅皮書不同"
@@ -559,7 +560,7 @@ function updateDataTableDuplicates() {
     const tbody = document.querySelector('#attribute-table tbody');
     tbody.innerHTML = '';
     const displayFields = [
-      "taxonUUID","taxonRank","simplifiedScientificName",
+      "taxonUUID","taxonRank","simplifiedScientificName","kingdom",
       "endemism","nativeness","protectedStatusTW","categoryRedlistTW","categoryIUCN",
       "sensitiveCategory","reason", "number_of_occurrence","TT_URL"
     ];
