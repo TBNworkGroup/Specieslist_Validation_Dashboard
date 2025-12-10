@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20251203"  # 舉例
+modified_date <- "20251210"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -545,7 +545,7 @@ df_TT_species_nomenclaturalCode <- df_TTsplist %>%
   filter( taxonRank %in% c("species", "infraspecies")) %>% 
   select(
     taxonUUID, taxonRank, parentUUID, kingdom, simplifiedScientificName, 
-    nomenclaturalCode 
+    variety, form, cultigen, nomenclaturalCode 
   )
 
 df_TT_plant_nomenclaturalCode <- df_TT_species_nomenclaturalCode %>%
@@ -584,11 +584,21 @@ df_species_nomenclaturalCode_mismatch <- bind_rows(conflict_groups, .id = "group
   mutate(reason = "種與種下命名法規不同")
 
 
+df_TT_animaliaerror <- df_TT_species_nomenclaturalCode %>%
+  filter(
+    kingdom == "Animalia" &
+      (
+        !is.na(variety) & variety != "" |
+          !is.na(form) & form != "" |
+          !is.na(cultigen) & cultigen != ""
+      )
+  ) %>% 
+  mutate(reason = "出現變種名、型名、栽培類名的動物")
 
 
 
 
-df_TT_nomenclaturalCode <- bind_rows(df_TT_animal_nomenclaturalCode, df_TT_plant_nomenclaturalCode, df_species_nomenclaturalCode_mismatch)
+df_TT_nomenclaturalCode <- bind_rows(df_TT_animal_nomenclaturalCode, df_TT_plant_nomenclaturalCode, df_species_nomenclaturalCode_mismatch, df_TT_animaliaerror)
 
 for (i in 1:nrow(df_TT_nomenclaturalCode)) {
   
