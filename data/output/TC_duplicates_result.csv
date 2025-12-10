@@ -169,6 +169,7 @@ t0021263,Genus,Japonia,"Gould, 1859",TRUE,FALSE,FALSE,學名重複,https://taico
 t0021446,Genus,Lactarius,"Valenciennes, 1833",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021446
 t0021451,Genus,Laelia,"Stephens, 1828",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021451
 t0022776,Genus,Microporus,"Uhler, 1872",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022776
+t0022883,Genus,Miyakea,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022883
 t0022933,Genus,Monocera,"Wulp, 1898",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022933
 t0023086,Genus,Acmella,Rich.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023086
 t0023119,Genus,Agathis,Salisb.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023119
@@ -303,6 +304,7 @@ t0122596,Subgenus,Plagiorhynchus,"",TRUE,FALSE,FALSE,學名重複,https://taicol
 t0122659,Genus,Ranzania,T.Itô,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0122659
 t0123754,Subgenus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123754
 t0123770,Subgenus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123770
+t0123859,Genus,Miyakea,"Marumo, 1933",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123859
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137

@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20251126"  # 舉例
+modified_date <- "20251203"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -366,11 +366,12 @@ fwrite(df_errors, "../../data/output/TT_errortypes_result.csv")
 # 第三階段：挑出敏感狀態 = 無的國內紅皮書等級高於「VU（含）」的物種
 # 第四階段：挑出敏感狀態 = 無的國際紅皮書等級高於「VU（含）」的物種
 # 第五階段：檢查外來種的敏感狀態（TT專屬）：挑出敏感狀態 != 無的外來種
+# 第六階段：挑出原生性=「外來栽培」「外來歸化」的動物
 # 最後輸出一張表df_TT_attribute_error
 
 df_TT_attribute <- df_TTsplist %>%
   select(
-    taxonUUID, taxonRank, simplifiedScientificName, 
+    taxonUUID, taxonRank, kingdom, simplifiedScientificName, 
     endemism, nativeness,               
     protectedStatusTW, categoryRedlistTW, categoryIUCN, sensitiveCategory
     )
@@ -427,7 +428,16 @@ df_TT_invasive <- df_TT_attribute %>%
 
 df_TT_invasive$reason <- "敏感狀態不等於無的外來種"
 
-df_TT_attribute_error <- rbind(df_TT_undertaxon, df_TT_redlist, df_TT_protected, df_TT_IUCN, df_TT_invasive)
+df_TT_animalia <- df_TT_attribute %>%
+  filter(
+    kingdom == "Animalia",
+    nativeness %in% c("外來栽培 Cultivated (non-native)", "外來歸化 Naturalized (non-native)")
+  )
+
+df_TT_animalia$reason <- "原生性等於外來栽培or外來歸化的動物"
+
+
+df_TT_attribute_error <- rbind(df_TT_undertaxon, df_TT_redlist, df_TT_protected, df_TT_IUCN, df_TT_invasive, df_TT_animalia)
 # ✅ 在這裡加判斷：完全包住 for 迴圈
 
 
