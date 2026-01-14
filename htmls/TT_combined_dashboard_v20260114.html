@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>TT Validation Dashboard – version type 20251210</title>
+  <title>TT Validation Dashboard – version type 20260114</title>
 
   <!-- jQuery & DataTables -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -25,7 +25,7 @@
   </style>
 </head>
 <body>
-  <h1>TT Validation Dashboard – version type 20251210</h1>
+  <h1>TT Validation Dashboard – version type 20260114</h1>
   <div id="summary-section" style="margin-top: 20px; font-size: 0.95em;"></div>
 
 
@@ -91,7 +91,7 @@
   </div>
   <table id="attribute-table" class="display" style="width:100%">
     <thead>
-      <tr><th>taxonUUID</th><th>taxonRank</th><th>simplifiedScientificName</th><th>kingdom</th>
+      <tr><th>taxonUUID</th><th>taiCOLNameCode</th><th>taxonRank</th><th>simplifiedScientificName</th><th>kingdom</th>
           <th>endemism</th><th>nativeness</th><th>protectedStatusTW</th>
           <th>categoryRedlistTW</th><th>categoryIUCN</th><th>sensitiveCategory</th><th>reason</th><th>number_of_occurrence</th>
           <th>TT_URL</th></tr>
@@ -178,6 +178,7 @@
     "錯誤符號與括號前後空格", "文字前空格", "文字後空格", "連續空格", "大小寫錯誤", "高階層欄位出現多詞格式"
   ],
   "4. Attribute Errors": [
+    "taiCOLNameCode空白",
     "種與種下原生性空白",
     "敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種",
     "敏感狀態不等於無的外來種",
@@ -561,7 +562,7 @@ function updateDataTableDuplicates() {
     const tbody = document.querySelector('#attribute-table tbody');
     tbody.innerHTML = '';
     const displayFields = [
-      "taxonUUID","taxonRank","simplifiedScientificName","kingdom",
+      "taxonUUID","taiCOLNameCode","taxonRank","simplifiedScientificName","kingdom",
       "endemism","nativeness","protectedStatusTW","categoryRedlistTW","categoryIUCN",
       "sensitiveCategory","reason", "number_of_occurrence","TT_URL"
     ];
