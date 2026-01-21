@@ -1,8 +1,5 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,TC_taxon_id
-2dea56c0-c0d1-4028-969f-6f20135eac3d,kingdom,Animalia,"",Animalia,t0000009
 beec8449-e5f8-486b-8395-ac587db6c64d,class,Animalia,t0002889,Aves,t0000650
-df9001fb-71cd-492a-b43c-878a9146074c,order,Animalia,"",Stephanoberyciformes,t0003089
-db627722-5fe7-4c21-b33b-32188dcc5477,order,Animalia,"",Saccopharyngiformes,t0003081
 88a7facc-492e-457e-98c7-73ce5329017e,kingdom,Plantae,"",Plantae,t0000003
 28731836-31a0-45ee-a2a3-c141f6c9698b,subkingdom,Plantae,"",Viridiplantae,t0000011
 13ec219d-d34f-4654-9bd4-a1c151a12ba2,class,Plantae,"",Lycopodiopsida,t0000445
@@ -12,7 +9,6 @@ c85b5302-26d6-4fdd-be70-b3e39fc1c417,subclass,Plantae,"",Ophioglossidae,t0000562
 d50dbbf3-4cb7-4889-bdf9-90c60ae897e9,subclass,Plantae,"",Marattiidae,t0000563
 c7d4eb88-734f-4150-a0c5-c7637846e13c,subclass,Plantae,"",Polypodiidae,t0000564
 d2ad637f-e94e-492c-856e-0e2693e4271f,subclass,Plantae,"",Cycadidae,t0000565
-450e1089-93fd-41ad-8627-8024da76405e,subclass,Plantae,"",Gnetidae,t0000567
 a8448c61-a5ee-42d3-8706-88daa80cf53b,subclass,Plantae,"",Pinidae,t0000568
 916ec491-de5c-4521-9eba-a1a0ae97e181,subclass,Plantae,"",Magnoliidae,t0002276
 284a09f0-2d6d-450b-a269-e18b8815aa8c,order,Plantae,"",Lycopodiales,t0001582
@@ -31,16 +27,12 @@ ebc168eb-1458-4dc6-89d3-86483e920f30,order,Plantae,"",Salviniales,t0001632
 5d8d86db-1ebc-49db-95d6-545d674399c2,order,Plantae,"",Polypodiales,t0001613
 a6fd1d66-44e8-465f-9b6e-b0ffdc744f30,order,Plantae,"",Cycadales,t0000783
 1f4e67b4-f0f1-4f36-a46e-0a3af8ce2304,order,Plantae,"",Ginkgoales,t0000784
-b65e5700-b03e-404b-a8ca-baddd53067d2,order,Plantae,"",Welwitschiales,t0002278
-d4538179-8c94-463b-9738-58a22848edf1,order,Plantae,"",Gnetales,t0000785
-310e40e5-c407-40b5-9a2b-8dbeeac7d393,order,Plantae,"",Ephedrales,t0002279
 f768ca32-6f75-4ce7-8086-7d7ec32691cf,order,Plantae,"",Pinales,t0000786
 0b40801f-19e7-4036-a3cf-b0f37796000b,order,Plantae,"",Araucariales,t0002280
 677eaeac-e0e9-412c-8bf7-8cb62955221e,order,Plantae,"",Cupressales,t0002281
 1b358ed1-e732-469e-a6bb-d0f7355e1a1a,order,Plantae,"",Amborellales,t0000787
 905994a7-2015-4d2d-8d60-422cfdbbc262,order,Plantae,"",Nymphaeales,t0000788
 ce0e3cba-17f3-44d1-8847-4747486bfa2b,order,Plantae,"",Austrobaileyales,t0000789
-e27fd325-f7c5-480f-8c01-63107b0ac9e7,order,Plantae,"",Canellales,t0000790
 dd55447a-5bc9-4a62-8002-823fe3d45f94,order,Plantae,"",Piperales,t0000791
 48db819a-2bfd-4d33-9abf-6a8971f811dc,order,Plantae,"",Magnoliales,t0000792
 e1dea8c1-b90e-4c04-b122-0679cab20357,order,Plantae,"",Laurales,t0000793
@@ -59,7 +51,6 @@ eda6b5e2-24be-4132-9ecf-f4aa9199d4d6,order,Plantae,"",Asparagales,t0000801
 f68d9ac4-2cf2-4dff-8478-5788d36274bf,order,Plantae,"",Proteales,t0000808
 b7ed6511-941c-45bd-a281-58ce9f952e28,order,Plantae,"",Trochodendrales,t0000809
 418504a4-7492-4e14-bdbe-37216116a248,order,Plantae,"",Buxales,t0000810
-e9f4a72d-5067-4ce0-a3bd-3e6055fa1fdf,order,Plantae,"",Gunnerales,t0000811
 69c289eb-9a63-41da-b13c-d9c90090708a,order,Plantae,"",Dilleniales,t0000812
 026abcfc-acef-48a0-86bf-e69feb2d2834,order,Plantae,"",Saxifragales,t0000813
 911f73fc-ca32-4f41-8f18-35553663944e,order,Plantae,"",Vitales,t0000814
@@ -74,29 +65,22 @@ a74c9853-ac27-4b4e-ad01-053a9d2a7794,order,Plantae,"",Oxalidales,t0000821
 9456c517-3ef9-434f-ba64-398b2c769de3,order,Plantae,"",Geraniales,t0000823
 26d2ae64-6204-4d67-acb8-981ff1d202da,order,Plantae,"",Myrtales,t0000824
 759ad8fd-380d-43a4-b25f-cdb37c00adce,order,Plantae,"",Crossosomatales,t0000825
-35d0e9bd-3770-45f6-af67-f91c9a7a88ff,order,Plantae,"",Picramniales,t0000826
 2fa35d60-a198-42a7-98fd-8106acadbc26,order,Plantae,"",Huerteales,t0000827
 fa1b4098-982a-4858-a9c8-c4095cbe14b5,order,Plantae,"",Sapindales,t0000828
 e65d7035-50b7-4867-8655-355649abd179,order,Plantae,"",Malvales,t0000829
 cb0d2b08-97fb-42ca-9ac8-d2d38ea1c83a,order,Plantae,"",Brassicales,t0000830
-520cf167-010a-4996-b3c6-eea79bd2c347,order,Plantae,"",Berberidopsidales,t0000831
 7aea1453-9f64-4ce3-868d-8ed09e1277bb,order,Plantae,"",Santalales,t0000832
 2c37e9b7-1ee6-44de-b93a-fdf13f0a17e1,order,Plantae,"",Caryophyllales,t0000833
 f50056fd-8c10-4230-b2c6-144d6e648746,order,Plantae,"",Cornales,t0000834
 575d865b-7c7a-4991-84c7-9dabec98d028,order,Plantae,"",Ericales,t0000835
 28cdf8a4-7658-408f-92b2-88706108c28c,order,Plantae,"",Icacinales,t0002282
-ecec58f7-2493-406c-bd68-a55d7d85221f,order,Plantae,"",Metteniusales,t0002283
 69627f28-232f-44d9-bdd8-3441ece27e3e,order,Plantae,"",Garryales,t0000836
 6e58ba70-40ad-4e0a-b11e-47a00fe943a0,order,Plantae,"",Gentianales,t0000837
 d3a8888d-5cf7-4f91-9cfc-c9a89ba86ae2,order,Plantae,"",Boraginales,t0000838
-f72678b2-17dd-4f44-9c78-1f2cf848a4c7,order,Plantae,"",Vahliales,t0002284
 90277498-29c5-4f66-9263-9edef036b20b,order,Plantae,"",Solanales,t0000839
 1453b5fc-7694-4302-98e2-3a3538fd9444,order,Plantae,"",Lamiales,t0000840
 35771dd3-9b49-40bf-b3be-bcc6317c29c3,order,Plantae,"",Aquifoliales,t0000841
 24e08e2d-3fb9-4700-8158-6d6dea40908b,order,Plantae,"",Asterales,t0000842
-7de95bc3-65d0-49f5-8952-383737ee2ccc,order,Plantae,"",Escalloniales,t0000843
-6d6b27e9-bc51-43e4-8721-3126b3dbe50b,order,Plantae,"",Bruniales,t0000844
-ac707472-fd0b-4cd3-b126-1c83df54e512,order,Plantae,"",Paracryphiales,t0000845
 74748d32-6b47-4249-a3d4-26589f610df8,order,Plantae,"",Dipsacales,t0000846
 6757b10d-70cb-4217-a8df-d0062b7e1ece,order,Plantae,"",Apiales,t0000847
 e0670fd3-4df9-4f67-aa4e-14a695872c21,order,Plantae,"",Poales,t0000805
@@ -119,7 +103,6 @@ f7264ccf-e31d-4590-93fe-0a884becaa89,family,Plantae,"",Schizaeaceae,t0004030
 7f7104a4-e404-4e47-bff5-e65173cc6ded,family,Plantae,"",Plagiogyriaceae,t0004033
 b75a63e9-7bfd-4dd5-890f-8e7bcf69bd6f,family,Plantae,"",Cibotiaceae,t0004035
 bf91926f-77b2-4daa-b0dc-174ebc72116f,family,Plantae,"",Cyatheaceae,t0004034
-2f650ff5-45ce-4b30-8d74-3ed84192fa56,family,Plantae,"",Dicksoniaceae,t0091696
 263c3f2c-695e-4515-9819-6480dd7b0e4a,family,Plantae,"",Lindsaeaceae,t0004036
 d73838bb-f535-4eab-93ac-e0b532849469,family,Plantae,"",Dennstaedtiaceae,t0004038
 4c61f6d2-53ea-467c-8a19-7203ff756177,family,Plantae,"",Pteridaceae,t0004037
@@ -289,7 +272,6 @@ c07b2ca0-a44d-4d18-a630-8f00669f9592,family,Plantae,"",Muntingiaceae,t0002429
 10a6aba3-81de-4e81-9f27-55cffb906839,family,Plantae,"",Malvaceae,t0002430
 6996f90d-d72f-4017-8600-e1686b1fdafa,family,Plantae,"",Thymelaeaceae,t0002431
 129c910f-6320-4f17-9561-9d4d87273f8e,family,Plantae,"",Bixaceae,t0002289
-a07b2eb3-9862-4b97-9e9a-36180ac6ad36,family,Plantae,"",Dipterocarpaceae,t0002432
 5bae95f6-db1f-493e-b5d2-5ef542ad5694,family,Plantae,"",Akaniaceae,t0002433
 6b69043b-9822-4a33-878f-7b7077b7b35a,family,Plantae,"",Tropaeolaceae,t0002434
 ff237d84-bc9f-49df-80eb-10df7e98317a,family,Plantae,"",Moringaceae,t0003909
@@ -339,7 +321,6 @@ e0e25c07-f5b7-4d27-b1f0-ed5722084978,family,Plantae,"",Actinidiaceae,t0002474
 5cf5124c-c782-437a-ad5e-972684b056bb,family,Plantae,"",Ericaceae,t0002476
 c259bd4c-6e65-4cdd-bd75-e255c32a398b,family,Plantae,"",Mitrastemonaceae,t0002475
 19ed9e38-350c-4a4a-a95e-cadaaf2e56cd,family,Plantae,"",Icacinaceae,t0002243
-1ba065a2-203b-4c1d-9872-79ea3a2d7827,family,Plantae,"",Eucommiaceae,t0002477
 761a5fb9-5a4b-4a73-98ea-809f17dbbe29,family,Plantae,"",Garryaceae,t0002478
 b4e7ee29-5ebd-4630-9518-6d069f98c5a2,family,Plantae,"",Rubiaceae,t0002479
 bb5e55c6-5a01-415e-9aaa-9f68c30bf660,family,Plantae,"",Gentianaceae,t0002480
@@ -347,7 +328,6 @@ da47318a-2957-46a6-9968-2a732de6e826,family,Plantae,"",Loganiaceae,t0002481
 e083476d-99e7-44a4-902d-9b8a0cc924fd,family,Plantae,"",Gelsemiaceae,t0003906
 b13360bc-519c-41f9-91fe-dae52db2599f,family,Plantae,"",Apocynaceae,t0002288
 4353f445-b8b2-43ec-96e3-cfdde8b6921d,family,Plantae,"",Boraginaceae,t0002482
-89f875d8-c9a1-46ce-b9e1-587930a0f813,family,Plantae,"",Hydrophyllaceae,t0091708
 315b6de4-3201-4841-b84c-de8d77b1faf7,family,Plantae,"",Heliotropiaceae,t0002486
 4539c182-1e11-47b7-8bdd-75d1dd462e35,family,Plantae,"",Ehretiaceae,t0002485
 69f5b4aa-317e-4ddd-9641-5e1132b121a1,family,Plantae,"",Cordiaceae,t0002484
@@ -380,7 +360,6 @@ f6851395-5d55-471f-b0b0-2d60bf9f1654,family,Plantae,"",Helwingiaceae,t0002508
 f3a4eee5-9e00-4fdd-ab19-c399e0564a17,family,Plantae,"",Menyanthaceae,t0002511
 ec481fbb-899a-49f3-86f8-afc3858f9f8b,family,Plantae,"",Goodeniaceae,t0002512
 f50e7746-7c72-4e81-9f6f-68b33de13d71,family,Plantae,"",Asteraceae,t0002513
-e749f097-667f-4585-a6ee-d5c02bc1a2f6,family,Plantae,"",Viburnaceae,t0091658
 cc3af2f4-ddea-4b53-8b44-f0756a4135bd,family,Plantae,"",Caprifoliaceae,t0002515
 ad68e6a2-d941-4867-8771-d560611d9b03,family,Plantae,"",Pittosporaceae,t0002516
 46c53ce1-7610-4b5e-976e-ca9bf607c8fe,family,Plantae,"",Araliaceae,t0002517
@@ -399,21 +378,15 @@ f2746330-97f2-46d7-8b3a-4c48d364dfe2,phylum,Fungi,"",Ascomycota,t0000085
 779eacfc-e021-4505-ad3d-d2acc1803708,phylum,Protozoa,"",Sarcomastigophora,t0002884
 62bf04e5-459c-43cd-92b7-dd15a8b5aae8,phylum,Protozoa,"",Acrasiomycota,t0002877
 6fdfe0a7-14dd-4267-bc3c-c9e8ec648e1a,phylum,Protozoa,"",Dictyosteliomycota,t0002879
-886bf77c-b6bf-4978-9d55-025f9fa41ae0,phylum,Protozoa,"",Dinophyta,t0002880
 3b5ea345-464e-422e-948d-8d7d24661724,phylum,Protozoa,"",Euglenozoa,t0000069
 831a665c-c15e-41b9-876e-3aeaf1914560,phylum,Protozoa,"",Myxomycota,t0002881
-882abf2e-ef80-4a35-ad78-f4019ec8e88b,phylum,Protozoa,"",Apicomplexa,t0002878
-e8664484-ba7a-40aa-8a25-4b714333d715,phylum,Protozoa,"",Myxospora,t0002882
 d23749f4-f245-421b-8ea9-e8a871a94e5b,phylum,Protozoa,"",Plasmodiophoromycota,t0002883
-6c10e282-2b00-4df4-9269-a952a5bf0d05,class,Chromista,"",Peronosporea,t0002904
-122e9445-69d8-4685-bb4b-c499c4cec709,genus,Chromista,t0025283,Saporlegnia,t0094630
 4da2067e-9bda-47be-9e23-93dc1ac95edc,class,Chromista,"",Bacillariophyceae,t0000323
 685ea0ff-4c38-41ba-aa30-99fa63fda3ec,class,Chromista,"",Mediophyceae,t0002902
 fe75bd6e-a323-40a7-ab0e-f5bc17c79bf8,class,Chromista,"",Coscinodiscophyceae,t0002901
 1d30daf1-9d38-4d2a-a5b8-cfc5ecd83efa,class,Chromista,"",Chrysophyceae,t0000331
 639923ae-c6d6-4073-8d14-40554a9a95dc,class,Chromista,"",Phaeophyceae,t0000368
 22a7d8d0-db2f-4922-949d-92118171be72,class,Chromista,"",Raphidophyceae,t0000379
-90b5ca13-2a9b-45a0-ba7e-29b2a3f6ca2d,class,Chromista,"",Synurophyceae,t0002905
 f8f3abef-2f03-4c6d-91fc-9a76be71afc3,class,Chromista,"",Xanthophyceae,t0000391
 fd63e55a-b550-4609-8fae-85be4f2164f5,class,Chromista,"",Dictyochophyceae,t0000337
 ed4b04af-b1ad-4ec3-97dc-8b3f49cffee2,class,Chromista,"",Cryptophyceae,t0000336
@@ -459,7 +432,6 @@ e61236af-0a3f-46ac-9728-dd5cff881079,class,Protozoa,"",Granuloreticulosea,t00029
 f46fc13e-ca6b-4e00-92da-ecbd014f4a49,class,Protozoa,"",Euglenida,t0002914
 1799da4f-3edd-4181-956d-1dd0324b5e2c,class,Protozoa,"",Protosteliomycetes,t0002916
 4e7b304d-c0b8-4e3c-9d9c-d185d68ceb11,class,Protozoa,"",Plasmodiophoromycetes,t0002917
-6ef111c9-2dbb-4b96-ba60-e13b309b68fd,order,Chromista,"",Coccosphaerales,t0001114
 51bd751e-2aef-4fdd-ae8c-2873dcb98449,order,Chromista,"",Syracosphaerales,t0001327
 f2d34fff-6127-4847-acb4-d438b78015d5,genus,Chromista,"",Coronosphaera,t0025378
 77e97492-3893-4953-b561-2febd50fe977,order,Chromista,"",Isochrysidales,t0001184
@@ -585,7 +557,6 @@ c7dc573b-b859-4283-85f6-665034251911,family,Fungi,"",Pseudoperisporiaceae,t00036
 cfedb343-71b6-41d6-9efa-78fc7a73c1c6,order,Fungi,"",Myriangiales,t0001456
 c52703a4-3e3b-4b3d-88ee-eb21da5ea991,order,Fungi,"",Verrucariales,t0001507
 8b79452f-c8d0-4e5b-b6e5-e7a780913c3a,genus,Fungi,"",Exosporium,t0007555
-bf8a1d9a-7fb6-4e45-9b8c-0857090b9a90,order,Fungi,"",Leotiales,t0001438
 61340c67-5563-47ac-b756-d0da2b7be6d0,genus,Fungi,"",Helicomyxa,t0007697
 60e9ce60-adee-4ff8-bd45-3be59308efd4,genus,Fungi,"",Kumanasamuha,t0007821
 c2e58c73-15e4-489e-b8cd-015a1d6247f0,order,Fungi,"",Ophiostomatales,t0001463
@@ -827,7 +798,6 @@ bcce5c17-4703-4c8d-8880-f9ce8cd365ba,family,Fungi,"",Auriculariaceae,t0003326
 5fce163c-63f1-4490-85fe-4045597083d5,genus,Fungi,"",Boletinus,t0007152
 68593145-7b65-4ae7-bb58-0c0f01624ecd,family,Fungi,"",Suillaceae,t0003706
 fbd6315b-208d-4224-a9ed-5da9dcc8a148,family,Fungi,"",Coniophoraceae,t0003386
-8ba45833-41dd-44fc-b100-6de1b5673553,genus,Fungi,"",Fuscoboletinus,t0007584
 4a5a9700-6ecf-4899-9a9f-8be8be3ce219,family,Fungi,"",Gomphidiaceae,t0003468
 3b00d24a-ba04-431e-bde3-64d1cd50c98e,family,Fungi,"",Paxillaceae,t0003595
 62a790b5-102b-466a-bed0-fe7f38a80d62,family,Fungi,"",Gyroporaceae,t0003475
@@ -894,9 +864,7 @@ e8d4cc57-1914-4504-8cac-203eef856809,family,Fungi,"",Tilletiaceae,t0003726
 88f87086-6dde-4c2e-ac9b-22ac8a862577,family,Fungi,"",Gomphaceae,t0003467
 a240d6ea-4b5f-4e68-b48c-8fd454188762,genus,Fungi,"",Erythrobasidium,t0007540
 94e34e90-3715-4371-9a8d-db169b04e8c7,family,Fungi,"",Mucoraceae,t0003556
-86ce8fbc-b2bd-4e2f-98b0-53b33e894ef4,family,Fungi,"",Thamnidiaceae,t0003718
 e2f1c722-8fce-418f-8b82-347b1e70f6f7,family,Fungi,"",Choanephoraceae,t0003370
-5247ceb2-02d3-46f9-9ec2-5971fe860935,family,Fungi,"",Chaetocladiaceae,t0003361
 6693b14d-43cb-4286-bb04-26d816bdd1cf,family,Fungi,"",Cunninghamellaceae,t0003404
 0de2b20d-e017-4ba4-8e3e-ff1ad4416bbf,family,Fungi,"",Phycomycetaceae,t0003612
 fd4cada6-5c1c-4e93-ba00-c6dc503971c2,family,Fungi,"",Pilobolaceae,t0003619
@@ -1149,7 +1117,6 @@ e1afb9ae-5454-453e-8181-66ea42dfeb14,genus,Fungi,"",Paramyrothecium,t0008144
 327cf961-8328-4429-8254-9bea7bb2ba03,genus,Fungi,"",Napicladium,t0008037
 cf5d1d24-e852-4ce0-803c-b653abb6259e,genus,Fungi,"",Neottiospora,t0008061
 e9c24bb8-e510-432a-8fe7-b1deb43942be,genus,Fungi,"",Neta,t0008068
-8738e148-740e-4202-8328-d8050aec22a3,genus,Fungi,"",Nomuraea,t0008083
 1da04b0b-295f-493a-922a-5b2f93dfdab7,genus,Fungi,"",Ochroconis,t0008092
 806aa1c0-a66c-4079-80a0-ea93686a5144,genus,Fungi,"",Oidium,t0008102
 10d59e00-d4d6-496c-b868-ae53effae027,genus,Fungi,"",Olpitrichum,t0008106
@@ -1489,7 +1456,6 @@ d51a5aa6-6d92-4e6f-becc-756a5d42f613,family,Protozoa,"",Pelomyxidae,t0003261
 5120b31a-a005-4092-87aa-5cf01e16c680,family,Protozoa,"",Arcellidae,t0003170
 c5da9016-ed8e-4b66-bed6-7cf016ea34f3,family,Protozoa,"",Centropyxidae,t0003186
 eea27b47-5428-44cd-8bab-6acd26941ddd,family,Protozoa,"",Difflugidae,t0003205
-0cbc7df3-6fd0-4954-ae74-bade530044d3,family,Protozoa,"",Nebelidae,t0003249
 3bc2d92e-5c59-4c3d-8eef-cc08e5c5e334,family,Protozoa,"",Euglyphidae,t0003217
 7313a327-6654-436c-82b4-4a4f48e7ec08,family,Protozoa,"",Cyphoderiidae,t0003200
 953e3530-7bda-4dea-bac4-2fad30018720,family,Protozoa,"",Gromidae,t0003228
@@ -1524,7 +1490,6 @@ f870b95b-c208-4bf6-9480-7de644c73ad4,family,Bacteria,"",Merismopediaceae,t008796
 501ec510-6386-4dde-ae1d-70881a413dee,family,Bacteria,"",Chroococcaceae,t0087845
 2651b9bf-8590-411c-82cb-5897552ba2ad,family,Bacteria,"",Microcystaceae,t0087847
 3b00770a-1c48-4a1a-9e4a-bac3c5111708,family,Bacteria,"",Synechococcaceae,t0087972
-056b2f7e-f064-47fe-991b-09528f784f24,order,Bacteria,"",Hormogonales,t0087792
 00bdee99-89c9-41e9-b5f5-8950984fded6,order,Bacteria,"",Oscillatoriales,t0000942
 6db83cd4-af7c-40dc-a8d4-c4b02cd086eb,family,Bacteria,"",Pseudanabaenaceae,t0087970
 88074e61-6a96-40f5-b175-4ca8d8db1ba6,family,Bacteria,"",Oscillatoriaceae,t0087934
@@ -1533,8 +1498,6 @@ f870b95b-c208-4bf6-9480-7de644c73ad4,family,Bacteria,"",Merismopediaceae,t008796
 83e18e56-c269-4560-bd38-fc4d5791c775,order,Plantae,"",Chlorellales,t0001537
 35c2f033-7a05-4cf9-adbf-0c9690e9bdd3,family,Plantae,"",Chlorellaceae,t0005038
 35098854-7b53-4742-aeef-00ffefad6a4c,class,Plantae,"",Chlorophyceae,t0000434
-283849f4-b2af-4bf4-9f3c-56f652358855,order,Plantae,"",Tetrasporales,t0003035
-393c1148-f3c6-43c9-911c-a83b19f73761,family,Plantae,"",Gloeocystaceae,t0005078
 23bfdb90-a8a5-44f9-af78-cacd4bd0681b,family,Plantae,"",Palmellaceae,t0004093
 6501640e-66ea-4632-a835-f6490684e2e3,class,Plantae,"",Ulvophyceae,t0000462
 b9aa8575-b5b2-4b94-aaae-975548205a6e,order,Plantae,"",Ulvales,t0001653
@@ -1544,11 +1507,8 @@ b5c53bc4-0e24-44a0-9c02-9f34a050960a,family,Plantae,"",Volvocaceae,t0005187
 9dd6b26f-32e8-4819-ac92-6f03a537bbef,order,Plantae,"",Chlorococcales,t0003025
 55942c25-1627-4c9b-8464-ffac1acf7c59,family,Plantae,"",Hydrodictyaceae,t0004101
 10f5203a-4ba9-49f3-a703-c318f670715c,family,Plantae,"",Oocystaceae,t0005128
-13cdd4ba-f0b9-4d6e-9542-f90c26e041d5,family,Plantae,"",Coelastraceae,t0005043
 69e4f27b-69b1-4394-8de0-be0cf9c23061,family,Plantae,"",Scenedesmaceae,t0004087
 a92f903f-458e-48ae-b2bd-8955fa675877,family,Plantae,"",Radiococcaceae,t0004097
-d9765d5f-a491-4b8d-9c82-8bee784d611c,family,Plantae,"",Chlorococcaceae,t0005039
-98d86732-4745-40d8-963d-d67af778ea43,family,Plantae,"",Dictyosphaeriaceae,t0005057
 b657487b-ee2c-4674-8b40-2997a54fa551,order,Plantae,"",Oedogoniales,t0001597
 41b34ef4-c5eb-4d04-a309-86fbc2ce0875,family,Plantae,"",Oedogoniaceae,t0005127
 0be36994-8b02-4bd1-b545-fe7e6107d910,order,Plantae,"",Zygnematales,t0001654
@@ -1584,7 +1544,6 @@ e8e94a3e-e39a-420e-a3e8-2556e14a1bda,genus,Plantae,"",Huperzia,t0008971
 16dbfeb5-b1ce-4c44-8b2b-00d29a500d95,genus,Plantae,"",Ophioderma,t0008977
 9564f7a9-b452-413b-823e-2ae5c8f6660e,genus,Plantae,"",Ptisana,t0008985
 0be21a98-b772-42c0-ae47-559a661f9d46,genus,Plantae,"",Angiopteris,t0008984
-c27c7fa0-59d5-4e22-9ae1-b9d1c8dad5bd,genus,Plantae,"",Marattia,t0095579
 d4d1a49c-851d-46ff-a067-9454c0729c28,genus,Plantae,"",Osmundastrum,t0008988
 6d3ec509-513f-4988-885c-4720c8944a54,genus,Plantae,"",Osmunda,t0008987
 7c90c90c-8a59-41c2-9e23-1deb80200e6a,genus,Plantae,"",Claytosmunda,t0008986
@@ -1592,14 +1551,12 @@ d4d1a49c-851d-46ff-a067-9454c0729c28,genus,Plantae,"",Osmundastrum,t0008988
 14cd1aa7-1d1c-4321-9b3f-37482deff1ec,genus,Plantae,"",Hymenophyllum,t0008990
 e9fb3932-46eb-4e53-8e96-ce0953bf408d,genus,Plantae,"",Cephalomanes,t0008993
 3c6d3273-633f-46d6-bfab-4dfa27b60863,genus,Plantae,"",Abrodictyum,t0008991
-cbaa0f6a-a21e-4f00-82c9-c2cecc741544,genus,Plantae,"",Trichomanes,t0094808
 6f1fabb9-6d66-4dac-902d-492f2969e1e0,genus,Plantae,"",Callistopteris,t0008992
 d3a7636c-020b-4e5d-9601-7a59938456df,genus,Plantae,"",Didymoglossum,t0008995
 9629ae13-4b89-4b81-af6a-ad11c125bb41,genus,Plantae,"",Vandenboschia,t0008996
 7353eb9e-3e87-481d-b8bd-657595c2d813,genus,Plantae,"",Crepidomanes,t0008994
 3072ec96-7eb2-4b31-a2e1-d1f853ea0bd0,genus,Plantae,"",Diplopterygium,t0008998
 8b200899-ac23-48d0-8889-763a3782ac34,genus,Plantae,"",Dicranopteris,t0008997
-7758188e-736e-4288-aa0d-a82a679f417a,genus,Plantae,"",Gleichenia,t0094394
 84346e7f-34a6-4f96-a530-db0d9f195696,genus,Plantae,"",Cheiropleuria,t0008999
 edae016d-2565-4e56-98a9-a0eff444ae4c,genus,Plantae,"",Dipteris,t0009000
 1568e73c-9a3e-42c3-8ed5-f180f2e9dd98,genus,Plantae,"",Lygodium,t0009001
@@ -1611,12 +1568,7 @@ d6f9bcff-bc77-4966-aa66-6011e042bae4,genus,Plantae,"",Salvinia,t0009006
 73152f85-0825-4514-88e0-e10e1141a172,genus,Plantae,"",Plagiogyria,t0009007
 952223f2-5a14-4d8b-adb4-6d0dd184a46e,genus,Plantae,"",Cibotium,t0009010
 b2e67ac8-c2c9-4ace-82b2-cc1ac0939542,genus,Plantae,"",Alsophila,t0009008
-59ea018e-ef7e-4a82-a462-7e7c77fbd65c,genus,Plantae,"",Cyathea,t0095326
-92a5d8ed-237a-4336-9af1-d4658c10d9f9,genus,Plantae,"",Gymnosphaera,t0106928
 b99ef3c4-233a-4947-899e-66ba6a77a605,genus,Plantae,"",Sphaeropteris,t0009009
-7de14727-8344-4eae-be67-c221db6d09b5,genus,Plantae,"",Dicksonia,t0095789
-6414646d-64ac-4432-b217-5cd07920041f,genus,Plantae,"",Lonchitis,t0095551
-3004cd94-183f-4539-8ed2-d40da12c9591,genus,Plantae,"",Sphenomeris,t0094704
 e6aa46cd-bdea-4bdd-95ff-2d9d5419ea13,genus,Plantae,"",Odontosoria,t0009012
 70a84aaa-9c19-4d5d-81bc-f108d34d67fb,genus,Plantae,"",Osmolindsaea,t0009013
 b30c54f0-67b1-4acd-96c0-2e144b8cbf6a,genus,Plantae,"",Tapeinidium,t0009014
@@ -1636,12 +1588,10 @@ e7f38cf3-1f9d-47de-89b6-37bfa08fc42a,genus,Plantae,"",Anogramma,t0009019
 cfe46c05-42f9-437b-9eeb-1a350a65b68c,genus,Plantae,"",Onychium,t0009020
 180814a7-4b38-4b31-baff-93c4c68056b4,genus,Plantae,"",Pityrogramma,t0009021
 16b17bfe-3a3f-4525-98ed-c013be82f08b,genus,Plantae,"",Pteris,t0009022
-b42c1bb4-0cb0-402b-8dea-c2e6ce7cba0c,genus,Plantae,"",Taenitis,t0094752
 f93a4d8d-308d-44ad-b67d-ae1ae662d7ff,genus,Plantae,"",Aleuritopteris,t0009023
 9a9b753b-6e8f-4b73-92e7-1df360eb3576,genus,Plantae,"",Cheilanthes,t0009024
 eb1bbe5b-8272-4fdf-aac4-4cf084a35a95,genus,Plantae,"",Doryopteris,t0009025
 1b011310-3154-4fbb-8381-0690ecd66fe2,genus,Plantae,"",Hemionitis,t0094471
-f64ef073-4fc8-4e31-8298-308654ddf86d,genus,Plantae,"",Mildella,t0102188
 d1f61edd-0dcb-4e2e-99b2-1a85c23560aa,genus,Plantae,"",Paragymnopteris,t0009026
 225f61a6-b54c-4b81-893f-3604b8506e64,genus,Plantae,"",Adiantum,t0009028
 ff80972c-91e6-467d-9f5a-57094ed7ff2d,genus,Plantae,"",Antrophyum,t0009029
@@ -1665,7 +1615,6 @@ cdb0f6ed-4764-444e-b193-5dae5699e4b1,genus,Plantae,"",Coryphopteris,t0009089
 44d4dc7e-0bdb-40c7-b3b1-9a091df01a83,genus,Plantae,"",Cyclogramma,t0009090
 06e41828-ec20-4155-9eaf-9583d6de15d1,genus,Plantae,"",Glaphyropteridopsis,t0009092
 763b96aa-3ff3-427b-834a-dad8985fbc1c,genus,Plantae,"",Metathelypteris,t0009094
-e7cc0edc-3985-48fe-9905-3755c5bfd418,genus,Plantae,"",Parathelypteris,t0102206
 fbd5fbc7-f78d-421f-94e2-eb48c331ede1,genus,Plantae,"",Pronephrium,t0009096
 0836fd3d-7408-4de0-9598-246a5b6a4d8d,genus,Plantae,"",Stegnogramma,t0009099
 db06cf25-4076-414a-af9e-e6665f795a46,genus,Plantae,"",Pseudocyclosorus,t0009097
@@ -1674,13 +1623,10 @@ f794c8e5-9469-4aa5-b986-6b6555c8e2e3,genus,Plantae,"",Rhachidosorus,t0009079
 f72f7584-ab96-4d07-9674-d66926299f00,genus,Plantae,"",Pentarhizidium,t0009105
 777ea8fb-4b9d-4fdc-9c6c-d63c64d101da,genus,Plantae,"",Woodwardia,t0009106
 dd7f2636-12ff-4766-a06a-31122738594e,genus,Plantae,"",Brainea,t0009109
-d248b0f5-b997-4403-b8fe-2fa993cee33c,genus,Plantae,"",Blechnum,t0091864
 cb1b97cc-c066-4743-a77f-afb54c38bc2a,genus,Plantae,"",Blechnidium,t0009107
 5c48ec42-b989-4784-b91c-ef796ae7c00b,genus,Plantae,"",Blechnopsis,t0009108
 c19340b5-6b12-456a-9a1b-408889d11455,genus,Plantae,"",Cleistoblechnum,t0009110
 46aa4ef6-9940-4f5b-86e5-1a094b64083b,genus,Plantae,"",Diploblechnum,t0009111
-916cd583-370a-4fc4-9e11-f90b916c11c0,genus,Plantae,"",Struthiopteris,t0094739
-9e7257b2-3719-446b-ae0d-258b5099f7a1,genus,Plantae,"",Anisocampium,t0091762
 1be5892b-2a4d-4507-aa32-134b042d2cec,genus,Plantae,"",Athyrium,t0009102
 7b6e3141-0eaa-47de-a9ff-cf9a828664c2,genus,Plantae,"",Cornopteris,t0023560
 921130f5-287b-4c43-9585-b5b7d681375f,genus,Plantae,"",Deparia,t0009103
@@ -1689,16 +1635,12 @@ c19340b5-6b12-456a-9a1b-408889d11455,genus,Plantae,"",Cleistoblechnum,t0009110
 0475737b-e9b1-45a2-a1d0-20f7a69fc234,genus,Plantae,"",Leucostegia,t0009040
 b040ffdb-a326-4084-9d79-d5c16192297f,genus,Plantae,"",Arachniodes,t0009045
 34107b1d-f6a1-4a82-a6be-939eb77f3352,genus,Plantae,"",Ctenitis,t0009046
-a6f383e4-f4f3-441f-9503-7c787a9cc714,genus,Plantae,"",Cyrtogonellum,t0095345
 2d2e685d-5c16-4bad-b59c-8dbde229b826,genus,Plantae,"",Cyrtomium,t0009047
 5d13d7ad-f525-4e28-9ccf-02577051e2e2,genus,Plantae,"",Dryopteris,t0009048
 e3b1122a-72dc-4f1f-b598-dde652f99901,genus,Plantae,"",Polystichum,t0009049
 0d57b726-a080-4773-adf2-1c46ce6cecd5,genus,Plantae,"",Bolbitis,t0009041
 25ac53e4-e2b5-488a-9243-8ff3d5bb06ae,genus,Plantae,"",Elaphoglossum,t0009042
 8d7c42a8-97e7-405b-80dc-a3e422d80bcb,genus,Plantae,"",Lastreopsis,t0009043
-3f241cea-0223-4547-8fae-4d9804101c44,genus,Plantae,"",Olfersia,t0095707
-7e7ba8ff-8925-42b2-a9ba-a108eb2b2d9b,genus,Plantae,"",Polybotrya,t0095435
-92ae4f48-d84a-40f1-8606-6dc6dbae98fa,genus,Plantae,"",Rumohra,t0095537
 7659370f-867b-4fa6-912a-04edd65414e2,genus,Plantae,"",Pleocnemia,t0009044
 cd668300-6990-4365-93c8-2071bbc8c76f,genus,Plantae,"",Lomariopsis,t0009050
 1bf1e597-e86a-4c25-aa6a-e2a4e2fde4ae,genus,Plantae,"",Nephrolepis,t0009051
@@ -1717,30 +1659,22 @@ f496a2f8-8a43-43cf-a381-dd9cb5223b5d,genus,Plantae,"",Selliguea,t0009059
 d2ba0a5b-8dd4-45fa-bd2c-52bff3a75224,genus,Plantae,"",Platycerium,t0009060
 a80ce1db-60e5-45a0-8b83-c43f41e4b95f,genus,Plantae,"",Pyrrosia,t0009061
 8fd54113-886e-49c6-b71d-a9462e0deea3,genus,Plantae,"",Goniophlebium,t0009062
-7c6dd89d-b48b-4f5b-ba6c-f3bcdb148747,genus,Plantae,"",Lecanopteris,t0094582
 2cc19736-2dd9-4ca3-acc0-491a74aeccfa,genus,Plantae,"",Lemmaphyllum,t0009063
 b87fb690-2f5c-462e-b1c3-528a50bd2f3d,genus,Plantae,"",Lepisorus,t0009064
 81dda6d9-2440-48ab-b7ee-ad3b953015c5,genus,Plantae,"",Leptochilus,t0009065
 be6f3dfe-8c70-4865-a08b-51bfea0f57da,genus,Plantae,"",Microsorum,t0024292
 7a1f1b64-c4a3-491b-86a6-7b81cbd0cc16,genus,Plantae,"",Neocheiropteris,t0095680
 83ae3751-699d-4cf1-88ee-063fc6e0129d,genus,Plantae,"",Neolepisorus,t0009066
-56b211c4-f1f8-4324-9d72-1e5f05de8c20,genus,Plantae,"",Phymatosorus,t0102172
-c95927ff-2c97-4dd4-bb84-6b59b1d3e84f,genus,Plantae,"",Tricholepidium,t0102182
-cfe94e0d-915c-4689-b238-7fcc1ef353bd,genus,Plantae,"",Pleopeltis,t0095416
 da86bb31-b1cb-4c2d-b549-51612d1d2875,genus,Plantae,"",Polypodium,t0095441
 26e69e63-dab0-4ab9-888d-31e8ae5c0ef1,genus,Plantae,"",Calymmodon,t0009067
-1690ba2e-0a8f-419d-b309-a752fdc14deb,genus,Plantae,"",Chrysogrammitis,t0009068
 a187cec1-3cbe-494b-9bb1-44c47ee98e98,genus,Plantae,"",Ctenopteris,t0095318
 171e3bc5-9337-4bf4-bf84-166d987aadc6,genus,Plantae,"",Dasygrammitis,t0009069
 e55fee57-5439-4c41-8fbb-8dfdabd65346,genus,Plantae,"",Grammitis,t0094411
 29925529-b066-4863-b373-30128e0f2e76,genus,Plantae,"",Micropolypodium,t0009070
 fa0b3517-0a6f-49c7-8ed6-f151e1369d97,genus,Plantae,"",Oreogrammitis,t0009071
 c2f83799-d3ac-47a8-b18d-db62ec17df1f,genus,Plantae,"",Prosaptia,t0009072
-1cfb0ee6-fdf3-434c-95c2-95cae7c0ece8,genus,Plantae,"",Radiogrammitis,t0095493
-3e38b967-1612-4e42-a895-4a8bc947cdf8,genus,Plantae,"",Themelium,t0102181
 874031b5-a97f-4487-b4b2-1c0165fd5f4e,genus,Plantae,"",Tomophyllum,t0009074
 94eb912c-d05f-4a97-9840-181228178765,genus,Plantae,"",Xiphopterella,t0009075
-9db10a56-f5c7-4bda-826a-9f6e21f13e93,genus,Plantae,"",Pichisermollodes,t0102173
 09f3f09e-524e-47f8-af1c-530529390ea9,genus,Plantae,"",Scleroglossum,t0009073
 b17ec981-fd38-4375-b155-3f8b238c4faa,genus,Plantae,"",Cycas,t0023604
 aa0971c8-cb67-4f2c-ba71-a5ceb168e67a,genus,Plantae,"",Macrozamia,t0025763
@@ -1767,7 +1701,6 @@ fb698409-95f4-4af4-a724-1f23984cc6b6,genus,Plantae,"",Nageia,t0009113
 983406a4-7428-4d3f-a165-bf04cb2d9311,genus,Plantae,"",Cryptomeria,t0002524
 4b988583-a3b3-4c07-bc50-79443261c3de,genus,Plantae,"",Glyptostrobus,t0025691
 971626e8-84f2-4fc6-b504-5afc5e316fa9,genus,Plantae,"",Taxodium,t0024947
-b10f2372-3985-495c-b717-ddd235a796ac,genus,Plantae,"",Libocedrus,t0094611
 2753fd7c-23c1-404b-9818-e32bf607c713,genus,Plantae,"",Callitris,t0025582
 7ec8d8f8-ac2e-4959-989c-370325aa02ee,genus,Plantae,"",Thujopsis,t0025922
 49582ee3-1027-4771-9e15-1103d1e065a2,genus,Plantae,"",Thuja,t0024991
@@ -1803,12 +1736,9 @@ e333bfc2-4bba-4e5f-a96a-a49da762935b,genus,Plantae,"",Artabotrys,t0023228
 a78a9d22-a0bc-4ea8-b035-bd68576af0e0,genus,Plantae,"",Fissistigma,t0023847
 0a2d8c64-6062-4ba4-b3d4-2ce483ce4eb5,genus,Plantae,"",Goniothalamus,t0023926
 a0f294fd-697b-4453-af15-fede15da7eac,genus,Plantae,"",Polyalthia,t0024583
-53dd1c5f-cb38-40e5-83e7-32bc08023758,genus,Plantae,"",Xylopia,t0094877
-212caf6f-9340-49f4-b7c4-726047175631,genus,Plantae,"",Uvaria,t0094843
 24863abd-29a3-468c-ba7c-c111f5161c00,genus,Plantae,"",Annona,t0023180
 19ca815c-e287-4993-8eeb-a8e0ad51aab4,genus,Plantae,"",Rollinia,t0024719
 3145744d-bc0b-4104-b380-1b5cb97338ed,genus,Plantae,"",Cananga,t0025583
-b5e2f75b-1878-4ca7-a8a6-e50649e496a0,genus,Plantae,"",Asimina,t0091812
 87464265-fde3-47d2-aef6-6ea354dd3201,genus,Plantae,"",Hernandia,t0023993
 cffee196-335e-4ada-a916-07c4929e2acb,genus,Plantae,"",Illigera,t0024061
 665dcbc2-3638-4d58-bf90-945306d57ec6,genus,Plantae,"",Beilschmiedia,t0023272
@@ -1866,7 +1796,6 @@ fc0b25ea-5e97-489d-91af-c0ebf3d56a3a,genus,Plantae,"",Alisma,t0023138
 06733f59-24f3-4bad-8501-afa03c81e9be,genus,Plantae,"",Echinodorus,t0023747
 3e806608-23f4-40ae-9589-0e49db89cff0,genus,Plantae,"",Hydrocleys,t0002537
 0a5cf025-02ae-41ee-9a6b-acaddec8e77d,genus,Plantae,"",Sagittaria,t0024741
-8d3a9909-c5d3-4873-83c2-e2600b79dbc6,genus,Plantae,"",Damasonium,t0095359
 dd082358-8a5b-4947-8453-b6c9408359dc,genus,Plantae,"",Limnocharis,t0002538
 b774ff22-f161-4122-8cdb-35cea02fd057,genus,Plantae,"",Blyxa,t0023293
 d380c3ab-42ae-4830-a72d-b98e8f1ff49b,genus,Plantae,"",Egeria,t0002539
@@ -1877,7 +1806,6 @@ fe3cc01b-4843-478f-86ad-0b409e87c4f5,genus,Plantae,"",Najas,t0002541
 071582a6-2011-41b9-b4d3-41956126e5bd,genus,Plantae,"",Ottelia,t0024431
 90966a28-f31f-4480-b26e-02a94d48b879,genus,Plantae,"",Thalassia,t0024974
 e842966b-ea10-4701-868a-4ed6079f86b3,genus,Plantae,"",Vallisneria,t0025082
-913877f9-f437-44e4-acfc-e06234635f5f,genus,Plantae,"",Elodea,t0095860
 7179c5c8-89e7-4097-92f9-e5cd2e26db28,genus,Plantae,"",Limnobium,t0002540
 4765c921-135c-4d28-89f4-da6985033d02,genus,Plantae,"",Aponogeton,t0023201
 31c7800d-87d1-4d27-8d2b-223bb6d49d26,genus,Plantae,"",Zostera,t0025148
@@ -1890,7 +1818,6 @@ ecdd671e-bf84-469f-a639-48ff2e320f62,genus,Plantae,"",Halodule,t0002546
 fd553c48-40cf-418b-82d4-e590d01b2d6b,genus,Plantae,"",Syringodium,t0002545
 55e6c763-c635-4d0b-83a1-fbd984f6fad8,genus,Plantae,"",Petrosavia,t0024495
 c5e40bb9-1597-41c0-8889-2d86bfb1648d,genus,Plantae,"",Aletris,t0002547
-1ff09a2d-b2b4-41c9-afb2-ef511f89fa86,genus,Plantae,"",Metanarthecium,t0095622
 15c62d97-d1df-488d-bde5-aae032f0b35b,genus,Plantae,"",Burmannia,t0023342
 cfc39178-27c0-4fbc-8d92-d1c44e0bf94f,genus,Plantae,"",Gymnosiphon,t0023947
 a304884b-79ca-4c64-a0bc-e0f3aa9e8a82,genus,Plantae,"",Thismia,t0024984
@@ -1901,7 +1828,6 @@ eaa66d53-94c2-456c-aeb7-5300594d2f91,genus,Plantae,"",Stemona,t0024892
 59ff0df7-7b7a-4ade-8f86-563c4040daa7,genus,Plantae,"",Carludovica,t0023392
 6e21ab2b-0ebc-4b2a-bd1e-7c9446473819,genus,Plantae,"",Freycinetia,t0023863
 341bc63e-3a2f-4e25-9a1b-09e26015ed63,genus,Plantae,"",Pandanus,t0024448
-fff49c1b-33c8-4df3-8d06-c4646a642104,genus,Plantae,"",Heloniopsis,t0094465
 a40dd01f-7712-49b6-9084-ac415551f492,genus,Plantae,"",Helonias,t0002550
 9fd0ff13-5281-4bda-ac03-42a09f093101,genus,Plantae,"",Paris,t0002551
 05ddf860-07ae-4989-8a6c-5c86d393ea41,genus,Plantae,"",Trillium,t0002552
@@ -1953,7 +1879,6 @@ d97dd0f7-d338-465c-800a-fc1013119f13,genus,Plantae,"",Dactylorhiza,t0023630
 eb6c1685-61a2-4b39-bfd7-403a82697e76,genus,Plantae,"",Dendrochilum,t0023650
 bed9644b-ec3e-4ae5-ad53-01830dbb90eb,genus,Plantae,"",Didymoplexiella,t0023689
 10354697-f727-4160-80fd-271d12181091,genus,Plantae,"",Didymoplexis,t0023690
-2ff82790-1f57-461d-89b9-3f81014980d4,genus,Plantae,"",Dienia,t0023692
 73698c23-88c7-4c96-b1ac-c222bd74e2be,genus,Plantae,"",Diploprora,t0023709
 dd84678a-db10-4d30-b0e9-9b5bffb206cc,genus,Plantae,"",Disperis,t0023711
 2dcb9a4a-d7bf-4c95-9f03-0838a307586d,genus,Plantae,"",Epidendrum,t0023780
@@ -1962,11 +1887,8 @@ cb353326-3844-41f0-a0d3-19d5364ada6b,genus,Plantae,"",Epipactis,t0023782
 e20d7cbe-274c-4ad6-a2f2-100d186d9a99,genus,Plantae,"",Eria,t0023792
 23a03a09-f42f-41ae-b450-6328c097b444,genus,Plantae,"",Erythrodes,t0023805
 542661d1-16d4-4e4d-a6f3-f03c3e4b1494,genus,Plantae,"",Erythrorchis,t0023807
-e0c57a80-0a6b-4398-8a6e-71d98e7707dd,genus,Plantae,"",Eucosia,t0023814
 3b9757b1-627b-4d8c-bcc8-9fe28e0a43e1,genus,Plantae,"",Eulophia,t0023819
-9b377d55-738a-43f9-87e5-d6136fef6baf,genus,Plantae,"",Flickingeria,t0023853
 32a4c823-58c8-4116-88e8-184e2fa19356,genus,Plantae,"",Gastrochilus,t0023881
-ab08983a-ded7-4968-86f4-6abce8b1391b,genus,Plantae,"",Galeola,t0023873
 5b29966d-5995-4cde-811b-226b6fa9b8d4,genus,Plantae,"",Gastrodia,t0023882
 810623e6-84df-4eca-89c2-2305975b70fe,genus,Plantae,"",Goodyera,t0023930
 68c9d1bb-d08b-492a-936b-f3c7e9ae1c7e,genus,Plantae,"",Habenaria,t0023955
@@ -2002,7 +1924,6 @@ a2416cd5-5884-4666-87e0-a5989ea1bbcd,genus,Plantae,"",Platanthera,t0024557
 3b2dbc1b-6219-4662-b14a-7359641e51f6,genus,Plantae,"",Pleione,t0024561
 33d0016c-bd79-4c3b-afaa-6f7365613450,genus,Plantae,"",Pogonia,t0024578
 cbd4d222-c4a1-4346-b1e0-078c7db18905,genus,Plantae,"",Pomatocalpa,t0024596
-8b340626-141c-44d0-a4ff-5d4547fef11f,genus,Plantae,"",Pseudoliparis,t0024628
 d0a8bb96-66fa-45d5-9fad-b8ebb5fdd10e,genus,Plantae,"",Rhomboda,t0024704
 64fdff0c-91b7-4894-a678-491e5e8ccd1c,genus,Plantae,"",Saccolabiopsis,t0024738
 7efc7e99-83be-45e6-ab4b-73e0a7a8e543,genus,Plantae,"",Schoenorchis,t0024787
@@ -2011,7 +1932,6 @@ bf920526-2976-4b7a-acf1-ab153730bd4a,genus,Plantae,"",Spiranthes,t0024871
 9e0920bc-8859-4498-b25b-c6bc01dd37dd,genus,Plantae,"",Stereosandra,t0024900
 1247bb5f-c13e-4dde-ad5f-ad3baa50db54,genus,Plantae,"",Stigmatodactylus,t0024905
 9fe39faf-911c-45a1-a693-96d8c82192ce,genus,Plantae,"",Taeniophyllum,t0024936
-01aa06fa-ff64-4c2f-ad7a-5973ae09f062,genus,Plantae,"",Microtatorchis,t0024295
 06218678-10c3-4dd8-8e22-e6fcf65c7e15,genus,Plantae,"",Tainia,t0024938
 892dcabf-2868-4d4e-a4e2-522d6fb0c22f,genus,Plantae,"",Thelasis,t0024979
 812a9b71-6cd0-45b8-bbe3-8993f395d553,genus,Plantae,"",Thrixspermum,t0024988
@@ -2025,31 +1945,19 @@ e93265c1-eb40-4c7a-b726-2471effd712f,genus,Plantae,"",Vrydagzynea,t0025102
 4a5d39ee-b712-4a09-aada-2cb3c2200982,genus,Plantae,"",Yoania,t0025128
 2ccf60af-2743-4a1c-bfab-11a036660997,genus,Plantae,"",Zeuxine,t0025140
 9609828e-7afe-4f3e-8b3d-9c730137cae4,genus,Plantae,"",Angraecum,t0025541
-b2673fb2-5cf2-4b88-9db2-cc87d069444f,genus,Plantae,"",Bletia,t0091866
 b70d84f5-8f5e-4e59-b1c4-a71d8d9db8d6,genus,Plantae,"",Catasetum,t0025589
-cc6dc718-778c-44e7-af50-b003589de889,genus,Plantae,"",Corallorhiza,t0095293
-bacd5364-8080-4ee1-94a6-ac8760490824,genus,Plantae,"",Maxillaria,t0095591
 6367c241-3247-4e7c-b035-5ee0ba1853ba,genus,Plantae,"",Oncidium,t0024406
-5d42cb45-f14e-4d14-bda0-982cb9f6f50f,genus,Plantae,"",Orchis,t0095721
 755644f4-3a58-451b-847e-4218ef6bb732,genus,Plantae,"",Aerides,t0091987
-b063ff80-ddb3-48e4-8708-8459f6e94768,genus,Plantae,"",Ascocentrum,t0106588
 2990f710-17c9-4b5a-b0c5-68514225d3b0,genus,Plantae,"",Brassia,t0025571
 d6f16a2f-ccee-4f77-9148-ae151d07ab56,genus,Plantae,"",× Brassocattleya,t0025573
 2680221a-8700-42ac-b78d-7b660a7f78fb,genus,Plantae,"",× Brassolaelia,t0025574
 889f9d13-251e-4652-b08d-3ab73eb2b602,genus,Plantae,"",× Brassolaeliocattleya,t0025575
-e3c08324-f10e-45a8-b4a4-e571d0f34a31,genus,Plantae,"",Chamaeanthus,t0023442
-0c7bd7ef-a57e-466b-9eb9-2762a1ee4e38,genus,Plantae,"",Coeloglossum,t0023532
 ad1b66fd-6def-4d2d-a2ee-c296360db7bd,genus,Plantae,"",Coelogyne,t0095275
-2848590f-5638-424d-94a3-4d5bf1aae1ec,genus,Plantae,"",Didiciea,t0023685
 32e8113f-0b5f-4f96-91db-825dbcd98d58,genus,Plantae,"",Dimorphorchis,t0025641
 8f47e7db-c082-434e-8a89-90c2a27b3475,genus,Plantae,"",Doritis,t0025645
-087ba7b7-f2b0-403e-aed9-04091d95b2f0,genus,Plantae,"",Ephemerantha,t0025660
-837c263a-9c68-402f-8dfb-ec713f40f64d,genus,Plantae,"",Epigeneium,t0106590
-828b03e7-4355-4a9b-8a3b-db76765ab52c,genus,Plantae,"",× Epiphronitis,t0025661
 d4cd79ab-15c3-4350-9b87-5f1b6aefb52a,genus,Plantae,"",Grammatophyllum,t0025694
 09980b52-59cf-4f6d-ad44-86ad0fb491d6,genus,Plantae,"",Kingidium,t0025732
 0a154352-bbe7-4a7f-8725-57c5109efd23,genus,Plantae,"",Laelia,t0094571
-2c9c38f3-0c67-4dfd-8724-d0268ff4bcbb,genus,Plantae,"",Myrmechis,t0025778
 976d944c-69f3-4948-9526-4eb417a45a4c,genus,Plantae,"",Neofinetia,t0024358
 a9c2e026-6d1b-4efd-869b-0f7aa04daabf,genus,Plantae,"",Paphiopedilum,t0025813
 da77bede-be43-4b4a-9f36-db4f58ee2015,genus,Plantae,"",Paraphalaenopsis,t0025814
@@ -2058,41 +1966,11 @@ da77bede-be43-4b4a-9f36-db4f58ee2015,genus,Plantae,"",Paraphalaenopsis,t0025814
 a174b90d-b247-4d8e-b28d-2f718a4d7c22,genus,Plantae,"",Renanthera,t0025861
 8f12b1bf-8e83-40db-a4f0-5968f0ad0d30,genus,Plantae,"",Rhynchostylis,t0025867
 6a162ee1-c125-439e-8c14-bf7a7f294684,genus,Plantae,"",Stanhopea,t0025898
-7032f85a-ae0d-43f9-84b0-10859da6d336,genus,Plantae,"",Tulotis,t0025064
 18e1a9b1-137d-4826-956e-5c19d1baf556,genus,Plantae,"",× Vandanthe,t0025939
 df15b202-e8ca-43b1-af69-05e1ac67877a,genus,Plantae,"",Vandopsis,t0025940
 ca0302e8-042c-4ddb-bacc-61743ee2a7ae,genus,Plantae,"",Vexillabium,t0025095
-f50bc0f5-5461-4719-970a-23ec04d9feac,genus,Plantae,"",Podochilus,t0095426
 91ae45bc-4cde-498c-88a7-8ff08aa0ba75,genus,Plantae,"",Ludisia,t0024195
-f812b870-b9ca-42c6-8862-e1f1ef3c7f17,genus,Plantae,"",Cirrhopetalum,t0095266
-790aa1e1-3082-4563-92ef-aa769171a829,genus,Plantae,"",Microstylis,t0095631
-ed8ec08e-27d2-4091-9fdc-895ee1e396ad,genus,Plantae,"",Zosterostylis,t0094888
-8c79f807-1a6f-4c1c-b5ba-8b31e937f691,genus,Plantae,"",Liuguishania,t0095547
-09846ed3-2498-4898-9b5a-d302c100abde,genus,Plantae,"",Leucolena,t0094608
-97c358c0-83cd-4e7e-9783-1168b65149ed,genus,Plantae,"",Epiphanes,t0095874
-51c74d9e-05e0-43ef-983a-aa28381b1574,genus,Plantae,"",Cottonia,t0095305
-e11391b3-4c5b-4144-97ee-3d0c15a0c93d,genus,Plantae,"",Limodorum,t0094619
-f314a679-bb4a-455a-9f6c-c76a2fa98df4,genus,Plantae,"",Trichosma,t0094810
-20d6374b-def8-4c22-a9f6-d2262b2b87a4,genus,Plantae,"",Physurus,t0095396
-068fae55-710b-4a81-b350-96cc7c0cb187,genus,Plantae,"",Cyrtopera,t0095346
-a1390c3d-868a-485c-9754-3fb7ab8e4698,genus,Plantae,"",Saccolabium,t0094621
-3231e560-3ca5-4e32-b3b1-0e7c0fc1aa40,genus,Plantae,"",Georchis,t0094386
-cea9d656-f6ee-4f2c-bb6e-b6647b107e8c,genus,Plantae,"",Adenostylis,t0091982
-8c5e912a-77f9-4b8c-8d49-82684e89be68,genus,Plantae,"",Dicerostylis,t0095784
-46dd6cb9-2d19-4029-9e9a-5be8b436aa65,genus,Plantae,"",Hippeophyllum,t0094484
-cecd0d43-2e19-413c-8fa1-e39889336111,genus,Plantae,"",Apaturia,t0091777
-5abd66cb-991e-43c6-9846-6779ad1a450f,genus,Plantae,"",Glossula,t0094399
-f9dee32e-76f5-4e7d-9214-ff0f10a3d747,genus,Plantae,"",Conchidium,t0023550
-36beeec5-82cc-4a7e-b82a-fea8217e02c1,genus,Plantae,"",Gymnadenia,t0094425
 8a55c247-e071-4278-a09c-30c9c74ece12,genus,Plantae,"",Sunipia,t0106589
-8a55c247-e071-4278-a09c-30c9c74ece12,genus,Plantae,"",Sunipia,t0106955
-a6b87d2b-0f07-47ea-be54-e144b3bd7209,genus,Plantae,"",Sarcochilus,t0094634
-640780f1-fbe0-4b15-b2d1-327c7e51d982,genus,Plantae,"",Euproboscis,t0095888
-2cb06f01-fea6-42ff-8c31-e1eba2c97ef5,genus,Plantae,"",Ascochilus,t0091808
-1d3edf76-f4f6-4560-90b0-9c888ec39609,genus,Plantae,"",Dendrocolla,t0095368
-70f9e435-6935-434c-80b8-7235777db35b,genus,Plantae,"",Kuhlhasseltia,t0024106
-ac60d092-cd62-4514-8424-53ba19386504,genus,Plantae,"",Pristiglottis,t0095454
-0e8c570c-e1f4-4088-93f9-650d08896b53,genus,Plantae,"",Monochilus,t0095647
 0302c98d-3622-4ef3-ac9b-f4407d936369,genus,Plantae,"",Curculigo,t0023596
 74bbca0a-1209-4211-9d0d-aa35e6c1f658,genus,Plantae,"",Hypoxis,t0024057
 6f1ab26a-6c48-481e-8605-aa65293c4b78,genus,Plantae,"",Molineria,t0095641
@@ -2149,7 +2027,6 @@ a92575da-7677-4ee5-a0e5-336fffde3447,genus,Plantae,"",Polygonatum,t0002572
 14b7dc54-5457-4b7b-ae2e-317be26c9a9d,genus,Plantae,"",Yucca,t0002563
 5e1bf6de-a38b-44ea-a1b0-05f8facf652a,genus,Plantae,"",Brodiaea,t0025576
 e42238e5-a14d-40a9-b7da-87573baabcb1,genus,Plantae,"",Furcraea,t0023868
-83573763-f403-41b7-97ed-c91202abdda2,genus,Plantae,"",Nolina,t0024385
 f665a2cd-c586-453a-856f-4ec65199bea3,genus,Plantae,"",Convallaria,t0025616
 f46b4baf-a7ee-4f21-85fa-675453445dd8,genus,Plantae,"",Eucomis,t0025671
 c201b3a6-e9e7-4dd7-b1be-40a4a16a5f67,genus,Plantae,"",Hosta,t0025716
@@ -2180,7 +2057,6 @@ dc20c3ad-162b-4639-99eb-725239a8a350,genus,Plantae,"",Chamaerops,t0023447
 f7e9d6a7-8bb1-4778-8287-daede8e05d0a,genus,Plantae,"",Dictyosperma,t0023681
 7ba80061-9bfb-404b-8e39-3acaa1686d7e,genus,Plantae,"",Dypsis,t0025649
 63cae139-97b4-431e-9dda-6cf6b10edd35,genus,Plantae,"",Elaeis,t0023754
-34b5a799-b440-44a7-8c2e-f9c815a8d080,genus,Plantae,"",Euterpe,t0095891
 d329324c-4656-4fef-9713-8c04a5c59778,genus,Plantae,"",Hyophorbe,t0025723
 cfcb5926-1a60-48bd-af86-6fa68b9ceb4c,genus,Plantae,"",Licuala,t0024169
 26b8fe75-b0be-451e-b616-26c5600513bc,genus,Plantae,"",Livistona,t0024182
@@ -2201,13 +2077,11 @@ cfd56781-4bfd-4282-a14e-2d17f0c9c165,genus,Plantae,"",Pinanga,t0024536
 0dfbc172-99bc-4649-9fa9-7b506d4317d8,genus,Plantae,"",Arikuryroba,t0025551
 bdfc30bc-1066-431f-8b46-6b81b2cf2423,genus,Plantae,"",Bentinckia,t0025561
 64636fd0-2345-47d7-9282-8728dd404f82,genus,Plantae,"",Borassus,t0025567
-dde2339e-27cc-4a66-813f-3aef9aa24c57,genus,Plantae,"",Collinia,t0023539
 ea1b71b9-65d4-47ad-b9dc-9948cbde614d,genus,Plantae,"",Corypha,t0095302
 5908b695-82ba-474f-b811-31a8a18b7280,genus,Plantae,"",Howea,t0025718
 53a7610b-9572-4218-b460-231c4e832977,genus,Plantae,"",Hyphaene,t0025724
 831db6d6-3018-4e2f-bdf5-6f6cc234549b,genus,Plantae,"",Jubaea,t0025729
 d894bb4a-5da5-447a-ab6d-ffdb29fccd96,genus,Plantae,"",Latania,t0025741
-1fe1eaec-8ec5-4803-a3ae-eab05acc31e5,genus,Plantae,"",Neodypsis,t0024357
 fedd4a94-e8b5-4c97-a0f0-06ee5ba9bf7e,genus,Plantae,"",Orbignya,t0025801
 967aed62-8038-433a-9037-edbdce434d1a,genus,Plantae,"",Paurotis,t0025816
 7463bc08-970e-4fb6-933b-ec1732abee9b,genus,Plantae,"",Pritchardia,t0025843
@@ -2218,7 +2092,6 @@ eb820a3e-608f-46da-bc29-e3c40ad4e3d8,genus,Plantae,"",Reinhardtia,t0025860
 fb65ef23-d6b7-47dd-a872-04c404e57b70,genus,Plantae,"",Trachycarpus,t0025926
 7228b114-9924-4b5d-9f3b-b21cfefcc594,genus,Plantae,"",Bismarckia,t0025564
 c8bd2289-6564-4456-970f-cec545bdfcdd,genus,Plantae,"",Amischotolype,t0023155
-06eae701-70b2-4ba8-a60e-6c4e448ac288,genus,Plantae,"",Aneilema,t0091756
 994d97a1-4da9-4a16-9ae2-00268af531d6,genus,Plantae,"",Belosynapsis,t0023274
 d4d34e54-1805-4819-9d0c-e1e55e026fe4,genus,Plantae,"",Callisia,t0023359
 ad15cbdd-cfe4-4a67-bbb6-f824e1af3c15,genus,Plantae,"",Commelina,t0023547
@@ -2231,13 +2104,10 @@ b21a3a6d-62f9-4b24-b1f6-ee84586cc80f,genus,Plantae,"",Rhopalephora,t0024705
 418f636d-8122-4ad5-ac81-f2b0fe67c7bc,genus,Plantae,"",Tradescantia,t0025020
 a4b7052e-2d20-4ce3-a443-d3efde058a7c,genus,Plantae,"",Dichorisandra,t0025639
 59ec2483-940f-4f30-9514-a16b0bfb5359,genus,Plantae,"",Geogenanthus,t0025685
-2619aea5-3e99-41bb-99e8-e8b211f8b052,genus,Plantae,"",Setcreasea,t0094677
 0a28561f-32c1-4995-8d44-b900d0c2fb50,genus,Plantae,"",Siderasis,t0025889
 0545ca09-3187-4998-b11c-465ca5058d79,genus,Plantae,"",Tinantia,t0025924
 75162905-0008-4620-b39f-0b6b3b3e3667,genus,Plantae,"",Philydrum,t0024511
 64edd78a-2887-4e29-ae52-519228a5d7c7,genus,Plantae,"",Eichhornia,t0023752
-fd5fb76e-f7c7-47c1-9c6e-a2ed2f95023f,genus,Plantae,"",Heteranthera,t0094477
-bdee11fc-3c98-4def-8406-0acaf5fcca3c,genus,Plantae,"",Monochoria,t0024318
 388263c0-1a53-466b-954a-5eb56f9f42a3,genus,Plantae,"",Pontederia,t0095445
 ca670edb-1be4-44a5-abc4-1bc930d83595,genus,Plantae,"",Canna,t0023381
 234da348-f9f1-41b3-8a27-6ecc3fb636c0,genus,Plantae,"",Costus,t0002574
@@ -2258,9 +2128,7 @@ b8bc5999-3553-4ebd-8982-3ce2a6cabc23,genus,Plantae,"",Thalia,t0024975
 ccc42b71-d70d-4cc1-8e45-935c94fc2d8e,genus,Plantae,"",Curcuma,t0002575
 91a5185f-3029-4999-8e15-7d5618827361,genus,Plantae,"",Elettaria,t0025656
 6e77b10b-ef72-489f-bbff-5740f1577c24,genus,Plantae,"",Hedychium,t0023975
-321a6ffb-1b4e-4914-bd07-38bc38da535e,genus,Plantae,"",Kaempferia,t0094553
 a24ab996-db22-4046-84df-024aafb4fc1d,genus,Plantae,"",Nicolaia,t0025787
-c9a648a7-7570-4fd4-9384-fbfad5197e9a,genus,Plantae,"",Renealmia,t0095503
 c1232fc4-1b35-4d42-ae9a-3135c9636ca6,genus,Plantae,"",Vanoverberghia,t0025088
 bf30cb77-c043-497b-8d6d-147b7446555a,genus,Plantae,"",Zingiber,t0025141
 8d514efa-bc40-401b-b1b3-8a95b6627fcb,genus,Plantae,"",Sparganium,t0002576
@@ -2297,23 +2165,19 @@ a8997263-cfa0-4ee9-be2d-860510923ba4,genus,Plantae,"",Eleocharis,t0023759
 dc633d77-1090-471b-927e-1a8b45334373,genus,Plantae,"",Fuirena,t0023866
 e68b7199-73b7-4523-9429-07c87491a6cf,genus,Plantae,"",Gahnia,t0023869
 1cf893ac-df61-4615-a438-f62ccf77fe4b,genus,Plantae,"",Hypolytrum,t0024055
-88caca45-b961-4571-8a99-33d22e52b3c8,genus,Plantae,"",Kyllinga,t0094568
 b0abb2be-37d9-45ba-800c-f7877666511c,genus,Plantae,"",Lepironia,t0024140
-5fbbb340-2c2b-465d-84a3-cc81617d97ad,genus,Plantae,"",Mariscus,t0024237
 2472b95f-a179-435b-86a6-0bd69187d6c8,genus,Plantae,"",Rhynchospora,t0024710
 d5d94a57-dda1-4df4-95a7-aca6a3fbe8c1,genus,Plantae,"",Schoenoplectus,t0024786
 deec3270-5d81-4dc6-a12d-8df8a8624ef3,genus,Plantae,"",Schoenus,t0024788
 6f1dd635-400e-4293-a272-5cf6dcb46aa8,genus,Plantae,"",Scirpus,t0024795
 779f9c33-d90a-4698-b932-c3d0be25d34a,genus,Plantae,"",Scleria,t0024796
 8d4d42b3-b395-46d0-8bcb-e608c249b233,genus,Plantae,"",Trichophorum,t0025032
-e526b094-9faa-4628-9646-606cc47f83b7,genus,Plantae,"",Restio,t0095504
 0303b268-75ff-4718-9aa4-cf7788eaf87e,genus,Plantae,"",Flagellaria,t0023849
 38c21593-7565-4595-baa2-3bbdef7efbeb,genus,Plantae,"",Acroceras,t0023089
 802730c0-1846-44ce-b442-c0a79b2074db,genus,Plantae,"",Agropyron,t0023125
 229ef076-cd30-4f93-9efa-d8e2a7c40acf,genus,Plantae,"",Agrostis,t0023126
 1b99e00a-c586-4844-b8a9-caf32d5e749f,genus,Plantae,"",Alloteropsis,t0023141
 507c8af4-319f-4c68-84bb-05eec99d3c01,genus,Plantae,"",Alopecurus,t0023146
-80e1ef00-cced-468a-a962-a5785366d5b0,genus,Plantae,"",Andropogon,t0091753
 fa6da8b7-fcc8-4e9d-b1c3-f37f7ded950f,genus,Plantae,"",Aniselytron,t0023178
 464ffba5-31a8-4507-a2b9-85e935fc8c6e,genus,Plantae,"",Anthoxanthum,t0023188
 2abc486a-49d1-4dbe-945c-28152b9b6126,genus,Plantae,"",Apluda,t0023198
@@ -2413,17 +2277,14 @@ bfb9bc68-3a89-4344-b035-9cde97dd17e3,genus,Plantae,"",Phalaris,t0024506
 1b86b130-bceb-4ba8-adcc-a505c4ab82a1,genus,Plantae,"",Phleum,t0024512
 bd058e77-eaed-4ec6-ad25-0ec8232057df,genus,Plantae,"",Phragmites,t0024518
 02a52d16-4812-43e3-b141-c43319f614ef,genus,Plantae,"",Phyllostachys,t0024523
-9ab1c887-af9a-4697-ae6e-f0e6d8450378,genus,Plantae,"",Pleioblastus,t0095414
 2ea8b89f-7581-43ca-9abe-1f4caf1935ee,genus,Plantae,"",Poa,t0024575
 57740a83-3d6e-4467-bffe-b07d4d1fce0e,genus,Plantae,"",Pogonatherum,t0024576
 edc4d52e-48b2-4415-9b3d-1912ce8267d5,genus,Plantae,"",Polypogon,t0024590
 87211807-4b8c-49f2-92b5-5e27c886b26a,genus,Plantae,"",Pseudoraphis,t0024630
 9c8f7034-5f9a-416b-ab15-c7d84a75339b,genus,Plantae,"",Pseudosasa,t0024631
-0c1bc8a1-f5ae-4851-b5a7-40de622fc229,genus,Plantae,"",Rottboellia,t0024724
 0c1bc8a1-f5ae-4851-b5a7-40de622fc229,genus,Plantae,"",Rottboellia,t0104520
 e6c0a8b0-bbb5-4d0e-a5df-9f8d76aedc77,genus,Plantae,"",Saccharum,t0024735
 43ee9192-c46e-4f7a-aa56-1b9a1e2b9004,genus,Plantae,"",Sacciolepis,t0024736
-d14b5dcd-f76a-446a-924c-d17dbbf7e8ee,genus,Plantae,"",Sasa,t0094637
 9ed28688-74c0-46f1-a0c3-beeb1338366b,genus,Plantae,"",Schizachyrium,t0024777
 8e7121ff-9fe1-410f-ae6c-7f7c1a7e9e1c,genus,Plantae,"",Schizostachyum,t0024782
 07db7c44-08c6-4666-bc3d-7612d4cff281,genus,Plantae,"",Secale,t0024802
@@ -2432,14 +2293,11 @@ e761abfe-1a75-46b8-954b-92199ba496f0,genus,Plantae,"",Semiarundinaria,t0024811
 8e9514bb-0494-4b14-8d83-d0fddc48ecdd,genus,Plantae,"",Shibataea,t0024820
 b86f797a-671f-4bb9-94f3-573e19cae070,genus,Plantae,"",Sinobambusa,t0024827
 271446ee-d1a6-4ff0-8631-d5ffb5612576,genus,Plantae,"",Sorghum,t0024851
-abc5017b-7e15-4c35-b0c8-b042f6a229a9,genus,Plantae,"",Spartina,t0024853
 78617658-0481-456d-9ee5-3a6bbe9c5ce0,genus,Plantae,"",Sphaerocaryum,t0024860
 df5b2332-66b1-4ead-bc5a-e9c908792bc6,genus,Plantae,"",Spinifex,t0024869
 1476d9a3-46cd-4dd9-bf68-70a2a8cbe11b,genus,Plantae,"",Spodiopogon,t0024875
 c3c544ae-1712-4c0e-8c2e-b70d4f96b67a,genus,Plantae,"",Sporobolus,t0024880
 1993f7ba-45a3-441c-b710-22f53a542809,genus,Plantae,"",Stenotaphrum,t0024895
-715abf10-bb8e-4f4b-8388-7509ea69337b,genus,Plantae,"",Stipa,t0094731
-5aa2a341-9777-4437-9c18-7504b09ef9a7,genus,Plantae,"",Thaumastochloa,t0024978
 c887e0f8-0a75-4844-8bd2-2d27c993ce28,genus,Plantae,"",Themeda,t0024981
 5dc4e23e-ac26-467e-bce9-656fc0825a95,genus,Plantae,"",Thuarea,t0024989
 c559e942-1238-4543-a7fd-4b938a2d704b,genus,Plantae,"",Thyrsostachys,t0024992
@@ -2455,7 +2313,6 @@ ff70f060-a6db-4ccc-b00b-f6ae7780e9ce,genus,Plantae,"",Zea,t0025136
 eeb1df1c-3ca3-4081-a2ff-8796231b7137,genus,Plantae,"",Zizania,t0025144
 f305e9a7-72be-47b9-9231-847b0dece498,genus,Plantae,"",Zoysia,t0025149
 7f5dcce7-e44b-400b-984c-5dc612e91242,genus,Plantae,"",Assay,t0025555
-80fe442b-17d1-49a5-9b0d-71f6168cc4a1,genus,Plantae,"",Chaetochloa,t0095226
 115535f1-3c3a-4efb-86f6-d01896d0ed80,genus,Plantae,"",Cortaderia,t0025619
 f9459994-cb15-427f-a6a5-824c821cf4c1,genus,Plantae,"",Dinebra,t0023699
 79e4e7fd-d296-41e8-8797-8e2fa95fb919,genus,Plantae,"",Ochlandra,t0025796
@@ -2470,28 +2327,20 @@ daa46a71-8399-459f-9450-501eb5c98402,genus,Plantae,"",Argemone,t0023218
 aebbb2a8-14da-480f-aa6d-460d6bf08fa6,genus,Plantae,"",Fumaria,t0002578
 95f9cb52-f30a-4bf3-bf35-532df6277102,genus,Plantae,"",Macleaya,t0024214
 e1fa4d35-0d6f-4d7d-84bf-bfdd6f38ba72,genus,Plantae,"",Papaver,t0024451
-f7f12c7a-01ac-484c-a109-6658d0b5b7f5,genus,Plantae,"",Sanguinaria,t0094625
 ab3aa39f-f326-4957-8fbb-10a9c4e4e297,genus,Plantae,"",Akebia,t0023134
 0b574bce-d5ed-413e-ba6a-c3f3a9fb53ab,genus,Plantae,"",Stauntonia,t0024885
 9765126e-b565-45da-9fe7-948e4b49f698,genus,Plantae,"",Cissampelos,t0023495
 732edc63-5b1c-40e5-9227-f9b4bce97e10,genus,Plantae,"",Cocculus,t0023523
 0d5e4274-9f08-472a-b6b8-81ca20e66fb3,genus,Plantae,"",Cyclea,t0023605
-9cffe59c-86f3-4e87-bfe5-a656131eb635,genus,Plantae,"",Menispermum,t0095611
 8294fee3-384f-46ad-b7ac-10551957401d,genus,Plantae,"",Paratinospora,t0024462
 18bb07a0-d278-4c1f-afaf-6f95c8ba87bf,genus,Plantae,"",Pericampylus,t0024486
 319d170d-4f23-4d27-845f-31f242a6c68f,genus,Plantae,"",Sinomenium,t0024828
 f167ab3c-06f6-416c-8e31-9ce123a1901d,genus,Plantae,"",Stephania,t0024897
 5af2e5ab-23b2-42a9-889e-9ab8973d8599,genus,Plantae,"",Tinospora,t0024999
-3927383e-1761-434e-a5d5-ec5ad23d768d,genus,Plantae,"",Achlys,t0122668
 12127fb9-fb4e-4764-afd4-e696e8c15934,genus,Plantae,"",Berberis,t0023276
-32b9bc5b-8ae6-46c5-b3e5-f007c296579f,genus,Plantae,"",Caulophyllum,t0122664
-6b4cd9ed-15e5-4830-913f-7d99f0b5275c,genus,Plantae,"",Diphylleia,t0122678
-03a58589-1de9-4a3a-a3db-a77f13765459,genus,Plantae,"",Jeffersonia,t0122676
 75876b47-b86c-44d1-973c-283cbeacc66f,genus,Plantae,"",Dysosma,t0023741
 c8ca0e68-4d82-4f1f-82c0-d1c85b5570e8,genus,Plantae,"",Mahonia,t0024223
 78679ec4-7001-46a4-97d3-ed43821f7f46,genus,Plantae,"",Nandina,t0024340
-79a4e56f-27ef-4317-a346-30dd4764b85a,genus,Plantae,"",Podophyllum,t0095427
-89d1c5ba-792f-4558-9d6c-4c149b0d692e,genus,Plantae,"",Vancouveria,t0122673
 acfd2d1a-3530-45ba-8bd3-f77c7650de4f,genus,Plantae,"",Aconitum,t0023087
 cef79ba4-a8d0-41a6-bf22-82121f2e4299,genus,Plantae,"",Anemone,t0023174
 71c941a6-c0f0-4482-a016-9aa5807f3314,genus,Plantae,"",Aquilegia,t0025547
@@ -2501,7 +2350,6 @@ eedda83e-192c-42fd-b759-3c5ac2db8810,genus,Plantae,"",Cimicifuga,t0023489
 8dad9ff1-d751-4094-b57b-dc629767ed49,genus,Plantae,"",Coptis,t0023555
 bc6d0dae-acb1-4335-b06e-6bd2c5d53cb8,genus,Plantae,"",Delphinium,t0025637
 f2f7bc8f-5ca7-4aef-a017-bb975c535129,genus,Plantae,"",Dichocarpum,t0023669
-16edd0c2-7377-475d-b8f4-892fb8dfb5fa,genus,Plantae,"",Isopyrum,t0094539
 314192be-8b65-4b46-889f-d6fd949f26e0,genus,Plantae,"",Ranunculus,t0024675
 a1edfd51-2505-4234-93e7-4c9053959848,genus,Plantae,"",Semiaquilegia,t0024809
 bb00313c-78ee-4f9b-ae0d-e01eaf55e04a,genus,Plantae,"",Thalictrum,t0024976
@@ -2514,7 +2362,6 @@ dc37f1de-74d2-4601-bd73-6b984c45a282,genus,Plantae,"",Meliosma,t0024262
 8bf2ea98-2631-4413-8f7e-752a42107f53,genus,Plantae,"",Grevillea,t0023940
 3db310b7-7237-4ce9-98e3-fa73eb6f080b,genus,Plantae,"",Helicia,t0023978
 367a6ef6-3e78-4bfb-a6d5-fdf6f11dd00c,genus,Plantae,"",Macadamia,t0024212
-84c77baf-74ad-414f-a989-ec24c5e4b75f,genus,Plantae,"",Telopea,t0094763
 d8adbf41-d788-4a68-9aac-db1e1c1f4a3d,genus,Plantae,"",Trochodendron,t0025053
 69aff8eb-1e4c-4158-a8b9-cee1ce15f488,genus,Plantae,"",Buxus,t0023345
 32b4cfb3-cffd-401b-b8bf-9ac9c0d76566,genus,Plantae,"",Pachysandra,t0024438
@@ -2613,7 +2460,6 @@ e1fe8bfb-7983-44a0-98d2-d7662ee9e7b7,genus,Plantae,"",Gleditsia,t0023904
 72d6e399-f9c0-42b8-b116-7121b3d17512,genus,Plantae,"",Hymenaea,t0025722
 3844bfaa-2be7-47a0-82f6-8744197a0e71,genus,Plantae,"",Indigofera,t0024064
 8266163a-307e-4958-9f1a-f24b342dc39a,genus,Plantae,"",Inocarpus,t0024067
-6e6d4888-8400-4b02-8def-0e3dbf07c7c6,genus,Plantae,"",Inga,t0094530
 1f56f38e-0cd6-4848-b6c4-751ccdd6ba8e,genus,Plantae,"",Kummerowia,t0024107
 92b0b23e-6ee1-431e-a72e-996527be68cb,genus,Plantae,"",Lablab,t0024109
 404dd9ff-bdad-4081-927b-e27e82467c2c,genus,Plantae,"",Lathyrus,t0024121
@@ -2654,7 +2500,6 @@ ac42163e-a71e-449e-8b3c-26063214194b,genus,Plantae,"",Samanea,t0024745
 25019498-e1dc-48e6-8712-1032bb0902dc,genus,Plantae,"",Smithia,t0024839
 4d826cdb-3c0c-4b3e-981f-63096f866264,genus,Plantae,"",Sophora,t0024849
 c7f5c64e-a8d7-4648-83c8-18d7211f5490,genus,Plantae,"",Stylosanthes,t0024916
-830586e6-0cb9-4f80-adc2-9e2574e2c6f2,genus,Plantae,"",Swartzia,t0094745
 1dd82b2d-8f81-4eba-87f1-7eaed0806063,genus,Plantae,"",Tadehagi,t0024934
 97f33190-8c77-435c-bfab-abf1dd153adf,genus,Plantae,"",Tamarindus,t0024941
 68c5e5ba-17c1-46fd-b9cb-4598e3fccaa4,genus,Plantae,"",Tephrosia,t0024955
@@ -2725,7 +2570,6 @@ f947a75b-2161-49e6-8b6d-e14590377094,genus,Plantae,"",Paliurus,t0024445
 535af7a8-229d-49fa-b488-cbe086cca8f2,genus,Plantae,"",Sageretia,t0024739
 a0b9720e-098e-48e7-8505-0eddfdc18671,genus,Plantae,"",Ventilago,t0025090
 9e8e6dd7-9ce7-4f18-af81-9e6aee44cd76,genus,Plantae,"",Ziziphus,t0025145
-2b0dcd77-d44b-4b71-abf5-2b98e8a8d9d2,genus,Plantae,"",Forrestia,t0095909
 0c044d5c-6b13-4b7f-836d-859c1cb68743,genus,Plantae,"",Ulmus,t0002589
 58c3f01b-ec5c-4611-aca2-3df6c4b2a6a0,genus,Plantae,"",Zelkova,t0002590
 e8d513bc-d0af-479a-94db-59326be58d54,genus,Plantae,"",Aphananthe,t0002591
@@ -2740,7 +2584,6 @@ ea345101-76eb-448a-8790-d9ff847afd50,genus,Plantae,"",Trema,t0002593
 cf609b8d-8657-4131-9035-af84b7245c90,genus,Plantae,"",Malaisia,t0006939
 6445e2f4-ec8a-4ae8-9abf-8bf6479d31e8,genus,Plantae,"",Morus,t0006940
 524360c8-c870-4bfb-9bad-166eabc6ccdc,genus,Plantae,"",Castilla,t0025587
-b8766c7b-a7f2-468e-8e1c-a787f7a0ddcf,genus,Plantae,"",Allaeanthus,t0091714
 9ad37f86-5821-474b-a5b6-ad198db8462d,genus,Plantae,"",Boehmeria,t0023294
 3b7f5af3-9375-4d58-af97-d8597ef5cb75,genus,Plantae,"",Chamabainia,t0023441
 2599bfff-1ea9-48ba-bfcf-7cbfb14d7055,genus,Plantae,"",Cecropia,t0023412
@@ -2873,11 +2716,7 @@ ecf2d168-ab74-40c1-b130-3af09f25716c,genus,Plantae,"",Melanolepis,t0002618
 fd8f61d2-1ae6-4ebc-a431-9e5fe8cf9f40,genus,Plantae,"",Ricinus,t0002621
 f93e0a4d-13d7-45a2-abe5-4420792ba1bd,genus,Plantae,"",Triadica,t0025025
 b2065736-3821-424c-9a5a-60cf4222ae96,genus,Plantae,"",Vernicia,t0002625
-03e4ad59-6912-493d-8ae8-3626689cd3b5,genus,Plantae,"",Sapium,t0002622
-3d9cd535-8aa4-4508-8022-03785aea5d1d,genus,Plantae,"",Stillingia,t0094730
-97dcfa5c-756b-4938-b18a-c839d38af5de,genus,Plantae,"",Tragia,t0094800
 3f5c39f8-a0de-48b7-b2f1-4f41302db0c4,genus,Plantae,"",Hura,t0025720
-ebdcd46b-38d3-485b-b3a0-cea1a955bb5a,genus,Plantae,"",Pedilanthus,t0024475
 9e564194-72af-4092-a11f-ba0cf32d9720,genus,Plantae,"",Linum,t0002626
 f6634046-dc90-4747-8df4-503b27c19b4b,genus,Plantae,"",Antidesma,t0002627
 08c774ad-4572-47b1-9117-43986fdf6813,genus,Plantae,"",Bischofia,t0002628
@@ -2887,9 +2726,6 @@ f6634046-dc90-4747-8df4-503b27c19b4b,genus,Plantae,"",Antidesma,t0002627
 28c72095-d347-477d-a9a1-32691597b52b,genus,Plantae,"",Glochidion,t0002632
 4dab0b60-d2a2-4a0f-834e-0b2676ce9105,genus,Plantae,"",Margaritaria,t0002633
 52c9a1a9-36af-4065-b8cf-36a1c552086e,genus,Plantae,"",Phyllanthus,t0002634
-b3266f40-d889-4e6f-9ea8-65e820dcf071,genus,Plantae,"",Andrachne,t0091750
-496a7f1f-f270-49c7-8a3d-06e83a42c97a,genus,Plantae,"",Cicca,t0095260
-c774c810-b675-4f8b-ac6c-d2aa5a50b5a5,genus,Plantae,"",Emblica,t0095861
 ba4baeec-bfa9-4c0c-8746-e84d3b6fc8f4,genus,Plantae,"",Erodium,t0023799
 4a66e7b3-2e30-4295-a285-041a1cc81710,genus,Plantae,"",Geranium,t0023893
 493841c0-a02e-4e3f-90f3-b523b73655a8,genus,Plantae,"",Pelargonium,t0025818
@@ -2914,7 +2750,6 @@ daded996-a483-4e40-bc55-2e0d0454d736,genus,Plantae,"",Trapa,t0002635
 0a0a81bc-578e-40d0-b287-30d587217dc6,genus,Plantae,"",Oenothera,t0006910
 46824872-5d49-41f8-93dc-17ceb875b95e,genus,Plantae,"",Clarkia,t0025605
 e9aa3101-a15c-4fe5-9aa5-b87f7747f685,genus,Plantae,"",Taraxia,t0025915
-6b3104df-95d1-40b6-a50a-3061b81d7148,genus,Plantae,"",Corymbia,t0025620
 dd301c2d-cb3f-42e9-9add-b269a608952d,genus,Plantae,"",Decaspermum,t0023641
 27f332eb-74a4-4805-af6f-717ed10d2efe,genus,Plantae,"",Eucalyptus,t0023810
 5ecba7f6-70e1-4bf0-af98-64378fbe59f0,genus,Plantae,"",Eugenia,t0023816
@@ -2924,9 +2759,7 @@ b7271af3-5b65-4c4c-a5e2-188eb6ecf9f9,genus,Plantae,"",Plinia,t0024570
 564d5d41-cf2c-49ff-857d-0c9627f9a876,genus,Plantae,"",Rhodomyrtus,t0024702
 600089fb-2f09-452d-b713-b69d079f3709,genus,Plantae,"",Syzygium,t0024933
 de970ed5-b2dd-4647-9de0-1ea2c3a8ce8b,genus,Plantae,"",Callistemon,t0025580
-5f07bb2d-89f3-4ac9-96f7-21ea52e8df2f,genus,Plantae,"",Calyptranthes,t0091928
 8b83699e-66d2-4e3b-89ec-c6bf47fc2ec5,genus,Plantae,"",Leptospermum,t0025747
-865c3edd-5ec4-4c2e-9aa8-849609025331,genus,Plantae,"",Myrtus,t0095665
 4466563c-23c6-4c5d-ad53-4f200ff58cd4,genus,Plantae,"",Syncarpia,t0025912
 917c02dd-9bf2-4b4c-8810-ac95401c74ca,genus,Plantae,"",Tristania,t0025932
 1d33667f-e62c-44e8-a587-04849f97d8ab,genus,Plantae,"",Astronia,t0023244
@@ -2939,14 +2772,9 @@ d35d1a5c-3752-47a6-9174-6be71e4c6efb,genus,Plantae,"",Medinilla,t0024249
 9df7b6de-3a3a-4b6e-a9ce-57839084bf7e,genus,Plantae,"",Memecylon,t0024268
 da349d4d-e851-4d00-a118-64554d8e6cde,genus,Plantae,"",Osbeckia,t0024425
 59ce97e4-39d9-4042-a3d2-a43ffff01a5d,genus,Plantae,"",Otanthera,t0095736
-bba9a505-2921-41ed-8cc3-19e4be21f8b0,genus,Plantae,"",Pachycentria,t0095745
 edc4fd1d-dc45-44ab-9299-0f531e6b768e,genus,Plantae,"",Sarcopyramis,t0024759
 e49b9b7f-d291-4338-a5a9-6a51a389d326,genus,Plantae,"",Sonerila,t0024848
-ab7a8280-bcfb-4f3a-a954-f35be637c39a,genus,Plantae,"",Leandra,t0094581
-17c94769-6b6e-49a8-9d9e-91a044cbf349,genus,Plantae,"",Rhexia,t0095513
 dd6b1855-548e-4b28-8e98-110e12097850,genus,Plantae,"",Tibouchina,t0024995
-070d5ba7-0a93-46ee-9f41-89b686f31f32,genus,Plantae,"",Euscaphis,t0023827
-e6021836-995b-4578-9595-b2573ffa113d,genus,Plantae,"",Turpinia,t0025065
 46afa28f-f744-4435-aed9-8e350021b8a5,genus,Plantae,"",Stachyurus,t0024884
 40d8add7-14b4-4fb8-ae48-1eca7e6068b3,genus,Plantae,"",Perrottetia,t0002636
 951f7d32-62bb-47de-b5d0-4f09629096e5,genus,Plantae,"",Canarium,t0023379
@@ -2976,7 +2804,6 @@ d7b2c366-1bd2-4e2d-ada7-aab10c74342b,genus,Plantae,"",Melicoccus,t0025770
 05d59317-46aa-4988-8fdc-ad1030a30317,genus,Plantae,"",Nephelium,t0024370
 e1103c88-bbc9-422d-9055-ce2a7517b709,genus,Plantae,"",Pometia,t0024597
 670d3dfd-13d8-43a8-b40d-fb2f9090dc5e,genus,Plantae,"",Sapindus,t0024754
-fd7ae12d-e35e-4982-b249-096f9f692ab4,genus,Plantae,"",Paullinia,t0095765
 b064a417-232e-4252-97db-1ff6ab147b3d,genus,Plantae,"",Serjania,t0091952
 493c233f-b8b6-43fe-8b3c-d9a80420f305,genus,Plantae,"",Acronychia,t0023094
 c3e6bf86-7d53-474b-8070-a943298ae50e,genus,Plantae,"",Boenninghausenia,t0023295
@@ -2992,9 +2819,7 @@ e7de071d-09a0-4a80-906b-80bac5265253,genus,Plantae,"",Skimmia,t0024835
 f36e2a5c-9a54-45d5-b7f0-854890b85f13,genus,Plantae,"",Tetradium,t0024961
 84c50448-b815-461d-825e-0eff626d0946,genus,Plantae,"",Toddalia,t0025006
 e1f965f9-53e0-45ff-a35d-977924ff00d3,genus,Plantae,"",Zanthoxylum,t0025135
-405f707f-46dc-4f1e-8e60-fccb50a7aed4,genus,Plantae,"",Fortunella,t0023858
 9a380b06-0649-4ad7-a7ab-412e501c4a08,genus,Plantae,"",Poncirus,t0024598
-305de729-aca9-4821-9237-c2ed0d798ac7,genus,Plantae,"",Ptelea,t0095470
 10fa6c19-b554-47c9-a526-3a1fe12adc19,genus,Plantae,"",Ruta,t0025873
 914324aa-ee8a-4b67-bbc9-7b7eed1d2107,genus,Plantae,"",Aegle,t0025532
 e5abebfb-08af-4ecf-9ae0-064d3dc60531,genus,Plantae,"",Microcitrus,t0025772
@@ -3020,7 +2845,6 @@ f1921e1f-d8fa-4e64-88ed-242b26d552f6,genus,Plantae,"",Abutilon,t0002640
 a83251d3-3b88-4cac-9bd2-068a5a981191,genus,Plantae,"",Anoda,t0002648
 4dec01e5-d214-41ee-b220-cd018a771fd8,genus,Plantae,"",Berrya,t0002661
 ec4e2839-1c3f-45bb-807c-a8c6a9d9bf54,genus,Plantae,"",Bombax,t0002650
-4cc501f2-0b13-4d2c-8cb8-7554758d61a9,genus,Plantae,"",Chorisia,t0023477
 503bd399-9931-4c5d-bfad-998a4d5cecea,genus,Plantae,"",Corchorus,t0002662
 782c9e78-d2de-4c9c-8b65-79724c146028,genus,Plantae,"",Durio,t0023737
 a1e40d28-f842-412e-b2e5-48d77d1a492c,genus,Plantae,"",Firmiana,t0002652
@@ -3057,14 +2881,12 @@ b0a8a8c1-a348-4ad4-b07f-2d866b9255f1,genus,Plantae,"",Daphne,t0023634
 c6574ddd-79ab-4306-976e-b4774d635515,genus,Plantae,"",Stellera,t0024891
 72b7c1a3-6926-40e0-ab1c-6e8f933ccf37,genus,Plantae,"",Wikstroemia,t0025115
 53a21bb4-fce3-476e-ad5c-f32cd44f3625,genus,Plantae,"",Aquilaria,t0091786
-5140a1dd-0a1c-4a91-b0c8-4111d4b8344e,genus,Plantae,"",Diplomorpha,t0023707
 c5e266be-0095-4a35-bece-e46597b668fc,genus,Plantae,"",Edgeworthia,t0025655
 812b253f-4a74-448c-ac62-3ee3aff9d322,genus,Plantae,"",Bixa,t0025565
 ce3ec903-d871-44e2-bf3a-0eb06a09bbbd,genus,Plantae,"",Bretschneidera,t0002665
 880372ba-9f94-4dcc-88e5-3b1c74918fe9,genus,Plantae,"",Tropaeolum,t0025056
 d663b7b7-385a-497a-96e3-645ec8d0a2b1,genus,Plantae,"",Moringa,t0025776
 76c30f50-21f8-45f9-95de-ec780e1e09de,genus,Plantae,"",Carica,t0002666
-9062b9bd-bb27-4076-b812-4326a8912f07,genus,Plantae,"",Tovaria,t0094795
 fb52be2c-953d-470f-ba1c-b2628a0ad968,genus,Plantae,"",Reseda,t0025862
 19a0becb-5a04-4e3d-97ff-c6b029662706,genus,Plantae,"",Capparis,t0023385
 e41ebaf2-b99f-4491-a125-4827a551bb01,genus,Plantae,"",Crateva,t0023573
@@ -3162,7 +2984,6 @@ e4b68889-837f-4d6e-b441-dac241fc1e22,genus,Plantae,"",Lampranthus,t0025739
 ced5a75b-62bd-4174-8693-f8ed272daf04,genus,Plantae,"",Sesuvium,t0024816
 49e93927-9490-4568-8622-ea8c7766fbde,genus,Plantae,"",Tetragonia,t0024963
 aab9af4a-d288-4f97-ac84-104c1eadf199,genus,Plantae,"",Trianthema,t0025026
-f5309d51-9458-4afb-8547-c26510c0e6c9,genus,Plantae,"",Aptenia,t0023204
 cbd41627-dadc-4b62-bf40-ed5d65705f69,genus,Plantae,"",Argyroderma,t0025550
 3a319745-893f-414b-afa6-60287829eb35,genus,Plantae,"",Bergeranthus,t0025562
 0c413b07-61d5-49c5-9830-b5f94aa704ba,genus,Plantae,"",Conophyllum,t0025614
@@ -3186,7 +3007,6 @@ fcff0bf6-b3c5-466f-bc1a-a983b90074b8,genus,Plantae,"",Basella,t0023267
 0054acc3-0b0e-486c-8a9a-79485d1358ae,genus,Plantae,"",Portulaca,t0024604
 7d3f7425-0dae-4116-af11-6d70280985ab,genus,Plantae,"",Cereus,t0002682
 5a7ad9d6-7929-4e9a-868f-0956b59edfab,genus,Plantae,"",Epiphyllum,t0002683
-c37e76d9-afad-4c34-830f-736fb830f039,genus,Plantae,"",Hylocereus,t0002684
 aa6f30af-caff-4cf1-8e82-6f0e4820bfba,genus,Plantae,"",Opuntia,t0002685
 61a59c31-188e-469e-bfa4-dfe4ed87055e,genus,Plantae,"",Acanthocereus,t0025523
 6699c1fe-08da-4df6-b87c-7c1a81060987,genus,Plantae,"",Carnegiea,t0025586
@@ -3259,7 +3079,6 @@ c90e291c-0bf5-4bb3-bdc6-0f06ba3c42c0,genus,Plantae,"",Zygocactus,t0025955
 9f6019a5-44ab-4a4a-a647-9729ec334cef,genus,Plantae,"",Deutzia,t0002686
 6050b164-f36e-4988-b009-0d77ff453cf6,genus,Plantae,"",Hydrangea,t0002687
 4044d1a7-6c92-4e73-8b1b-cd98f24241b3,genus,Plantae,"",Alangium,t0002689
-8f4b4421-c665-46ce-ad02-a2a04b083ef3,genus,Plantae,"",Swida,t0024920
 f6526d29-ca73-4e61-bbdb-8278c69fc17e,genus,Plantae,"",Cornus,t0002688
 e30d636c-5d7b-440b-a5e2-303976822dff,genus,Plantae,"",Impatiens,t0024062
 3f7e0d65-1546-444a-9a91-f7ed30d8343f,genus,Plantae,"",Phlox,t0024513
@@ -3267,7 +3086,6 @@ e30d636c-5d7b-440b-a5e2-303976822dff,genus,Plantae,"",Impatiens,t0024062
 d1596790-60d5-4503-a78e-023f3381c328,genus,Plantae,"",Bertholletia,t0023279
 1c3395f3-12b4-4571-959b-942197bc59a9,genus,Plantae,"",Lecythis,t0024127
 43a4b866-1e84-46a0-8788-c2e29d75c48a,genus,Plantae,"",Couroupita,t0025623
-efc10bab-d844-4019-b8d0-0bee2b04a7de,genus,Plantae,"",Eschweilera,t0095885
 94fe8244-620e-4a8b-a7d4-01328eaf5e2b,genus,Plantae,"",Adinandra,t0002690
 9237fa19-b4fb-46f9-bd63-d448d9745533,genus,Plantae,"",Anneslea,t0002691
 31164013-57ca-4ea8-92e3-e362e5c82cfa,genus,Plantae,"",Cleyera,t0002692
@@ -3280,8 +3098,6 @@ a8f83361-6071-4bf5-8c3e-83494b5b84dc,genus,Plantae,"",Planchonella,t0024554
 25f052fd-6b7e-4556-97dc-dcccaeedca59,genus,Plantae,"",Synsepalum,t0024929
 bb1aaa6b-f544-4a3f-8e0e-c33ae7e26edb,genus,Plantae,"",Chrysophyllum,t0025602
 da937345-fa5d-4380-9b6b-4e53a16379de,genus,Plantae,"",Mimusops,t0024303
-e8171d9b-e725-4b41-8499-8b8c01646cf0,genus,Plantae,"",Sideroxylon,t0094679
-57d46081-c474-45c6-8bb5-0a614687c67f,genus,Plantae,"",Lucuma,t0024194
 9cc60d32-7f62-499d-bfbb-0ee5be11a4af,genus,Plantae,"",Diospyros,t0023701
 ac614c13-c655-4f8f-a278-686584ed5125,genus,Plantae,"",Aegiceras,t0023109
 d4235b5c-0698-4265-b3d2-feba4b8519a4,genus,Plantae,"",Androsace,t0002695
@@ -3293,10 +3109,8 @@ ff825309-0bed-4c4d-a543-0dbcd0947e8a,genus,Plantae,"",Myrsine,t0002702
 90f528e2-aef3-4372-a57c-0e44e5cc97ef,genus,Plantae,"",Primula,t0002697
 bcb4f065-18f8-4d8e-b247-1b348143041c,genus,Plantae,"",Stimpsonia,t0002698
 9887a84c-3804-4358-b392-8333d15d4e9b,genus,Plantae,"",Cyclamen,t0025629
-03e3daa1-fa46-4041-a976-12a49ac05a8c,genus,Plantae,"",Hottonia,t0094494
 75287ece-74ad-4c18-bda5-2f3c7b10080f,genus,Plantae,"",Samolus,t0024746
 bf756ff4-e646-4337-a584-261f47da7fc3,genus,Plantae,"",Camellia,t0002703
-eb69c9d4-8061-4ddc-a375-20eb8bea59dc,genus,Plantae,"",Gordonia,t0002704
 219a98a6-ea9a-4533-999a-ec405097d8c3,genus,Plantae,"",Pyrenaria,t0002705
 ac1839ca-efca-4e97-8db3-bf5f87e89131,genus,Plantae,"",Schima,t0002706
 e9b0f634-0c6f-44f9-bf9d-7866b4d6e210,genus,Plantae,"",Polyspora,t0095442
@@ -3313,11 +3127,9 @@ f53e573e-2494-4704-aee3-7d6ce3936077,genus,Plantae,"",Gaultheria,t0023883
 14db5436-17fe-4b05-b7e0-a15b05ce682c,genus,Plantae,"",Lyonia,t0024209
 45083466-07ce-461f-b3e4-0c9073525e3a,genus,Plantae,"",Moneses,t0002710
 f976b0f6-ece5-4362-ac95-2827b46a4799,genus,Plantae,"",Monotropa,t0002711
-e73169b1-52fb-45c7-a04f-b4a5a7ce3dc6,genus,Plantae,"",Monotropastrum,t0024322
 43be76ca-33d4-43ad-93b9-8daf5c35bcc6,genus,Plantae,"",Pieris,t0024531
 32068e55-9390-4cea-9b19-0d15b54eb252,genus,Plantae,"",Pyrola,t0002712
 bc5cb6b8-d2ab-4018-8d3d-ecf744a366e1,genus,Plantae,"",Vaccinium,t0025081
-8e61d9e0-e4d4-4139-a5b5-1eb8e0c6ba80,genus,Plantae,"",Andromeda,t0091752
 f3ba4db2-671b-4f72-9488-aea54b955d8e,genus,Plantae,"",Rhododendron,t0024701
 1a530047-bc28-401c-98a5-b1e391201d68,genus,Plantae,"",Mitrastemon,t0002707
 b31e4fad-043d-498e-87a8-4211250ee4dc,genus,Plantae,"",Nothapodytes,t0002713
@@ -3335,7 +3147,6 @@ d2533000-9ab3-41c7-9796-dbb5f66d06f6,genus,Plantae,"",Borreria,t0023302
 680c2d2e-a50e-4a6b-9009-93bcb70964e5,genus,Plantae,"",Catesbaea,t0025590
 2e477ae7-8a39-443c-93d4-2842a929d5bc,genus,Plantae,"",Cephalanthus,t0002717
 4e69daac-fe61-4713-9296-8e7a436b7051,genus,Plantae,"",Diodia,t0002721
-b11e087f-8958-4d6c-88c8-cde884c95810,genus,Plantae,"",Ernodea,t0095878
 ea1d5aab-73d8-4d17-99af-1e594c8b396e,genus,Plantae,"",Guettarda,t0002725
 532f925e-7602-4328-8bfa-9e511ec3822d,genus,Plantae,"",Hamelia,t0025703
 89373474-86be-462d-a460-730cafb575f8,genus,Plantae,"",Mitchella,t0002731
@@ -3355,7 +3166,6 @@ ad51a897-c12e-47fb-87f0-dfd9c566b1c0,genus,Plantae,"",Vangueria,t0025086
 8b73ac44-ef27-4004-a61b-2ba8bbbadb49,genus,Plantae,"",Geophila,t0002724
 950290dd-7e77-4277-a4ec-a1d557d594ee,genus,Plantae,"",Knoxia,t0002728
 fa7d38f8-75a5-4716-81fd-e0cc54e76723,genus,Plantae,"",Lasianthus,t0002729
-bdca0b04-49d7-4d76-969f-229041486008,genus,Plantae,"",Litosanthes,t0002730
 53ad4749-dffc-4d4d-b49a-26cf11b7d785,genus,Plantae,"",Mitracarpus,t0002732
 100a3adf-f9b6-4231-8588-44ea2a156117,genus,Plantae,"",Neanotis,t0002735
 665c2703-f506-4100-b749-430560b3e052,genus,Plantae,"",Neonauclea,t0002736
@@ -3394,9 +3204,7 @@ b809d5cf-9b2c-4c50-b054-0cbd5ce8984c,genus,Plantae,"",Cynanchum,t0002775
 734b7489-39bd-4091-8658-584fee2c6dd6,genus,Plantae,"",Ceropegia,t0025597
 3113d6f2-2421-4c19-93de-a233ffa41d22,genus,Plantae,"",Hoya,t0002780
 d400011d-e52f-496b-a30e-e4f63281fe9e,genus,Plantae,"",Rauvolfia,t0002767
-2455721b-9835-4057-b95a-552e4aacf95b,genus,Plantae,"",Apocynum,t0091783
 b6b0016d-1258-4aaa-89ff-941a8157a683,genus,Plantae,"",Catharanthus,t0002772
-48b2dbfe-d0d4-45bd-b90b-072abe9506ca,genus,Plantae,"",Echites,t0095852
 5b082c59-ba06-49da-9dd5-c985e71f719b,genus,Plantae,"",Strophanthus,t0024910
 3d69ac84-4e37-41b8-a177-57fa9bdcdf77,genus,Plantae,"",Nerium,t0024374
 5645f5df-83b8-4062-ac03-37325ea8cd19,genus,Plantae,"",Plumeria,t0024574
@@ -3422,7 +3230,6 @@ f90ef9d8-6ad1-40e2-9ffb-47c9c01a36a8,genus,Plantae,"",Parsonsia,t0002766
 5d8d3de2-a651-448e-9229-e8be806d065c,genus,Plantae,"",Telosma,t0002783
 90c17e31-a143-4794-af0d-305a144f1fba,genus,Plantae,"",Cryptostegia,t0025627
 3b20b7e1-ad47-41b0-a6f8-7450416bc21b,genus,Plantae,"",Huernia,t0025719
-9caba56d-8c7e-4372-b9dc-c9629ba38f4e,genus,Plantae,"",Pergularia,t0095773
 74a57a3c-3e66-4449-80ed-1979785802a3,genus,Plantae,"",Stapelia,t0025899
 7e37d69c-e878-41a3-8928-d6137ed1086b,genus,Plantae,"",Stapelianthus,t0025900
 753b7281-7bc2-4846-afcd-52940888a994,genus,Plantae,"",Stephanotis,t0025901
@@ -3438,8 +3245,6 @@ eaa2f609-904e-4cd3-9469-8629430c9a2f,genus,Plantae,"",Thevetia,t0024983
 a1b2a346-add2-4aa2-9041-edbc7201768f,genus,Plantae,"",Myosotis,t0002790
 d64a5438-48cd-4674-bb78-68e7b07ff522,genus,Plantae,"",Cynoglossum,t0002785
 74dff365-6c15-4bef-9543-8230724c9087,genus,Plantae,"",Lithospermum,t0002786
-3f2adf25-e8ce-4f61-be62-054b31e92235,genus,Plantae,"",Mertensia,t0095617
-39fbfe46-4e81-49f4-be86-6560f42f2413,genus,Plantae,"",Nama,t0095670
 72f9e3ff-32b8-4be2-9943-2c3007815409,genus,Plantae,"",Borago,t0025566
 df6172ae-e17a-4fbe-80f0-adaada6cc556,genus,Plantae,"",Symphytum,t0002791
 10e7a499-83e4-4e28-877b-b047a2bbff78,genus,Plantae,"",Bothriospermum,t0002784
@@ -3452,7 +3257,6 @@ f3313667-0212-4ad6-837c-986073480d87,genus,Plantae,"",Ehretia,t0002794
 b7828a7b-cbdf-4537-b125-393d3868f46a,genus,Plantae,"",Cordia,t0002793
 27d52730-d752-43e6-8701-17cb578d61e7,genus,Plantae,"",Coldenia,t0002792
 866a77f0-a7ae-40fb-96c8-eaecdb030dac,genus,Plantae,"",Ipomoea,t0024068
-1b2fdf39-9b6f-44a9-b9a2-440cf453aa22,genus,Plantae,"",Convolvulus,t0095287
 a6198528-574f-4915-ae2e-fa7289ad9b45,genus,Plantae,"",Cuscuta,t0023597
 c3ad30f1-ceb8-428b-ab54-a8590d0e5384,genus,Plantae,"",Jacquemontia,t0024083
 f0e74a42-9224-4de2-aa3d-b99aa5722cd4,genus,Plantae,"",Calystegia,t0023370
@@ -3476,7 +3280,6 @@ eeceeabd-bd1d-452d-b673-329db258617e,genus,Plantae,"",Cestrum,t0023435
 19ca1767-d936-4e60-a78a-b78d24cbc64e,genus,Plantae,"",Capsicum,t0023387
 9b01783f-5e27-4516-924a-cc5b7596422e,genus,Plantae,"",Datura,t0023638
 722cee59-0437-4c37-9944-7facaeb25d17,genus,Plantae,"",Petunia,t0025827
-abe787cd-5b18-414f-8b31-8c9b14aecbe5,genus,Plantae,"",Atropa,t0091825
 7c626c9c-f958-462a-b86a-38a99b95512e,genus,Plantae,"",Brunfelsia,t0023329
 dc2651c1-8288-4376-a95c-0904cb84b881,genus,Plantae,"",Brugmansia,t0023327
 e4d5ce65-9afc-4e54-a2e0-7f074811ca1e,genus,Plantae,"",Cyphomandra,t0023620
@@ -3499,7 +3302,6 @@ caa0d289-40fc-463b-ac22-10b428af2ca8,genus,Plantae,"",Syringa,t0025913
 f6d975c3-d63f-4d78-9531-4ac491182122,genus,Plantae,"",Fraxinus,t0023862
 64667064-a8d6-4443-9b40-dee052afa224,genus,Plantae,"",Cyrtandra,t0023622
 2f321c80-1a98-4836-b372-644b9cf7eb35,genus,Plantae,"",Columnea,t0023544
-72b2fd9a-a0b2-4ee7-a7fa-8c1f644ef206,genus,Plantae,"",Henckelia,t0023989
 d5b7605f-8346-46f4-a760-759c7c17640b,genus,Plantae,"",Streptocarpus,t0025906
 dc0c5983-d542-47f3-a316-ce89cfc04e03,genus,Plantae,"",Saintpaulia,t0024742
 1d94ed44-9da8-4490-8eb7-25c89fd5b401,genus,Plantae,"",Aeschynanthus,t0023115
@@ -3527,12 +3329,10 @@ e2f78730-f3be-4189-99db-de80a6576ec8,genus,Plantae,"",Penstemon,t0025823
 bed37569-49d0-4d8f-946c-e402a50f4494,genus,Plantae,"",Linaria,t0024173
 0f326cc1-16cf-4245-a8e2-56ceb3408195,genus,Plantae,"",Antirrhinum,t0002799
 1b413a63-2715-49f1-85be-0c50f68eff3e,genus,Plantae,"",Limnophila,t0002806
-13048f2a-c400-455a-9518-cc2846e2da87,genus,Plantae,"",Gratiola,t0094414
 a91b8c65-4b2b-4718-9249-ee65850b325b,genus,Plantae,"",Scoparia,t0002809
 6c62b025-fbea-4138-a31f-31de902363ff,genus,Plantae,"",Digitalis,t0002802
 16a8d6d6-579f-48a1-bc0b-5c9d801115e7,genus,Plantae,"",Bacopa,t0002800
 2cf3a83e-1902-4fe9-bfba-a8d8f9534f5d,genus,Plantae,"",Callitriche,t0002798
-a54e7ee6-8e05-4850-99b2-45d56b9b6fc0,genus,Plantae,"",Chelone,t0095236
 399fccdf-2a99-45bb-99db-33214d199751,genus,Plantae,"",Veronicastrum,t0002812
 8228bf84-c29f-42f8-9eab-c12605e9db93,genus,Plantae,"",Angelonia,t0023177
 8ccb60c5-b2b9-4d24-afca-3e32bfebbfd9,genus,Plantae,"",Russelia,t0025872
@@ -3564,7 +3364,6 @@ cfa2d35e-81ac-4287-8a33-d6641ed0e3e5,genus,Plantae,"",Dicliptera,t0023675
 03139e4a-a40d-41d0-81fb-8278a9ae171b,genus,Plantae,"",Avicennia,t0002823
 54253de5-af03-408a-acd8-e7146d6b25c9,genus,Plantae,"",Hygrophila,t0002269
 5b29f018-cd07-454d-b035-bba401dcf1e6,genus,Plantae,"",Asystasia,t0002820
-99074069-fad8-41d3-b650-41c619b24b81,genus,Plantae,"",Asystasiella,t0023245
 b375d768-a16d-43d3-9264-791f8da78b21,genus,Plantae,"",Blechum,t0023287
 aa4e3a3b-d444-40e2-ac97-895264d75125,genus,Plantae,"",Codonacanthus,t0023527
 db3f5fe2-d3f5-4bf0-9503-5f8597c16dbd,genus,Plantae,"",Crossandra,t0023580
@@ -3583,12 +3382,10 @@ e4f98ecb-3e5b-41f5-ad3a-d9570b3c4d85,genus,Plantae,"",Kudoacanthus,t0024105
 027eed12-e3c9-4ae9-8cc2-790489b54896,genus,Plantae,"",Peristrophe,t0024488
 dfba8a10-d897-4e9b-8080-bcb55fdfc2bb,genus,Plantae,"",Rungia,t0024731
 c0114956-304e-4220-b2df-e70a4e79064c,genus,Plantae,"",Staurogyne,t0024889
-fbc3656f-6dfa-4704-af74-3862b7ad6f74,genus,Plantae,"",Adhatoda,t0091983
 14869438-e802-40e4-80f7-4a74a177d59d,genus,Plantae,"",Jacobinia,t0025728
 a4c8a2bf-f383-4daa-9575-2ffc035ddac6,genus,Plantae,"",Pseuderanthemum,t0025846
 a76f1f95-21b7-42a2-8166-5ea7191c6d62,genus,Plantae,"",Rhinacanthus,t0024694
 50e45813-b5a3-4d91-9a44-717b3b4c0708,genus,Plantae,"",Tabebuia,t0025914
-5e4de1b3-67e2-4145-90e1-a165a5e4fad1,genus,Plantae,"",Adenocalymma,t0091979
 8f42fad8-5649-4b6e-8e10-e3d4f18aa3bc,genus,Plantae,"",Jacaranda,t0025727
 194d865e-8077-4243-b099-09d84a50c6c7,genus,Plantae,"",Bignonia,t0091860
 625a8330-5ab6-4611-9df9-78531b63e228,genus,Plantae,"",Catalpa,t0025588
@@ -3607,7 +3404,6 @@ d6153b9b-9692-4690-a508-48850c18747f,genus,Plantae,"",Oroxylum,t0025804
 e7053c91-fe50-49bc-8c5c-cd73866b0ba1,genus,Plantae,"",Saritaea,t0025881
 cac18bf7-7226-4f27-908b-a867cb526605,genus,Plantae,"",Utricularia,t0025080
 03a12eee-210b-4cbd-9dc0-1131f4e85694,genus,Plantae,"",Verbena,t0002827
-ff60dc4e-c46b-44b5-9849-40a0638b1916,genus,Plantae,"",Lippia,t0095541
 f2313ef5-ffb3-4dd1-bdca-ede474e0e529,genus,Plantae,"",Lantana,t0002824
 8c5ab0b4-5343-41d7-bac1-d3a6c8e42b78,genus,Plantae,"",Stachytarpheta,t0002826
 94ae88c7-f365-4a76-a79e-e331d2c75df6,genus,Plantae,"",Duranta,t0002828
@@ -3617,10 +3413,8 @@ e52ade96-d2f4-48a5-9898-0ceb9da82013,genus,Plantae,"",Phyla,t0002825
 c3305e2f-b2c7-4432-85ae-5a0647c4cd88,genus,Plantae,"",Salvia,t0024744
 34a29baf-563f-473f-b965-24af8f1a40b1,genus,Plantae,"",Hyptis,t0024058
 0e45e036-e37b-4178-8371-4cd049972fd3,genus,Plantae,"",Clerodendrum,t0002831
-b522ed53-c5db-44c6-b75b-af63d037a862,genus,Plantae,"",Plectranthus,t0095412
 a6fbdbf2-20ec-4177-9435-28c564769ef6,genus,Plantae,"",Scutellaria,t0024800
 4f1c9c04-8f6f-4136-be9b-e49288b042ee,genus,Plantae,"",Stachys,t0024883
-bba2f463-7eff-4812-a0b0-25ae53ba6466,genus,Plantae,"",Nepeta,t0095683
 0c945073-81b0-458a-afb1-db0694a879a2,genus,Plantae,"",Vitex,t0002835
 1e7155da-c5cb-4fc8-b398-85f3fde48228,genus,Plantae,"",Teucrium,t0024973
 ce0f9b10-4d5d-4c17-a0bb-7e6a2f24b222,genus,Plantae,"",Premna,t0002832
@@ -3667,7 +3461,6 @@ f339160b-a488-463b-ae9f-1b75a6090215,genus,Plantae,"",Paulownia,t0002840
 4b720ecc-5929-4b0d-9892-d9e4ba8feb13,genus,Plantae,"",Pedicularis,t0002851
 699c3013-d74c-4fa1-9d08-1b98359e4b4c,genus,Plantae,"",Euphrasia,t0002848
 d0c04769-3502-4d1b-905b-869ba4586f0b,genus,Plantae,"",Orobanche,t0002844
-c76fe99b-dfa1-4fb2-82f4-7310da790272,genus,Plantae,"",Buchnera,t0091898
 b8870429-ff17-4a1c-a58b-509f280ab230,genus,Plantae,"",Agalinis,t0105765
 00763f19-15b3-423e-817b-48479cef5046,genus,Plantae,"",Striga,t0002854
 ad45cfc9-8ad0-4bb8-9988-0dfd449e1a2d,genus,Plantae,"",Melampyrum,t0002850
@@ -3704,14 +3497,10 @@ a5051102-3b0a-47e8-90cf-fbd7cec9df30,genus,Plantae,"",Scaevola,t0024765
 abd1c1d3-fd16-46fc-a743-6719058020d1,genus,Plantae,"",Centaurea,t0025594
 1f481b39-c6ae-4324-a022-df066b1b24dd,genus,Plantae,"",Artemisia,t0023229
 0334e82e-5463-4077-84d4-6555f2b6ebe4,genus,Plantae,"",Hieracium,t0024007
-32e18d58-8c22-4921-9d21-bc65c204a093,genus,Plantae,"",Helichrysum,t0023977
-a2e405dd-80e5-4ebc-a9ed-d113ad4aafe7,genus,Plantae,"",Baccharis,t0091835
 d9fae5e9-da04-4f35-abd5-eb096db4daf3,genus,Plantae,"",Mikania,t0024299
 3349612b-e04e-403d-8824-aba0e9b9b2a3,genus,Plantae,"",Saussurea,t0024764
-8b22adb0-7572-44de-a3ed-1d973504ca1a,genus,Plantae,"",Verbesina,t0094853
 a4152199-c8de-4377-9f8d-3573a5719bd9,genus,Plantae,"",Cirsium,t0023494
 751f8d2a-8752-4b78-ad68-4324009a864c,genus,Plantae,"",Bidens,t0023281
-4ff81ef0-69d5-4929-bddd-79bccbc53ca4,genus,Plantae,"",Crepis,t0095312
 f751c3d9-b4b4-47f2-b77d-33883a4021ae,genus,Plantae,"",Aster,t0023240
 868d28aa-6544-4c62-b960-921db2c3ddcd,genus,Plantae,"",Gnaphalium,t0023919
 e3e9dbaa-e422-40da-ba4f-0a08251a5164,genus,Plantae,"",Tragopogon,t0025927
@@ -3725,13 +3514,10 @@ e77e156a-55b4-45f5-a0b9-4652bffa2185,genus,Plantae,"",Elephantopus,t0023760
 64a7e63a-e4f0-46e2-9b49-5f419d3edf1f,genus,Plantae,"",Gaillardia,t0023870
 b9415d9c-389d-4e46-9694-257a2173b767,genus,Plantae,"",Helenium,t0025708
 a83c1be0-5e48-4828-8d4d-245fb53e880b,genus,Plantae,"",Helianthus,t0023976
-7bdd4eb7-9a0c-4503-b391-19f698388849,genus,Plantae,"",Iva,t0094543
 5a7c8df9-72fc-4a38-9ef6-fae667b630cc,genus,Plantae,"",Lactuca,t0024110
 d35d751b-1b4d-4644-b1ef-56b01d70253c,genus,Plantae,"",Liatris,t0025750
 8040111e-0512-4792-b272-d80bc367b04e,genus,Plantae,"",Pluchea,t0024572
-05a79f6f-c17c-411e-99a6-010c1720c742,genus,Plantae,"",Prenanthes,t0095452
 f625cbf7-99aa-41c5-894a-6f923761a3d4,genus,Plantae,"",Rudbeckia,t0025870
-2067abbb-6ea6-417c-b371-44201d30df1b,genus,Plantae,"",Silphium,t0094680
 2c5c6968-8ef0-4590-aa74-8f4562fb934c,genus,Plantae,"",Sonchus,t0024847
 69c8fc58-6714-4280-a4da-48c2f8170bf6,genus,Plantae,"",Taraxacum,t0024942
 68a8291b-8c57-43ed-bb2a-5db968b3e206,genus,Plantae,"",Cichorium,t0023488
@@ -3784,7 +3570,6 @@ a67d3133-28ad-41ec-a149-e14af7c717b4,genus,Plantae,"",Gynura,t0023953
 83dcbebf-a160-4ca6-af39-f46b8be63ebe,genus,Plantae,"",Hypochaeris,t0024052
 928f018f-29ac-4338-9545-41d45bbe7dce,genus,Plantae,"",Ixeridium,t0024079
 dbf62bff-33bc-4665-bb50-84e373c871f7,genus,Plantae,"",Ixeris,t0024080
-8b2eea70-507f-4972-840d-ee447e5524a2,genus,Plantae,"",Kalimeris,t0102223
 05ac730b-304d-4c67-ac5d-72e85aa2c2f5,genus,Plantae,"",Lagenophora,t0024112
 4c43288f-4bfc-4fdb-a087-bb71e7768a0b,genus,Plantae,"",Laggera,t0024115
 562d5e0c-31e2-4171-9722-f6ae67ea12e8,genus,Plantae,"",Lapsanastrum,t0024119
@@ -3816,7 +3601,6 @@ ee4ca0e0-1cda-4b4d-ac5b-c4eae7b576dc,genus,Plantae,"",Synedrella,t0024927
 af564fd7-ee5e-4bae-a557-926b96278318,genus,Plantae,"",Tephroseris,t0024954
 046513bd-3604-4bec-b88a-851a65f72b04,genus,Plantae,"",Tithonia,t0025005
 03656f0d-1909-4888-b2e5-0ce9cf226747,genus,Plantae,"",Tridax,t0025038
-6e21c5b4-67e8-4491-8a9a-24e7432aaed5,genus,Plantae,"",Wedelia,t0025108
 94459cbe-e058-4beb-953a-9069b844287c,genus,Plantae,"",Xanthium,t0025121
 36502b43-8262-411a-8871-480f1efc03d1,genus,Plantae,"",Xerochrysum,t0025951
 6297a427-92c6-43f6-b7c6-ac95b6003bad,genus,Plantae,"",Youngia,t0025130
@@ -3828,7 +3612,6 @@ d76fa2da-037e-4939-825c-c01f036dd62d,genus,Plantae,"",Acanthospermum,t0023081
 d2737e1c-d891-4327-bc47-801552ea5f33,genus,Plantae,"",Carthamus,t0023397
 0350616e-cc51-42e5-acf3-aca8641433bc,genus,Plantae,"",Chrysanthemum,t0023482
 fd9630a5-3de3-440c-bb31-030f2659bc04,genus,Plantae,"",Dimorphotheca,t0025642
-9fd00f8f-ae7c-4680-9f6f-c42b0df9ff39,genus,Plantae,"",Ethulia,t0095887
 fb605646-89d5-4224-aa4d-0ba97430e21a,genus,Plantae,"",Heliopsis,t0025709
 f78af3d3-43db-4611-be3a-6db67994622f,genus,Plantae,"",Helipterum,t0025710
 07d3f1c2-7a32-4339-9f50-7e10ccb9dabd,genus,Plantae,"",Melanthera,t0024254
@@ -3840,7 +3623,6 @@ a5f18b1c-d611-4769-b28c-7e06aeb4e10b,genus,Plantae,"",Silybum,t0025890
 d7a15b7f-94e4-4afe-8b89-73df6e7d8fdb,genus,Plantae,"",Thymophylla,t0025923
 313c2a41-4145-4fd7-ac21-a2c4349d01cc,genus,Plantae,"",Venidium,t0025943
 25fb763b-6827-47e6-8c51-986e7e4d91a4,genus,Plantae,"",Wollastonia,t0025118
-92b428f4-1616-4908-b805-749155b40d82,genus,Plantae,"",Lapsana,t0094575
 4cb64039-ac5e-4a65-8ffa-c69873635d2d,genus,Plantae,"",Launaea,t0024122
 2af69507-e79a-4281-9b6a-8dee7e5e32a3,genus,Plantae,"",Sambucus,t0002859
 678dc850-7af0-403a-9e34-45b4e6b53b56,genus,Plantae,"",Viburnum,t0002860
@@ -3851,9 +3633,7 @@ fdf6cc8e-0af7-4e47-8065-6da794934d9e,genus,Plantae,"",Abelia,t0002861
 2d068f90-51a8-4f6d-b00c-651586354c57,genus,Plantae,"",Patrinia,t0002864
 040f10c6-f536-4a02-a8ca-064dee4bc9c2,genus,Plantae,"",Triplostegia,t0002865
 a15a762a-e30d-439a-98df-f3e762d830bc,genus,Plantae,"",Pittosporum,t0024548
-c7098956-54d4-4554-91a1-fa118f63df0c,genus,Plantae,"",Schefflera,t0094641
 921f05cb-6369-4706-b280-8f25e4920c89,genus,Plantae,"",Polyscias,t0024591
-8d644c5d-e6af-4ce9-9906-26f86e7d1d3a,genus,Plantae,"",Oreopanax,t0095724
 3f21d5fb-3505-464a-8136-8939000bc943,genus,Plantae,"",Hydrocotyle,t0002867
 e4f3242d-4ffc-4528-8918-5f8a9f52c3ff,genus,Plantae,"",Aralia,t0023210
 e8493d4e-56d3-4942-84fe-9e2f24f63e69,genus,Plantae,"",Panax,t0025811
@@ -3874,16 +3654,13 @@ c16b82af-efe0-48bc-b828-5527ea766fb0,genus,Plantae,"",Bupleurum,t0023341
 e0123fa1-9593-4a78-972a-b385ede9206e,genus,Plantae,"",Chaerophyllum,t0023436
 b19ba360-8743-4dca-a40c-7ad095f3cfb6,genus,Plantae,"",Apium,t0023197
 835be393-b18b-480e-94ff-ffbec921afdf,genus,Plantae,"",Centella,t0023417
-070f762f-2a01-47ee-805d-dadf14074c76,genus,Plantae,"",Cicuta,t0095261
 a9850a86-9ea5-4293-8ba3-1a3ad817bf02,genus,Plantae,"",Conioselinum,t0023551
 4289cdee-ecf3-4531-a566-3c4053401a67,genus,Plantae,"",Daucus,t0023639
-44f224f6-3c91-456c-af44-9c7ef4a8a106,genus,Plantae,"",Ligusticum,t0094614
 d6fcc026-85cf-4a13-9d42-06480ece0c56,genus,Plantae,"",Osmorhiza,t0024427
 fcab8c4f-ca41-42ed-bdd6-4e0ad6041d13,genus,Plantae,"",Sium,t0024834
 4f02ec48-ccd6-4d74-8bbc-9c759efa59fb,genus,Plantae,"",Torilis,t0025010
 0318dad6-ae16-41ba-8941-de774d896c88,genus,Plantae,"",Anethum,t0025540
 9ac21950-bd37-4060-a1f6-2cac4b09f43b,genus,Plantae,"",Coriandrum,t0023558
-ced4a2af-711e-49b5-96c8-586dd11eee0c,genus,Plantae,"",Cuminum,t0095321
 e23f7a4c-500d-421f-b8ce-54786456d7ff,genus,Plantae,"",Foeniculum,t0002868
 682df270-e293-4a34-bfd5-543c89fd3adb,genus,Plantae,"",Cnidium,t0023519
 af9cbe77-80b3-4fc4-8b1b-5ddbd6952c9e,genus,Plantae,"",Cryptotaenia,t0023589
@@ -3891,16 +3668,12 @@ af9cbe77-80b3-4fc4-8b1b-5ddbd6952c9e,genus,Plantae,"",Cryptotaenia,t0023589
 b8964a85-fb1b-405a-a0de-5fd5cee8f2a2,genus,Plantae,"",Oenanthe,t0024401
 05816985-9b6f-41ee-b115-a72ea3b89627,genus,Plantae,"",Anthriscus,t0025543
 97ea8713-91cf-4cad-aea0-42b6728651fa,genus,Plantae,"",Caucalis,t0095201
-157f1b7f-5bd0-4510-8c45-28605bfd14ba,genus,Plantae,"",Spilanthes,t0094705
-9eb5fab6-b45d-45bd-aeaf-2954a6db5cd6,genus,Plantae,"",Herissantia,t0094475
 3e57a7ee-75af-40f6-8c62-bee1dfb74c15,genus,Plantae,"",Archangiopteris,t0091790
 e807f2a8-17fd-45bc-a81a-89792e94ddaa,genus,Plantae,"",Crypsinus,t0106314
 cc7cf3f8-4fc2-4a98-a7cf-00f8b2b68815,genus,Plantae,"",Cochlospermum,t0025609
 de894c87-bf12-4997-a1e2-e8f59f643ac7,genus,Plantae,"",Leycesteria,t0025749
 14de5a1f-2188-4e70-9fbe-2a89733ef4a9,genus,Plantae,"",Morina,t0025775
 b4069df0-68ba-486d-87cc-a0fc6b9b9835,genus,Plantae,"",Triglochin,t0025930
-d15e0dce-a20f-4078-a39d-cf48fb703c25,genus,Plantae,"",Chelonopsis,t0095237
-ebe5a727-05e7-4504-851a-fcca65749cc6,genus,Plantae,"",Hemianthus,t0025711
 7ea28c43-715c-450a-8ec3-478e40097b6f,genus,Plantae,"",Ochna,t0025797
 a0cc8019-1f25-4460-b471-286316e6ecd4,genus,Plantae,"",Chamaenerion,t0025600
 1570466c-55a8-45f7-98d6-3d8e39a005c1,genus,Plantae,"",Elytrigia,t0025657
@@ -3958,7 +3731,6 @@ ab35458d-143b-4482-be20-de4b8fb57ff2,genus,Chromista,"",Leptolegnia,t0025294
 3ce0cb3f-7680-47f1-897c-4ad12f23802b,genus,Chromista,"",Albugo,t0025200
 5c4aa889-64f6-45ff-897d-95ca33b79f14,genus,Chromista,"",Bremia,t0025278
 3c49ffc7-2de1-436e-9c64-57d021f30de1,genus,Chromista,"",Paraperonospora,t0025273
-71117f78-afde-46f2-b58d-259ba8f5f4bd,genus,Chromista,"",Peronoplasmopara,t0025505
 ddf47d8f-aa1a-420f-a9b8-d4b0bdb1187c,genus,Chromista,"",Peronospora,t0025279
 67e6f004-a6d1-403d-82d3-2ab411505f16,genus,Chromista,"",Plasmopara,t0025277
 68b373e2-fc27-4d60-ac37-5f6833ae3e07,genus,Chromista,"",Pseudoperonospora,t0025244
@@ -4050,7 +3822,6 @@ ce24a873-a8d6-4c6d-aa9d-dbfbc8ec20bb,genus,Chromista,"",Psammodictyon,t0025241
 20a296cc-b303-4650-a3f1-9bc59e3ef078,genus,Chromista,"",Campylodiscus,t0025183
 966663d0-0274-4525-bd4f-0460395f2e20,genus,Chromista,"",Cylindropyxis,t0025355
 a448d6eb-1330-4d05-ad85-77957f8667a7,genus,Chromista,"",Cymatopleura,t0025202
-47b6d007-6d5a-41c7-962b-12a6ce77642b,genus,Chromista,"",Fragilariacylin,t0095910
 8c3ddd79-b623-4c16-bf9f-48cec064a1c8,genus,Chromista,"",Plagiodiscus,t0025177
 18443ae1-7321-4ebf-8391-bca2f91ad6ce,genus,Chromista,"",Schuettia,t0025338
 be37225f-76f6-4a8a-95f2-5e507d4f5686,genus,Chromista,"",Stenopterobia,t0025210
@@ -4059,7 +3830,6 @@ fbd96e4b-b445-4eaa-95d4-fbe3aae5a5ce,genus,Chromista,"",Tryblioptychus,t0025237
 785baf6b-0731-4237-a753-d4b11bb4e69f,genus,Chromista,"",Epithemia,t0025346
 c65cc8eb-5200-4ea7-907d-d29bef2129a0,genus,Chromista,"",Rhopalodia,t0025347
 21d12776-0b30-4458-94bc-cbf4f9938e81,genus,Chromista,"",Gomphonitzschia,t0025356
-e43c6aa4-0269-4195-8cac-5cc737146f1d,genus,Chromista,"",Nitzschiella,t0025351
 61da4cb9-7e0e-49e3-a3e6-e1c719ac0372,genus,Chromista,"",Cymbella,t0025156
 ef6595fb-4c46-4c08-b2e1-8df064e550b5,genus,Chromista,"",Didymosphenia,t0025342
 ef7bf037-2cf8-49ad-8d06-69dd3ade48a7,genus,Chromista,"",Encyonema,t0025437
@@ -4158,14 +3928,12 @@ f6d74fa5-8813-4f3c-9f3f-1b62c12c6d08,genus,Chromista,"",Rosenvingea,t0025270
 a07ab7d6-056c-4771-bac3-661fb44e37a2,genus,Chromista,"",Scytosiphon,t0025258
 60869cbf-7805-4c74-9ce4-da34c600042b,genus,Chromista,"",Ectocarpus,t0025188
 be5dbc00-f3f3-4a36-8593-43a885b3eb53,genus,Chromista,"",Feldmannia,t0025160
-719d965a-2d5f-41ac-a975-99573ea7b5e7,genus,Chromista,"",Hincksia,t0025230
 99cb53c5-d02e-434f-bdb9-09c26ab77a2f,genus,Chromista,"",Ishige,t0025185
 6aee5e38-61d2-4832-8baf-437a1b90a910,genus,Chromista,"",Dictyopteris,t0025157
 525c555b-c8c9-457e-853c-8dc32e5385bd,genus,Chromista,"",Dictyota,t0025181
 8284e9e6-0179-4509-b92d-3b5cd4994bf9,genus,Chromista,"",Dilophus,t0025266
 45bf3f5a-d2d3-4d1a-932c-ac1a7a582178,genus,Chromista,"",Homoeostrichus,t0025233
 da597382-8282-4fcf-b3b9-3e69e1e5823f,genus,Chromista,"",Lobophora,t0025161
-98163e93-f432-4b84-ad69-93fa9f86ce26,genus,Chromista,"",Neurocarpus,t0025194
 01c27ae8-3e3b-4452-9f0d-f0154849e8fd,genus,Chromista,"",Pachydictyon,t0025152
 7308a9dd-493c-45fc-8df4-f672f75033c8,genus,Chromista,"",Padina,t0025162
 fa55188f-c281-4523-99d4-78cc98d53160,genus,Chromista,"",Rugulopteryx,t0025250
@@ -4204,7 +3972,6 @@ c0e5981c-077b-4211-8eea-2e3005005b87,genus,Fungi,"",Diplomitoporus,t0007478
 ce541448-e355-4961-8918-273e6bb505da,genus,Fungi,"",Echinochaete,t0007503
 79fdd185-ddee-452b-853e-330f4d189f2f,genus,Fungi,"",Epithele,t0007534
 ad512abb-97c5-4bf0-9291-b3e48cf7afb9,genus,Fungi,"",Favolus,t0007563
-849f1fef-7cf9-4de3-bbec-99ec20f83a31,genus,Fungi,"",Fomes,t0095908
 7895f459-3f09-43e3-8f4d-7dce6c6df22e,genus,Fungi,"",Fomitella,t0007575
 834fef74-2b12-4fb7-b987-9526da6c933a,genus,Fungi,"",Hexagonia,t0007722
 317dd6f8-2eb0-47aa-83cc-b33dc2392013,genus,Fungi,"",Hirschioporus,t0007723
@@ -4219,12 +3986,10 @@ b919cf0d-8463-4daf-aa35-d73937fd8fca,genus,Fungi,"",Megasporoporia,t0007933
 a94721b7-b9e2-40ce-9ebd-7be9c0715465,genus,Fungi,"",Neolentinus,t0008052
 453d63c0-0385-4475-b823-43cf5089fe34,genus,Fungi,"",Nigroporus,t0008077
 666467b6-ffd9-47d2-8492-bb824c31a12c,genus,Fungi,"",Oligoporus,t0008103
-cab1fae1-94a6-4750-9a5a-8eb41b72ab87,genus,Fungi,"",Pachykytospora,t0101871
 d88de3cf-a64a-48ea-9ae7-f5e1cfd21871,genus,Fungi,"",Panus,t0095754
 6b446c99-6d6b-4b72-b5d4-318f4c84e3b1,genus,Fungi,"",Perenniporia,t0008170
 9b54288d-0879-4724-8fbd-0fb618e940aa,genus,Fungi,"",Phaeolus,t0008199
 2bc6287c-df71-4690-8805-fc3da3d31d33,genus,Fungi,"",Polyporus,t0008287
-7ffcea18-e578-44bf-8516-4ffe9f048b79,genus,Fungi,"",Poria,t0095448
 09f3a63d-a4d3-4ac9-9aa9-52dbeba90201,genus,Fungi,"",Porodisculus,t0008293
 dbf6bf90-aa21-4d28-b3f9-6fb905803833,genus,Fungi,"",Pycnoporus,t0008364
 4b54aaa6-b558-4280-a2e5-046ac3d4ffe2,genus,Fungi,"",Skeletocutis,t0008506
@@ -4267,7 +4032,6 @@ b1c821bb-ca1d-4aed-a39d-bddb5a17d8d5,genus,Fungi,"",Dacryobolus,t0007407
 b927de13-07cc-4787-9e4c-e84f294685f6,genus,Fungi,"",Dictyonema,t0007455
 7f612ac1-6fcc-422a-a8ec-f37280b98699,genus,Fungi,"",Gloeoporus,t0007624
 cb56fed2-d048-4d8e-a39c-eda934571f2a,genus,Fungi,"",Jacksonomyces,t0007786
-14c676e5-8ba5-4d10-a1ac-dc37dd824a02,genus,Fungi,"",Merulius,t0095618
 b64f0196-d946-4b4b-9b42-ef9edd390cbf,genus,Fungi,"",Phlebia,t0008214
 bc6176f0-e58d-4971-84bd-d3464811410d,genus,Fungi,"",Resinicium,t0008394
 f1d20fda-6f79-4b57-a79e-37e8214538a3,genus,Fungi,"",Scopuloides,t0008478
@@ -4290,7 +4054,6 @@ f28b8404-80a0-453c-9d1c-2532f3b650af,genus,Fungi,"",Peniophora,t0008168
 96b9b60e-0b58-41e2-ba57-ae746306fb09,genus,Fungi,"",Halocyphina,t0007669
 f3f7732a-428e-4dc6-b08c-3d8efbca9f89,genus,Fungi,"",Grammothele,t0007643
 1a29b1e3-8dea-4940-87ca-cd67007eff20,genus,Fungi,"",Theleporus,t0008625
-77a859a2-353c-43ee-a4df-1bf3e1427828,genus,Fungi,"",Phlebiella,t0008215
 ac3359b4-719b-4d27-b0b7-0f7c37d9af4e,genus,Fungi,"",Xenasma,t0008755
 4cac3d9a-ec40-4b93-92c7-9e585e1bce18,genus,Fungi,"",Veluticeps,t0008723
 e1abe863-415d-4c9d-a9d5-66e98f06d8e0,genus,Fungi,"",Acanthofungus,t0006979
@@ -4480,7 +4243,6 @@ e7dd3c0a-e626-41c2-8125-851e99e800c3,genus,Fungi,"",Peniophorella,t0008169
 43d7ffb1-893e-4b30-8632-cb9649125dc2,genus,Fungi,"",Calocera,t0007186
 2bf5fb81-d791-48fd-be82-eac62eefbd95,genus,Fungi,"",Dacrymyces,t0007406
 f13d2852-7eac-4b77-9458-7b25c24354ba,genus,Fungi,"",Dacryopinax,t0007408
-88560787-1486-4b4f-b788-63718fb2baf0,genus,Fungi,"",Femsjonia,t0095902
 4098a518-0a00-472f-87ef-15b664f20a1b,genus,Fungi,"",Cerinomyces,t0007234
 d897a962-8235-4c98-944f-4a4de7e7d065,genus,Fungi,"",Calostoma,t0007190
 4d1c368d-991a-4fc6-a2cd-ba0856acd201,genus,Fungi,"",Mitremyces,t0007978
@@ -4494,7 +4256,6 @@ ce29af24-334f-426c-9be7-55df7d98118f,genus,Fungi,"",Sphaerobolus,t0008524
 676e6335-3f80-4b75-9dea-f453ba79602b,genus,Fungi,"",Thelephora,t0008624
 64044ec2-3384-4080-b48d-8e18dd116287,genus,Fungi,"",Tomentella,t0008641
 43c5fc92-1c09-48fc-9ae6-dfcf792e6bc2,genus,Fungi,"",Aecidium,t0006995
-3e5980fb-2670-4dc9-884b-e8f2ad7d313c,genus,Fungi,"",Coleopuccinia,t0095276
 00a428f5-919f-4cab-999e-8e0a26b47e8d,genus,Fungi,"",Endophyllum,t0007523
 963500ba-759a-44bb-b00e-9812649f656a,genus,Fungi,"",Gymnosporangium,t0007659
 b192fddb-4516-42fb-85bd-a06d37c82956,genus,Fungi,"",Miyagia,t0007980
@@ -4528,7 +4289,6 @@ dd100a84-975f-4d7d-b3d8-2864941dcb9e,genus,Fungi,"",Bullera,t0007178
 ddb5703b-474b-4b87-9bd6-f188dd1cd022,genus,Fungi,"",Tremella,t0008653
 ed510234-1f01-406d-bb05-f1544bba50e7,genus,Fungi,"",Trimorphomyces,t0008676
 5ae171cd-6c2f-4c67-8a1c-7c84f883364d,genus,Fungi,"",Elmerina,t0007512
-6701ae76-b80f-4f9a-b31e-5cad613c3a11,genus,Fungi,"",Micrococcus,t0007962
 8d12ce38-9ec9-425d-a44a-3d5f64508a19,genus,Fungi,"",Trichosporon,t0008670
 8ecc6c36-ec20-47a6-ac2a-5084b0cbd40c,genus,Fungi,"",Sirobasidium,t0008502
 d7c82cbc-9d12-4bb4-8256-7e750f761fc5,genus,Fungi,"",Syzygospora,t0008596
@@ -4618,7 +4378,6 @@ f2fa22a9-81cd-47d5-9ea3-88bc1b7dc27c,genus,Fungi,"",Basidiobolus,t0007121
 5969761f-dbc2-41e5-8243-4dd9ac0247a3,genus,Fungi,"",Linderina,t0007890
 8b3ef90e-cefa-47a2-9bf9-1d63bb1554f2,genus,Fungi,"",Ramicandelaber,t0008382
 85f81e30-b8f9-44fc-b40b-53361dd88dd9,genus,Fungi,"",Conidiobolus,t0007333
-78dd11b2-0d00-4042-a026-01d4d95a2337,genus,Fungi,"",Empusa,t0095862
 2b03c36e-4b7b-413f-92c7-a994b1abc76c,genus,Fungi,"",Entomophthora,t0007527
 b18e307e-70de-42b6-b789-4f80cc583be7,genus,Fungi,"",Mortierella,t0008004
 a56d3451-dba4-4832-bebb-38a05c425cc1,genus,Fungi,"",Peridiospora,t0008174
@@ -4792,7 +4551,6 @@ ab66f413-43cf-4875-befe-0840f6db6d97,genus,Fungi,"",Fusarium,t0007582
 3eb75098-adef-48df-bbec-7ee364d28f99,genus,Fungi,"",Sphaerostilbe,t0008530
 43373bba-985e-4fbd-95a0-ac3dbb7ba231,genus,Fungi,"",Volutella,t0008741
 e4126b03-8665-4480-a2bb-84f633467954,genus,Fungi,"",Cladobotryum,t0007291
-e3d2a7e6-759c-405c-a2d8-24e857ba2b69,genus,Fungi,"",Gliocladium,t0007615
 40cd396a-e1be-4422-b875-ce7321231fa8,genus,Fungi,"",Hypocrea,t0007753
 a0774c37-a5c0-4367-b6d8-2bcbc97a3977,genus,Fungi,"",Mycogone,t0008017
 5df784e6-79b2-4ba0-9686-f4b224865ac7,genus,Fungi,"",Pseudohypocrea,t0008329
@@ -4899,7 +4657,6 @@ c2a18916-07ba-44b9-bfdd-76387c4f99b2,genus,Fungi,"",Coniella,t0007334
 b31f07ad-e969-479d-9553-36c41e8d38bc,genus,Fungi,"",Dictyoporthe,t0007457
 7790378d-6b7f-4fa0-8f88-83d2e2170d77,genus,Fungi,"",Plagiostigme,t0008259
 d7b6297c-b53e-4d6e-a67b-47c55cb3565e,genus,Fungi,"",Prostratus,t0008305
-fe3aa9bd-17b0-469c-9bab-54274e16db8b,genus,Fungi,"",Schizoparme,t0094645
 7fd4d9e0-a8f9-4fb0-b21c-74c272b2f697,genus,Fungi,"",Ophiodiaporthe,t0008112
 463c82ce-acb6-4c55-9df1-b49e7cc7efe5,genus,Fungi,"",Chaetosphaerella,t0007252
 d7d32e5f-2ea6-48e6-b388-57e64c8b92c7,genus,Fungi,"",Endophragmiella,t0007522
@@ -4922,7 +4679,6 @@ d6022467-3b5c-4f90-a447-ae6e7e1b0b3a,genus,Fungi,"",Myriotrema,t0008025
 01972368-74fd-464f-b4fe-5aa2278d9545,genus,Fungi,"",Ocellularia,t0008090
 b17c17ac-b5a5-426a-b503-78300f4e2be7,genus,Fungi,"",Thelotrema,t0008626
 38f4ec81-e7b9-4109-800f-09cf6b3d2aa2,genus,Fungi,"",Glyphis,t0007634
-73ce2b3d-c762-4e74-9ba5-7c4830aee7a2,genus,Fungi,"",Graphina,t0007644
 0536577f-9ee3-43d6-8a9b-e839bd47e702,genus,Fungi,"",Graphis,t0007647
 b4478529-fabb-4b93-8dd1-e36a663f61e0,genus,Fungi,"",Gymnoderma,t0007655
 0d7ed6ad-8b9a-4d4d-a786-5e86080a269e,genus,Fungi,"",Phacellium,t0008186
@@ -5159,7 +4915,6 @@ ee51bc69-b1f5-4672-811f-13687d01ea74,genus,Fungi,"",Rinodina,t0008428
 96b02104-3627-4543-ad80-23ed2ebd6ca9,genus,Fungi,"",Catolechia,t0007218
 cd84171d-0135-4e36-bd03-edc9f39e7ff4,genus,Fungi,"",Rhizocarpon,t0008403
 75b92b61-e46a-49e3-a173-e9da94d36fa0,genus,Fungi,"",Cladia,t0007289
-2b9ea773-e65b-4ffe-b76a-462cc887c9ec,genus,Fungi,"",Cladina,t0007290
 34068fb7-8356-4ddf-9756-4fcaae19fed8,genus,Fungi,"",Cladonia,t0007293
 099f3592-1335-4986-ada6-12081cf89c22,genus,Fungi,"",Glossodium,t0007633
 751b6196-081d-4ce4-9176-7ce386ff80f7,genus,Fungi,"",Coccocarpia,t0007310
@@ -5255,7 +5010,6 @@ f1a8bec6-b508-4bf6-96e8-eb5ce6a95105,genus,Fungi,"",Diplophlyctis,t0007479
 ce43b2bb-125f-429f-a4cd-097a2e0cc2c3,genus,Fungi,"",Entophlyctis,t0007528
 60cea2c3-c9ac-4289-b854-b626ac3e500a,genus,Fungi,"",Chytridium,t0007277
 283b70d3-0fd5-4788-852b-8779fee5868b,genus,Fungi,"",Chytriomyces,t0007278
-0e91eac9-d12f-4a9f-9994-35c9b41654ff,genus,Fungi,"",Diplochytridium,t0007474
 baaaf4f2-aa9c-4ea4-a572-75219d01aebd,genus,Fungi,"",Karlingiomyces,t0007800
 f6bddc54-26f7-4523-9cf6-b4fb7ea56420,genus,Fungi,"",Phlyctochytrium,t0008217
 b21d1f19-cfc9-4da1-b5b1-1981f4dc922d,genus,Fungi,"",Rhizidium,t0008401
@@ -5282,7 +5036,6 @@ aba1d9ad-31a8-4caf-96c9-ba25f18a0c84,genus,Protozoa,"",Acanthoeca,t0006493
 29f7c85b-506e-4a32-a34f-a3d6385fb17f,genus,Protozoa,"",Crinolina,t0006590
 d5abe18b-febe-405c-963d-466eb6aa5754,genus,Protozoa,"",Diaphanoeca,t0006601
 509b332b-b6e9-445b-ad4c-12da1cbf00fb,genus,Protozoa,"",Nannoeca,t0006728
-3614fc81-ec0d-4476-803b-d3540a1d3404,genus,Protozoa,"",Parvicorbicula,t0006756
 7261abaf-30b2-475c-818e-372edbdea682,genus,Protozoa,"",Pleurasiga,t0006775
 1a825e6a-7ef4-4dc0-a8ec-23c4eb83ff41,genus,Protozoa,"",Polyoeca,t0006781
 f47d57b2-f0fd-4b98-9a55-97d0570a6dce,genus,Protozoa,"",Saroeca,t0006819
@@ -5290,7 +5043,6 @@ f47d57b2-f0fd-4b98-9a55-97d0570a6dce,genus,Protozoa,"",Saroeca,t0006819
 2ad99feb-6edc-4810-9e70-a88bfeb60202,genus,Protozoa,"",Stephanacantha,t0006857
 6eb443bd-9df4-4dac-ab34-2b0a59ba1f83,genus,Protozoa,"",Stephanoeca,t0006858
 8186fa93-1700-464c-923b-c92e6562ff04,genus,Protozoa,"",Syndetophyllum,t0006867
-064cb541-4cc0-44b1-ab10-7c0ec42d43b2,genus,Protozoa,"",Diploeca,t0006611
 35fd25ce-0f1e-4b5f-8a15-1bece17ea36e,genus,Protozoa,"",Salpingoeca,t0006816
 83fc2978-3da1-4e9c-b5a3-87375183cfaa,genus,Protozoa,"",Monosiga,t0006725
 565304a7-c9b0-43a0-8ea9-cd0530fddcc6,genus,Protozoa,"",Acanthocystis,t0006491
@@ -5434,9 +5186,7 @@ c6467565-4679-45a9-bcfc-342003a9f500,genus,Protozoa,"",Fissurina,t0006639
 6c2f9007-ae69-4bab-b7f2-20f216daae7d,genus,Protozoa,"",Glandulina,t0006648
 72ac5e59-66ac-484b-b5c5-7f351604d390,genus,Protozoa,"",Fursenkoina,t0006644
 83f2d3a9-4ce0-4fca-9040-77a7b0b33716,genus,Protozoa,"",Globorotalia,t0006657
-1c05043c-8c9a-4140-bc79-b276773b1841,genus,Protozoa,"",Guembelitria,t0006661
 a8f3af5d-dd39-4390-97b2-3dbf7041fd4c,genus,Protozoa,"",Lecquereusis,t0006696
-2df406ea-0c05-4ca0-afcb-af37ffbefe69,genus,Protozoa,"",Quadrula,t0006803
 1418af63-d143-4a24-ba30-09cc7a05b349,genus,Protozoa,"",Turborotalia,t0006892
 40141d45-57d1-4205-ab26-fe2090c12609,genus,Protozoa,"",Gaudryina,t0006646
 3cd0bb1e-127b-43d6-a90f-fe1eb26bf5a2,genus,Protozoa,"",Glabratella,t0006647
@@ -5546,19 +5296,13 @@ a5cd0dc4-d34a-45e0-a2e2-85d35275b73d,genus,Protozoa,"",Stemonaria,t0006852
 f77f95fa-c2b0-41fb-b308-c89d4b49385b,genus,Protozoa,"",Stemonitopsis,t0006854
 5c6b53ba-c02b-45b1-a227-53e0e8297db6,genus,Protozoa,"",Symphytocarpus,t0006866
 c6558e6b-f82c-4369-9014-fef8b8e642e8,genus,Protozoa,"",Cribraria,t0006586
-36c91b0b-26d6-4f4a-80ce-491814bc1df7,genus,Protozoa,"",Dictydium,t0006604
 dc2bde17-5db7-4d1f-93bc-cb5038ad2338,genus,Protozoa,"",Dictydiaethalium,t0006603
-5a16df0a-1107-4985-8693-47785ee98e03,genus,Protozoa,"",Enteridium,t0092270
 745593b8-3a1d-4bdf-8d99-a57e9b96c3fb,genus,Protozoa,"",Lycogala,t0006712
 ec72c36f-5d69-4e71-847d-49eec357608b,genus,Protozoa,"",Tubifera,t0006889
 dd3baf2c-7862-4c2b-9d88-0c3a3e8e487d,genus,Protozoa,"",Licea,t0006703
 0cc0e9f1-8545-4203-bead-21abb08336f1,genus,Protozoa,"",Ceratiomyxa,t0006565
 7403c91b-7998-4284-9669-ce8b47e09200,genus,Protozoa,"",Plasmodiophora,t0006774
 702858da-104d-4035-863e-339805663227,genus,Protozoa,"",Woronina,t0006902
-5f8f57b7-b8ab-4f79-b13f-97167134ef62,genus,Plantae,"",Hartmannia,t0094455
-56b32ac5-ab08-4d8a-a64c-31bb576a17de,genus,Plantae,"",Xylopleurum,t0094878
-37da55ef-7c74-4761-9c0f-471c6c940346,genus,Plantae,"",Matteuccia,t0106302
-55ff384e-68b8-49f7-918b-c643ed7bf9ea,genus,Animalia,"",Oecanthus,t0106077
 533224b0-10d7-4ea3-a864-747a2128b72c,genus,Bacteria,"",Merismopedia,t0088258
 009a2131-e911-4a1b-863d-b7e362012841,genus,Bacteria,"",Chroococcus,t0088097
 7a6c6582-cb26-4e34-aaf0-25a659725665,genus,Bacteria,"",Aphanocapsa,t0088030
@@ -5615,7 +5359,6 @@ c6bb727c-9c9f-4b29-a4a3-22758e04551b,species,Animalia,t0079458,Cosella kadsuriae
 fccc4606-182f-47e3-a0a4-6cf15486d651,species,Animalia,t0079460,Cosella parvifloriae,t0079450
 f0bc52a7-36e2-46a9-be03-0f03596fcced,species,Animalia,t0099211,Toxeus magnus,t0047607
 baf0de17-634c-4fb1-923c-0c9584586670,species,Animalia,t0096359,Metadentobunus formosae,t0085898
-9fc6ccff-8cad-45f0-b5ce-b0a569fb56fc,species,Animalia,t0036654,Prionocrangon ommatosteres,t0122564
 d6e4dc96-5902-45bc-b537-8ca547693c37,species,Animalia,t0036653,Prionocrangon formosa,t0036651
 8216d4fb-6d77-4432-a5a7-04e05f01c1c3,species,Animalia,t0068042,Lucifer intemedius,t0096225
 74ee778b-67f3-4042-91e5-f0b40c5a2be2,species,Animalia,t0056211,Scorpaena neglecta,t0056209
@@ -5634,7 +5377,6 @@ b65f39d9-1fc7-4fca-bcfa-0715bce24ec4,species,Animalia,t0097987,Dicrurus annecten
 7aa99ec3-5b7e-4a4a-a89e-763eef10c0c5,species,Animalia,t0030160,Carcharhinus albimarginatus,t0103309
 5458281a-8e2f-48a2-b6f7-f1430e212e6c,species,Animalia,t0029589,Hemipristis elongata,t0103313
 46107149-2b06-47d2-9c2d-ae3af5df5354,species,Animalia,t0096426,Mogera insularis,t0085930
-127088ed-624d-415b-805b-42af0057f031,species,Animalia,t0031143,Nidirana okinavana,t0106675
 74b45c78-c442-441c-8f83-85c3f079cd11,species,Animalia,t0077353,Cancilla isabella,t0038319
 db3b44fb-c723-4a0e-b58c-b5762f9733a3,species,Animalia,t0100057,Aphanoconia hungerfordiana,t0097224
 d86d3cf1-07f3-42c5-913f-8b5dbfcc563d,species,Animalia,"",Phascolosoma glabrum,t0098426
@@ -5695,7 +5437,6 @@ d942186e-79c6-4415-9391-691aab2245ea,species,Animalia,"",Marumba dyras,t0096301
 f591cee4-c8f5-4c89-b902-820ee304daad,species,Animalia,"",Megaceramis clara,t0105967
 3b98a1cd-fe46-4079-90f9-1d80e5025bba,species,Animalia,"",Syntypistis cyanea,t0099029
 1dba90e3-a60d-4771-8749-2ae34b1f2207,species,Animalia,"",Syntypistis nigribasalis,t0056451
-aafd0b59-3008-4c54-8ecd-385114892250,species,Animalia,"",Shaka atrovittatus,t0098865
 a30b6db1-02df-4822-8bab-b582387ad979,species,Animalia,"",Dysaethria erasaria,t0101465
 b49ee612-4233-47ad-92b3-cd837a8fdb23,species,Animalia,"",Rinaca japonica,t0098751
 82ba2922-e8c2-4850-bef0-e4e2fc1076a7,species,Animalia,"",Rinaca thibeta,t0098752
@@ -5790,13 +5531,6 @@ d8a1f2f1-6210-47f7-a954-5256c3df1129,species,Plantae,"",Selaginella repanda,t002
 8ca98ca2-fa38-4fbf-b672-19ec968f9839,species,Plantae,"",Selaginella effusa,t0075867
 bff24ff3-1ed2-41fb-be84-63e1fb255b05,species,Plantae,"",Selaginella monospora,t0075869
 5a232021-fce3-46ad-82a4-30680b130539,species,Plantae,"",Selaginella bisulcata,t0075865
-f307679e-e3d2-453a-b437-47ba05e9c85b,species,Plantae,"",Selaginella philippina,t0102741
-e0fce883-ea56-4d4f-b4ab-510dbdae68c5,species,Plantae,"",Selaginella plana,t0102742
-b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,t0102743
-f31fd497-ee37-4533-abfa-8ed564afd255,species,Plantae,"",Selaginella atroviridis,t0102744
-ea26d2c6-48e9-4e10-b4ce-978c2b7bb02b,species,Plantae,"",Selaginella plumosa,t0102745
-3159d4de-3b9d-414e-864b-5731f46dd285,species,Plantae,"",Selaginella kraussiana,t0102746
-fb6db18b-12f7-413b-83d7-90c6ade120fc,species,Plantae,"",Selaginella mongholica,t0102747
 2685b6dd-0756-49c0-a442-80512a97caa2,species,Plantae,"",Equisetum ramosissimum,t0026357
 90fb0d25-34dc-43c8-9899-6cff0d4d12f8,species,Plantae,"",Psilotum nudum,t0026358
 2f58b0f7-2971-416c-bf41-54df35ca606a,species,Plantae,"",Botrychium lunaria,t0026365
@@ -5828,7 +5562,6 @@ b6c65453-33e1-45e9-9212-7d1e9b77f970,species,Plantae,"",Hymenophyllum nitidulum,
 d01fc2c3-a17e-480e-b5d5-b5a53f708935,species,Plantae,"",Hymenophyllum palmatifidum,t0026393
 b1070148-e6b2-45a8-85e3-cd7ee7956d11,species,Plantae,"",Hymenophyllum paniculiflorum,t0026394
 9d10aaea-087b-45d5-8f74-530dbcd9b8dd,species,Plantae,"",Hymenophyllum pilosissimum,t0026395
-1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,t0095923
 05878b6c-fe1f-4756-8ea5-14fdf137fc8e,species,Plantae,"",Hymenophyllum productum,t0026396
 b1e7483b-6394-40f5-a9bb-232db10c2ca9,species,Plantae,"",Hymenophyllum semialatum,t0026397
 5a5460ef-c0ca-4c74-adba-194d2e37611a,species,Plantae,"",Hymenophyllum simonsianum,t0026398
@@ -5870,10 +5603,7 @@ cc37a26c-a336-430b-ac24-1b11dd59e47b,species,Plantae,"",Dipteris conjugata,t0026
 cca2e60d-b71e-4089-8bfb-3ba6f8b276db,species,Plantae,"",Lygodium flexuosum,t0074670
 449178f0-3e19-4def-8271-94da5820e135,species,Plantae,"",Actinostachys digitata,t0026440
 e4a58cb5-9949-47d7-9242-68637922e3cd,species,Plantae,"",Schizaea dichotoma,t0026441
-846f9dab-0a71-4375-a8a8-6443a6bc8fe6,species,Plantae,"",Azolla filiculoides,t0102194
 3322baf9-3c6f-4ffa-992b-d933e31dcf54,species,Plantae,"",Azolla pinnata,t0026444
-02eac940-1cc4-43d2-9295-10f3a6d6cb0c,species,Plantae,"",Azolla caroliniana,t0026443
-119b932d-51ec-4d27-9d1c-98abac06fcc0,species,Plantae,"",Azolla japonica,t0102759
 b629b61d-4c69-4fd6-a893-3a4905202351,species,Plantae,"",Salvinia molesta,t0026446
 2f350609-94d9-43af-bbce-a8f482e9b866,species,Plantae,"",Salvinia natans,t0026447
 52daaf88-af1b-47df-9bf7-a55d7b77ea22,species,Plantae,"",Salvinia cucullata,t0026445
@@ -5902,13 +5632,11 @@ f547eaf6-a05a-44cb-aa95-51bbc7ca1f8a,species,Plantae,"",Lindsaea obtusa,t0026474
 6ab822a4-ac88-49db-b03f-302fb0bb402f,species,Plantae,"",Lindsaea orbiculata,t0026475
 94ce47e9-cad8-441b-8c08-a2b8b4ff61f7,species,Plantae,"",Monachosorum henryi,t0026606
 a4b50b4b-00e9-4cec-9f51-69cb68ff0542,species,Plantae,"",Monachosorum maximowiczii,t0026607
-1598bc81-05c0-41f0-8bb2-a88e25849d46,species,Plantae,"",Pteridium latiusculum,t0103625
 628207a5-cece-4bd3-96c8-6e40c6bde9e2,species,Plantae,"",Hypolepis alpina,t0026584
 b1755ced-09fb-4fef-9439-f0af636768b0,species,Plantae,"",Hypolepis pallida,t0026585
 6a47faf6-1511-4298-8221-495f817c0f81,species,Plantae,"",Hypolepis punctata,t0026587
 d11de1ab-5484-4ca6-b46b-5fe317b2bc16,species,Plantae,"",Hypolepis tenuifolia,t0026588
 6231824b-4c12-4333-9736-9e33499fc58f,species,Plantae,t0105401,Hypolepis polypodioides,t0026586
-c336638d-e30e-449f-9f62-4c515ccc96ed,species,Plantae,"",Paesia radula,t0102152
 eab61099-2cbc-473f-88bb-6b9d709ebe29,species,Plantae,"",Histiopteris incisa,t0026583
 ff6aac32-ee7a-4bc6-9a24-dfe62fc99b9f,species,Plantae,"",Dennstaedtia hirsuta,t0026579
 aa093eff-e6dc-4466-933d-e4665aa21072,species,Plantae,"",Dennstaedtia scandens,t0026581
@@ -5926,7 +5654,6 @@ e6993b60-9012-4ecb-984c-45eb1fef0de0,species,Plantae,"",Microlepia speluncae,t00
 4c8543f0-1da2-484f-820a-063c4f23e7f3,species,Plantae,"",Microlepia strigosa,t0026599
 2bce1c97-ce6a-4f26-bb9a-83c54110c28d,species,Plantae,"",Microlepia substrigosa,t0026600
 3902c21d-2594-4548-9b86-1cf8b2d3d056,species,Plantae,"",Microlepia tenera,t0026601
-6908ffda-16cc-43b7-af89-f31a86c93a8b,species,Plantae,"",Microlepia trapeziformis,t0101877
 4be6d255-b6e8-46a5-983c-a43a2298f09e,species,Plantae,"",Microlepia trichocarpa,t0026602
 049bc750-97e1-4095-a0e7-329eae2c73c4,species,Plantae,"",Microlepia trichosora,t0026603
 98c26d37-cfb1-40b2-80fb-070a63f19337,species,Plantae,"",Coniogramme fraxinea,t0026484
@@ -5942,10 +5669,8 @@ e705688c-6b01-4972-b77a-e1484fbc380a,species,Plantae,"",Ceratopteris thalictroid
 55b3260b-97c4-4f52-994b-eacd36597f6e,species,Plantae,"",Onychium lucidum,t0026494
 f73935dd-7d6f-4832-9cfb-e4931babdcdf,species,Plantae,"",Onychium siliculosum,t0026495
 e1271a9b-6561-4560-9662-03ade482c776,species,Plantae,"",Pityrogramma calomelanos,t0026496
-5627b2fb-9a44-4b84-af25-663ded9984a1,species,Plantae,t0026526,Pteris amoena,t0102190
 b465a3f2-0e96-411e-bfdd-510b5379e424,species,Plantae,"",Pteris angustipinna,t0026497
 beb30a74-ed81-474b-8b54-244390eedc89,species,Plantae,"",Pteris arisanensis,t0026498
-7e94ffd7-71c9-4a46-87ce-23a8c74ff914,species,Plantae,"",Pteris aspericaulis,t0102191
 6328956f-bba9-42dd-b2b7-c5c5229279a6,species,Plantae,"",Pteris bella,t0026499
 743dc0a8-e5c6-49af-9498-18bc47df0b93,species,Plantae,"",Pteris biaurita,t0026500
 6dc5feee-8e39-4e3b-9685-36d8f75878f3,species,Plantae,"",Pteris cadieri,t0026501
@@ -6010,9 +5735,7 @@ f37ff66c-1156-45d5-bb85-31f52ae0fcc9,species,Plantae,"",Cystopteris moupinensis,
 d4aa94f9-9ac3-4493-97f3-6a2d37ef7f94,species,Plantae,t0026932,Hymenasplenium cataractarum,t0102144
 23dfddbb-1338-4985-b9d0-2305ccb4ef93,species,Plantae,"",Hymenasplenium adiantifrons,t0026928
 2f7848f5-241d-488c-a60b-09838e4118f2,species,Plantae,"",Hymenasplenium obliquissimum,t0026933
-09db3227-20b7-456f-bbc6-04b20591c032,species,Plantae,"",Hymenasplenium obscurum,t0026934
 25314dc9-6ab7-46f5-b376-68e8498d4c41,species,Plantae,"",Asplenium antiquum,t0026891
-e791f972-fe3d-4bd6-9f51-1616b5b80162,species,Plantae,"",Asplenium australasicum,t0099384
 01940ecc-22d3-4f10-ac5b-4859c8ec4227,species,Plantae,"",Asplenium boreale,t0103324
 97b0ade6-7d73-46c1-b3dc-12987427adc9,species,Plantae,"",Asplenium bullatum,t0026892
 e8df9bab-ba6f-4fca-81d1-6c859bec9b92,species,Plantae,"",Asplenium capillipes,t0026893
@@ -6022,21 +5745,16 @@ ce856dc7-741a-4b04-8d7d-5dd8a9ca3f2f,species,Plantae,"",Asplenium ensiforme,t002
 b4e14b94-5506-4fcb-886b-c31358e254c5,species,Plantae,"",Asplenium formosae,t0026898
 fbb5d42f-6afa-4acf-bb68-17c9b1fb41e2,species,Plantae,"",Asplenium griffithianum,t0026899
 9d43d957-f25d-4be2-8e0e-4f449cf9b871,species,Plantae,"",Asplenium incisum,t0026901
-5d896102-10a3-4584-9562-a3f19c116a44,species,Plantae,t0026900,Asplenium laciniatum,t0102140
-7e4421fa-1561-4675-8b6f-2932af774311,species,Plantae,"",Asplenium lobulatum,t0102141
 b252ca9b-edc1-4a29-a8fe-433bc6f36bcc,species,Plantae,"",Asplenium nidus,t0026903
 b2621744-795b-4541-919e-2380a8859dec,species,Plantae,"",Asplenium normale,t0040290
 ba06e12b-cce9-4fc1-bd97-4f2d03ba75b6,species,Plantae,"",Asplenium pekinense,t0026905
 6dabf19b-a523-48ba-9406-7d949d4e5d96,species,Plantae,"",Asplenium pifongiae,t0026906
-46d8a236-8dcc-4b4f-9b6d-a74c4ed07b34,species,Plantae,"",Asplenium polyodon,t0026907
 0b5a0520-6d19-4a3f-b2c8-2b479982c10b,species,Plantae,"",Asplenium prolongatum,t0026908
-a971b5ad-4a67-406b-ab19-a19ea51e2ca3,species,Plantae,"",Asplenium nitidum,t0102812
 a8be5346-af87-4f07-86aa-0700fa3eb385,species,Plantae,"",Asplenium pulcherrimum,t0026910
 2179ddee-de49-459b-a62d-1f311b9a4bad,species,Plantae,"",Asplenium ritoense,t0026911
 d029ade5-d8ca-4e40-8075-7bf1c90912d2,species,Plantae,"",Asplenium ruta-muraria,t0026912
 b101fd7b-b834-4a40-84f9-29aca6deb1db,species,Plantae,"",Asplenium scolopendrium,t0040291
 f2a7c4ad-f46f-4a34-9f94-8364f36ed614,species,Plantae,"",Asplenium septentrionale,t0026913
-0abdcb67-ef92-475f-b3d7-0c86b1c08d44,species,Plantae,"",Asplenium serricula,t0102143
 fc8c9abb-7c38-486b-9385-aeae16bfa419,species,Plantae,"",Asplenium steerei,t0026915
 faedbc17-44b7-44a8-8c77-02fe042fd2d6,species,Plantae,"",Asplenium tenerum,t0026918
 9bf46969-bfd6-4ea0-8cc3-6e2eddb283f6,species,Plantae,"",Asplenium tenuifolium,t0026920
@@ -6050,15 +5768,12 @@ f5e36e70-7894-49dd-81d6-aa09027db5dd,species,Plantae,"",Asplenium yoshinagae,t00
 1089420c-37e4-46d2-9857-bb098e4ce8da,species,Plantae,"",Diplaziopsis javanica,t0026889
 e1d50809-78ca-4882-9dd1-f293327df26d,species,Plantae,"",Cyclosorus ferox,t0073601
 e8cbc69d-b0cc-4173-a069-f0910e028e44,species,Plantae,"",Cyclosorus interruptus,t0026962
-05a1612c-751b-4200-bdbb-c3ec56d2e587,species,Plantae,"",Cyclosorus subpubescens,t0102203
 1f6ff25b-8c7d-4d39-8914-8ef80d24467a,species,Plantae,"",Macrothelypteris polypodioides,t0026937
 08e409fb-8291-44c1-82a9-b80a06391ab0,species,Plantae,"",Macrothelypteris torresiana,t0026938
 e291c54f-67f9-406f-8f2b-d05f4adcaed4,species,Plantae,"",Phegopteris connectilis,t0026939
 dd7b0bb3-6600-4a1c-b3e4-b2f5ca3ce5c1,species,Plantae,"",Pseudophegopteris levingei,t0026942
-50339677-04af-4c6a-93b1-438f45007a48,species,Plantae,t0026941,Pseudophegopteris paludosa,t0102210
 76552733-e210-45e6-b9bc-407d7fa9415b,species,Plantae,"",Pseudophegopteris subaurita,t0026943
 d8772028-32ba-4603-8830-b4cfa4d04dba,species,Plantae,"",Thelypteris omeiensis,t0102197
-5cde7318-111d-429a-917f-ef95106d7dfd,species,Plantae,"",Thelypteris ornata,t0102816
 19a3620f-405d-4a73-89d2-ba912c29cf7a,species,Plantae,"",Thelypteris torresiana,t0102817
 ca780f27-0276-465c-a94c-1f9e71e0f23f,species,Plantae,"",Ampelopteris prolifera,t0026947
 b08caea2-3b31-489c-9be5-b3a73f11c80a,species,Plantae,"",Coryphopteris japonica,t0102196
@@ -6070,7 +5785,6 @@ d66a5e6f-a232-42ad-b5e5-8b7949462caf,species,Plantae,"",Metathelypteris flaccida
 90933d02-81f1-40e4-bac3-7fc9d52c369b,species,Plantae,"",Metathelypteris uraiensis,t0026970
 1e50143f-f207-47fd-852e-dbe12fdf80d0,species,Plantae,"",Amauropelta angustifrons,t0026944
 582f74e5-65da-47f6-9229-89c225f24e09,species,Plantae,"",Amauropelta beddomei,t0026945
-ca2dea26-da38-4c53-b95d-058f8468e1da,species,Plantae,"",Pronephrium cuspidatum,t0102209
 8bcdafac-dd5f-424f-b89d-4d203ee89b36,species,Plantae,"",Pronephrium longipetiolatum,t0026973
 8a938766-7701-4b74-aab9-d96b12d179f0,species,Plantae,"",Pronephrium simplex,t0026977
 8716cb9f-6f56-440d-9b8e-509865b682a1,species,Plantae,"",Pronephrium triphyllum,t0026978
@@ -6089,7 +5803,6 @@ eaa3063f-e267-4a95-b151-89756d25f889,species,Plantae,"",Woodwardia harlandii,t00
 5d168079-125b-4046-936e-2bd4dc50de74,species,Plantae,"",Woodwardia japonica,t0027046
 157ef206-2b08-4fb0-9b34-fb9d666d8178,species,Plantae,"",Woodwardia kempii,t0027047
 85956fd1-6ccd-492d-b12d-2f9aa80c3884,species,Plantae,"",Woodwardia prolifera,t0027048
-9291eb56-bb17-44e4-baef-95571436a39d,species,Plantae,"",Woodwardia radicans,t0099416
 08a74d39-1f65-412c-9630-e12b190777a9,species,Plantae,"",Brainea insignis,t0027052
 313fb9cf-09cc-44ab-a51c-9b732d372d41,species,Plantae,"",Cleistoblechnum eburneum,t0027053
 c6ecf183-b756-4f18-b1db-870959499b5b,species,Plantae,"",Diploblechnum fraseri,t0027054
@@ -6116,15 +5829,9 @@ cca1385c-3f46-428d-a0b1-f6310d5bb135,species,Plantae,"",Athyrium palustre,t00270
 84222642-8069-4587-a3d6-3f3333332006,species,Plantae,"",Athyrium tozanense,t0027013
 e4f5d940-3efa-4de6-aa02-7b339bee1204,species,Plantae,"",Athyrium tripinnatum,t0027014
 9d435538-0fb9-463e-aa09-421b1cc85a35,species,Plantae,"",Athyrium vidalii,t0027015
-c9bcc282-a744-496f-97a2-2798e3a0612e,species,Plantae,"",Athyrium fragile,t0102807
-99055e04-8300-48f0-9f43-5439a2133899,species,Plantae,"",Athyrium pycnosorum,t0102731
-f14e6f0f-4b1c-40f5-b136-b15254fc0fa5,species,Plantae,"",Athyrium foliolosum,t0102844
-e9070153-85bc-4eb1-951e-a3d29b353b9a,species,Plantae,"",Athyrium kuratae,t0102734
 a2baa147-1e6b-4075-aad0-e8595bae1ca9,species,Plantae,"",Cornopteris philippinensis,t0053120
-947de550-6c9d-4709-a752-88531ccdacd2,species,Plantae,"",Deparia allantodioides,t0103640
 7918cffe-7880-4338-a24f-4ab686dac160,species,Plantae,"",Deparia formosana,t0027017
 ec4e26e3-9b4a-45fe-98c5-854711410350,species,Plantae,"",Deparia lancea,t0027019
-74e44a54-1f95-4832-9fed-2da85165cc2d,species,Plantae,"",Deparia longipes,t0102149
 89c89918-525d-4152-a46a-dc9989f81bc9,species,Plantae,"",Deparia petersenii,t0100553
 05580957-49a9-497c-8204-a0ca713994a2,species,Plantae,"",Deparia subfluvialis,t0027020
 282c9674-6743-4e71-a270-64249251730d,species,Plantae,"",Deparia unifurcata,t0027021
@@ -6147,11 +5854,9 @@ c28f0c17-34e1-44df-893a-cd905740fb86,species,Plantae,"",Diplazium maonense,t0027
 2ce95d2b-767a-4e42-9603-dcbb3c6fb705,species,Plantae,"",Diplazium megaphyllum,t0027035
 a5053033-7e44-41e7-aee8-576f70bd7767,species,Plantae,"",Diplazium mettenianum,t0027036
 11ba4cb0-b511-4ea3-9c41-3ea1d3641a35,species,Plantae,"",Diplazium okinawaense,t0027037
-59a75bc9-9050-4d64-9879-352a316af6e8,species,Plantae,"",Diplazium proliferum,t0053428
 10b7b35f-47e5-4de2-a72c-80fef3745377,species,Plantae,"",Diplazium pullingeri,t0027040
 4629e190-376a-4eda-bd44-5615d5c8f57d,species,Plantae,"",Diplazium virescens,t0053429
 bb6ad490-5916-48a7-9f29-352d23bd8e6e,species,Plantae,"",Diplazium wichurae,t0027043
-009043e3-d0dd-444e-8451-8d0063d29323,species,Plantae,"",Hypodematium crenatum,t0026609
 d8c32151-8e7b-4e24-9789-deaffc0f1879,species,Plantae,"",Arachniodes aristata,t0026628
 e4a98607-e87a-41c0-8a66-edf7367ef3b2,species,Plantae,"",Arachniodes chinensis,t0026629
 c51016a4-6877-4ff9-bb00-8baa44a86bcf,species,Plantae,"",Arachniodes festina,t0026630
@@ -6164,7 +5869,6 @@ a12f8486-5bf9-4b74-b946-18428ecd2883,species,Plantae,"",Arachniodes quadripinnat
 f60fb770-831a-4b1a-863f-e302b7e910b6,species,Plantae,"",Cyrtomium anomophyllum,t0026637
 22947747-2e81-4923-ad7e-ba2238c5f906,species,Plantae,"",Cyrtomium falcatum,t0058916
 439bcb11-bf5c-4111-87c3-04801e30e557,species,Plantae,"",Cyrtomium fortunei,t0026640
-0c604423-4c89-4356-b21d-4d3e12763546,species,Plantae,t0026723,Cyrtomium hookerianum,t0103627
 b80650c2-66b9-4561-8216-261ab2a1d41d,species,Plantae,"",Cyrtomium macrophyllum,t0026641
 451326a9-c14f-44ff-b029-bf5728ff9f73,species,Plantae,"",Cyrtomium nervosum,t0102155
 e81b4f09-1543-46b5-a4b7-352ea88398c3,species,Plantae,"",Cyrtomium caryotideum,t0026638
@@ -6172,8 +5876,6 @@ e81b4f09-1543-46b5-a4b7-352ea88398c3,species,Plantae,"",Cyrtomium caryotideum,t0
 b35d92a5-3469-4846-99f4-bfb2ad85447a,species,Plantae,"",Dryopteris alpestris,t0026645
 54d3d123-c3ad-4954-b426-ec704929262b,species,Plantae,"",Dryopteris apiciflora,t0026646
 c7550ed3-8ddb-41c6-a121-1423ef68b9c2,species,Plantae,"",Dryopteris atrata,t0026647
-89a4bfde-006e-4793-a872-314744e9f0eb,species,Plantae,t0026657,Dryopteris austriaca,t0102671
-d4a9633a-a6f1-42d7-ae2b-f9bde5c69e77,species,Plantae,"",Dryopteris barbigera,t0103626
 9dabbb89-4109-4478-9290-902f30b3cb1f,species,Plantae,"",Dryopteris cacaina,t0026648
 52bbef6e-971d-4ae1-adc4-7cffffda8af7,species,Plantae,"",Dryopteris championii,t0026649
 04457eae-6772-460b-8ad4-d9efb36f1ff8,species,Plantae,"",Dryopteris costalisora,t0026650
@@ -6192,10 +5894,8 @@ a6f76f8a-1cf2-439f-959f-8c5e989c2f70,species,Plantae,"",Dryopteris huangshanensi
 33fbe55d-0353-4e21-88ec-6c53e2d87423,species,Plantae,"",Dryopteris kinkiensis,t0026667
 e5b493c2-7cc4-4ade-b78f-dadae064f1bc,species,Plantae,"",Dryopteris komarovii,t0026668
 d7f4ed41-50b5-446a-902f-9e92d5dbf0a4,species,Plantae,"",Dryopteris kwanzanensis,t0026669
-c2d671ea-ab32-4040-85cf-783f3a93d986,species,Plantae,t0026697,Dryopteris labordei,t0102158
 5d09933e-f6cf-4095-8093-97a9866d1f3c,species,Plantae,"",Dryopteris lacera,t0026670
 d1bbaa8b-b20a-473a-9416-3a120d697346,species,Plantae,"",Dryopteris lachoongensis,t0026671
-beda5bc7-f34e-4178-a713-4c0abafe7459,species,Plantae,"",Dryopteris latibasis,t0102159
 bc88dbc8-0d74-4c20-a425-5fdbb95713d5,species,Plantae,"",Dryopteris lepidopoda,t0026672
 d5759133-8564-4623-8f73-a9135656c01c,species,Plantae,"",Dryopteris marginata,t0026673
 348e9ee4-8757-4a8c-b543-ef12a15160f8,species,Plantae,"",Dryopteris maximowicziana,t0026674
@@ -6209,7 +5909,6 @@ d5759133-8564-4623-8f73-a9135656c01c,species,Plantae,"",Dryopteris marginata,t00
 063b6020-13c9-4fc0-8b12-e8e243ba969a,species,Plantae,"",Dryopteris ryo-itoana,t0026686
 bc82b4be-0a02-4b7c-95ab-b2a658bf25f3,species,Plantae,"",Dryopteris scottii,t0026687
 6c5c9468-80e6-4768-968a-67fb52f303dd,species,Plantae,"",Dryopteris serratodentata,t0026688
-d34a1c4e-cfed-4d23-98c1-6f37592254c6,species,Plantae,"",Dryopteris sinofibrillosa,t0102160
 a76143bf-93c6-4cd4-87d2-9692b0d8181f,species,Plantae,"",Dryopteris sordidipes,t0026689
 69d1fc25-e090-48f6-8246-9ebf90181610,species,Plantae,"",Dryopteris sparsa,t0026690
 99ac55bd-3e73-41f3-a968-b570258d3062,species,Plantae,"",Dryopteris squamiseta,t0026691
@@ -6228,7 +5927,6 @@ d42d52c6-6837-4338-8f9b-224df267adcb,species,Plantae,"",Dryopteris subtriangular
 684f9153-c6c5-42d8-94f6-21f46dd5f500,species,Plantae,"",Polystichum acutidens,t0026709
 438534f6-bece-4366-8b0f-429a2b0031f2,species,Plantae,"",Polystichum atkinsonii,t0026710
 a3363824-5e9f-4c55-9708-314055a2a419,species,Plantae,"",Polystichum attenuatum,t0026711
-8eee35a2-8f6a-4909-ac92-32c828bdfd34,species,Plantae,"",Polystichum biaristatum,t0026712
 6be5f856-ba64-419b-9e30-c69f4adbcaf3,species,Plantae,"",Polystichum capillipes,t0026713
 e94f10fb-869b-4209-9bb9-497f785df5f0,species,Plantae,"",Polystichum chunii,t0026714
 38755712-3acf-441b-855f-bebc25753841,species,Plantae,"",Polystichum formosanum,t0026716
@@ -6243,7 +5941,6 @@ a8448f90-0175-42ff-b49b-5a6b8edf29ba,species,Plantae,"",Polystichum lepidocaulon
 572710d3-0b39-4405-ab16-5c694f1bce74,species,Plantae,"",Polystichum manmeiense,t0026726
 eb74976c-ce16-497e-b9e6-1424cf6c6310,species,Plantae,"",Polystichum mucronifolium,t0026728
 c7b61b5e-e90d-45a2-a137-4a867e0267f9,species,Plantae,"",Polystichum nepalense,t0026730
-a12f9467-8fd5-4d32-b438-133b91f81feb,species,Plantae,"",Polystichum obliquum,t0026731
 df5e0b06-fa96-4420-a071-6501a13c45fc,species,Plantae,"",Polystichum parvipinnulum,t0026732
 4d945ba2-91e2-4600-96f7-300db16fdd5b,species,Plantae,"",Polystichum piceopaleaceum,t0026733
 b4bddf28-15ad-4b4b-a480-1b68c5ea4fb8,species,Plantae,"",Polystichum prescottianum,t0026734
@@ -6260,7 +5957,6 @@ e3f59302-26aa-449f-bc97-48e4babc50be,species,Plantae,"",Polystichum tenuius,t002
 50e2b67d-5468-4d2c-ae12-480e8e72acf4,species,Plantae,"",Bolbitis rhizophylla,t0026615
 8760988b-e49b-49eb-b7e5-7a7316642fd9,species,Plantae,"",Bolbitis scalpturata,t0026616
 8119692f-f51b-4236-9de9-340a83817e20,species,Plantae,"",Bolbitis subcordata,t0026617
-39b23807-d61e-4914-8293-41748b48fe7c,species,Plantae,"",Bolbitis virens,t0099420
 0cda9b39-26ba-4819-9723-70dfb4accd18,species,Plantae,"",Elaphoglossum angulatum,t0026620
 2053cb97-5145-44bf-99d1-9418112e9d41,species,Plantae,"",Elaphoglossum callifolium,t0026621
 7705cac1-850b-4e84-a8af-372e9aeff56d,species,Plantae,"",Elaphoglossum commutatum,t0026622
@@ -6269,7 +5965,6 @@ a3663a6a-3d6b-4f6a-8f1f-09f6651927bf,species,Plantae,"",Elaphoglossum luzonicum,
 475c67ce-d01d-4e19-867b-4fc829dff7dd,species,Plantae,"",Elaphoglossum yoshinagae,t0026625
 c360333a-7f06-40f4-b7bb-027f3f314368,species,Plantae,"",Lastreopsis tenera,t0026626
 72aa8be1-10ca-4faa-84dd-8d9c438d8388,species,Plantae,"",Pleocnemia winitii,t0026627
-7150f106-595e-4bb7-88c5-680f648e36d3,species,Plantae,"",Lomariopsis spectabilis,t0103631
 6c4f4878-45cc-49ff-87db-056f0070380a,species,Plantae,"",Nephrolepis biserrata,t0026749
 5d9914f9-a97c-4fe7-a250-1229e3dd9223,species,Plantae,"",Nephrolepis brownii,t0026750
 b0ef29fe-4129-4c27-87fa-a1980c32b3f0,species,Plantae,"",Nephrolepis cordifolia,t0026751
@@ -6311,9 +6006,7 @@ e84e0338-15f2-4b5b-8861-8ad8c999dd73,species,Plantae,"",Loxogramme grammitoides,
 3ee8c6e7-b387-442d-a05f-a83b8b401e1f,species,Plantae,"",Selliguea engleri,t0026795
 1a4bcc5f-cff5-4d11-b44d-843970670300,species,Plantae,"",Selliguea hastata,t0026797
 e6026b6c-57b2-4a25-a5bf-d272be41ba41,species,Plantae,"",Selliguea okamotoi,t0103504
-68252d40-a40e-45a7-ae3f-3c6b24f840b3,species,Plantae,t0026796,Selliguea taeniata,t0102180
 d02ef503-30b9-4745-8184-3fd5508daf3d,species,Plantae,"",Selliguea yakushimensis,t0026800
-c1b9f09c-454c-4d76-aa04-7acc6d837da9,species,Plantae,"",Selliguea rhynchophylla,t0102797
 4542adcf-2944-456b-8198-873031f68f66,species,Plantae,"",Platycerium bifurcatum,t0026801
 a81ef539-da28-4868-8a76-1fc3a8973762,species,Plantae,"",Pyrrosia adnascens,t0102177
 a244591c-de29-4ff6-8bc6-025ec0dcaa54,species,Plantae,"",Pyrrosia angustissima,t0026802
@@ -6325,7 +6018,6 @@ e318dced-a0df-49fd-a53e-ba7629b898b2,species,Plantae,"",Pyrrosia porosa,t0026809
 b3c8bd64-b241-4398-bbcb-fe98c5de8e64,species,Plantae,"",Pyrrosia hastata,t0075554
 21b0885b-3900-4702-88f8-84fa2117a0b6,species,Plantae,"",Goniophlebium persicifolium,t0026815
 54314b86-1224-454a-850c-001d5ae85bb8,species,Plantae,"",Lemmaphyllum microphyllum,t0026818
-61efab5b-1527-4ffe-975f-4ba1e4bc5e57,species,Plantae,"",Lepisorus clathratus,t0103633
 b623fa1c-6df5-4471-8470-3e0f02ad767b,species,Plantae,"",Lepisorus kawakamii,t0026822
 c5144998-c54f-4ba2-a579-92a279688d0d,species,Plantae,"",Lepisorus kuchenensis,t0026823
 847683d4-10f3-41c1-9dab-ddcff19c92dc,species,Plantae,"",Lepisorus megasorus,t0026824
@@ -6351,13 +6043,10 @@ dec9c18e-3403-40e1-be85-5ee6c4b760d5,species,Plantae,"",Lepisorus obscurevenulos
 4ac6d91a-3e7f-4987-94ee-1c7a73a66164,species,Plantae,"",Neolepisorus fortunei,t0026850
 6b41df9c-ee30-4a4c-aa23-7419f0c43bc3,species,Plantae,"",Leptochilus longissimus,t0026840
 06157a22-1f0b-42d6-905c-489cd337337f,species,Plantae,"",Leptochilus nigrescens,t0026841
-e2ecb9d5-6b3a-4530-a6a5-a421c2ccf726,species,Plantae,"",Tricholepidium buergerianum,t0102723
 884a6809-e219-4cfd-b1d7-d67531536092,species,Plantae,"",Calymmodon gracilis,t0026852
 a43bdeef-bcd5-4d14-9bb0-a68f5c6e8a76,species,Plantae,"",Calymmodon oligotrichus,t0026853
 8bd6b255-456c-4e14-8a68-8397121d8bc7,species,Plantae,"",Calymmodon ordinatus,t0026854
 ec367fcf-cbd9-425f-922e-9f9ddeebe9fe,species,Plantae,"",Dasygrammitis mollicoma,t0026856
-045cac42-d9a1-4ea4-ac03-de93c1061ddc,species,Plantae,"",Grammitis fenicis,t0102729
-2a9c8c70-8af7-4382-bddb-dea5edc774df,species,Plantae,"",Grammitis jagoriana,t0102730
 b08d7f6d-0433-437e-8b6a-f23f552fd41a,species,Plantae,"",Micropolypodium okuboi,t0026857
 0e26ca2b-3723-4ca9-b1c7-4769ed744969,species,Plantae,"",Oreogrammitis adspersa,t0026858
 69cb9933-c587-422b-9076-9f599f024b0b,species,Plantae,"",Oreogrammitis caespitosa,t0026861
@@ -6375,7 +6064,6 @@ f23154c4-a6cb-4399-8a76-56ff4fc92f80,species,Plantae,"",Prosaptia urceolaris,t00
 0b818170-991e-4c35-9f9a-caf1acaa2ff8,species,Plantae,"",Tomophyllum subfalcatum,t0103505
 0f57e94b-4b95-476a-85a0-7a31a03d1a15,species,Plantae,"",Xiphopterella devolii,t0026881
 274e0158-f036-4c11-8fb6-8bb0d9c78015,species,Plantae,"",Goniophlebium transpianense,t0026817
-dc3a89ea-c25b-4ced-bec8-5a77b1424122,species,Plantae,"",Scleroglossum pusillum,t0103636
 3f50a785-eb9c-4206-bf92-b75894aaefef,species,Plantae,"",Cycas revoluta,t0053221
 579a8f95-5c16-4313-9343-8c4e65b8df3a,species,Plantae,"",Cycas circinalis,t0073591
 bf57e465-a661-4b16-b68e-c724f187b567,species,Plantae,"",Cycas media,t0073592
@@ -6392,7 +6080,6 @@ fcd40bd1-7c71-4eb2-8a21-fa8540b1646a,species,Plantae,"",Cedrus deodara,t0073104
 763f0aa9-75a1-4d43-b2ed-5eabeb35a796,species,Plantae,"",Pinus armandii,t0075294
 cf6d886e-9901-4c26-ae95-6bd61f6b107d,species,Plantae,"",Pinus massoniana,t0075307
 424e18a6-6287-4fb3-b329-e541965d3795,species,Plantae,"",Pinus morrisonicola,t0054840
-ef1b0172-4b81-469b-9961-e081904569bf,species,Plantae,"",Pinus parviflora,t0100854
 b5f2f44a-273b-4371-8d46-3d3991eda76b,species,Plantae,"",Pinus taiwanensis,t0054839
 195501fb-372a-406b-8449-3b212cc3487a,species,Plantae,"",Pinus attenuata,t0075295
 f2e41e5e-49cc-446c-a829-b0e3014df19c,species,Plantae,"",Pinus banksiana,t0075296
@@ -6440,14 +6127,12 @@ dbb14703-a8c0-4ab7-9abc-6ac7c6ee7753,species,Plantae,"",Tsuga longibracteata,t00
 42ae7509-a50b-4253-bde9-06995d76217a,species,Plantae,"",Keteleeria pubescens,t0074449
 81b42dc8-f001-4f3c-bfad-a00e961624bf,species,Plantae,"",Keteleeria fortunei,t0074447
 a5e4ed29-93c0-4a16-88d5-59eebfdd57bd,species,Plantae,"",Abies kawakamii,t0052518
-66e6f912-4c98-41c5-a8ce-b195637a0863,species,Plantae,"",Abies mariesii,t0099253
 1b32543f-b015-4ba3-9e8e-14a7d1dc258b,species,Plantae,"",Abies firma,t0060760
 f67f6d13-1695-439a-a79d-7b09d537b936,species,Plantae,"",Araucaria angustifolia,t0061018
 8604facd-db41-4127-9b46-16935b383b0d,species,Plantae,"",Araucaria araucana,t0061019
 dae286fe-5319-4706-9a16-c98b3c30f145,species,Plantae,"",Araucaria bidwillii,t0052611
 202dbd48-48aa-4d85-8dd9-cc323c7cf5f1,species,Plantae,"",Araucaria cookii,t0061020
 48be6555-6373-4fcf-879d-6d492d315622,species,Plantae,"",Araucaria cunninghamii,t0052612
-c4235611-320b-44ab-a3b6-91e54cdc3c53,species,Plantae,"",Araucaria heterophylla,t0061021
 72281fac-57ea-4dac-baa8-53e8084dc8da,species,Plantae,"",Araucaria hunsteinii,t0061022
 6f054763-de84-472d-b71d-e5d8b3dc3512,species,Plantae,"",Agathis alba,t0060867
 fb8ea7eb-f096-4530-a8d4-863c4be9f6ce,species,Plantae,"",Agathis dammara,t0060868
@@ -6487,7 +6172,6 @@ a81fcd52-7108-46c7-8ddf-719b75fcf6dd,species,Plantae,"",Cupressus sempervirens,t
 20c6b29f-a5f6-46a8-917e-ef4ac041345c,species,Plantae,"",Cupressus cashmeriana,t0073579
 722e4d08-6602-42ec-a87f-138101c90ef1,species,Plantae,"",Juniperus chinensis,t0074435
 7b9f6c3f-5d82-44a0-8973-2adb8d97b4ae,species,Plantae,"",Juniperus formosana,t0074436
-3a062ab0-633c-41ec-9c54-ac40b46cf222,species,Plantae,"",Juniperus recurva,t0100344
 3aded6d6-52dd-459a-b9d3-00725b858b8b,species,Plantae,"",Juniperus procera,t0074437
 8524bd46-e1ac-45c4-8025-c6843d95ea9b,species,Plantae,"",Juniperus virginiana,t0074438
 f4b44328-3f77-4602-9c8d-b94519dc31ed,species,Plantae,"",Calocedrus macrolepis,t0052783
@@ -6666,7 +6350,6 @@ f2d1acaf-0708-4ab6-88ac-5b75d7c5346d,species,Plantae,"",Neolitsea hiiranensis,t0
 f563a7a4-51ee-4c52-823a-5623354999a0,species,Plantae,t0058619,Neolitsea sericea,t0054552
 87c7f5bd-7f79-4639-b26b-d277f9a92acc,species,Plantae,"",Neolitsea villosa,t0054553
 a43b77e7-2f37-4f38-8bca-cbd10d7e59ea,species,Plantae,"",Phoebe formosana,t0054781
-c9921849-72c7-4970-a892-10ded736537d,species,Plantae,"",Phoebe sheareri,t0100832
 19dfb3ec-96f0-4ab2-ab69-504424f22487,species,Plantae,"",Sassafras randaiense,t0055229
 9684fa6b-f662-4618-b8a3-18a7e33e61e9,species,Plantae,"",Sassafras tzumu,t0075749
 c0d58aa2-5e8b-44b0-bab6-9e3674673c95,species,Plantae,"",Persea americana,t0054753
@@ -6690,7 +6373,6 @@ fb6a1128-a7b9-4b33-acc0-8a2c39b32750,species,Plantae,"",Alocasia cucullata,t0033
 28096bb0-4138-4094-b411-f49b02fa9d97,species,Plantae,"",Alocasia macrorrhizos,t0033702
 8a98c839-fd85-4851-bc9e-0c5d533c7d1e,species,Plantae,"",Alocasia odora,t0033703
 183a8206-dc14-4066-b738-d61253940618,species,Plantae,"",Alocasia cuprea,t0060907
-b7909538-b412-40d4-9a50-7ed7a08af344,species,Plantae,"",Alocasia indica,t0099318
 4300a887-b5b0-4d23-8bf7-438c6d0637d1,species,Plantae,"",Alocasia korthalsii,t0060908
 b25be2ce-23ea-4475-a837-4a97cae0aa39,species,Plantae,"",Alocasia longiloba,t0060909
 e8a621b4-afb5-4115-a9b2-293c787dcb1b,species,Plantae,"",Alocasia putzeysi,t0060910
@@ -6805,7 +6487,6 @@ e57e697b-0f9b-42b8-b6ce-7ec576a58aa8,species,Plantae,"",Hydrocleys nymphoides,t0
 7c46a498-52e5-42f0-aff2-2998a5234bfb,species,Plantae,"",Sagittaria guayanensis,t0100390
 f2545a9d-8557-46ad-82f6-87d5cad9bc37,species,Plantae,"",Sagittaria pygmaea,t0055191
 863f574d-fe87-4f99-808e-8b3b2837604e,species,Plantae,"",Sagittaria trifolia,t0046157
-12a6fc94-cb0d-43ec-af85-5bdecf5e6cd2,species,Plantae,"",Sagittaria sagittifolia,t0101510
 1bed5fa7-a445-426c-a683-e47e57f68510,species,Plantae,"",Limnocharis flava,t0046171
 a2871634-ff2b-49f6-b4ca-57adc01ec759,species,Plantae,"",Blyxa aubertii,t0040393
 a12a7f35-5d2d-4073-86c7-c91b63cb7f42,species,Plantae,"",Blyxa echinosperma,t0040394
@@ -6815,7 +6496,6 @@ a12a7f35-5d2d-4073-86c7-c91b63cb7f42,species,Plantae,"",Blyxa echinosperma,t0040
 2cde9dc7-d57d-47ec-ae4e-9b7df19f1864,species,Plantae,"",Halophila decipiens,t0053897
 1edbc463-dbef-4489-b6ae-023374d0fd37,species,Plantae,"",Hydrilla verticillata,t0053961
 f0e56680-47c8-4244-8316-bdfd5193e937,species,Plantae,"",Hydrocharis dubia,t0053962
-760bdd5b-0329-4f65-9a7f-036b6d5c4b5a,species,Plantae,"",Hydrocharis morsus-ranae,t0100294
 49ca1959-d7e1-4f5b-912a-49fbf424acfb,species,Plantae,"",Najas ancistrocarpa,t0054530
 b325d15c-d514-43f1-a5c4-7132ff1571e7,species,Plantae,"",Najas browniana,t0054531
 7ba9e2d0-17b9-4d6b-80b0-3d96806bc993,species,Plantae,"",Najas gracillima,t0054532
@@ -6829,7 +6509,6 @@ d70f9c00-5556-4c06-97f9-c0c0405f35bf,species,Plantae,"",Najas guadalupensis,t007
 e387e718-e92a-46b9-a20c-0262ad353e47,species,Plantae,"",Vallisneria americana,t0055737
 fde9485a-55c1-4a30-9eef-b353eaaa29b9,species,Plantae,"",Vallisneria gigantea,t0049252
 fd5bfc95-2872-48b5-bac0-f0004cc6c803,species,Plantae,"",Vallisneria spiralis,t0049253
-c29536af-290c-48e2-b831-e11481143701,species,Plantae,"",Elodea canadensis,t0099576
 dadcb82e-f43c-4035-8afe-80f4bc46368b,species,Plantae,"",Limnobium laevigatum,t0054237
 81e30b49-9675-4036-9dc2-8f320443b482,species,Plantae,"",Aponogeton taiwanensis,t0040208
 2348bfd0-13d2-40d2-a7c9-287600540ff8,species,Plantae,"",Zostera japonica,t0049405
@@ -6899,7 +6578,6 @@ ee48551a-7cf3-4b3b-b5fe-a48c73fa498f,species,Plantae,"",Trillium tschonoskii,t00
 e7461a10-7397-4f69-bb72-d9b03209d91d,species,Plantae,"",Ypsilandra thibetica,t0049361
 e26c3138-b7b5-4594-a770-796addbe951b,species,Plantae,"",Disporum kawakamii,t0053434
 d104a19a-a0a0-4393-956c-83f65b04e84d,species,Plantae,"",Disporum nantouense,t0053435
-ba84ff4f-bcd2-44c2-a098-e1dd5b57bd40,species,Plantae,"",Disporum sessile,t0099551
 966c5aa3-edbf-4b88-b84f-dbdd0cc8878c,species,Plantae,"",Disporum taiwanense,t0053436
 0d710e9d-a114-48fc-bc1c-e23047efa39a,species,Plantae,"",Gloriosa superba,t0074122
 361f0ed3-0d37-4d29-9044-57b8ec7902f0,species,Plantae,"",Sandersonia aurantiaca,t0055219
@@ -6931,8 +6609,6 @@ b9cfa091-71c9-4ad5-8347-9cc90b9829a3,species,Plantae,"",Smilax megacarpa,t007592
 a9d1bf8e-3918-4802-aaec-9930e1e52b5e,species,Plantae,"",Lilium speciosum,t0100387
 853ef729-9054-49ef-9b0e-aa13643b3200,species,Plantae,"",Lilium distichum,t0074586
 9d497e60-c5fa-41e3-a222-cd0393500dfc,species,Plantae,"",Lilium henryi,t0074589
-f99248c1-c9f2-486a-a8a8-d191f50ef153,species,Plantae,"",Lilium philippinense,t0100386
-b3089b7b-73c0-429a-b9d0-4b2321ce1532,species,Plantae,"",Lilium japonicum,t0100385
 ec58d469-8a82-4541-9503-b52250aef333,species,Plantae,"",Tricyrtis formosana,t0058450
 331a0ba1-a82a-44ba-a9c7-69c6fd12473a,species,Plantae,"",Tricyrtis ravenii,t0055655
 e877c5de-6aa4-4250-bbb4-6bc8a5e4cbff,species,Plantae,"",Tricyrtis suzukii,t0055656
@@ -6957,7 +6633,6 @@ b9dcf3cb-13bc-4198-aeda-7db4481ae8c9,species,Plantae,"",Arundina graminifolia,t0
 ab613fc5-6e5c-4e83-b193-2a83af81509d,species,Plantae,"",Bletilla formosana,t0040387
 944e6002-db03-44e4-97b0-0e36f792e42e,species,Plantae,"",Brachycorythis galeandra,t0040427
 8ffa028e-0fdb-45da-99e5-abe13294b8c3,species,Plantae,"",Brachycorythis peitawuensis,t0040428
-e6d9bcba-6cb9-41df-82f5-952aaadf1c64,species,Plantae,"",Brachycorythis helferi,t0103327
 45fbed9c-3328-49f4-bc64-bbfbd8d94ce2,species,Plantae,"",Bulbophyllum albociliatum,t0040493
 c529efa0-aaf3-4be4-ac95-54f1c76addd9,species,Plantae,"",Bulbophyllum aureolabellum,t0040495
 51e9e5e5-a95d-4aaa-a47e-c4ad2ea9075c,species,Plantae,"",Bulbophyllum ciliisepalum,t0052757
@@ -7019,7 +6694,6 @@ f8c9bcb3-1315-4153-8d08-567ba31800b2,species,Plantae,"",Cleisostoma paniculatum,
 c1e1d9ce-8841-46a4-8c37-10363d8362fc,species,Plantae,"",Collabium chinense,t0053088
 7f2b6798-29d7-4cce-9496-eb035203dece,species,Plantae,"",Collabium formosanum,t0053089
 ffaa54e7-2591-45ca-891b-43df4e11a059,species,Plantae,"",Corybas puniceus,t0053122
-c2d63ead-61f5-44f3-ac53-7aa506f133d9,species,Plantae,"",Corybas taliensis,t0053125
 bdd89e33-c254-4ab3-9049-2fb536e091a2,species,Plantae,"",Corybas shanlinshiensis,t0053121
 a0e5e2cf-3f63-489a-94bd-f5b5bea9c5b2,species,Plantae,"",Corybas sinii,t0053123
 8f75d901-6c69-4c1b-9cdd-0e82885228ab,species,Plantae,"",Corybas taiwanensis,t0105692
@@ -7035,7 +6709,6 @@ bbaec7af-d806-465c-abad-1365a99e8f6e,species,Plantae,"",Cymbidium ensifolium,t00
 73709111-92a9-4942-ab77-332d55894bbd,species,Plantae,"",Cymbidium faberi,t0053229
 9afb34c6-2669-463f-9408-a25422b00e05,species,Plantae,"",Cymbidium floribundum,t0053230
 61092b1b-00da-4fb1-8d46-2b4a2beb4fc0,species,Plantae,"",Cymbidium formosanum,t0058902
-88a194cf-b829-460f-8bbe-39f4dcd8182c,species,Plantae,"",Cymbidium goeringii,t0053231
 d64ddbc2-6768-4c4c-a9d5-fa4bf5fc43e2,species,Plantae,"",Cymbidium kanran,t0053233
 8efa36fc-6284-4d84-9d60-40443546892d,species,Plantae,"",Cymbidium lancifolium,t0053234
 dfe15e90-df42-4402-81a0-bbc0299ac3b3,species,Plantae,"",Cymbidium macrorhizon,t0053235
@@ -7047,7 +6720,6 @@ dfe15e90-df42-4402-81a0-bbc0299ac3b3,species,Plantae,"",Cymbidium macrorhizon,t0
 ca67cd5d-4b9b-4b14-a7bc-e5d730216b81,species,Plantae,"",Cypripedium debile,t0053280
 5469d63f-4e94-4d7c-b349-3b0ef4b0b36d,species,Plantae,"",Cypripedium formosanum,t0053281
 5916bdb7-3e44-474a-b980-c764bbd9974e,species,Plantae,"",Cypripedium segawae,t0053282
-be73fbba-71f0-4d9a-bd6e-efba542249ba,species,Plantae,"",Cypripedium guttatum,t0100804
 2ae65e9c-ee33-4d67-a1d1-760bf6f26fcb,species,Plantae,"",Dactylorhiza viridis,t0053289
 058684cf-575f-4616-9adc-7b653ad1ea0a,species,Plantae,"",Dendrobium chameleon,t0053313
 ddf111c5-16dd-481c-8b13-298c58d981f1,species,Plantae,"",Dendrobium chryseum,t0053314
@@ -7153,7 +6825,6 @@ c9bbc888-3795-4439-8bd2-b393c696ea89,species,Plantae,"",Holcoglossum pumilum,t00
 7aa9ab19-03d3-4dcc-92fc-c4eb27e39f02,species,Plantae,"",Hylophila nipponica,t0053979
 288fb7e9-9f8f-4a54-b83b-35c1e99d7731,species,Plantae,"",Lecanorchis cerina,t0054186
 265569b1-ef50-4a56-aa9c-c8120ee80052,species,Plantae,"",Lecanorchis latens,t0054187
-2f0a6ac2-5f4f-4608-95fc-f8095c246096,species,Plantae,"",Lecanorchis japonica,t0101581
 2f317a55-2891-4032-9a16-17f27eb8c05b,species,Plantae,"",Lecanorchis nigricans,t0103359
 99e2bfe9-1602-4c43-b2a2-4dd01194d7b7,species,Plantae,"",Lecanorchis ohwii,t0058132
 900c0aaf-6aee-4be3-9652-cd39dec347e8,species,Plantae,"",Lecanorchis suginoana,t0074506
@@ -7174,7 +6845,6 @@ bcd86e87-654a-401e-825f-756fa6a770e2,species,Plantae,"",Liparis elliptica,t00542
 016e8fb3-fe28-4e88-ae63-88c7f249275f,species,Plantae,"",Liparis grossa,t0040386
 4541b1c5-b2d9-4735-9c59-5a5d72ad607a,species,Plantae,"",Liparis henryi,t0054265
 b70e4585-d6be-4885-8bc4-6a62aaf58fc3,species,Plantae,"",Liparis kawakamii,t0054266
-afd782d9-67b6-4154-b2a3-1618b5830872,species,Plantae,"",Liparis krameri,t0074598
 85f7f6e4-42ec-455e-96c5-c7fdd43b4729,species,Plantae,"",Liparis nakaharae,t0054269
 32826eb4-4535-4faf-a62e-819ff51089dd,species,Plantae,"",Liparis nervosa,t0054270
 bad40c82-3d94-435a-8d10-5b9b0370808b,species,Plantae,"",Liparis nokoensis,t0054271
@@ -7215,7 +6885,6 @@ dde5c60b-f3da-4ac4-976c-db6693e65534,species,Plantae,"",Nervilia alishanensis,t0
 0064d8c6-ae31-492a-ab5f-9d9e1bca1f34,species,Plantae,"",Nervilia purpureotincta,t0074931
 61a56c61-8e6b-476b-bb9a-5ab689fe69c2,species,Plantae,"",Nervilia taitoensis,t0054578
 fb3429c2-0398-4ca4-9cf0-5b88f9d2911c,species,Plantae,"",Oberonia caulescens,t0054602
-642b6472-87ad-4540-b63b-d1d319b4fbdc,species,Plantae,"",Oberonia japonica,t0103278
 d3580ceb-d2f4-4ad1-8428-e1d47f10e966,species,Plantae,"",Oberonia insularis,t0054604
 34b2443d-807b-4a5e-b4dd-652af206d2df,species,Plantae,"",Oberonia rosea,t0054607
 88fd3a30-b447-4cba-9776-1bf39ef04d0f,species,Plantae,"",Oberonia segawae,t0054608
@@ -7233,7 +6902,6 @@ c2505fd3-eef8-41ad-8c03-8cfa3ea50707,species,Plantae,"",Oreorchis bilamellata,t0
 c4599a5a-85fc-4e9e-b584-a2900ed521b4,species,Plantae,"",Oreorchis indica,t0086925
 41aa494e-36bd-494d-976f-1705006d4e1d,species,Plantae,"",Oreorchis micrantha,t0054638
 761cf6dc-3bc9-40bc-89d0-8e567479cfc1,species,Plantae,"",Oreorchis patens,t0054639
-3779739c-6753-448e-b1f6-49c7e4e13e87,species,Plantae,"",Oreorchis foliosa,t0075020
 e3e11977-dfec-4d96-b6b7-fe38efeac4d9,species,Plantae,"",Pachystoma pubescens,t0054673
 7779f698-1012-4c85-87f8-df8e8dde9912,species,Plantae,"",Papilionanthe pseudotaiwaniana,t0075113
 beea71e8-9cac-4e09-81f1-b4a27599fb11,species,Plantae,"",Papilionanthe taiwaniana,t0054694
@@ -7281,7 +6949,6 @@ acaf787d-150f-471e-b4fb-90586f58333d,species,Plantae,"",Pinalia ovata,t0054835
 8b7b2d0c-199e-4cc6-97bd-81e754df371b,species,Plantae,"",Platanthera devolii,t0054869
 dd726bab-606a-4ad6-8f18-e2538a5096ed,species,Plantae,"",Platanthera formosana,t0085102
 269efe73-2f70-4b53-b671-4739f249af05,species,Plantae,"",Platanthera longicalcarata,t0054870
-c9a75dd8-c9aa-49ad-af18-a73810b3026f,species,Plantae,"",Platanthera mandarinorum,t0100856
 3a8dd1f6-6ea0-4ebe-af31-f259d6d09220,species,Plantae,"",Platanthera minor,t0054872
 6215d166-bbcb-4d25-83e5-bb5b2146eaa8,species,Plantae,"",Platanthera ophrydioides,t0054874
 f3d5bb16-1c2a-4edf-867d-a4382947a004,species,Plantae,"",Platanthera pachyglossa,t0054871
@@ -7293,8 +6960,6 @@ f41a7376-ab14-4572-ae5d-bf8ad550832d,species,Plantae,"",Platanthera stenoglossa,
 c085f104-a1ec-45a3-8e7b-836b9f62539e,species,Plantae,"",Platanthera peichiatieniana,t0075397
 081afc01-a75e-424c-8ed9-99f220506f7a,species,Plantae,"",Pleione bulbocodioides,t0054881
 7bf33a70-8d9c-47f3-ac08-611a3b88a918,species,Plantae,"",Pogonia minor,t0054903
-96a0d4b0-feb8-41b0-be3f-abc00563f3a0,species,Plantae,"",Pogonia japonica,t0100864
-2129841d-c7a5-4495-905c-4d9f0f3c2212,species,Plantae,"",Pomatocalpa undulatum,t0075451
 124a39ee-9aa4-4ce3-8a38-b45c0529b2c2,species,Plantae,"",Saccolabiopsis viridiflora,t0055184
 c7b047f0-ac40-4fea-a71b-63eb46594d62,species,Plantae,"",Schoenorchis vanoverberghii,t0055254
 a16aef88-5177-41e4-96f8-d4b8fef0c054,species,Plantae,"",Spathoglottis plicata,t0055414
@@ -7337,7 +7002,6 @@ ffe51230-be7e-4c46-a40d-bf3b531f81c0,species,Plantae,"",Vanda lamellata,t0049254
 d4da0530-70a9-4c5e-932a-051b755f27f0,species,Plantae,"",Vanda bicolor,t0069757
 1e7a9e91-f9ef-4ca5-807f-cbaf67f7d99e,species,Plantae,"",Vanda tricolor,t0069761
 db112e21-5823-4597-b478-703f593166ce,species,Plantae,t0049256,Vanilla somae,t0049257
-92aaa97d-d3c2-4ca6-8ea0-a509ee6466df,species,Plantae,"",Vanilla griffithii,t0099693
 b095ae87-057b-49ba-bda9-e2667129c125,species,Plantae,"",Vanilla mexicana,t0069769
 8f27ad5e-a44d-4e5a-a586-0523506ec768,species,Plantae,"",Yoania amagiensis,t0069830
 b31356fc-8021-4fcb-b37e-c0bdac38b1ba,species,Plantae,"",Yoania japonica,t0049360
@@ -7369,9 +7033,7 @@ ab4c57ac-1c7e-43ff-9c4b-b0cecb0882c2,species,Plantae,"",Aerides falcatum,t006084
 1893db34-956c-4635-930c-d88ab05c56ac,species,Plantae,"",Aerides savagaum,t0060855
 94ff9462-710b-4c43-8d85-7e6aaedda2e7,species,Plantae,"",Brassia caudata,t0072902
 54cdc6ba-f671-4e9b-8bc7-b2b17207a293,species,Plantae,"",Brassia gireoudiana,t0072903
-9a99949c-ceb9-41ef-bd07-75911af62015,species,Plantae,"",Chamaeanthus wenzelii,t0052940
 2d023ae2-1772-4b55-9f7e-7c2d822bb1b6,species,Plantae,"",Coelogyne fuscescens,t0073371
-2f6c650f-ac6f-49d1-82ee-a1d40e779275,species,Plantae,"",Didiciea neglecta,t0073687
 f51df471-26a6-495e-827c-5cf6d91905a3,species,Plantae,"",Dimorphorchis lowii,t0073706
 2ba4b217-c948-4f8d-8e32-625b3497cfea,species,Plantae,"",Doritis pulcherrima,t0073740
 0737ec15-7d2d-445e-ac3b-3391a215b0f2,species,Plantae,"",Grammatophyllum scriptum,t0074168
@@ -7422,7 +7084,6 @@ a218dd45-67e4-41c2-8ebb-fb5e4eecde14,species,Plantae,"",Stanhopea saccata,t00759
 e82758d1-a212-4b5c-be89-32dd71e74282,species,Plantae,"",Vandopsis lissochiloides,t0069767
 588fdd38-f18c-45ba-9758-b259aed58a51,species,Plantae,"",Vandopsis parishii,t0069768
 dc556ffa-3105-4400-bdb6-98b6442b8038,species,Plantae,"",Vexillabium nakaianum,t0049286
-94435998-1495-4068-9294-090b5cb278ea,species,Plantae,"",Microstylis wallichii,t0100593
 187d3f66-b4ca-4620-b478-72705922e617,species,Plantae,"",Gastrochilus japonicus,t0057923
 6f65fc49-30cb-4319-8d3c-3b12f18c16f4,species,Plantae,"",Curculigo orchioides,t0053206
 65e6a033-50ea-4767-9e24-6c1bb3ed7ee1,species,Plantae,"",Hypoxis aurea,t0054001
@@ -7497,7 +7158,6 @@ c4c7fb7f-5d8a-49ee-a49a-5e20b3be9f08,species,Plantae,"",Agave angustissima,t0060
 d3250f0a-dd96-46ce-b80a-daba98e1cd1a,species,Plantae,"",Agave attenuata,t0060872
 1efa8838-15c0-4ea7-ae0d-c438ff9b1a31,species,Plantae,"",Agave decipiens,t0060873
 5fb0d774-0235-475e-bab8-9d18ec297d2e,species,Plantae,"",Agave ferdinandi-regis,t0060875
-f4829a32-d982-46fc-920b-6fe671cfc996,species,Plantae,"",Agave rigida,t0099290
 7525a3ff-e6ad-476a-a98c-b188aa0e5e97,species,Plantae,"",Agave schidigera,t0060876
 c35fc2ee-2834-424d-a6f6-9d1346756283,species,Plantae,"",Agave victoriae-reginae,t0060877
 db773163-0463-4e0f-80b3-9708e31d7a8e,species,Plantae,"",Anemarrhena asphodeloides,t0040166
@@ -7626,7 +7286,6 @@ a3618395-7f21-4a9f-93eb-bf40eebf5974,species,Plantae,"",Licuala spinosa,t0054224
 328ba04b-6e47-4e95-9410-fb141c8c19aa,species,Plantae,"",Livistona rotundifolia,t0054301
 74ffc1ab-3cc5-4506-bc46-b55a2a6644fd,species,Plantae,"",Livistona saribus,t0074616
 d6533a71-6971-4145-a5a7-31636e79eb5c,species,Plantae,"",Phoenix hanceana,t0058988
-f2c35ef4-08dc-41f5-bc9d-bbf7d1459f3a,species,Plantae,"",Phoenix loureiroi,t0100834
 b35670fa-d9f0-4e78-9931-b55bbcc19c60,species,Plantae,"",Phoenix canariensis,t0054782
 108e66f6-59d1-4d1a-b295-551c5935d09a,species,Plantae,"",Phoenix dactylifera,t0100833
 856b4476-a0f0-4773-b403-b9e7a7a80e1e,species,Plantae,"",Phoenix reclinata,t0075266
@@ -8119,7 +7778,6 @@ ef1e8f62-102d-42b3-8742-40af74ffd9ec,species,Plantae,"",Dactylis glomerata,t0053
 84e9d73b-038f-49cc-a679-481da740219e,species,Plantae,"",Dactyloctenium aegyptium,t0053288
 0b6f1419-7a3b-4e10-809a-c9437af463ba,species,Plantae,"",Dendrocalamus giganteus,t0053332
 de9b1784-81f6-471a-8330-1da0fbded38b,species,Plantae,"",Dendrocalamus strictus,t0053334
-5a18e93c-ca31-4771-8798-7d018e4316cd,species,Plantae,"",Vahlodea atropurpurea,t0099691
 5e95b8b6-edae-4080-b964-6f7f47d39d17,species,Plantae,"",Deschampsia cespitosa,t0073654
 41fc4d72-926d-4cf4-8166-00a8a644d2d6,species,Plantae,"",Deschampsia flexuosa,t0053344
 a68eff2d-f865-4fe0-990a-7bdb0ecd363f,species,Plantae,"",Deyeuxia suizanensis,t0053362
@@ -8299,7 +7957,6 @@ dbbc2473-b4bb-4fcf-b017-0df3a2045431,species,Plantae,"",Pennisetum purpureum,t00
 e3611ebe-ec4e-4352-9cd2-fc0249570b1e,species,Plantae,"",Phalaris arundinacea,t0054767
 c7abe2a9-6680-41ab-8683-4d310dbf94f5,species,Plantae,"",Phalaris canariensis,t0054768
 67842381-bd95-4212-ae90-3d3d0b6209ad,species,Plantae,"",Phleum alpinum,t0054779
-09caebd9-47df-4bac-bbeb-078603d40a76,species,Plantae,"",Phleum pratense,t0100831
 b355478a-ddbd-425d-8c4a-5e2b05dc5bcd,species,Plantae,"",Phragmites australis,t0054788
 52b50f03-dbe0-4fa0-a22f-cb6a25186aba,species,Plantae,"",Phyllostachys aurea,t0058995
 875cacda-8a1d-4164-a8f5-88fe432f16d2,species,Plantae,"",Phyllostachys bambusoides,t0054809
@@ -8307,7 +7964,6 @@ b355478a-ddbd-425d-8c4a-5e2b05dc5bcd,species,Plantae,"",Phragmites australis,t00
 07898703-9e08-422f-8af6-410a2fb20560,species,Plantae,"",Phyllostachys makinoi,t0054811
 eaf0696a-56f3-41bd-9e13-20ab416f9844,species,Plantae,"",Phyllostachys nigra,t0054812
 333cad5a-81cb-4f7c-a1f2-ad5638f9aa90,species,Plantae,"",Phyllostachys nuda,t0054813
-c3b1459d-5893-47f7-8fd1-0ae01d06f582,species,Plantae,"",Pleioblastus simonii,t0100857
 4e95f51f-57f2-436d-ac37-fd9516136e17,species,Plantae,"",Poa acroleuca,t0054889
 ea409ac6-8990-4c4f-8cca-2eaad8167bac,species,Plantae,"",Poa annua,t0054890
 7eec04fc-ebbb-4b7f-bc5f-7d7f7cb4eb62,species,Plantae,"",Poa compressa,t0054891
@@ -8325,7 +7981,6 @@ f1e9c43e-89e2-42eb-b7b1-7c9b147f842c,species,Plantae,"",Polypogon fugax,t0054923
 c7439d1b-1255-4992-a35b-f72b2f1552dc,species,Plantae,"",Polypogon monspeliensis,t0054924
 216c19d3-4c89-4621-acfe-decda896eaf0,species,Plantae,"",Pseudosasa japonica,t0054980
 87b5ea71-b6ad-4405-8ebf-aae00c0844c7,species,Plantae,"",Melinis repens,t0058518
-bdff5946-81b3-4a1e-a185-e72c101d06b1,species,Plantae,"",Rottboellia exaltata,t0055127
 66fdedc3-617a-4227-81c3-511e2a499a8f,species,Plantae,"",Saccharum officinarum,t0055179
 18b794f7-4694-4d83-a52b-2bfa9940cf56,species,Plantae,"",Saccharum robustum,t0055180
 2de9c5b8-33ad-4427-ab5d-382467f94f72,species,Plantae,"",Saccharum spontaneum,t0055182
@@ -8532,7 +8187,6 @@ d8f41c39-aed9-4ac6-8ba1-cb7fb7bc4c1d,species,Plantae,"",Distylium racemosum,t005
 681a349e-a611-4fa0-a3ba-dfa75739f1d3,species,Plantae,"",Loropetalum chinense,t0054323
 f217bf6f-e077-41fc-83e3-d6f78c32dc66,species,Plantae,"",Sycopsis sinensis,t0055492
 083b8444-d5b3-42b3-8a56-e44d32a458fe,species,Plantae,"",Daphniphyllum glaucescens,t0073627
-9099711a-66ae-4482-b9a2-33024fcb40b9,species,Plantae,"",Daphniphyllum himalense,t0073628
 7923241e-fab8-4276-9218-cf86e3669641,species,Plantae,"",Itea oldhamii,t0058090
 823a8539-2496-4955-bace-475463299e0e,species,Plantae,"",Itea parviflora,t0054097
 c3a15ef3-f0c2-495c-bf3e-3b958f5967bd,species,Plantae,"",Ribes formosanum,t0055103
@@ -9050,7 +8704,6 @@ d1f6ea88-8793-4a3a-8f3d-89cc848a8105,species,Plantae,"",Prunus spinulosa,t005497
 8ce749f8-3356-4374-a8b8-f132446fdd58,species,Plantae,"",Prunus takasagomontana,t0059105
 8dd65950-6bd9-434e-8826-efa8cfddc9f6,species,Plantae,"",Prunus transarisanensis,t0075492
 47443188-9bdf-4659-b4a0-987fef980787,species,Plantae,"",Prunus zippeliana,t0054976
-8b08b00f-db4c-406c-83c5-e64a89ee5ee4,species,Plantae,"",Prunus cerasus,t0100903
 b670bc77-79c6-4da4-a249-0a802a33c324,species,Plantae,"",Prunus dulcis,t0075487
 a1a785f6-8393-4ccc-934d-cd546600a85c,species,Plantae,"",Prunus glandulosa,t0075488
 fc2e9119-b777-4634-bfd9-0037c66967f9,species,Plantae,"",Prunus pseudocerasus,t0075489
@@ -9067,7 +8720,6 @@ d2ec74de-2f65-4587-bd43-1430676ab753,species,Plantae,"",Pyrus lindleyi,t0075556
 c6ed1d00-87d9-43be-a901-7e9eba1a8f76,species,Plantae,"",Rosa bracteata,t0075689
 234be2c0-b493-42a7-87a4-46476f415982,species,Plantae,"",Rosa cymosa,t0055113
 2b3492ad-99f7-49ae-a59a-f7e18c879afd,species,Plantae,"",Rosa laevigata,t0055114
-b42cae18-04de-4148-b737-b91a3e84effa,species,Plantae,"",Rosa multiflora,t0075694
 9745d4ef-9322-4e1d-920f-1008072b414c,species,Plantae,"",Rosa pricei,t0055115
 b329a67c-d40c-4655-9dbc-d0157b6c7120,species,Plantae,"",Rosa rugosa,t0055116
 784612fc-4eb4-47ab-b231-c95f2777bdc8,species,Plantae,"",Rosa sambucina,t0055117
@@ -9095,7 +8747,6 @@ a39c7910-c4e3-4ffd-9663-267075e5b9ba,species,Plantae,"",Rubus kawakamii,t0055143
 893661c3-1676-40b0-825d-f755353a95de,species,Plantae,"",Rubus liui,t0055146
 0a27b4d6-3662-4f45-923d-0608a6d08110,species,Plantae,"",Rubus mesogaeus,t0055147
 2a4fdc20-6895-4645-adfd-b46e2476b549,species,Plantae,"",Rubus nagasawanus,t0101464
-47ec4efb-321f-40ab-ab64-75eec15588a9,species,Plantae,"",Rubus niveus,t0106951
 c5f3dabc-68c8-4a5a-a440-6414d0b023e5,species,Plantae,"",Rubus parviaraliifolius,t0100962
 95f81fcb-d85e-433a-bf8b-8ed430c76bb1,species,Plantae,"",Rubus parvifolius,t0059207
 8162a230-02c7-4676-960b-75387778593b,species,Plantae,"",Rubus pectinellus,t0055150
@@ -9128,7 +8779,6 @@ c04369a1-6329-409f-abd9-13633ec12461,species,Plantae,"",Spiraea tarokoensis,t005
 2cd23ed7-910c-41ee-8df0-538b419507a1,species,Plantae,"",Spiraea tatakaensis,t0075960
 771dcf11-fab7-423e-80af-fe604d6c3a30,species,Plantae,"",Spiraea blumei,t0055431
 541885ce-f32d-45da-bc5d-9988d77968f4,species,Plantae,"",Spiraea cantoniensis,t0075958
-e1423f21-a701-45fe-b5ad-240679e84b52,species,Plantae,"",Spiraea japonica,t0100476
 98d57011-3f79-4c2e-b601-edfc61f6c4d8,species,Plantae,"",Spiraea thunbergii,t0075961
 ffe43eb0-0264-4d5a-a32b-816fb2d52631,species,Plantae,"",Stephanandra incisa,t0076024
 c74e5374-79d0-4ecd-ba9a-7c89e8bd7b31,species,Plantae,"",Elaeagnus conferta,t0053481
@@ -9141,7 +8791,6 @@ a206a874-0aa5-4834-884a-a7d58524b28c,species,Plantae,"",Elaeagnus ohashii,t00738
 949f7bb5-01a0-47d7-af1a-58e9c4740beb,species,Plantae,"",Elaeagnus thunbergii,t0053490
 b5c068d8-fa08-4446-a008-80c3a63d3a70,species,Plantae,"",Elaeagnus triflora,t0053486
 45f444f1-6b98-4a00-89f6-f1cd3c3b7d58,species,Plantae,"",Elaeagnus umbellata,t0053491
-5dc0cf90-7097-4144-baa9-06755812063d,species,Plantae,t0053488,Elaeagnus pungens,t0123625
 3198fb16-2b43-4b54-8b7f-766b059d7ce8,species,Plantae,"",Berchemia arisanensis,t0052722
 ecea1d70-1e60-421f-ad7f-071611cd2a21,species,Plantae,"",Berchemia fenchifuensis,t0052723
 747c5762-b9a5-48a5-aa72-6427cfa9a0bd,species,Plantae,"",Berchemia formosana,t0052724
@@ -9261,7 +8910,6 @@ d3eb6358-d5e2-4329-87a8-14e0accd460d,species,Plantae,"",Elatostema strigillosum,
 ef138338-149b-4860-9ae9-76a8aef5d571,species,Plantae,"",Elatostema villosum,t0053508
 ea3a1386-7342-45a6-b506-8356853fdc97,species,Plantae,"",Elatostema platyphyllum,t0103250
 7715039b-d3c9-4044-9e0d-263e1d75b00f,species,Plantae,"",Elatostema repens,t0073820
-86cd3a53-450f-4cc0-bb97-e881820c2615,species,Plantae,"",Elatostema sessile,t0073821
 6bb127bf-e66c-4702-9540-e6ea65f2ed7e,species,Plantae,"",Girardinia diversifolia,t0053819
 63e741e9-6fc0-4cc6-a494-a3141d6f4def,species,Plantae,"",Gonostegia hirta,t0057959
 0990dced-1fe2-427d-9f8f-98eb50a81817,species,Plantae,"",Gonostegia matsudae,t0074152
@@ -9485,7 +9133,6 @@ dc1a1b93-75c1-4165-9b79-01a39710056e,species,Plantae,"",Connarus subinaequifoliu
 3295fb44-084b-4819-abf4-e79574593353,species,Plantae,"",Averrhoa bilimbi,t0052680
 c24e57d8-1794-49c1-80ca-084e5289a5dc,species,Plantae,"",Averrhoa carambola,t0052681
 eedaf32e-c12d-47d7-aa22-0bf354f085e7,species,Plantae,"",Biophytum sensitivum,t0040380
-7fb7b8cf-58a5-4cfb-b9b1-d8e334b3749b,species,Plantae,"",Oxalis acetocella,t0106595
 8aa11077-3d68-4807-a649-fa627eabbcfb,species,Plantae,"",Oxalis corniculata,t0054668
 41d4b3d1-7dda-4658-8a49-577e925a49f4,species,Plantae,"",Oxalis corymbosa,t0054669
 20ca9c3e-20c8-4d4f-b1f4-503105ae7f37,species,Plantae,"",Oxalis acida,t0075038
@@ -9567,7 +9214,6 @@ de9b802d-3532-4251-b91e-691956f4987b,species,Plantae,"",Viola grypoceras,t004931
 33bcaa81-3bf4-4246-b09e-66c9b43fa59d,species,Plantae,"",Viola senzanensis,t0049322
 4f28635b-9c28-4dcf-bf87-58d06b9a9da6,species,Plantae,"",Viola shinchikuensis,t0049323
 bc979312-86b2-4055-8b98-6d47ec3fbd0c,species,Plantae,"",Viola tenuis,t0049324
-a560de9f-cd41-420b-bf4e-027e043cf78f,species,Plantae,"",Viola tricolor,t0099712
 39db2509-1d26-4b20-95ae-5a5ea44ea38d,species,Plantae,"",Passiflora quadrangularis,t0054724
 9ad45d38-0329-4b74-8c53-47fba65ba3f8,species,Plantae,"",Passiflora suberosa,t0104442
 8cee0429-8945-498f-a2e1-ac3d1fb4259c,species,Plantae,"",Passiflora laurifolia,t0054723
@@ -9612,7 +9258,6 @@ c46fdbe5-ee91-4261-8771-0501f1b6cc1e,species,Plantae,"",Acalypha caturus,t003355
 285bfb96-baf3-4dad-864e-cce1ad4782f8,species,Plantae,"",Acalypha hispida,t0052527
 3106782c-7a3a-4172-89f4-3efafe151102,species,Plantae,"",Acalypha kerrii,t0033556
 ebb55f7c-a533-4dda-8bc4-50c3b08bdf81,species,Plantae,"",Alchornea trewioides,t0060896
-196aedd5-d190-4918-b90a-3c3c3d8e67db,species,Plantae,"",Aleurites moluccana,t0099309
 4bdeaa95-6048-48e0-bafb-d09491083b81,species,Plantae,"",Aleurites cordata,t0060898
 59e679cf-ae21-4b4a-a783-bdf255002fd7,species,Plantae,"",Aleurites trisperma,t0060899
 e5be2761-2380-4217-bb53-b4f45dbc5f64,species,Plantae,"",Claoxylon brachyandrum,t0053037
@@ -9856,7 +9501,6 @@ dbacbb99-7312-4a80-ac94-57dea959db2d,species,Plantae,"",Bredia yaeyamensis,t0072
 3c927e6e-e8e8-4637-b24d-4c5daf7526f7,species,Plantae,"",Clidemia hirta,t0058835
 85d96237-f6b8-47af-9e28-ad93da2ca466,species,Plantae,"",Medinilla formosana,t0054420
 2cae1bc7-f702-481f-b51d-8eb90ccb5d02,species,Plantae,"",Medinilla magnifica,t0074758
-9ba9f090-5513-471b-b142-7713bfb78cc5,species,Plantae,t0054427,Melastoma intermedium,t0101583
 5e28331a-e1ff-4bfc-ae0b-dcfd7428e91b,species,Plantae,"",Memecylon lanceolatum,t0054441
 7a18f529-37e5-4624-b33b-d8c019713ebe,species,Plantae,"",Memecylon pendulum,t0054442
 ef8d1a07-a3f9-4064-8209-36b1e99dbfda,species,Plantae,"",Memecylon caeruleum,t0074769
@@ -9895,7 +9539,6 @@ c646b011-c096-4d58-8c81-169417c9904c,species,Plantae,"",Acer buergerianum,t00992
 aad203bd-1cd4-442f-a91b-e593cdbc82fc,species,Plantae,"",Acer morrisonense,t0052532
 47e715d1-2fff-4164-8850-95df100cafca,species,Plantae,"",Acer palmatum,t0060792
 31db2fba-6c9e-4920-a82c-161194edb607,species,Plantae,"",Acer serrulatum,t0033570
-5a1e89ee-ca04-41b5-aebf-79e40379ea33,species,Plantae,"",Acer tutcheri,t0060793
 66ed7da3-1478-4239-abef-5fa57dd79250,species,Plantae,"",Aesculus hippocastanum,t0060864
 80025e04-1424-4bd4-8500-b046dcefbfd9,species,Plantae,"",Cardiospermum grandiflorum,t0052805
 2bb2200b-ae4a-43b8-bb72-29cef51ad1cb,species,Plantae,"",Cardiospermum halicacabum,t0052806
@@ -10129,7 +9772,6 @@ d2ce914d-cdae-41bb-95ae-93dacbe65f17,species,Plantae,"",Brassica juncea,t0072904
 d5eed13c-8c4d-4327-9c1f-f8092ee91603,species,Plantae,"",Brassica oleracea,t0040443
 366f34bc-cb46-4be4-8396-db302c9ac0f5,species,Plantae,"",Capsella bursa-pastoris,t0040624
 acccc41e-b476-4666-be2b-a4ed4765058a,species,Plantae,"",Cardamine agyokumontana,t0052801
-c726c183-e41b-448c-8d46-57c49b0cd999,species,Plantae,"",Cardamine flexuosa,t0123623
 cbc1f4e1-02bf-499d-b992-5e454ac5faf1,species,Plantae,"",Cardamine impatiens,t0052803
 dd1ead36-82a6-488b-ba2b-80bea43eabe8,species,Plantae,"",Cardamine scutata,t0100691
 65bef157-a7d2-49a1-8ce3-7a3afbac0681,species,Plantae,"",Coronopus didymus,t0054206
@@ -10216,7 +9858,6 @@ a674a78c-a94a-47d9-b564-3ae07fdb78e7,species,Plantae,t0100877,Persicaria sentico
 3f3245e5-d3d6-4596-bc70-a24495846136,species,Plantae,"",Persicaria thunbergii,t0058971
 78a91a34-660c-4df3-a51c-a328cd2450d5,species,Plantae,"",Persicaria jucunda,t0075192
 c01bc807-65e5-4497-b11e-4d2f06249ff3,species,Plantae,"",Polygonum aviculare,t0054920
-65bc0a1d-b728-443d-9727-e1e2f24a502e,species,Plantae,t0057368,Polygonum convolvulus,t0106484
 487c6bef-2406-42ab-8823-394a91a119a2,species,Plantae,"",Polygonum pilushanense,t0058963
 597094e4-bc4e-4d7f-b566-c3606710f363,species,Plantae,"",Polygonum plebeium,t0054922
 c991384b-bffc-475c-ac72-cfbd7fddd72a,species,Plantae,"",Reynoutria japonica,t0059170
@@ -10244,7 +9885,6 @@ d0fb082b-ec91-4759-8a01-52b89a51da99,species,Plantae,"",Dianthus superbus,t00736
 ac9b3603-ff16-43c0-bf80-37339e4b21cd,species,Plantae,"",Dianthus caryophyllus,t0073659
 4629baac-ceae-46b4-857b-2bbeec594817,species,Plantae,"",Dianthus chinensis,t0053363
 e36c9968-9163-48f1-a5dc-0c3e987c44b3,species,Plantae,"",Dianthus japonicus,t0073661
-231eb538-ff68-4df9-bf92-796738c06b32,species,Plantae,t0102238,Drymaria cordata,t0107106
 c4faf3c8-383f-424b-a772-fc28c602db4d,species,Plantae,"",Drymaria villosa,t0053452
 b5160f08-e3c1-4d3d-9164-29961ea7a9f8,species,Plantae,"",Gypsophila paniculata,t0053883
 75a476a3-6801-4b95-85f5-743eb6e862c3,species,Plantae,"",Gypsophila elegans,t0074200
@@ -10643,14 +10283,12 @@ a283f55b-4393-4465-a27d-94162baaf415,species,Plantae,"",Embelia rudis,t0053527
 e567e88a-876c-4afb-8464-6f77d452b9f2,species,Plantae,"",Lysimachia candida,t0054352
 fd9ad944-ac15-4c25-8508-b728cf80592c,species,Plantae,"",Lysimachia capillipes,t0054353
 81c54527-eaee-4ac9-a010-6225cc8a5189,species,Plantae,"",Lysimachia chingshuiensis,t0054354
-6a1eebc6-2903-4c2c-9d9c-a11239a1e507,species,Plantae,"",Lysimachia congestiflora,t0122535
 96f321ee-c79a-4695-806d-89f1fd1758fd,species,Plantae,"",Lysimachia decurrens,t0054356
 4b46c6d5-0b24-4900-a523-54ca85f6dde1,species,Plantae,"",Lysimachia fortunei,t0054357
 c8383d7c-12ec-425e-b4de-6c73ab955703,species,Plantae,"",Lysimachia japonica,t0054358
 7740a1c4-bebb-4703-96c4-dc4f0b737fcd,species,Plantae,"",Lysimachia mauritiana,t0054360
 e06cb2ab-1bb4-4527-9f01-6477c17fe39d,species,Plantae,"",Lysimachia nigropunctata,t0054361
 6923c747-dc10-4fc3-ac51-a7d8bb442db3,species,Plantae,"",Lysimachia remota,t0054362
-40a0a41d-f63d-4b76-95dc-652805fbf9a5,species,Plantae,"",Lysimachia leucantha,t0054359
 22f541ab-5a92-4130-977e-032c76bcfc96,species,Plantae,"",Lysimachia simulans,t0054351
 964814a7-442a-497b-9ff7-32677784a6ee,species,Plantae,"",Maesa japonica,t0058496
 a1a372e0-ec0f-4992-8c79-aed61efbc5e7,species,Plantae,"",Maesa perlaria,t0074694
@@ -10717,10 +10355,8 @@ a457cd9e-aa48-4646-a540-223d373f1ff2,species,Plantae,"",Styrax japonicus,t006948
 e69b8158-8d91-4522-87e6-fc63a816abc7,species,Plantae,"",Sarracenia leucophylla,t0075748
 efae5a15-19ac-48da-b2da-0498114ae076,species,Plantae,"",Actinidia arguta,t0033591
 40377e4f-3065-45f8-814e-4698d4bbdbc6,species,Plantae,"",Actinidia callosa,t0103669
-749e9919-3381-475e-8886-d04eb96495be,species,Plantae,"",Actinidia chinensis,t0101619
 c571f8fd-5723-416e-9205-71eadc0bb9ed,species,Plantae,"",Actinidia latifolia,t0033593
 90422238-15f0-42ed-876f-cdfb1a732b07,species,Plantae,"",Actinidia rufa,t0033594
-8e81f9c6-f290-4a27-a946-74013a27a75d,species,Plantae,"",Saurauia tristyla,t0075750
 fdb8b9e5-877b-47dc-a533-934d3b095411,species,Plantae,"",Chimaphila japonica,t0052970
 f2d3fc45-89fc-448b-9705-2a9bccc89231,species,Plantae,"",Chimaphila monticola,t0052971
 8f95d803-920b-48fe-8dfc-51ac08f96938,species,Plantae,"",Enkianthus perulatus,t0073831
@@ -10756,7 +10392,6 @@ ffcc50a3-205c-4d49-99d5-13ae67cf93c8,species,Plantae,"",Rhododendron ovatum,t007
 d42d8663-7314-4ca3-80b1-c6c9a7c85467,species,Plantae,"",Rhododendron pseudochrysanthum,t0055080
 4603b378-0a69-454b-8415-3bd79494699b,species,Plantae,"",Rhododendron rubropilosum,t0075645
 c2d09935-08a1-4d2f-a25d-9fe2c7331a35,species,Plantae,"",Rhododendron simsii,t0055081
-ac4db7d8-6fbe-49d6-a80d-1b0688d16b60,species,Plantae,"",Rhododendron indicum,t0100948
 e1e7ef1a-9e91-4bdb-949a-991cf7187dca,species,Plantae,"",Rhododendron hortense,t0075640
 903ef66b-7da4-43ad-acb7-a2c648cb84ea,species,Plantae,"",Rhododendron kiusianum,t0075641
 a5cf3f60-9fd8-4fc4-83ef-8e712b419a76,species,Plantae,"",Rhododendron mucronatum,t0075642
@@ -10765,7 +10400,6 @@ a5cf3f60-9fd8-4fc4-83ef-8e712b419a76,species,Plantae,"",Rhododendron mucronatum,
 371a267f-5d61-4ff6-80a1-bf41776633d3,species,Plantae,"",Rhododendron scabrum,t0075646
 0fc8f92b-2f51-4e90-ac87-438e4bb8784f,species,Plantae,"",Rhododendron wiltonii,t0075647
 46c31206-0608-473c-91a5-a32c9c4a7e2d,species,Plantae,"",Mitrastemon yamamotoi,t0074829
-bd891d69-3b8f-4a2c-9b22-942dda7f2443,species,Plantae,"",Nothapodytes nimmoniana,t0105657
 72947332-48da-4d77-a2e8-8248741166ab,species,Plantae,"",Aucuba chinensis,t0052678
 2cef9423-b48c-44c2-8441-740665a4ee29,species,Plantae,"",Aucuba japonica,t0052679
 bdbcbbd2-31a9-480b-9380-672f023f8eed,species,Plantae,"",Psychotria cephalophora,t0054985
@@ -10806,7 +10440,6 @@ b1b8101a-08a8-4043-8bda-e0f59410f20c,species,Plantae,"",Oldenlandia corymbosa,t0
 a3dbf6dc-1e37-4f4f-8f4d-a95730017e69,species,Plantae,"",Hedyotis kuraruensis,t0105499
 b7b3e6f0-748b-4047-879b-44a63dd2bbd8,species,Plantae,"",Tarenna gracilipes,t0058343
 5771b369-428b-4812-95a3-47e43d8741ac,species,Plantae,"",Tarenna zeylanica,t0055556
-6165569c-1f33-425e-9808-e99a0ca51f4e,species,Plantae,"",Aidia canthioides,t0099305
 b6b118ff-47fd-4b54-b6ff-2f053ca165fa,species,Plantae,"",Gardenia jasminoides,t0053766
 ff65348d-84a7-49cd-b38d-7554da0ca8a4,species,Plantae,"",Mussaenda albiflora,t0102113
 8edc4b33-585e-447e-baf7-154e19677832,species,Plantae,"",Mussaenda parviflora,t0054518
@@ -10816,7 +10449,6 @@ be4aea0c-5724-4192-9e65-459555af171d,species,Plantae,"",Mussaenda taiwanensis,t0
 b6b22483-d93b-4ae4-8b7c-dc3328ac55cb,species,Plantae,"",Mussaenda erythrophylla,t0074867
 9c3d1f8f-4d5f-437c-bdc4-9092b97d97fb,species,Plantae,"",Mussaenda macrophylla,t0054517
 25513dab-817d-4e83-abc4-c61aac0fca6f,species,Plantae,"",Borreria laevis,t0052744
-5a4c2e7a-f427-46ac-8a9d-9a01084e79e5,species,Plantae,"",Borreria stricta,t0099427
 41164a27-be95-4d73-8dfc-1a898e7a9077,species,Plantae,"",Catesbaea spinosa,t0073078
 02d6d2d9-5af4-41f7-96c4-e13c77c464a0,species,Plantae,"",Diodia teres,t0053397
 7bfd500a-2bc8-49e6-bde6-1eda6a6801bc,species,Plantae,"",Diodia virginiana,t0053398
@@ -10904,7 +10536,6 @@ d0659e0d-65da-49e2-9d26-e3dccce42607,species,Plantae,"",Gentiana tarokoensis,t00
 92b678af-e0a4-4c3b-aec5-0ebc964563ae,species,Plantae,"",Gentiana tatakensis,t0053805
 7e311274-649e-4aae-b37c-c66c35c42997,species,Plantae,"",Gentiana tentyoensis,t0053803
 749d1674-9216-427b-91cf-82d43ca7190e,species,Plantae,"",Gentiana tenuissima,t0053806
-f860da73-7cd5-4c39-a3f4-218c17b740e8,species,Plantae,"",Gentiana loureirii,t0106387
 372fb65d-ce34-4cc5-88ab-4ff5c70977a2,species,Plantae,"",Gentiana rhodantha,t0074101
 0cffbc9b-f3ac-4966-b0b2-10702273b12f,species,Plantae,"",Swertia arisanensis,t0055486
 cce3dc69-9c44-4575-bd64-441c586a92aa,species,Plantae,"",Swertia macrosperma,t0058314
@@ -11054,7 +10685,6 @@ c497a7e3-c1b2-45d3-88f3-665ef3aa109f,species,Plantae,"",Ipomoea purpurea,t005407
 8309c9b3-a736-40d1-b5ec-b8a2d92c8ae7,species,Plantae,"",Ipomoea wrightii,t0054076
 fe5e5d35-cf5e-4cd0-9289-7fd2dfd03172,species,Plantae,"",Ipomoea leucantha,t0074379
 7964a9e3-445f-41fe-bb56-22a2fdbcb451,species,Plantae,"",Ipomoea purga,t0074380
-6f228b31-cbaf-4ce6-be4a-b07e88a06a18,species,Plantae,"",Ipomoea staphylina,t0100321
 950ed0b9-2c5d-4eb9-80d2-778cae734849,species,Plantae,"",Cuscuta australis,t0053212
 6d030601-227d-4a94-a329-1920b25946a2,species,Plantae,"",Cuscuta campestris,t0053213
 9e22d051-0bc0-42fe-9681-4421867da496,species,Plantae,"",Cuscuta chinensis,t0053214
@@ -11318,7 +10948,6 @@ d6331d6f-3a74-4f77-9507-2c2a93a7e14b,species,Plantae,"",Crossandra undulaefolia,
 aaaac692-bea4-46f0-afee-f8405d3c98d1,species,Plantae,"",Hemigraphis cumingiana,t0057998
 27816fcd-c855-4576-bf8c-ad177a517531,species,Plantae,"",Hemigraphis primulifolia,t0074260
 46f2303d-2bc5-42f5-ac7a-c873d28c25b1,species,Plantae,"",Hemigraphis reptans,t0046167
-46f2303d-2bc5-42f5-ac7a-c873d28c25b1,species,Plantae,"",Hemigraphis reptans,t0101389
 ecaf8979-ffd0-4101-b61f-c0462f0816ed,species,Plantae,"",Fittonia albivenis,t0073995
 c68d2b33-57ab-4b28-b669-8073ba50ab06,species,Plantae,"",Fittonia verschaffeltii,t0073996
 36e0b844-7821-4058-b39e-41d01fca38bd,species,Plantae,"",Odontonema tubaeforme,t0074980
@@ -11383,7 +11012,6 @@ aca19cdd-36ae-4118-b3ff-e71ca6dfad51,species,Plantae,"",Utricularia striatula,t0
 43e1f888-9327-4f13-8645-2d73446f928c,species,Plantae,"",Utricularia uliginosa,t0055729
 564670d8-c990-45c8-9ec2-1ff3d36060e4,species,Plantae,"",Utricularia smithiana,t0055726
 87b3ffe5-c4fb-4a5a-ad38-98e1c3acd16f,species,Plantae,"",Utricularia tricolor,t0055728
-617922bb-87ff-4066-bffe-e03d8dabadcb,species,Plantae,"",Utricularia vulgaris,t0099690
 cfffa120-0ccd-4922-acf5-4fbca26db16f,species,Plantae,"",Verbena bonariensis,t0049262
 a0b3af95-9350-4804-a969-0947116c7935,species,Plantae,"",Verbena brasiliensis,t0049263
 74601f3b-9dcf-4cdc-8954-5753c22c93c1,species,Plantae,"",Verbena officinalis,t0049265
@@ -11465,7 +11093,6 @@ f4cce9b2-dc76-465b-bcc3-1af118ea3bd7,species,Plantae,"",Callicarpa remotiserrula
 3855e20d-46c4-49b3-8c25-3b794ccb1ca0,species,Plantae,"",Callicarpa dichotoma,t0072974
 5625116e-104c-4aad-8b22-440f89b30c2a,species,Plantae,"",Callicarpa lanata,t0072976
 a4d04a19-0bcb-4faf-9fb0-6dd21227ef06,species,Plantae,"",Callicarpa macrophylla,t0072977
-d79647ae-48a8-43cc-98ba-970b72a884b8,species,Plantae,"",Callicarpa mollis,t0052775
 832296c2-2a62-4adc-b36e-c6d0a45e211c,species,Plantae,"",Agastache foeniculum,t0060866
 2db157ec-bb11-479a-9375-b3521e39a886,species,Plantae,"",Agastache rugosa,t0033632
 cba52c0d-de14-451a-b05b-e98bb06177b1,species,Plantae,"",Ajuga decumbens,t0052548
@@ -11536,7 +11163,6 @@ d73eb512-3d58-4fa3-911d-3539edb3fee3,species,Plantae,"",Mazus fauriei,t0054412
 fa68bbe1-4217-4e52-8e73-e69793c8a07a,species,Plantae,"",Mazus miquelii,t0054413
 0903045a-378a-4bb4-a72a-d87917600881,species,Plantae,"",Mazus pumilus,t0074755
 7eba9f1f-4ebf-462a-858b-7fcb794c3190,species,Plantae,"",Mazus tainanensis,t0054414
-b75420dc-ea0e-487c-895e-d63bdacc97f7,species,Plantae,"",Mazus stachydifolius,t0074756
 ccb187f0-57f3-4e33-b19d-7e69d5ad3b68,species,Plantae,"",Phryma leptostachya,t0054794
 f81d6e76-3a21-45ef-883e-2dd1d3c3880f,species,Plantae,"",Paulownia fortunei,t0054727
 98514d5a-6e95-434a-ad9c-9f9eddfe1bc5,species,Plantae,"",Paulownia kawakamii,t0054728
@@ -11627,7 +11253,6 @@ a310d1a3-d975-42b7-a159-68411a2d80d8,species,Plantae,"",Senecio scandens,t007589
 cf6eef22-dee2-45c8-b876-b185cf995f2d,species,Plantae,"",Senecio tarokoensis,t0055313
 eebf55f2-f963-465e-8c36-4aaaa1a51f6d,species,Plantae,"",Senecio vulgaris,t0055314
 3c149c33-11c2-4a7e-86a7-867912cb5142,species,Plantae,"",Senecio articulatus,t0075882
-f14c45d0-8fde-4370-9df9-a0e5838234a1,species,Plantae,"",Senecio campestris,t0100421
 21ee3ce1-e84a-44ab-87a8-c9684d5e5929,species,Plantae,"",Senecio cineraria,t0075883
 fd1577f5-d6e5-4a77-8e89-5dfbbdac90ad,species,Plantae,"",Senecio macroglossus,t0075886
 0f735590-56b3-4083-a6cb-390270635017,species,Plantae,"",Senecio radicans,t0075888
@@ -11665,7 +11290,6 @@ f966186a-8177-4e3a-afd6-eaea4e8a6fa3,species,Plantae,"",Artemisia simulans,t0052
 b550e004-40fe-4b57-aaa7-73a7954b79b9,species,Plantae,"",Artemisia tsugitakaensis,t0040265
 6a376567-2ac4-47bd-9117-5a84a26981d9,species,Plantae,"",Artemisia absinthium,t0061048
 b90a4b41-4c5e-4bc6-97e6-b39ed3b00e28,species,Plantae,"",Artemisia cina,t0061049
-b5059839-d4c5-485a-880f-6c26246e810d,species,Plantae,"",Artemisia mongolica,t0061050
 1e466642-dd6d-436a-95e2-d2b66cf7e99b,species,Plantae,"",Artemisia princeps,t0061051
 061f76d3-e871-4fa6-8b95-e922c3f2c972,species,Plantae,"",Hieracium morii,t0053939
 fa3cb532-0a3a-4d95-9abf-e50fefc27c80,species,Plantae,"",Mikania cordata,t0058549
@@ -11718,8 +11342,6 @@ af49eee2-34cf-4c23-bab3-e482a769bf6a,species,Plantae,"",Gnaphalium purpureum,t00
 768b5d35-e55c-4c22-a9f3-2d173dc2eeec,species,Plantae,"",Gnaphalium spicatum,t0053836
 c02c6e83-4ed3-41e1-b6fb-d0e5e0e79896,species,Plantae,"",Tragopogon porrifolius,t0069659
 22549d83-522b-4e00-b0dd-8c58128ba966,species,Plantae,"",Solidago altissima,t0033520
-2fc1d04b-2d7e-4841-9b51-7cdb634e67c2,species,Plantae,"",Solidago virgaurea,t0100454
-6a747e4c-0b1e-4cac-a463-81b4d02ed6f6,species,Plantae,"",Solidago canadensis,t0100453
 5bba033d-e731-4a56-b91e-5aa691745129,species,Plantae,"",Acmella brachyglossa,t0033577
 404baf0f-4205-4407-ae91-5eb807b73406,species,Plantae,"",Acmella ciliata,t0033578
 e28e6600-ce92-413d-bc4c-181ce90c55f4,species,Plantae,"",Acmella oleracea,t0033579
@@ -11790,7 +11412,6 @@ e55a402e-5184-4bd6-a728-38577e5b9011,species,Plantae,"",Ainsliaea paucicapitata,
 b019afca-547e-49fd-ae34-4a58cc6043e8,species,Plantae,"",Anaphalis morrisonicola,t0040158
 b2e1d0a6-9863-4bc5-a09f-ec6f55b43ea1,species,Plantae,"",Anaphalis nepalensis,t0040159
 c3d413e3-2b34-4bb4-9768-893cb62e39e5,species,Plantae,"",Anaphalis royleana,t0040160
-a8bb584b-1db7-4e46-ba9c-8be15e643da4,species,Plantae,"",Anaphalis margaritacea,t0099329
 be23a738-969d-415e-8f7d-558569a64ab7,species,Plantae,"",Anthemis nobilis,t0052599
 309980bd-5224-49c4-97e9-d3c0a399291b,species,Plantae,"",Arctium lappa,t0040227
 f196c820-7472-42ce-887c-cd14d211cd91,species,Plantae,"",Austroeupatorium inulifolium,t0040316
@@ -11809,7 +11430,6 @@ f7eb58d8-c637-420c-b01a-580c1046960e,species,Plantae,"",Blumea mollis,t0052733
 3f72ddff-fa16-4772-a04f-a5cc5cac9ff6,species,Plantae,"",Blumea riparia,t0099418
 fff6bd50-8654-4062-afb3-df8532458e24,species,Plantae,"",Blumea viscosa,t0052735
 d94e93e4-c5f5-43bd-9856-172de103b1fd,species,Plantae,"",Blumea glomerata,t0052731
-7bcf7f13-1545-465f-acf7-de99c0146589,species,Plantae,"",Blumea membranacea,t0106659
 0f8c80c2-f856-49f6-879d-ef4cafce47f9,species,Plantae,"",Carpesium abrotanoides,t0052867
 b34ac092-3a12-4fa8-b5f5-4585d1d9e715,species,Plantae,"",Carpesium cernuum,t0052868
 0ff94574-48c6-4c7c-9052-d171c9511d73,species,Plantae,"",Carpesium divaricatum,t0052869
@@ -12055,7 +11675,6 @@ e785514a-f6a3-4b99-b4d6-a93011fa38ba,species,Plantae,"",Anthriscus sylvestris,t0
 350c6e07-2a14-4a76-bd8d-e5f0b1ee6feb,species,Plantae,"",Panax japonicus,t0075070
 54adf7d4-69cc-46e8-a280-6cce2edf4a3e,species,Plantae,"",Cochlospermum religiosum,t0073344
 c851fd68-2468-4476-b4fa-4369bcd95216,species,Plantae,"",Euonymus fortunei,t0053625
-5fc7bdf1-9249-4d76-80ab-5adec25e8416,species,Plantae,"",Athyrium japonicum,t0102846
 7c636ef0-525c-4d2b-95ca-3d38d767a157,species,Plantae,"",Arabis stelleri,t0040213
 dec01588-5a45-45cc-b1de-2270f96fff8d,species,Plantae,"",Opuntia stricta,t0075015
 0ee1ca0d-dedc-416e-81b4-1d74e811d1cc,species,Plantae,"",Cyclocodon axillaris,t0073600
@@ -12076,7 +11695,6 @@ d07f7895-8ba5-4988-babb-83fead9f8b27,species,Plantae,"",Isodon nervosus,t0074389
 b01b267c-bd81-4174-9c4e-53e26ed12c35,species,Plantae,"",Elytrigia repens,t0073827
 3e0e90fa-19f1-4364-b546-9ebccc75493d,species,Plantae,"",Chloris pilosa,t0052984
 15b3e971-4c5f-43a2-90e2-c7c0cb4937aa,species,Plantae,"",Hymenachne patens,t0074339
-b8f1921c-8488-4453-8ada-1a3370a1b74d,species,Plantae,"",Lysimachia sikokiana,t0123841
 de6fb8ef-e172-4935-88ce-751b00596698,species,Plantae,"",Coptis trifolia,t0073445
 e097809c-6775-4739-984b-4f4d4d92f586,species,Plantae,"",Hydrangea taiwaniana,t0053960
 16e5fc33-cc70-4b3d-b0d9-cc33ee33d912,species,Plantae,"",Sonneratia alba,t0075944
@@ -12088,13 +11706,9 @@ bd676360-ba2c-4e7a-96d5-c1a25eeaabb6,species,Plantae,"",Trapa natans,t0100527
 21f004ac-abf3-482a-97d5-fcd269d205fd,species,Plantae,"",Arabidopsis halleri,t0099355
 992023e6-b42a-4331-95ed-aa8d52c7b5d5,species,Plantae,"",Cordyline fruticosa,t0058861
 78d9ca98-2f6b-4516-956e-76a419c431a8,species,Plantae,"",Indocalamus longiauritus,t0100316
-22719a3c-9621-4da3-88d1-04bc7e10a9bb,species,Plantae,"",Leucas mollissima,t0074561
-63af2eb9-66f1-4a8d-8326-3ede91c64346,species,Plantae,"",Pourthiaea villosa,t0075478
 4e9f310d-5c3b-4045-8149-cc5d0c68b16c,species,Plantae,"",Liparis mannii,t0054268
 bfc1f32a-0e88-477b-a9c7-ecc7a7c9b044,species,Plantae,"",Kochia scoparia,t0074463
 29934af5-bfdd-46d8-8418-ad66b326540c,species,Plantae,"",Aspidistra attenuata,t0061063
-df5bc762-eebc-4ee7-9dd4-f5b898627620,species,Plantae,"",Liriope graminifolia,t0100537
-29353622-c717-4439-82e6-6deb9a04d85b,species,Plantae,t0103255,Ficus subpisocarpa,t0106932
 ff5f1cd2-3577-40cb-b186-4c11b5d9237d,species,Plantae,"",Murraya omphalocarpa,t0086901
 e39fedb4-846f-4458-841d-d9b6edd73e9e,species,Plantae,"",Eurya lui,t0105518
 5fb43ee7-d5c1-4a60-afbe-d682d0bc97db,species,Plantae,"",Actinidia setosa,t0033595
@@ -12160,18 +11774,14 @@ d9372dbb-6d72-4602-a8e4-2120cd4e280b,species,Plantae,"",Cosmarium subgranatum,t0
 15da899a-c06f-4f9b-a30f-8f68a45d5a5c,class,Plantae,"",Takakiopsida,t0000459
 89bd711a-362c-4491-843b-7be0c36599e6,class,Plantae,"",Sphagnopsida,t0000457
 b4dbdbd1-ee97-4ab3-a73a-ec4b2aa52c02,class,Plantae,"",Andreaeopsida,t0000427
-dcbfe850-b222-4a1a-992d-4492e2af5cb7,class,Plantae,"",Andreaeobryopsida,t0000426
-06a4e299-fc5b-4a4f-8317-8b6a210b37e2,class,Plantae,"",Oedipodiopsida,t0000450
 c711f48f-e05a-4e23-a8a4-85bbaf8f878a,class,Plantae,"",Polytrichopsida,t0000453
 038878bf-d4ca-4a1c-a9d8-ecc1c0922925,class,Plantae,"",Tetraphidopsida,t0000460
 ef786bfe-cb6b-4c5e-8088-e933fefdec37,class,Plantae,"",Bryopsida,t0000430
-e86763e5-a662-4846-a12a-b1c6ad4cc49a,class,Plantae,"",Leiosporocerotopsida,t0000444
 a8d20475-1d5c-4cd0-b68b-077944251789,class,Plantae,"",Anthocerotopsida,t0000428
 22fb17cb-3639-43e4-be20-de4b4e7147e7,subclass,Plantae,"",Pelliidae,t0000645
 7d5f8d45-84e9-4319-977f-80349da812fe,subclass,Plantae,"",Metzgeriidae,t0000642
 4ce6d1de-3462-4539-a6e3-c567e4a02391,subclass,Plantae,"",Jungermanniidae,t0000641
 12176278-5927-4c6f-8fb3-fb59ff7904f8,subclass,Plantae,"",Buxbaumiidae,t0000634
-2aac3dbf-9e23-42d9-8d86-7330ef747978,subclass,Plantae,"",Diphysciidae,t0000638
 7f961e73-aaed-4194-802f-4b4a9276e9b0,subclass,Plantae,"",Funariidae,t0000639
 c8ddaa6d-bfbf-466a-9fb6-b0647fd4cb97,subclass,Plantae,"",Dicranidae,t0000637
 4586488f-4464-4318-8133-553763630074,subclass,Plantae,"",Bryidae,t0000633
@@ -12180,8 +11790,6 @@ d0211808-59b9-4fda-8ae7-198e7419c384,subclass,Plantae,"",Anthocerotidae,t0000632
 b57e14cb-032f-49b3-b06a-c3702c42a530,order,Plantae,"",Treubiales,t0001651
 ab13199a-ab98-43a7-900c-0f5d1a9a8e4f,order,Plantae,"",Calobryales,t0001530
 c299c40b-b9eb-4caa-a709-0b209c817415,order,Plantae,"",Blasiales,t0001524
-fd20e038-ad2d-4d75-901f-a5c97cb99b45,order,Plantae,"",Sphaerocarpales,t0001639
-5361f0b8-c800-42f5-a8b3-864581f63c99,order,Plantae,"",Neohodgsoniales,t0001593
 93da351f-76bd-4ccc-add9-9cbdf6da5093,order,Plantae,"",Lunulariales,t0001581
 f08d50b9-1cb3-4cb6-b77f-4dedfddb2156,order,Plantae,"",Marchantiales,t0001585
 03781058-5ed3-4d88-9d32-57d10146c45a,order,Plantae,"",Pelliales,t0001606
@@ -12194,32 +11802,18 @@ f4b3b2a6-91f1-4d5c-9455-642783de7b02,order,Plantae,"",Ptilidiales,t0001622
 1724ea23-3f5c-471f-83d8-266e6df712f8,order,Plantae,"",Jungermanniales,t0001578
 b2913fb0-e5fb-42c7-b97c-c8b2bbdb0222,order,Plantae,"",Takakiales,t0001645
 a6af9f15-329e-4c1b-85e6-29edb4eff460,order,Plantae,"",Sphagnales,t0001641
-c4d565eb-bf12-41c6-bac2-fc8ef40539ea,order,Plantae,"",Ambuchananiales,t0001514
 9b62be7a-1f3b-4ea1-bc73-a94a44887301,order,Plantae,"",Andreaeales,t0001515
-05423032-10d9-428c-a0be-18c5f4a573b0,order,Plantae,"",Andreaeobryales,t0001516
-ca079c1a-7ab9-45f0-ab35-b3fd1ad9ab0f,order,Plantae,"",Oedipodiales,t0001596
 f8ad1a09-732f-41e6-9963-55361e96cffd,order,Plantae,"",Polytrichales,t0001614
 2bf9833c-bc10-4942-a715-c4260783ac57,order,Plantae,"",Tetraphidales,t0001646
 a93370b3-5b98-4614-b91d-606ffa5f6605,order,Plantae,"",Buxbaumiales,t0001529
-39ac6c3a-9cec-47de-9cd1-23bc6c48a371,order,Plantae,"",Diphysciales,t0001552
-9e1635fd-c442-4437-8b66-fe3a3b5235e3,order,Plantae,"",Gigaspermales,t0001563
 19a40db5-56b1-43ab-b456-e119d91ecfad,order,Plantae,"",Funariales,t0001560
-92129ce1-6357-476d-8939-b73c4952d800,order,Plantae,"",Encalyptales,t0001555
-007d56ec-8a02-4144-9e3e-cf2eab03628e,order,Plantae,"",Timmiales,t0001648
 1dc89995-2310-4022-b5a2-a92bdd171164,order,Plantae,"",Dicranales,t0001551
 60ee0448-b344-430f-9cac-31cfa44f5f37,order,Plantae,"",Pottiales,t0001617
 a2b4e26b-95ed-47cb-b726-69a58c7cc9a7,order,Plantae,"",Grimmiales,t0001569
-40f45786-910c-4e46-96c5-b6c0f7e380d0,order,Plantae,"",Hedwigiales,t0001571
-ac1e0e9a-a868-4ed7-b60a-50ee4d2878fb,order,Plantae,"",Bartramiales,t0001522
-117cbc1f-3b08-4746-bbf1-12bbceb62b85,order,Plantae,"",Splachnales,t0001642
 9affc63c-9d0c-4cae-9269-f3a9e89ccd5e,order,Plantae,"",Bryales,t0001526
 bd21ff18-f709-40a5-87f0-c2f3a2f04c2b,order,Plantae,"",Orthotrichales,t0001600
-17ee2e9b-bf85-4bec-9a73-6b182c713cce,order,Plantae,"",Rhizogoniales,t0001625
-faf629ad-ad03-4da7-8302-5d2d6232a76d,order,Plantae,"",Hypnodendrales,t0001576
-7634c509-3d71-414f-b072-79e8ba2ca7a0,order,Plantae,"",Ptychomniales,t0001623
 26ae47bb-ab2b-4896-b8d3-503ac7aa3f54,order,Plantae,"",Hookeriales,t0001573
 8026fd96-17df-40ef-b67a-583fa2d2245a,order,Plantae,"",Hypnales,t0001575
-33d39113-2582-46fe-9e2d-e9fcea8bbd50,order,Plantae,"",Leiosporocerotales,t0001580
 e0efdbc6-df46-471d-9264-8ca64df1c3af,order,Plantae,"",Anthocerotales,t0001517
 db3742e9-0edb-4bcd-9473-9fbc4593e7ba,order,Plantae,"",Notothyladales,t0001595
 973791b5-c5d8-42ea-871d-a225a4af3d66,order,Plantae,"",Dendrocerotales,t0001549
@@ -12356,7 +11950,6 @@ b205e810-8606-47d1-b48c-9165bee396aa,genus,Plantae,"",Porella,t0024600
 eda91465-4e4e-49eb-b9de-739605fa5b3f,genus,Plantae,"",Jubula,t0024087
 e15605f5-cab0-4fb9-ad51-eb8939655f49,genus,Plantae,"",Nipponolejeunea,t0024382
 a0ea0263-23e6-41b9-b052-4d7c10f3950b,genus,Plantae,"",Acrolejeunea,t0023092
-2da548e6-5e8c-437b-94cd-8c006f5eafe3,genus,Plantae,"",Aphanolejeunea,t0091780
 df0c86fd-80ad-488d-88ad-d318bcb37dfa,genus,Plantae,"",Archilejeunea,t0023213
 f302d621-655c-484d-a0d4-0db71ca0ba80,genus,Plantae,"",Ceratolejeunea,t0023432
 03ff0843-5cc1-42dc-953b-e5ee0247d938,genus,Plantae,"",Cheilolejeunea,t0023452
@@ -12427,7 +12020,6 @@ bc9b164f-0903-4077-af88-bd211d4a0152,genus,Plantae,"",Lophocolea,t0024188
 75e40c07-62c9-477b-b594-f70a415e3cd0,genus,Plantae,"",Anastrepta,t0023168
 dbbcc399-f2b7-4cdb-9cd8-03321e7b630e,genus,Plantae,"",Anastrophyllum,t0023169
 8f1aae8d-e9c1-4bad-8136-382a3066e072,genus,Plantae,"",Barbilophozia,t0023261
-9e7b7784-88be-452c-9048-9431faa92432,genus,Plantae,"",Chandonanthus,t0095235
 9a5d7b96-a139-4fbb-bada-288f6942d896,genus,Plantae,"",Sphenolobopsis,t0024867
 16a90a7c-b30b-4a79-8f62-3c7f31147ef5,genus,Plantae,"",Tetralophozia,t0024965
 4675559b-1a3a-46d4-81f6-a3f8ce284901,genus,Plantae,"",Blepharostoma,t0023289
@@ -12491,11 +12083,9 @@ bd0b51f4-ae28-4d4f-b90f-33658cfb4b10,genus,Plantae,"",Leptodontium,t0024148
 f250d894-7637-4a3b-8f02-4db35624d4af,genus,Plantae,"",Pseudosymblepharis,t0024634
 1228f8cd-4742-4520-8242-5f71d36e6e62,genus,Plantae,"",Reimersia,t0024682
 13f8f3c5-032b-45d1-a487-01355b596745,genus,Plantae,"",Timmiella,t0024998
-64980194-9538-4d0b-9988-25771585bd37,genus,Plantae,"",Tortella,t0094794
 a66ebda3-25b7-4d35-9545-f91ffc9376e1,genus,Plantae,"",Trichostomum,t0025036
 585f2069-1b52-45d8-bea3-3a2da74498e7,genus,Plantae,"",Tuerckheimia,t0025061
 85a2358a-e5f8-450e-aa5f-fd76b99ac5d5,genus,Plantae,"",Weissia,t0025109
-01808530-0cc4-4439-9bfb-686184e0a8c4,genus,Plantae,"",Ephemerum,t0095872
 b6e46287-eb58-4d90-8ab1-c5f6ab7b8383,genus,Plantae,"",Splachnobryum,t0024874
 52c93145-b300-45bf-a529-f01d693de3d8,genus,Plantae,"",Grimmia,t0023942
 0e472c31-fe67-4bbc-9694-cd8fc19e15df,genus,Plantae,"",Racomitrium,t0024669
@@ -12543,7 +12133,6 @@ b94a6b90-3ce5-49c5-872d-86a9711ca0c9,genus,Plantae,"",Callicostella,t0023358
 b3d7ed23-7df5-4e59-9d7d-bb948047232e,genus,Plantae,"",Amblystegium,t0023153
 80cfe16d-da3e-4039-9b2d-2b488eba2239,genus,Plantae,"",Campyliadelphus,t0023373
 12426cbf-f080-4f07-b784-d1d837357f01,genus,Plantae,"",Cratoneuron,t0023574
-6a4f45d6-fb4b-4358-9e84-da6dc3aaa37f,genus,Plantae,"",Drepanocladus,t0095837
 ca78cceb-3502-4e22-83fb-75781f0278c3,genus,Plantae,"",Hygrohypnum,t0024037
 8347a7d5-e34c-4808-80e2-338825fbc4a1,genus,Plantae,"",Leptodictyum,t0024147
 9af6e34d-ef92-4a69-b98b-272299746371,genus,Plantae,"",Sanionia,t0024752
@@ -12556,7 +12145,6 @@ fb7ac5c9-6e04-4290-ad76-2924d2668338,genus,Plantae,"",Isothecium,t0024077
 ea86f36d-b3c4-41d8-a5ac-c2890cd66943,genus,Plantae,"",Kindbergia,t0024099
 437ecb92-4fff-4244-80c0-82c8962c70fe,genus,Plantae,"",Palamocladium,t0024441
 0047a3db-6868-45b8-bb72-9dd3d4dd2ba2,genus,Plantae,"",Rhynchostegium,t0024712
-63d3feaf-8264-444c-ae84-374d28918ced,genus,Plantae,"",Oxyrrhynchium,t0095743
 ee793355-e6c5-4317-96a6-2873047d5843,genus,Plantae,"",Eumyurium,t0023820
 4fac8b76-aee3-4150-9941-6d9548f689e2,genus,Plantae,"",Ctenidium,t0023591
 268514ff-2429-47dd-a632-837266d033de,genus,Plantae,"",Ectropothecium,t0023751
@@ -12578,7 +12166,6 @@ d40e436b-3bc1-49a1-9266-2e043cbf4229,genus,Plantae,"",Vesicularia,t0025094
 83ca8241-19e8-40e8-8bd3-1179641547b7,genus,Plantae,"",Rhytidium,t0024715
 0e816a34-9774-4f51-bed8-28c341128d23,genus,Plantae,"",Dolichomitra,t0023720
 b91419b4-902f-47f7-ab1a-59bda295e383,genus,Plantae,"",Leskea,t0024153
-ef0bf401-2461-46d2-b981-7ada131cc591,genus,Plantae,"",Leskeella,t0094603
 d8555d0a-0a13-4c47-9a84-1acb7f4d3490,genus,Plantae,"",Aerobryidium,t0023111
 75e85e19-7f41-47de-9f37-9064ccbee792,genus,Plantae,"",Aerobryopsis,t0023112
 bf55b2ed-1741-4148-b6e6-f61fff6a736c,genus,Plantae,"",Aerobryum,t0023113
@@ -13361,7 +12948,6 @@ c852d59f-1841-4607-b3d1-0e47e3367dc4,species,Plantae,"",Phaeoceros laevis,t00752
 50506b45-3efb-4e51-8d34-31118e924491,species,Plantae,"",Dendroceros javanicus,t0073646
 4a474793-ce7e-4ee9-add6-c5440a773896,species,Plantae,"",Dendroceros tubercularis,t0073647
 efac799e-0362-45ec-888b-5a608282fe2c,species,Plantae,"",Megaceros flagellaris,t0074760
-382b1c1b-db09-4a29-bf59-9871364fb9c7,order,Plantae,"",Bryoxiphiales,t0001528
 e98268cc-13ee-4469-9b18-5ea482e33d74,family,Plantae,"",Ptychomitriaceae,t0005148
 8547addc-56a0-4d49-bc66-edc4e6165588,family,Plantae,"",Bryoxiphiaceae,t0005025
 5e7f1239-b14b-49dd-801c-34598f8b78e2,family,Plantae,"",Myuriaceae,t0005123
@@ -13370,8 +12956,6 @@ e98268cc-13ee-4469-9b18-5ea482e33d74,family,Plantae,"",Ptychomitriaceae,t0005148
 19ea770c-33fe-4c29-bcbd-c385098b8375,family,Plantae,"",Climaciaceae,t0005041
 62d139e7-b60e-4e97-b02b-910abb7bcd87,family,Plantae,"",Theliaceae,t0005177
 37d373ca-f200-492e-9bf1-071d90991c10,family,Plantae,"",Trachypodaceae,t0005180
-fea6fc2c-ae1a-4dd6-88b3-849642a6b0b6,family,Animalia,"",Podocnemididae,t0107485
-47ad99d1-0d36-45bf-941f-7131a7924495,genus,Animalia,"",Podocnemis,t0122312
 375e1acb-4a8e-4831-a6c1-2a41644cc95e,order,Plantae,"",Bryopsidales,t0001527
 d266f398-b3a7-46b7-9d3e-9b226a8372d3,family,Plantae,"",Udoteaceae,t0005184
 2df7cbfe-3b6c-44fb-8b61-5d8b96fdfdfd,genus,Plantae,"",Tydemania,t0025067
@@ -13406,16 +12990,11 @@ f473e874-d515-41dc-a96b-cec81c138ae3,species,Animalia,t0029608,Blattella formosa
 731fafc8-047b-4721-9d4c-a4dbc91856b3,species,Animalia,t0047996,Tripartita formosana,t0047728
 2fd85ccd-a13b-4fac-b75b-481dc91752bb,species,Plantae,"",Ludwigia decurrens,t0033516
 714b622c-be58-4e9b-87c6-df3d4dc42ac6,genus,Plantae,"",Pseudocayratia,t0024625
-b3add048-390a-46be-b920-5b9339cb86e6,species,Plantae,"",Anemone taraoi,t0099342
-35e3eec5-9bea-46dd-a5c0-2d5a5b21c2a6,species,Plantae,"",Asplenium cuneatum,t0102808
 8c35b3ac-ae23-4d6b-ad7d-465e1f5bed24,species,Plantae,"",Sida chinensis,t0104519
-80b3965a-4a05-459e-8449-ace3ec85841d,species,Plantae,"",Rumex dentatus,t0100967
 213cb4fa-d153-4f72-bc96-cd9f6894c884,species,Plantae,"",Pteris subesquirolii,t0026525
-68d3cda9-1482-4df5-8e97-1deaab9911d9,species,Plantae,"",Castanea sativa,t0100713
 1d17f804-1f7b-4628-b5bc-5fba5f669ee8,species,Plantae,"",Citrus × aurantium,t0053032
 84fd49cd-1cde-4b32-85f3-14adf195d515,species,Plantae,"",Deparia deflexa,t0027016
 23b7a6fd-f575-400e-97b9-959697d03e08,species,Plantae,"",Huperzia javanica,t0058031
-96ded8e7-4af4-4d9e-acc5-e1c9eb8b3574,species,Plantae,"",Kandelia candel,t0106927
 4fc3a6f2-19aa-4727-90eb-e9eba0ceb220,species,Plantae,"",Diplazium fauriei,t0027029
 4d30b637-559d-4d1d-98c3-e6103e3c4f8b,species,Plantae,"",Ichnanthus pallens,t0100306
 147f6557-828d-4b82-b7a8-9a83e2dbe9e7,species,Plantae,"",Juniperus procumbens,t0100343
@@ -13427,11 +13006,7 @@ b44b4fc7-c78e-42a0-a4d3-9af13a44d51b,species,Animalia,"",Limonia productina,t009
 af2a2ef8-83dc-4437-981a-0e8beb23b523,species,Animalia,"",Chlaenius noguchii,t0100739
 78ecb8fd-1e13-4930-8af5-e86236a85305,species,Animalia,"",Ophionea bhamoensis,t0100634
 bda69944-e61b-42b9-8c9d-be78d519e670,species,Animalia,"",Limonia apicalis,t0096136
-18b1ea82-29af-41a4-991d-b9d44b089932,genus,Animalia,"",Malayemys,t0107339
-59ee7a82-d97b-46ff-b242-23d21e25b2b1,species,Animalia,"",Malayemys subtrijuga,t0122295
-ae9b9ca4-bd86-4793-8731-62e1cad93db5,genus,Animalia,"",Pyrrhura,t0107286
 9be2b5db-1ba7-4378-9dc0-32ce75d8fddf,genus,Plantae,"",Schoenoplectiella,t0024785
-307dcf85-8e5e-446c-b5a6-e46e2370d417,superfamily,Animalia,"",Grapsoidea,t0105689
 4779d128-d32f-44b8-9d66-1184cf28a329,species,Plantae,"",Scrophularia formosana,t0055276
 36829f31-2b2b-4a7c-9ecd-d18b53756c6c,species,Plantae,"",Malvaviscus arboreus,t0054394
 d1d2be63-1645-405b-8005-4e4f9e67c5d9,genus,Plantae,"",Hydnocarpus,t0094501
@@ -13440,12 +13015,9 @@ d1d2be63-1645-405b-8005-4e4f9e67c5d9,genus,Plantae,"",Hydnocarpus,t0094501
 9631b29e-360f-4eda-b10f-672b022e668a,species,Plantae,"",Elatostema cuneatum,t0099568
 90f8ae1f-068b-460e-aac1-5e73a439f11c,species,Plantae,"",Pteris pseudowulaiensis,t0075519
 685e1eab-dbd3-4e96-bfe0-6661be334b59,species,Plantae,"",Berberis morii,t0072854
-1cb8b000-1db1-4a9b-8849-81d748f46f85,genus,Plantae,"",Tetradenia,t0094772
 11143cdd-8966-49cf-8ac2-4f8822fec11d,species,Plantae,"",Viola kwangtungensis,t0049319
-c910b0d6-7b8e-4143-845d-d79c8bb42254,species,Plantae,"",Limnophila chinensis,t0101998
 c52b8f49-4260-4956-824e-7f44d572d351,species,Plantae,"",Bolbitis lianhuachihensis,t0040403
 dbacc7af-b28d-433f-bc0c-0d580d7c9dea,species,Plantae,"",Radermachera hainanensis,t0123762
-8b0940fe-40aa-4acc-b97f-30b14769046a,genus,Plantae,"",Sarcophyton,t0024758
 c379a920-b6f9-463c-9b1b-9f612e15c133,genus,Plantae,"",Goeppertia,t0025693
 d4b2fc5d-9c36-44dc-84e1-506da8368c16,genus,Plantae,"",Megathyrsus,t0102356
 14e8f6c5-2cef-453e-936f-62c340bbdaef,genus,Plantae,"",Canscora,t0023382
@@ -13456,7 +13028,6 @@ d4b2fc5d-9c36-44dc-84e1-506da8368c16,genus,Plantae,"",Megathyrsus,t0102356
 f8dd4a1c-0759-49cb-adaf-19be90b74f21,order,Chromista,"",Chattonellales,t0003100
 295bc234-13ae-40d1-b026-00cbff64746e,phylum,Chromista,"",Bigyra,t0000075
 d9d1fef2-1ecc-4303-a860-7419233bf2e6,order,Fungi,"",Geastrales,t0001417
-856f9337-780b-4c73-8a68-034fe26d8589,class,Fungi,"",Geoglossomycetes,t0002932
 141dfe05-8428-49f0-a0cd-b8d7639b7ff9,order,Fungi,"",Geoglossales,t0001418
 58307d0b-5de5-459b-8d0d-337a10dd9d3d,class,Chromista,"",Coccolithophyceae,t0000333
 1808e149-a3b7-4f26-9cb4-8284c363c09e,order,Chromista,"",Coccolithales,t0001113
@@ -13584,7 +13155,6 @@ b61a6493-d8ae-40e9-b12b-7c1f615bb312,family,Fungi,"",Eccrinaceae,t0003432
 55d9d0ab-22f9-46e4-876b-72a7309247c3,family,Fungi,"",Leptosporellaceae,t0003517
 9883dd23-b222-4699-a312-a9b6159fb44b,order,Fungi,"",Lecideales,t0001437
 7ea4f18e-f5c2-4608-9753-d5e159ed73f6,family,Fungi,"",Lopadiaceae,t0003522
-21b6fe21-3d37-493d-a6ec-b6be5f2b1b8d,genus,Fungi,"",Debaryozyma,t0007423
 a2c981e5-8328-4da4-b1dd-d5bc8b6331ef,genus,Fungi,"",Blastodendrion,t0007142
 b1ff85fb-6537-48d0-9f0e-3f4063c43ad0,genus,Fungi,"",Vanrija,t0008721
 2d4e2b44-1323-4268-8ade-165223a5c1f1,order,Fungi,"",Trichosporonales,t0002985
@@ -13664,8 +13234,6 @@ ba5a35b1-0df3-4b6b-867f-1772d2a971d2,genus,Plantae,"",Decalobanthus,t0095364
 adb6abd8-7f9f-4fdd-8958-8baccb7d714e,genus,Plantae,"",Portulacaria,t0024605
 8bc73983-9a51-4697-9c3c-21d5390cc741,species,Plantae,"",Portulacaria afra,t0054935
 2e65ab30-fd26-43a8-857e-e5551beaef77,genus,Plantae,"",Astraea,t0023242
-b91b2e61-4741-47bd-a7ab-a3251d73b1bc,genus,Plantae,"",Cassine,t0095196
-57d6f9f8-65bd-4e24-b5a6-3ce6d776898d,genus,Plantae,"",Tricholaena,t0094807
 55cea6c1-fbc4-4104-af3e-c87253c41b22,genus,Plantae,"",Cleistogenes,t0023508
 fa54f964-ae1e-4545-9d9b-b8237e55e429,genus,Plantae,"",Apocopis,t0023199
 c3ecc460-9ae2-424b-9df6-8bb7b3a40bc1,genus,Protozoa,"",Alloglobigerinoides,t0006502
@@ -13674,18 +13242,11 @@ c3ecc460-9ae2-424b-9df6-8bb7b3a40bc1,genus,Protozoa,"",Alloglobigerinoides,t0006
 6cc0a587-345e-4405-8b30-2915cb3e8d9b,genus,Fungi,"",Jackrogersella,t0007785
 3e4bc92d-56f9-4402-8863-9cbf44163e12,genus,Animalia,"",Acrotona,t0025960
 4679022a-3d7f-42f6-9bf0-3c9631f7e310,class,Plantae,"",Pyramimonadophyceae,t0000455
-7379740e-9d33-4b05-8c2f-a0c0e8120680,genus,Plantae,"",Aquarius,t0102354
 6670db62-1dbc-4f4a-8b7d-9f5deb3c62d9,species,Chromista,"",Diatoma hyemalis,t0059551
 479b16f1-249c-4a94-9d67-6b3179be6dd8,species,Fungi,"",Phyllachora dolichogena,t0042753
-a97fb864-f463-4461-ba88-bb466990721a,species,Animalia,"",Ara macao,t0122141
-ee915451-f5ae-44e7-8a77-a92c75d44361,family,Animalia,"",Icteridae,t0107466
-f175b226-99e7-4d47-a9a7-be80a8137249,genus,Animalia,"",Poicephalus,t0107283
-1b5d44c4-e1fd-4175-8d4e-41890839cac8,genus,Animalia,"",Primolius,t0107284
 52a618fb-6fa2-4e85-a9ba-22640c0c651a,species,Animalia,"",Epitonium pallasi,t0096913
 8d178d11-0730-488e-9443-b959640015c6,phylum,Plantae,"",Charophyta,t0000092
 9417f07e-e4cd-42ca-a55c-d16f290fed97,subclass,Fungi,"",Lecanoromycetidae,t0000622
-5df0d461-1fbb-4389-b24d-f17663a32141,genus,Plantae,"",Aegilops,t0091986
-01cb5435-6be5-46e4-9d50-a3cb01daa2ff,genus,Plantae,"",Calea,t0091917
 03f7513a-087a-415a-b72e-66fd96376201,order,Plantae,"",Gigartinales,t0001562
 d8f475b1-4b15-4fe9-ac79-8dd4a199f057,family,Plantae,"",Phyllophoraceae,t0005134
 38434328-b9b3-49b1-b4bc-2d75cf7f17d2,genus,Plantae,"",Ahnfeltiopsis,t0023128
@@ -13706,26 +13267,18 @@ c16e3c04-c517-4784-9a48-4c61ba2ebb2d,order,Plantae,"",Desmidiales,t0001550
 d1a6fb16-445b-4493-b09a-62866c013ea6,genus,Plantae,"",Codium,t0023526
 187eaa0d-9df6-4066-ac61-24746cb1cf03,genus,Plantae,"",Euastrum,t0023809
 c9b4b4cf-59a9-4a4b-a7bf-34c2dd75f1fe,species,Plantae,"",Euastrum sinuosum,t0073875
-070cfbe2-789a-4c1b-b8ae-c1008ee97513,genus,Plantae,"",Satyrium,t0094638
-ede9e574-b395-4187-ab74-246891d9da83,genus,Plantae,"",Aira,t0091996
-6c008fe9-debf-4d46-b938-c5502fefcab3,genus,Plantae,"",Meyenia,t0095624
-df3af8b3-91c7-49ba-a472-5dd97329f03b,genus,Plantae,"",Hexacentris,t0092174
-ad724aea-a658-4c9c-b0ec-13944569e615,genus,Plantae,"",Acrocephalus,t0106666
 8b73e8db-36c2-4ab1-8e8a-0f063e85d206,species,Plantae,"",Pteridium aquilinum,t0100907
 d2a99421-81dd-49d1-94e2-8d49739a7f3c,species,Plantae,"",Adiantum tenerum,t0026559
 a4f86047-62d7-4ab2-af20-79d1cfb4dba0,species,Plantae,"",Tectaria multicaudata,t0026768
 0598c137-b3cf-4793-bab3-6faa5b00ec32,species,Plantae,"",Commelina erecta,t0100765
 0dd1e61d-7117-4902-b033-f68198abf550,species,Plantae,"",Alpinia koshunensis,t0102076
-b3db9d06-ab49-437e-b0af-0b50cde17d1a,species,Plantae,"",Acacia mearnsii,t0106893
 147f825e-bf65-43e5-97bc-04df4eb9ea20,species,Plantae,"",Cassia bakeriana,t0102009
 5c068210-dcf0-458d-8823-02ca44443136,species,Plantae,"",Indigofera spicata,t0105697
 f59f7e58-ace4-4ba3-8b41-3c906e526e35,species,Plantae,t0105386,Senna surattensis,t0075893
-a3245dc7-6aeb-4160-bf7a-2fa2d2f95106,species,Plantae,"",Castanopsis tribuloides,t0100715
 21ecc241-d052-45d5-98f1-d0ea8947d23a,species,Plantae,"",Euonymus centidens,t0099241
 331bbd3f-9f40-47f2-a653-b4c17860e34b,species,Plantae,"",Elatine triandra,t0105428
 e75777a1-ba51-43cb-857b-c3fafa85fd75,species,Plantae,"",Serjania mexicana,t0099247
 fcac0117-01f7-4b1f-a63f-50cfb2a9dd9f,species,Plantae,"",Grewia tiliifolia,t0053873
-15ef1b42-30fe-4f80-b30b-59031df61cff,species,Plantae,"",Ixora coccinea,t0100330
 9096f6eb-f17e-460c-a02f-4cacd594695f,species,Plantae,"",Aster turbinatus,t0052669
 6f795206-cd88-4cd3-bb85-fc9b780cdf37,species,Plantae,"",Cololejeunea haskarliana,t0073393
 93a65111-5d41-4bfd-9024-aec0d7b7f092,species,Plantae,"",Canscora diffusa,t0073034
@@ -13734,7 +13287,6 @@ e6373d9d-6f0d-423a-9906-a7e347ec4441,species,Plantae,"",Astraea lobata,t0052671
 ddc86c85-6849-419f-8dab-ad379ec9cfd2,species,Plantae,"",Apocopis wrightii,t0052607
 ee9daa7c-a46e-4549-9846-005c4765a4cb,genus,Plantae,"",Vincetoxicum,t0002519
 9f5b9fc0-ff69-4202-a2c2-b9867f835a4d,species,Plantae,"",Pronephrium parishii,t0026975
-7481c1d2-482f-4aed-a25b-be7c2fdbf813,species,Plantae,"",Smilax herbacea,t0100441
 ea792def-3da7-4f12-ad8b-c18ee25f1526,species,Plantae,"",Smilax gaudichaudiana,t0033506
 bf021cc4-7050-4da5-a092-89b3b8e787d7,species,Plantae,"",Liparis formosamontana,t0054256
 80fcf2c0-895b-4e26-a3d0-03b381c3cf3b,species,Plantae,"",Vincetoxicum fordii,t0099489
@@ -13769,7 +13321,6 @@ cb128af0-ab70-4a54-9c5c-26691c140d1f,family,Fungi,"",Dacryobolaceae,t0003413
 99dda6b8-e91d-4e73-8971-e46dff60215d,family,Fungi,"",Pseudoastrosphaeriellaceae,t0003639
 64eb72ea-b696-4e0a-a570-17d431bbb273,family,Fungi,"",Tetraplosphaeriaceae,t0003717
 bd57cb17-9ffd-459e-9e08-a94638766433,family,Fungi,"",Bulleraceae,t0003345
-3a712db4-9608-4054-981f-ebbbfac6e546,family,Fungi,"",Ramariaceae,t0091702
 20192d68-181c-4641-b42d-f4747fe6051b,family,Fungi,"",Wickerhamomycetaceae,t0003758
 7468c267-050c-48a6-bf9d-afb6e869589b,genus,Fungi,"",Acanthostigmina,t0006981
 ce068e0d-6a98-450c-9235-3be3969a515e,genus,Fungi,"",Arcopilus,t0007057
@@ -13991,7 +13542,6 @@ c8306873-f3b5-4de5-88a3-d280a6711898,genus,Plantae,"",Valoniopsis,t0025084
 fb56846d-d09e-41fd-b42d-07a737a3c7d1,genus,Plantae,"",Dictyosphaeria,t0023682
 fd232276-4805-47ce-9045-c604e00a6878,family,Plantae,"",Gigartinaceae,t0005077
 1eaf964d-be08-47ae-a0f1-35db6490e3bb,genus,Plantae,"",Chondrus,t0023476
-e06f03b0-9445-4ff4-9e97-e05c89d7eb1d,species,Animalia,"",Capra aegagrus,t0099486
 1abacd45-831d-4892-8f6a-de075b792b8c,family,Fungi,"",Serpulaceae,t0003685
 d15e12ec-0f7b-40b4-a318-53bb859d3109,family,Fungi,"",Tapinellaceae,t0003713
 c7c38665-c68d-420d-a91b-ec4ff4023f87,genus,Fungi,"",Stilbocrea,t0008570
@@ -14008,14 +13558,11 @@ e1e29eb6-cc4b-4875-bd6f-fa7ea941f21c,genus,Fungi,"",Cyptotrama,t0007398
 a2da1619-1ae7-488e-bc5a-4a31a67ab9e4,genus,Plantae,"",Leptopetalum,t0002520
 34e18970-acfb-40e2-bc99-bf27f653ae3a,species,Plantae,"",Leptopetalum coreanum,t0103362
 b6a03451-26a3-410c-866f-fcec8f52b3ca,species,Plantae,"",Goniophlebium amoenum,t0100252
-538a1ca6-1230-4aa0-9039-8c372030d30c,genus,Plantae,"",Pourthiaea,t0024611
 f8a1ad89-4f9e-4f84-adfc-bdda960a61cb,genus,Plantae,"",Gymnanthemum,t0025697
 b78b09d0-c96c-4a0c-93ca-2a8f77e2220f,genus,Plantae,"",Urceola,t0103305
 54e4d4da-c5da-47b4-bce9-27b255f773fd,genus,Plantae,"",Oldenlandia,t0002758
 ce177152-154a-4d8e-a791-571c149d6e57,genus,Plantae,"",Dimetia,t0002756
 988b6fc7-1cdb-4a83-b8ed-e4bfd8b22cc1,genus,Plantae,"",Exallage,t0002757
-2892f3ca-35f9-4b07-b812-87241d263efb,genus,Plantae,"",Anisophyllum,t0091765
-64ed73e2-5795-4730-a471-5fd4d75a9b0b,genus,Plantae,"",Vahlodea,t0094845
 99df213f-b76c-42f4-a707-7eba5c6cfc9b,genus,Plantae,"",Tripidium,t0091715
 96c5f29c-87a4-44f5-ba0b-585b30e230cc,genus,Plantae,"",Nubelaria,t0095698
 7fdf1366-0fb8-4d5a-a855-04cab907dd95,genus,Plantae,"",Polytrias,t0024593
@@ -14025,11 +13572,8 @@ ac7df5ce-126a-4230-8075-f89409015728,genus,Plantae,"",Muehlenbeckia,t0024328
 1668f3dc-a6cc-4b72-ad33-c579c4cb5680,genus,Plantae,"",Amauropelta,t0009086
 ef6e0778-ba84-4496-ab6e-52e42604c6c8,genus,Plantae,"",Leptogramma,t0009093
 a432d0ca-fbd1-495a-92be-4fda3ceb185d,genus,Plantae,"",Zuloagaea,t0102360
-d7ab02b7-66b2-4e51-8db6-1bdee5b1a819,genus,Plantae,"",Aidia,t0091995
 6390e827-5061-4f64-9c70-3f8340509ef9,species,Plantae,"",Rhus chinensis,t0055086
 c8827b5e-878e-4f1f-af81-f8a5253f1997,species,Plantae,"",Heptapleurum ellipticum,t0046125
-738c7842-4492-4e3e-b909-3ed3c1a6aed3,genus,Plantae,"",Avenella,t0091833
-aeadab76-407e-478b-906d-a012472b1f0f,genus,Plantae,"",Anisophyllum,t0091765
 e494bcc1-7840-4fc7-ab85-6690fba4880d,species,Plantae,"",Equisetum praealtum,t0026356
 31b3743f-cb9f-4c54-b1eb-13ab35f8ad53,species,Plantae,"",Plagiogyria pycnophylla,t0026454
 dd1e75d9-588a-4202-8739-9dce3136db8b,species,Plantae,"",Pteris dispar,t0026505
@@ -14050,23 +13594,16 @@ d9bb00bf-8f36-425f-8423-b903a2203341,species,Plantae,"",Megathyrsus infestus,t01
 131ae53b-4123-4a44-89df-91e34eb6ec45,species,Plantae,"",Zuloagaea plena,t0102361
 45dca0e4-2da9-4659-a6b1-230e09d0325e,genus,Plantae,"",Camphora,t0091935
 6eba6578-f4b2-443c-8550-97b87fa66c16,species,Plantae,"",Spiranthes nivea,t0055437
-720a306b-3e15-476c-a4c6-568267d6d7c9,order,Plantae,"",Dasypogonales,t0001548
-5fa3bdf1-9def-4c34-b6eb-686ebc315ace,species,Plantae,"",Spiranthes australis,t0100477
 13688e24-f41b-401a-9ae8-9a4855c63d32,species,Plantae,"",Gastrochilus yehii,t0103712
-7879259a-adb4-47fd-8b6d-1dfd3ea0e0c1,species,Plantae,"",Alnus maritima,t0099317
-bcfe5d75-fe92-4a73-8a55-88829755d4c4,genus,Plantae,"",Hedysarum,t0094459
 d3652e83-eb6c-44e8-9269-d3fbfe4d5298,family,Animalia,"",Chelydridae,t0123891
 024b8a76-b1f7-4593-8baf-79030591f242,species,Animalia,"",Geosesarma mirum,t0105855
 67dbb98e-af36-4bd2-b7b7-8299791989a3,species,Animalia,"",Dendrocopos hyperythrus,t0123539
 47f17362-6af6-4ea5-9a88-011396d686bd,species,Animalia,"",Emberiza buchanani,t0123538
 d327de0b-6f85-4af7-ab44-3990b2359ab0,species,Plantae,"",Equisetum arvense,t0026355
 465f7647-94ae-4335-b778-f3c9a9580d18,species,Plantae,"",Hymenasplenium pseudobscurum,t0026935
-9fa4ab7e-b788-469e-8926-f575c9e42872,species,Plantae,"",Pandanus tectorius,t0100648
 36c6d6f2-68d3-4dbd-9091-eb51627a4fb4,species,Plantae,"",Zingiber chengii,t0069851
 fbd9103f-e452-4ee2-9c65-aaa6c8e8b040,genus,Plantae,"",Pongamia,t0095444
 0aef2287-bfa5-47e9-bbc1-0f9dca8228a5,species,Plantae,"",Begonia hirtella,t0052703
-641c446b-38c4-4582-9085-328cad57ab44,species,Plantae,"",Cardamine hirsuta,t0052802
 c9de701d-f3cc-4066-80de-9c2fd1f53728,species,Plantae,"",Cardamine occulta,t0040626
 e04d57ab-49f8-4184-ab6a-5e6ee68122cf,species,Plantae,"",Camellia chinmeiae,t0073014
 60f34fd2-dd6e-4e59-9515-5a66e246106b,species,Plantae,"",Vandellia setulosa,t0069765
-3d3cd290-2edf-42c4-a23b-82d0a245c193,genus,Plantae,"",Eschenbachia,t0095884
