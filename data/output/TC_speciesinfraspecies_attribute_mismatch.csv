@@ -852,13 +852,13 @@ t0098160,Species,t0013465,Onychoprion fuscatus,native,TRUE,"","",LC,"",t0098160,
 t0086012,Subspecies,t0098161,Onychothemis testacea tonkinensis,native,TRUE,"","","","",t0098161,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086012
 t0098161,Species,t0013469,Onychothemis testacea,native,TRUE,"","",LC,"",t0098161,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098161
 t0086019,Subspecies,t0098180,Oriolus chinensis diffusus,native,TRUE,II,VU,"","",t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0086019
-t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,naturalized,TRUE,"","","","",t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0086020
+t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,cultured,TRUE,"","","","",t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0086020
 t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,重度,t0098180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0098180
 t0086019,Subspecies,t0098180,Oriolus chinensis diffusus,native,TRUE,II,VU,"","",t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086019
-t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,naturalized,TRUE,"","","","",t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086020
+t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,cultured,TRUE,"","","","",t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086020
 t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,重度,t0098180,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0098180
 t0086019,Subspecies,t0098180,Oriolus chinensis diffusus,native,TRUE,II,VU,"","",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086019
-t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,naturalized,TRUE,"","","","",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086020
+t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,cultured,TRUE,"","","","",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086020
 t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,VU,LC,重度,t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098180
 t0086021,Subspecies,t0098181,Oriolus traillii ardens,native,TRUE,II,LC,"","",t0098181,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086021
 t0098181,Species,t0013573,Oriolus traillii,native,TRUE,II,LC,LC,"",t0098181,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098181
