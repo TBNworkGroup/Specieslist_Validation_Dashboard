@@ -209,7 +209,8 @@ cbaa0f6a-a21e-4f00-82c9-c2cecc741544,genus,Plantae,"",Trichomanes,[],
 6414646d-64ac-4432-b217-5cd07920041f,genus,Plantae,"",Lonchitis,[],
 ba0b1e9d-7cc9-4293-a13a-3a01b8a8cbf4,genus,Plantae,"",Saccoloma,[],
 3004cd94-183f-4539-8ed2-d40da12c9591,genus,Plantae,"",Sphenomeris,[],
-a22b4dfa-1623-4a3d-bc6b-3d10b8bb9c2a,genus,Plantae,"",Oenotrichia,[],
+c3e6a6bd-29f0-476d-ac8c-9bc111cfa4e6,genus,Plantae,"",Leptolepia,"list(taxon_id = ""t0009032""","taicol_name_status = ""not-accepted"""
+a22b4dfa-1623-4a3d-bc6b-3d10b8bb9c2a,genus,Plantae,"",Oenotrichia,"list(taxon_id = ""t0009032""","taicol_name_status = ""not-accepted"""
 cc33c5b8-c1d5-49aa-81f9-167874e747a1,genus,Plantae,"",Syngramma,[],
 b42c1bb4-0cb0-402b-8dea-c2e6ce7cba0c,genus,Plantae,"",Taenitis,[],
 7e18b850-0fef-4dc1-aceb-84c8a9bbce93,genus,Plantae,"",Cassebeera,[],
@@ -221,7 +222,7 @@ f64ef073-4fc8-4e31-8298-308654ddf86d,genus,Plantae,"",Mildella,[],
 e7cc0edc-3985-48fe-9905-3755c5bfd418,genus,Plantae,"",Parathelypteris,[],
 0880772b-4348-4f86-9479-8e3da1eb370f,genus,Plantae,"",Onoclea,[],
 d248b0f5-b997-4403-b8fe-2fa993cee33c,genus,Plantae,"",Blechnum,[],
-916cd583-370a-4fc4-9e11-f90b916c11c0,genus,Plantae,"",Struthiopteris,[],
+916cd583-370a-4fc4-9e11-f90b916c11c0,genus,Plantae,"",Struthiopteris,"list(taxon_id = ""t0094739""","taicol_name_status = ""accepted"""
 9e7257b2-3719-446b-ae0d-258b5099f7a1,genus,Plantae,"",Anisocampium,[],
 556f2df5-47ef-4242-9775-3b77f067837c,genus,Plantae,"",Acrophorus,"list(taxon_id = ""t0091970""","taicol_name_status = ""not-accepted"""
 a6f383e4-f4f3-441f-9503-7c787a9cc714,genus,Plantae,"",Cyrtogonellum,[],
@@ -613,25 +614,22 @@ ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,"",Selaginella circinalis,"
 ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,"",Selaginella circinalis,"list(taxon_id = ""t0103619""","taicol_name_status = ""not-accepted"""
 2dad6de2-2373-4c1b-bd65-5156b928e310,species,Plantae,"",Botrychium lanuginosum,"list(taxon_id = ""t0026367""","taicol_name_status = ""not-accepted"""
 f686984c-57e8-407f-86ca-f6a80d325c91,species,Plantae,"",Botrychium ternatum,"list(taxon_id = ""t0026369""","taicol_name_status = ""not-accepted"""
-1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,"list(taxon_id = ""t0046136""","taicol_name_status = ""misapplied"""
+1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,"list(taxon_id = ""t0026394""","taicol_name_status = ""misapplied"""
 c9fd0e2b-14b3-4103-a5a2-fb4d488452cc,species,Plantae,"",Cephalomanes thysanostomum,"list(taxon_id = ""t0026417""","taicol_name_status = ""not-accepted"""
 09b80f8a-004d-486b-b3bc-21293fddd269,species,Plantae,"",Diplopterygium chinense,"list(taxon_id = ""t0026433""","taicol_name_status = ""not-accepted"""
-846f9dab-0a71-4375-a8a8-6443a6bc8fe6,species,Plantae,"",Azolla filiculoides,"list(taxon_id = ""t0102194""","taicol_name_status = ""accepted"""
-02eac940-1cc4-43d2-9295-10f3a6d6cb0c,species,Plantae,"",Azolla caroliniana,"list(taxon_id = ""t0026443""","taicol_name_status = ""accepted"""
-119b932d-51ec-4d27-9d1c-98abac06fcc0,species,Plantae,"",Azolla japonica,"list(taxon_id = ""t0102759""","taicol_name_status = ""accepted"""
+846f9dab-0a71-4375-a8a8-6443a6bc8fe6,species,Plantae,"",Azolla filiculoides,"list(taxon_id = ""t0102659""","taicol_name_status = ""misapplied"""
+02eac940-1cc4-43d2-9295-10f3a6d6cb0c,species,Plantae,"",Azolla caroliniana,"list(taxon_id = ""t0102659""","taicol_name_status = ""misapplied"""
+119b932d-51ec-4d27-9d1c-98abac06fcc0,species,Plantae,"",Azolla japonica,"list(taxon_id = ""t0102659""","taicol_name_status = ""misapplied"""
 02ceaa08-5efb-460d-8366-bfb960254b2a,species,Plantae,"",Cibotium cumingii,"list(taxon_id = ""t0026464""","taicol_name_status = ""not-accepted"""
 4894c922-0b27-4034-886d-84a076dfddc6,species,Plantae,"",Alsophila lepifera,"list(taxon_id = ""t0026462""","taicol_name_status = ""not-accepted"""
 00b9bc9c-c9ea-4b03-9d96-9feb0f7eee93,species,Plantae,"",Lindsaea merrillii,[],
-1598bc81-05c0-41f0-8bb2-a88e25849d46,species,Plantae,"",Pteridium latiusculum,"list(taxon_id = ""t0059119""","taicol_name_status = ""misapplied"""
+1598bc81-05c0-41f0-8bb2-a88e25849d46,species,Plantae,"",Pteridium latiusculum,"list(taxon_id = ""t0103625""","taicol_name_status = ""accepted"""
 c336638d-e30e-449f-9f62-4c515ccc96ed,species,Plantae,"",Paesia radula,"list(taxon_id = ""t0102152""","taicol_name_status = ""accepted"""
+ff6aac32-ee7a-4bc6-9a24-dfe62fc99b9f,species,Plantae,"",Dennstaedtia hirsuta,"list(taxon_id = ""t0026579""","taicol_name_status = ""not-accepted"""
 44fefb48-87a6-4bbc-88a5-33e88b1ab744,species,Plantae,"",Dennstaedtia smithii,"list(taxon_id = ""t0026582""","taicol_name_status = ""not-accepted"""
-a23ab5fa-f9f4-4095-ac53-595f3d33225d,species,Plantae,"",Microlepia intramarginalis,"list(taxon_id = ""t0026605""","taicol_name_status = ""accepted"""
-a23ab5fa-f9f4-4095-ac53-595f3d33225d,species,Plantae,"",Microlepia intramarginalis,"list(taxon_id = ""t0026605""","taicol_name_status = ""not-accepted"""
-6908ffda-16cc-43b7-af89-f31a86c93a8b,species,Plantae,"",Microlepia trapeziformis,"list(taxon_id = ""t0026596""","taicol_name_status = ""misapplied"""
+6908ffda-16cc-43b7-af89-f31a86c93a8b,species,Plantae,"",Microlepia trapeziformis,"list(taxon_id = ""t0101877""","taicol_name_status = ""accepted"""
 c9f794f4-5b99-4b23-a027-04e893dee9fc,species,Plantae,"",Ceratopteris gaudichaudii,"list(taxon_id = ""t0026491""","taicol_name_status = ""not-accepted"""
 7e94ffd7-71c9-4a46-87ce-23a8c74ff914,species,Plantae,"",Pteris aspericaulis,"list(taxon_id = ""t0026522""","taicol_name_status = ""misapplied"""
-6c8f6f86-2794-4edf-bfc3-6689fc827e05,species,Plantae,"",Pteris wulaiensis,"list(taxon_id = ""t0026530""","taicol_name_status = ""accepted"""
-6c8f6f86-2794-4edf-bfc3-6689fc827e05,species,Plantae,"",Pteris wulaiensis,list(),
 72f4a6f0-d997-402e-a4b1-233fff1a0061,species,Plantae,"",Cheilanthes formosana,"list(taxon_id = ""t0026534""","taicol_name_status = ""not-accepted"""
 9199207b-52ac-4d20-aaba-de7258ff007d,species,Plantae,"",Cheilanthes subargentea,"list(taxon_id = ""t0026537""","taicol_name_status = ""not-accepted"""
 f5b6b090-f989-4452-85ff-10e3b20a9d0a,species,Plantae,"",Notholaena hirsuta,"list(taxon_id = ""t0026539""","taicol_name_status = ""not-accepted"""
@@ -640,7 +638,7 @@ f5b6b090-f989-4452-85ff-10e3b20a9d0a,species,Plantae,"",Notholaena hirsuta,"list
 09db3227-20b7-456f-bbc6-04b20591c032,species,Plantae,"",Hymenasplenium obscurum,"list(taxon_id = ""t0026934""","taicol_name_status = ""accepted"""
 e791f972-fe3d-4bd6-9f51-1616b5b80162,species,Plantae,"",Asplenium australasicum,"list(taxon_id = ""t0099384""","taicol_name_status = ""accepted"""
 7e4421fa-1561-4675-8b6f-2932af774311,species,Plantae,"",Asplenium lobulatum,"list(taxon_id = ""t0026895""","taicol_name_status = ""misapplied"""
-46d8a236-8dcc-4b4f-9b6d-a74c4ed07b34,species,Plantae,"",Asplenium polyodon,"list(taxon_id = ""t0040289""","taicol_name_status = ""misapplied"""
+46d8a236-8dcc-4b4f-9b6d-a74c4ed07b34,species,Plantae,"",Asplenium polyodon,"list(taxon_id = ""t0026907""","taicol_name_status = ""accepted"""
 a971b5ad-4a67-406b-ab19-a19ea51e2ca3,species,Plantae,"",Asplenium nitidum,"list(taxon_id = ""t0026909""","taicol_name_status = ""misapplied"""
 0abdcb67-ef92-475f-b3d7-0c86b1c08d44,species,Plantae,"",Asplenium serricula,"list(taxon_id = ""t0026902""","taicol_name_status = ""misapplied"""
 d05d69a8-545c-4f40-82a6-1d2ede28e07a,species,Plantae,"",Cyclosorus acuminatus,"list(taxon_id = ""t0026948""","taicol_name_status = ""not-accepted"""
@@ -652,37 +650,37 @@ da15f880-8cda-4a68-ba00-aca10feebff5,species,Plantae,"",Thelypteris esquirolii,"
 a8648cb5-2a63-4ee4-80c4-5e7cc59c13fa,species,Plantae,"",Thelypteris auriculata,"list(taxon_id = ""t0026960""","taicol_name_status = ""not-accepted"""
 b4b63d43-4cb5-40b4-9b66-de27d3cd08c9,species,Plantae,"",Thelypteris erubescens,"list(taxon_id = ""t0026963""","taicol_name_status = ""not-accepted"""
 adc83efd-c346-411d-96c2-1efd8d022850,species,Plantae,"",Thelypteris laxa,"list(taxon_id = ""t0026969""","taicol_name_status = ""not-accepted"""
-5cde7318-111d-429a-917f-ef95106d7dfd,species,Plantae,"",Thelypteris ornata,"list(taxon_id = ""t0026937""","taicol_name_status = ""misapplied"""
+5cde7318-111d-429a-917f-ef95106d7dfd,species,Plantae,"",Thelypteris ornata,"list(taxon_id = ""t0102816""","taicol_name_status = ""accepted"""
 06f9a616-b633-4c31-9c43-5ca8b704dd29,species,Plantae,"",Thelypteris uraiensis,"list(taxon_id = ""t0026970""","taicol_name_status = ""not-accepted"""
-030483d3-e766-45f4-bdfc-21a2d0af1be2,species,Plantae,"",Cyclogramma omeiensis,"list(taxon_id = ""t0102197""","taicol_name_status = ""not-accepted"""
+030483d3-e766-45f4-bdfc-21a2d0af1be2,species,Plantae,"",Cyclogramma omeiensis,"list(taxon_id = ""t0026961""","taicol_name_status = ""misapplied"""
 46cb9b4b-bd69-4e4e-97fa-493045090a0d,species,Plantae,"",Pronephrium asperum,"list(taxon_id = ""t0026972""","taicol_name_status = ""misapplied"""
 ca2dea26-da38-4c53-b95d-058f8468e1da,species,Plantae,"",Pronephrium cuspidatum,"list(taxon_id = ""t0102209""","taicol_name_status = ""accepted"""
 f4d4bfc1-37ca-4286-bef9-a682eb1a26c3,species,Plantae,"",Pronephrium insularis,"list(taxon_id = ""t0095924""","taicol_name_status = ""not-accepted"""
 9291eb56-bb17-44e4-baef-95571436a39d,species,Plantae,"",Woodwardia radicans,[],
 cfd5863b-ddc3-450c-9331-aa8bcd23faae,species,Plantae,"",Woodwardia orientalis,"list(taxon_id = ""t0027048""","taicol_name_status = ""not-accepted"""
 f7314246-658c-4759-b548-537782d5b571,species,Plantae,"",Struthiopteris hancockii,"list(taxon_id = ""t0027055""","taicol_name_status = ""not-accepted"""
-c9bcc282-a744-496f-97a2-2798e3a0612e,species,Plantae,"",Athyrium fragile,"list(taxon_id = ""t0026888""","taicol_name_status = ""misapplied"""
+c9bcc282-a744-496f-97a2-2798e3a0612e,species,Plantae,"",Athyrium fragile,"list(taxon_id = ""t0102807""","taicol_name_status = ""accepted"""
 c9bcc282-a744-496f-97a2-2798e3a0612e,species,Plantae,"",Athyrium fragile,"list(taxon_id = ""t0026884""","taicol_name_status = ""not-accepted"""
 99055e04-8300-48f0-9f43-5439a2133899,species,Plantae,"",Athyrium pycnosorum,"list(taxon_id = ""t0102731""","taicol_name_status = ""accepted"""
-f14e6f0f-4b1c-40f5-b136-b15254fc0fa5,species,Plantae,"",Athyrium foliolosum,"list(taxon_id = ""t0027014""","taicol_name_status = ""misapplied"""
+f14e6f0f-4b1c-40f5-b136-b15254fc0fa5,species,Plantae,"",Athyrium foliolosum,"list(taxon_id = ""t0102844""","taicol_name_status = ""accepted"""
 e9070153-85bc-4eb1-951e-a3d29b353b9a,species,Plantae,"",Athyrium kuratae,"list(taxon_id = ""t0102734""","taicol_name_status = ""accepted"""
 b2164836-e56a-4837-913d-cd0d0034bc90,species,Plantae,"",Athyrium unifurcatum,"list(taxon_id = ""t0027021""","taicol_name_status = ""not-accepted"""
 813d8f14-cb57-4284-a2b3-3a2cdf4c15a7,species,Plantae,"",Cornopteris decurrenti-alata,[],
 bc785c8b-23f6-4700-931f-0b741911fe31,species,Plantae,"",Cornopteris opaca,"list(taxon_id = ""t0027004""","taicol_name_status = ""not-accepted"""
 947de550-6c9d-4709-a752-88531ccdacd2,species,Plantae,"",Deparia allantodioides,"list(taxon_id = ""t0103640""","taicol_name_status = ""accepted"""
-74e44a54-1f95-4832-9fed-2da85165cc2d,species,Plantae,"",Deparia longipes,"list(taxon_id = ""t0027016""","taicol_name_status = ""misapplied"""
+74e44a54-1f95-4832-9fed-2da85165cc2d,species,Plantae,"",Deparia longipes,"list(taxon_id = ""t0102149""","taicol_name_status = ""accepted"""
 71cc17e7-573c-43ec-9456-66d8dfb70d5d,species,Plantae,"",Diplazium conterminum,"list(taxon_id = ""t0057261""","taicol_name_status = ""not-accepted"""
 d27843aa-16eb-4050-98bd-da31b7d5f8ea,species,Plantae,"",Diplazium lobatum,"list(taxon_id = ""t0086577""","taicol_name_status = ""not-accepted"""
 59a75bc9-9050-4d64-9879-352a316af6e8,species,Plantae,"",Diplazium proliferum,"list(taxon_id = ""t0053428""","taicol_name_status = ""accepted"""
 f6ecb400-7f34-442d-9728-b0e3213ebcf8,species,Plantae,"",Diplazium taiwanense,"list(taxon_id = ""t0057262""","taicol_name_status = ""not-accepted"""
 009043e3-d0dd-444e-8451-8d0063d29323,species,Plantae,"",Hypodematium crenatum,"list(taxon_id = ""t0026609""","taicol_name_status = ""accepted"""
 b0d2cdf4-3aee-4431-a7f9-d3b049da3252,species,Plantae,"",Arachniodes rhomboidea,"list(taxon_id = ""t0086571""","taicol_name_status = ""not-accepted"""
-d4a9633a-a6f1-42d7-ae2b-f9bde5c69e77,species,Plantae,"",Dryopteris barbigera,"list(taxon_id = ""t0026668""","taicol_name_status = ""misapplied"""
+d4a9633a-a6f1-42d7-ae2b-f9bde5c69e77,species,Plantae,"",Dryopteris barbigera,"list(taxon_id = ""t0103626""","taicol_name_status = ""accepted"""
 beda5bc7-f34e-4178-a713-4c0abafe7459,species,Plantae,"",Dryopteris latibasis,"list(taxon_id = ""t0102159""","taicol_name_status = ""accepted"""
 d34a1c4e-cfed-4d23-98c1-6f37592254c6,species,Plantae,"",Dryopteris sinofibrillosa,"list(taxon_id = ""t0102160""","taicol_name_status = ""accepted"""
 8eee35a2-8f6a-4909-ac92-32c828bdfd34,species,Plantae,"",Polystichum biaristatum,"list(taxon_id = ""t0103460""","taicol_name_status = ""misapplied"""
-e3b759f9-06b4-44a2-a894-dd3665749802,species,Plantae,"",Polystichum deltodon,"list(taxon_id = ""t0103628""","taicol_name_status = ""not-accepted"""
-a12f9467-8fd5-4d32-b438-133b91f81feb,species,Plantae,"",Polystichum obliquum,"list(taxon_id = ""t0026731""","taicol_name_status = ""accepted"""
+e3b759f9-06b4-44a2-a894-dd3665749802,species,Plantae,"",Polystichum deltodon,"list(taxon_id = ""t0026715""","taicol_name_status = ""misapplied"""
+a12f9467-8fd5-4d32-b438-133b91f81feb,species,Plantae,"",Polystichum obliquum,"list(taxon_id = ""t0103461""","taicol_name_status = ""misapplied"""
 39b23807-d61e-4914-8293-41748b48fe7c,species,Plantae,"",Bolbitis virens,[],
 7150f106-595e-4bb7-88c5-680f648e36d3,species,Plantae,"",Lomariopsis spectabilis,"list(taxon_id = ""t0026748""","taicol_name_status = ""misapplied"""
 62d3d63d-7263-4ed0-b8ff-34aaa5ea1e89,species,Plantae,"",Nephrolepis exaltata,[],
@@ -696,7 +694,7 @@ bc1c3359-da41-48c0-a977-657b37da0e33,species,Plantae,"",Leptochilus insignis,"li
 f2efe313-ef41-409a-9912-b55af7dd5bce,species,Plantae,"",Microsorum membranaceum,"list(taxon_id = ""t0026845""","taicol_name_status = ""not-accepted"""
 48ce49a9-0302-481a-bf17-da5048e2963b,species,Plantae,"",Chrysogrammitis glandulosa,"list(taxon_id = ""t0026855""","taicol_name_status = ""not-accepted"""
 af3e169c-5207-4522-8405-42ae3cf9e7db,species,Plantae,"",Grammitis intromissa,"list(taxon_id = ""t0026867""","taicol_name_status = ""not-accepted"""
-045cac42-d9a1-4ea4-ac03-de93c1061ddc,species,Plantae,"",Grammitis fenicis,"list(taxon_id = ""t0102729""","taicol_name_status = ""accepted"""
+045cac42-d9a1-4ea4-ac03-de93c1061ddc,species,Plantae,"",Grammitis fenicis,"list(taxon_id = ""t0026864""","taicol_name_status = ""misapplied"""
 2a9c8c70-8af7-4382-bddb-dea5edc774df,species,Plantae,"",Grammitis jagoriana,"list(taxon_id = ""t0102730""","taicol_name_status = ""accepted"""
 66c0c0c6-c6f7-47a9-906b-6859d4a1a5b9,species,Plantae,"",Oreogrammitis nuda,"list(taxon_id = ""t0102673""","taicol_name_status = ""not-accepted"""
 7a963213-7eb0-4e03-816a-4c6767a2ef4a,species,Plantae,"",Prosaptia kanashiroi,"list(taxon_id = ""t0026873""","taicol_name_status = ""not-accepted"""
@@ -933,8 +931,9 @@ ad82b693-d7d4-432d-9791-62ce742be9c3,species,Plantae,"",Canna coccinea,"list(tax
 5214bbf2-4eb6-428c-9d6d-635dee2f44f3,species,Plantae,"",Canna patens,"list(taxon_id = ""t0040616""","taicol_name_status = ""not-accepted"""
 e64bdf33-d545-4b75-9e45-ff0f9fd7d356,species,Plantae,"",Canna reevesii,"list(taxon_id = ""t0040615""","taicol_name_status = ""not-accepted"""
 992e387e-a308-4c05-b14d-e15954be3fef,species,Plantae,"",Musa paradisiaca,"list(taxon_id = ""t0054514""","taicol_name_status = ""accepted"""
-992e387e-a308-4c05-b14d-e15954be3fef,species,Plantae,"",Musa paradisiaca,list(),
+992e387e-a308-4c05-b14d-e15954be3fef,species,Plantae,"",Musa paradisiaca,"list(taxon_id = ""t0054512""","taicol_name_status = ""misapplied"""
 01e10c83-3dee-4306-8c35-302f0de94717,species,Plantae,"",Musa sapientum,"list(taxon_id = ""t0123862""","taicol_name_status = ""accepted"""
+01e10c83-3dee-4306-8c35-302f0de94717,species,Plantae,"",Musa sapientum,"list(taxon_id = ""t0054512""","taicol_name_status = ""misapplied"""
 f324322f-8062-4ef6-8b5d-a195004e9665,species,Plantae,"",Calathea musaica,"list(taxon_id = ""t0040551""","taicol_name_status = ""not-accepted"""
 282e5824-6b65-46fc-89e0-89960b3c8fef,species,Plantae,"",Maranta bicolor,"list(taxon_id = ""t0040553""","taicol_name_status = ""not-accepted"""
 4fa01bc4-ca98-4898-8cbe-db42f567085c,species,Plantae,"",Curcuma domestica,"list(taxon_id = ""t0053208""","taicol_name_status = ""not-accepted"""
@@ -960,7 +959,6 @@ afa5327d-a7f8-46af-a553-449307e67eda,species,Plantae,"",Carex dissitiflora,[],
 d6b71b55-a697-457d-9ae7-2546f4046901,species,Plantae,"",Cyperus cylindrocephalus,"list(taxon_id = ""t0058911""","taicol_name_status = ""not-accepted"""
 946cab1f-1b23-4e82-ae7f-3052d47d1c6d,species,Plantae,"",Eleocharis pellucida,"list(taxon_id = ""t0057314""","taicol_name_status = ""not-accepted"""
 4dfb8af7-fdae-4611-a6b2-0a5ee145379b,species,Plantae,"",Fimbristylis shimadana,"list(taxon_id = ""t0053711""","taicol_name_status = ""not-accepted"""
-eafb3b91-d70f-4d32-8dca-289e8a9a9dfa,species,Plantae,"",Fimbristylis sieboldii,"list(taxon_id = ""t0057375""","taicol_name_status = ""not-accepted"""
 ac127632-e511-4ab9-9ff5-a45dfff106a3,species,Plantae,"",Mariscus sumatrensis,"list(taxon_id = ""t0058509""","taicol_name_status = ""not-accepted"""
 e5cfaee0-adc3-455b-82c9-71c3ccb0a1b0,species,Plantae,"",Axonopus fissifolius,"list(taxon_id = ""t0040320""","taicol_name_status = ""not-accepted"""
 340cbb7e-469c-4fa5-972f-08e350556f5a,species,Plantae,"",Bothriochloa macera,"list(taxon_id = ""t0040419""","taicol_name_status = ""not-accepted"""
@@ -1024,6 +1022,10 @@ b9d68818-3ae3-4f1d-a587-1c13a4ee81b3,species,Plantae,"",Pueraria lobata,"list(ta
 cf995621-bda2-4d09-9154-b39f47c4de4c,species,Plantae,"",Robinia pseudoacacia,"list(taxon_id = ""t0075687""","taicol_name_status = ""accepted"""
 da1969cb-b3c0-4604-ad05-fd1798c60921,species,Plantae,"",Senna sulfurea,"list(taxon_id = ""t0075893""","taicol_name_status = ""misapplied"""
 3495e651-de0d-4f0c-91e4-3b1d5196a648,species,Plantae,"",Wisteria venusta,"list(taxon_id = ""t0069820""","taicol_name_status = ""not-accepted"""
+1a95329a-d398-4ec3-9ef9-49df6085f0bd,species,Plantae,"",Polygala arcuata,"list(taxon_id = ""t0054912""","taicol_name_status = ""not-accepted"""
+4d3d9442-930a-4017-bcd5-9983cebc7ce3,species,Plantae,"",Polygala paniculata,"list(taxon_id = ""t0054915""","taicol_name_status = ""not-accepted"""
+f75a6ef5-2a0d-4af6-9801-dca8ab43c13d,species,Plantae,"",Polygala tatarinowii,"list(taxon_id = ""t0054917""","taicol_name_status = ""not-accepted"""
+96cb1305-c4d6-4147-8eff-4f2192675522,species,Plantae,"",Salomonia oblongifolia,"list(taxon_id = ""t0055197""","taicol_name_status = ""not-accepted"""
 2efd8851-3c71-45e5-abd7-e1dc1aadccd4,species,Plantae,"",Cotoneaster nantouensis,[],
 ab15e21e-597b-45db-9011-257ab107c7c5,species,Plantae,"",Osteomeles anthyllidifolia,"list(taxon_id = ""t0054665""","taicol_name_status = ""not-accepted"""
 ab15e21e-597b-45db-9011-257ab107c7c5,species,Plantae,"",Osteomeles anthyllidifolia,"list(taxon_id = ""t0058670""","taicol_name_status = ""misapplied"""
@@ -1186,11 +1188,8 @@ a420e3c4-baf9-425f-b390-6f92bb26650c,species,Plantae,"",Tylophora taiwanensis,"l
 67aa1ef8-61e0-4b01-86dd-a31ac87a1f3c,species,Plantae,"",Ipomoea reptans,"list(taxon_id = ""t0054056""","taicol_name_status = ""not-accepted"""
 6f228b31-cbaf-4ce6-be4a-b07e88a06a18,species,Plantae,"",Ipomoea staphylina,"list(taxon_id = ""t0054073""","taicol_name_status = ""misapplied"""
 5c2ab542-d884-4211-898f-82a1ebc79b66,species,Plantae,"",Convolvulus parviflorus,"list(taxon_id = ""t0058095""","taicol_name_status = ""not-accepted"""
-c3b5ba9f-9645-4ac0-adef-e18bc8a1d91c,species,Plantae,"",Distimake cissoides,"list(taxon_id = ""t0054445""","taicol_name_status = ""not-accepted"""
-74bd9a28-5756-4e90-bfa0-6050fff75027,species,Plantae,"",Distimake tuberosus,"list(taxon_id = ""t0054447""","taicol_name_status = ""not-accepted"""
+444afb10-6e8c-4eda-a609-8d9f3a8543bc,species,Plantae,"",Camonea vitifolia,"list(taxon_id = ""t0040590""","taicol_name_status = ""not-accepted"""
 f955048e-cdcf-4aab-bb71-facf2a61cc6d,species,Plantae,"",Merremia aegyptia,"list(taxon_id = ""t0057277""","taicol_name_status = ""not-accepted"""
-06b33991-32d9-437a-b1cd-bc7f6436358f,species,Plantae,"",Distimake dissectus,"list(taxon_id = ""t0057278""","taicol_name_status = ""not-accepted"""
-0a2f225a-c9e7-48e7-b369-a34bd07920ee,species,Plantae,"",Distimake quinquefolius,"list(taxon_id = ""t0057280""","taicol_name_status = ""not-accepted"""
 161e642a-dc86-4ee6-9795-3df238cb6e84,species,Plantae,"",Camonea umbellata,"list(taxon_id = ""t0040589""","taicol_name_status = ""not-accepted"""
 2ec1ce30-e9bc-4e53-8ab7-0cd3ba588d28,species,Plantae,"",Solanum luzoniense,"list(taxon_id = ""t0033499""","taicol_name_status = ""not-accepted"""
 1fd326f5-84af-4838-b9bb-d370dede87ce,species,Plantae,"",Solanum macaonense,"list(taxon_id = ""t0033497""","taicol_name_status = ""not-accepted"""
@@ -1817,7 +1816,7 @@ d82a9fa0-ce4c-4ea5-ae6c-085897f14291,infraspecies,Plantae,"",Centaurium pulchell
 f85316dd-389c-43ec-a031-ec8e5d4dfc3e,infraspecies,Plantae,"",Trigonotis formosana elevatovenosa,"list(taxon_id = ""t0058452""","taicol_name_status = ""not-accepted"""
 132fc435-a6ed-487a-b301-ebae1ec52c94,infraspecies,Plantae,"",Heliotropium procumbens depressum,"list(taxon_id = ""t0074255""","taicol_name_status = ""not-accepted"""
 132fc435-a6ed-487a-b301-ebae1ec52c94,infraspecies,Plantae,"",Heliotropium procumbens depressum,"list(taxon_id = ""t0074255""","taicol_name_status = ""not-accepted"""
-4992c206-cd79-466f-a6b1-05fabc5c2d85,infraspecies,Plantae,"",Cordia aspera kanehirae,"list(taxon_id = ""t0084591""","taicol_name_status = ""not-accepted"""
+4992c206-cd79-466f-a6b1-05fabc5c2d85,infraspecies,Plantae,"",Cordia aspera kanehirae,"list(taxon_id = ""t0084591""","taicol_name_status = ""accepted"""
 6842cd35-c470-4303-b7eb-1fec362dec6e,infraspecies,Plantae,"",Ipomoea carnea fistulosa,"list(taxon_id = ""t0058075""","taicol_name_status = ""accepted"""
 6fb900af-cda0-4c85-bf4c-2cf6400c145c,infraspecies,Plantae,"",Cuscuta japonica formosana,"list(taxon_id = ""t0053217""","taicol_name_status = ""accepted"""
 554e735c-bf41-4e0b-bc49-33f6d7071084,infraspecies,Plantae,"",Lepistemon binectariferum trichocarpum,"list(taxon_id = ""t0058138""","taicol_name_status = ""accepted"""
@@ -2050,7 +2049,7 @@ edd623d3-d99d-4ca0-90e6-4df45b0f98a5,species,Plantae,"",Agrostis canina,[],
 e414e5fd-5b98-4f64-a818-42987f37e874,species,Plantae,"",Cleisostoma ionosma,"list(taxon_id = ""t0055454""","taicol_name_status = ""misapplied"""
 4487f29c-accd-4012-8d39-039068311208,species,Plantae,"",Smilax sebeana,"list(taxon_id = ""t0055362""","taicol_name_status = ""misapplied"""
 b3add048-390a-46be-b920-5b9339cb86e6,species,Plantae,"",Anemone taraoi,[],
-35e3eec5-9bea-46dd-a5c0-2d5a5b21c2a6,species,Plantae,"",Asplenium cuneatum,"list(taxon_id = ""t0102808""","taicol_name_status = ""accepted"""
+35e3eec5-9bea-46dd-a5c0-2d5a5b21c2a6,species,Plantae,"",Asplenium cuneatum,"list(taxon_id = ""t0026895""","taicol_name_status = ""misapplied"""
 f12055ff-87a5-4bca-a607-29ba7e54c349,species,Plantae,"",Tapeinidium gracile,"list(taxon_id = ""t0026482""","taicol_name_status = ""not-accepted"""
 69c1b7de-8e55-42c2-8004-f3c2888d13c5,infraspecies,Plantae,"",Symplocos sonoharae formosana,[],
 220b26a7-3339-4ef8-8f76-e436f63814f6,species,Plantae,"",Scutellaria luzonica,"list(taxon_id = ""t0058234""","taicol_name_status = ""misapplied"""
@@ -2078,7 +2077,6 @@ ae9b9ca4-bd86-4793-8731-62e1cad93db5,genus,Animalia,"",Pyrrhura,[],
 032209f0-0b53-47af-aad4-5739b0d9ea04,suborder,Animalia,"",Serpentes,"list(taxon_id = ""t0002146""","taicol_name_status = ""accepted"""
 032209f0-0b53-47af-aad4-5739b0d9ea04,suborder,Animalia,"",Serpentes,list(),
 307dcf85-8e5e-446c-b5a6-e46e2370d417,superfamily,Animalia,"",Grapsoidea,[],
-7df2e296-5b6c-4fdd-8644-3bd74ab6f71c,species,Plantae,"",Pteris minor,"list(taxon_id = ""t0059122""","taicol_name_status = ""not-accepted"""
 c4e87a67-c77b-4379-9ebc-c69147faf12a,infraspecies,Plantae,"",Dryopteris wallichiana pachyphylla,"list(taxon_id = ""t0057292""","taicol_name_status = ""accepted"""
 a663aadb-e685-4b80-907a-50d35e3ac052,genus,Plantae,"",Ismene,[],
 4f608919-5513-41bd-aee2-971216bc778e,species,Plantae,"",Hydrocotyle delicata,"list(taxon_id = ""t0053966""","taicol_name_status = ""not-accepted"""
@@ -2098,6 +2096,7 @@ af2e5175-3f53-4745-abf0-d0e66880a01e,genus,Protozoa,"",Tripos,"list(taxon_id = "
 b8bf8509-0dc8-4042-a722-b0f0e44d9697,species,Animalia,"",Procyon lotor,[],
 21b6fe21-3d37-493d-a6ec-b6be5f2b1b8d,genus,Fungi,"",Debaryozyma,[],
 31ab74bd-0e14-4d3c-afdd-65dd28b94c34,family,Fungi,"",Acrodictyaceae 	,"list(taxon_id = ""t0003295""","taicol_name_status = ""accepted"""
+c454bc74-cc8d-4b45-b2a1-181645761c70,genus,Plantae,"",Camonea,[],
 7e1d8f45-9534-4bc8-9419-bdaa915a06fa,infraspecies,Plantae,"",Hypodematium crenatum loyalii,[],
 40a5d30b-a485-44ec-b111-63f019f4d3f7,species,Plantae,"",Maianthemum japonicum,[],
 6b7820f3-181a-4413-815d-5f653d193cc7,genus,Plantae,"",Eriochrysis,[],
@@ -2132,7 +2131,7 @@ a3245dc7-6aeb-4160-bf7a-2fa2d2f95106,species,Plantae,"",Castanopsis tribuloides,
 15ef1b42-30fe-4f80-b30b-59031df61cff,species,Plantae,"",Ixora coccinea,[],
 6e5bf3ea-5d93-4641-8063-9fc909401553,infraspecies,Plantae,"",Youngia japonica monticola,"list(taxon_id = ""t0085104""","taicol_name_status = ""accepted"""
 7481c1d2-482f-4aed-a25b-be7c2fdbf813,species,Plantae,"",Smilax herbacea,[],
-0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,"list(taxon_id = ""t0058456""","taicol_name_status = ""not-accepted"""
+0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,"list(taxon_id = ""t0054273""","taicol_name_status = ""misapplied"""
 0fbc6fa3-8e42-4354-b6d7-7bea8d041b22,genus,Chromista,"",Zignoëlla,"list(taxon_id = ""t0008771""","taicol_name_status = ""accepted"""
 3c8c3e7f-031a-4e64-9dce-d42da29bb1d7,family,Fungi,"",Pestalotiopsidaceae,"list(taxon_id = ""t0003600""","taicol_name_status = ""not-accepted"""
 3a712db4-9608-4054-981f-ebbbfac6e546,family,Fungi,"",Ramariaceae,[],

@@ -134,7 +134,7 @@ t0053052,Subspecies,t0073294,Clematis parviloba subsp. bartlettii,native,TRUE,""
 t0073294,Species,t0023510,Clematis parviloba,native,TRUE,"",NT,"","",t0073294,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0073294
 t0105696,Subspecies,t0073294,Clematis parviloba subsp. shengzhenii,native,TRUE,"","","","",t0073294,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0105696
 t0073450,Species,t0002793,Cordia aspera,native,TRUE,"",EN,LC,"",t0073450,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0073450
-t0084591,Subspecies,t0073450,Cordia aspera subsp. kanehirai,native,TRUE,"",EN,"",輕度,t0073450,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0084591
+t0084591,Subspecies,t0073450,Cordia aspera subsp. kanehirae,native,TRUE,"",EN,"",輕度,t0073450,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0084591
 t0058912,Subspecies,t0073609,Cyperus imbricatus subsp. elongatus,native,TRUE,"",LC,LC,"",t0073609,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0058912
 t0073609,Species,t0023618,Cyperus imbricatus,native,TRUE,"",LC,LC,"",t0073609,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0073609
 t0084592,Subspecies,t0073609,Cyperus imbricatus subsp. imbricatus,native,TRUE,"",LC,"","",t0073609,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0084592
@@ -290,7 +290,7 @@ t0096206,Species,t0021974,Lonchura striata,native,TRUE,"",LC,LC,"",t0096206,IUCN
 t0085859,Subspecies,t0096221,Loxia curvirostra japonica,native,TRUE,"","","","",t0096221,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085859
 t0096221,Species,t0022026,Loxia curvirostra,native,TRUE,"","",LC,"",t0096221,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096221
 t0084856,Subspecies,t0096227,Luehdorfia japonica formosana,native,TRUE,"","","","",t0096227,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0084856
-t0096227,Species,t0022064,Luehdorfia japonica,native,TRUE,"","",LR/nt,"",t0096227,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096227
+t0096227,Species,t0022064,Luehdorfia japonica,native,TRUE,"","",NT,"",t0096227,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096227
 t0085865,Subspecies,t0096228,Luscinia svecica svecica,native,TRUE,"","","","",t0096228,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085865
 t0096228,Species,t0022076,Luscinia svecica,native,TRUE,"","",LC,"",t0096228,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096228
 t0085866,Subspecies,t0096231,Lutra lutra chinensis,native,TRUE,I,CR,"","",t0096231,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085866
@@ -613,6 +613,8 @@ t0097358,Species,t0021065,Ictinaetus malaiensis,native,TRUE,II,NT,LC,輕度,t009
 t0084828,Subspecies,t0097359,Idea leuconoe clara,native,TRUE,"",LC,"","",t0097359,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084828
 t0084829,Subspecies,t0097359,Idea leuconoe kwashotoensis,native,TRUE,"","","","",t0097359,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084829
 t0097359,Species,t0021068,Idea leuconoe,native,TRUE,"",LC,"","",t0097359,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0097359
+t0084690,Subspecies,t0097378,Boloria pales yangi,native,TRUE,"","","","",t0097378,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0084690
+t0097378,Species,t0010947,Boloria pales,native,TRUE,"","",LC,"",t0097378,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0097378
 t0029907,Subspecies,t0097380,Bombycilla garrulus centralasiae,native,TRUE,"","","","",t0097380,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0029907
 t0097380,Species,t0010949,Bombycilla garrulus,native,TRUE,"","",LC,"",t0097380,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0097380
 t0029921,Subspecies,t0097387,Botaurus stellaris stellaris,native,TRUE,"","","","",t0097387,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0029921
@@ -1087,7 +1089,7 @@ t0098990,Species,t0016885,Streptopelia tranquebarica,native,TRUE,"",LC,LC,"",t00
 t0033093,Subspecies,t0098991,Strix leptogrammica caligata,native,TRUE,II,NT,"","",t0098991,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0033093
 t0098991,Species,t0016896,Strix leptogrammica,native,TRUE,II,NT,LC,"",t0098991,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098991
 t0033094,Subspecies,t0098992,Strix nivicolum yamadae,native,TRUE,II,NT,"","",t0098992,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0033094
-t0098992,Species,t0016896,Strix nivicolum,native,TRUE,II,NT,LC,"",t0098992,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098992
+t0098992,Species,t0016896,Strix nivicolum,native,TRUE,II,NT,LC,輕度,t0098992,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098992
 t0086307,Subspecies,t0099000,Sturnus vulgaris poltaratskyi,native,TRUE,"","","","",t0099000,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086307
 t0099000,Species,t0016913,Sturnus vulgaris,native,TRUE,"","",LC,"",t0099000,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099000
 t0086309,Subspecies,t0099004,Sula dactylatra personata,native,TRUE,"","","","",t0099004,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086309
@@ -1284,7 +1286,7 @@ t0100187,Species,t0010621,Aviceda leuphotes,native,TRUE,II,"",LC,"",t0100187,IUC
 t0057867,Subspecies,t0100190,Aythya marila marila,native,TRUE,"","","","",t0100190,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0057867
 t0100190,Species,t0010636,Aythya marila,native,TRUE,"","",LC,"",t0100190,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0100190
 t0085328,Subspecies,t0100221,Belomys pearsonii kaleensis,native,TRUE,"",LC,"","",t0100221,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085328
-t0100221,Species,t0010810,Belomys pearsonii,native,TRUE,"",LC,DD,"",t0100221,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0100221
+t0100221,Species,t0010810,Belomys pearsonii,native,TRUE,"",LC,LC,"",t0100221,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0100221
 t0054069,Subspecies,t0100319,Ipomoea pes-caprae subsp. brasiliensis,native,TRUE,"",LC,"","",t0100319,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0054069
 t0100319,Species,t0024068,Ipomoea pes-caprae,native,TRUE,"",LC,LC,"",t0100319,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0100319
 t0055189,Subspecies,t0100390,Sagittaria guayanensis subsp. lappula,native,TRUE,"",EN,"",輕度,t0100390,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0055189

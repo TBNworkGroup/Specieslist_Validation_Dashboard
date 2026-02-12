@@ -28,6 +28,7 @@ t0000652,Subclass,Branchiura,"Thorell, 1864",TRUE,FALSE,FALSE,學名重複,https
 t0000694,Subclass,Squamata,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000694
 t0000707,Infraclass,Cestoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000707
 t0001006,Order,Euglenida,"Stein, 1878",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001006
+t0001632,Order,Salviniales,Link,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001632
 t0001699,Order,Archaeognatha,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001699
 t0001757,Order,Cetacea,"Brisson, 1762",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001757
 t0002064,Order,Pholidota,"Weber, 1904",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002064
@@ -301,6 +302,7 @@ t0122659,Genus,Ranzania,T.Itô,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/z
 t0123754,Subgenus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123754
 t0123770,Subgenus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123770
 t0123859,Genus,Miyakea,"Marumo, 1933",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123859
+t0124086,Order,Salviniales,Bartl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124086
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137

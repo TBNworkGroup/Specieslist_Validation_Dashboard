@@ -22,6 +22,7 @@ f50221e0-16a0-4722-871f-1fdf08e9ee40,genus,Animalia,t0018428,Darumazo,Aphanerost
 f31453f2-2148-4198-8cb0-338fdc69dfeb,genus,Animalia,t0017743,Trigonodera,Pelecotoides
 24ab3ac7-3aa9-4386-8689-cbfb2d943216,genus,Animalia,t0013815,Palionebris,Trachydora
 ce3a1763-c978-4c59-9982-7c79f403a2e9,genus,Animalia,t0012683,Dacrypohanes,Dacryphanes
+0efec1a2-cbae-4ebc-95d8-ddf9346083ec,genus,Animalia,t0019658,Eurystylomorpha,Eurystylopsis
 6807e765-4c1c-488e-b857-8713729b6dcd,genus,Animalia,t0017666,Triantennaria,Tripartita
 04c1611d-7dd4-41d9-9d2c-c48ef057cb89,genus,Animalia,t0017043,Synthesionyia,Synthesiomyia
 ae455942-6889-411b-9b9c-06e1ddb29af3,genus,Animalia,t0022869,Mitius,Stephoblemmus
@@ -49,7 +50,6 @@ d42b79de-8cc3-4c58-af5d-65cc37794e4e,species,Animalia,t0029177,Faiditus xiphias,
 1e2ed76c-3825-4f40-a84d-ed4e8cd9cdbc,species,Animalia,t0029135,Eutittha insulana,Cheiracanthium insulanum
 f96edf2a-5479-4bbf-9cba-a592c3e0b324,species,Animalia,t0029136,Eutittha mordax,Cheiracanthium mordax
 7a142df8-609a-4d38-969a-e32a47c2477f,species,Animalia,t0047065,Tetragnatha gracilis,Tetragnatha earmra
-cf9de620-d771-41d9-9987-8ead00e78603,species,Animalia,t0029628,Herennia multipuncta,Herennia tsoi
 ae97309f-02c9-4506-924b-22d1ed31bc65,species,Animalia,t0029178,Falcileptoneata taiwanensis,Falcileptoneta taiwanensis
 532bcc07-5f4c-4472-92c3-5fc4353e9563,species,Animalia,t0080849,Mysmena taiwanica,Chimena taiwanica
 648d31fb-5512-4511-be43-31db6a043701,species,Animalia,t0029396,Grandilithus taiwanica,Grandilithus taiwanicus
@@ -268,7 +268,14 @@ fe22718c-e1c9-4a2c-9978-2b9eb908c56a,species,Animalia,t0027071,Tettigonia horish
 3c66d8bf-d71f-4b5d-bb86-67b987af9517,species,Animalia,t0027078,Tettigonia subvirescens,Cofana subvirescens
 2e939325-a6cd-4a2a-becd-ee6cece2419b,species,Animalia,t0048305,Typhlocyba quadri,Typhlocyba quadriappendicula
 18ae7578-b95c-484a-94d1-89abd5607377,species,Animalia,t0028648,Zygina (Zygina) bisignatella,Empoascanara bisignatella
-da5a8bab-8e2d-40d7-a089-f568e10914ef,species,Animalia,t0072048,Apolygus fuhoshoensis,Chelyolygus fuhoshoensis
+da5a8bab-8e2d-40d7-a089-f568e10914ef,species,Animalia,t0072048,Apolygus fuhoshoensis,Apolygopsis fuhoshoensis
+63b73c1e-6dff-462b-90c9-173b75530148,species,Animalia,t0072047,Apolygus eous,Apolygopsis eoa
+413287d3-b841-4160-aad8-2fab6076124d,species,Animalia,t0063527,Eurystylomorpha crassicornis,Eurystylopsis crassicornis
+31f0009a-6fd2-40de-ad21-25b004aaa024,species,Animalia,t0068650,Megacoelum minutum,Adelphocorisella minutum
+aee01a87-3918-4ee2-85d8-fa1db8a60d34,species,Animalia,t0081265,Neolygus v-nigrum,Neolygus v-nigrus
+030412b1-daab-42b7-83ad-af552f117586,species,Animalia,t0081260,Neolygus bui,Miyamotolygus bui
+95c55112-c96b-4887-a598-62c7e6d2a1c8,species,Animalia,t0036756,Prolygus niger,Apolygopsis nigra
+ced81554-d6ea-4e59-ac6f-32f7c8eaba3b,species,Animalia,t0047412,Tinginotopsis formosanum,Tinginotum formosanum
 73dc771a-08b5-4c73-a614-280c6df4b63b,species,Animalia,t0070119,Aconura biglumis,Changwhania biglumis
 d74b5d76-ee61-4c78-a4fc-bf0bc7bb01af,species,Animalia,t0070120,Aconura bipunctella,Stirellus indrus
 9eabc701-c0e0-4e8f-9f4e-f05753eda713,species,Animalia,t0099771,Aconura breviceps,Stirellus breviceps
@@ -436,6 +443,13 @@ e05fbebd-6c01-48ed-9871-493343cffc17,species,Animalia,t0031742,Periplaneta brunn
 34624f66-bf4d-44f8-9c3e-c62e035a1136,species,Animalia,t0031743,Periplaneta karnyi,Hobbitoblatta karnyi
 25a7a78f-e70b-4da8-9c9e-ef7cc325d8af,species,Animalia,t0103436,Periplaneta svenhedini,Arcicaulis svenhedini
 471cc9d4-ab8c-4ab7-99b9-a82890525aa8,species,Animalia,t0032821,Shelfordina flavomarginata,Phyllodromia flavomarginata
+8ab3d015-a95a-4f85-99e0-f211295b0a9a,species,Animalia,t0031061,Neopanorpa ophthalmica,Panorpa ophthalmica
+b8225fa5-fcb4-4c0a-ad3e-7b71504aa3bd,species,Animalia,t0081308,Neopanorpa similis,Neopanorpa simulans
+444c490d-0b37-4111-bb2e-0491a2f1edc1,species,Animalia,t0082914,Panorpa japonica,Mavropanorpa japonica
+894c15e8-5b35-4dad-84ea-dcb5d12fffb9,species,Animalia,t0082917,Panorpa longiramina,Wornorpa longiramina
+e3ed8bbe-d736-4b6f-875b-715acaaeb5d4,species,Animalia,t0082920,Panorpa nudiramus,Wornorpa nudiramus
+9d92c99a-81d5-436c-8afb-8cfb2026d694,species,Animalia,t0082921,Panorpa ochraceocauda,Wornorpa ochraceocauda
+81fc643c-9c1f-4dc5-b3f0-a5003e11abcf,species,Animalia,t0082924,Panorpa peterseana,Wornorpa peterseana
 b6c547b7-1b77-401f-bda6-12fb603aa9a3,species,Animalia,t0032893,Sipyloidea sipylus,Sipyloidea chlorotica
 5df4fe35-eb6b-4637-b2a0-75f94fe0d6af,species,Plantae,t0026368,Botrychium formosanum,Sceptridium formosanum
 335dde53-cb91-46a7-8140-e9bfc79ca975,species,Plantae,t0026359,Ophioderma pendula,Ophioderma pendulum
@@ -578,3 +592,4 @@ ec3ab158-60ac-439a-9954-ff55ef5b6fc1,species,Animalia,t0081921,Obrium yuejunae,O
 7028d6f8-37d1-4ac4-a76c-15e75f029bf7,species,Animalia,t0097875,Cusiala boarmoides,Cusiala boarmioides
 a36ba4e3-4332-473e-93c0-7af30554aad1,species,Fungi,t0044012,Septoria rubi,Sphaerulina westendorpii
 f267f9f2-5b58-4b69-a853-48ebbff0f733,species,Animalia,t0099182,Tirumala ishimoides,Tirumala ishmoides
+9056791f-142e-42d8-be71-7a182b3bf9d0,species,Animalia,t0072048,Chelyolygus fuhoshoensis,Apolygopsis fuhoshoensis

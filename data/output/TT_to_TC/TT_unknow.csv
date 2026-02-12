@@ -1215,7 +1215,6 @@ fa485b20-f84b-416f-8075-28919d9c2782,genus,Plantae,"",Calochlaena
 f9eaba72-3f61-48f6-86e4-b7d3d0567d47,genus,Plantae,"",Nesolindsaea
 3208cead-5667-4552-aad5-3daa9e64bb44,genus,Plantae,"",Xyropteris
 1b800883-f0ac-4c02-8625-50e19351b9b4,genus,Plantae,"",Blotiella
-c3e6a6bd-29f0-476d-ac8c-9bc111cfa4e6,genus,Plantae,"",Leptolepia
 45f7bac5-d359-43e7-9bee-54c3e5a44192,genus,Plantae,"",Llavea
 cc5191d2-0efb-4b54-a6f5-674770500c5f,genus,Plantae,"",Actiniopteris
 32723aed-2e97-4904-af8e-53ac3ba55340,genus,Plantae,"",Aspleniopsis
@@ -2902,6 +2901,9 @@ d531d769-6e92-455f-a97f-bce498acbdf1,species,Animalia,t0100071,Aporia agathon
 f6fa8f2d-f783-48cc-bba1-af2dd4b0eea1,species,Animalia,t0062845,Epiacanthus guttiger
 53e6e95d-2de2-462a-bf9b-f9e477f1aa5d,species,Animalia,t0066359,Ishidaella albomarginata
 a40a21a7-0286-4c9a-bc7b-b9f15a302fc9,species,Animalia,t0069099,Metalimnus formosus
+1ebbe9e8-458f-4fa9-b207-513cf31878a7,species,Animalia,t0078033,Cheilocapsus miyamotoi
+20793e39-75e8-44b0-ae89-ff10592b22ad,species,Animalia,t0036705,Proboscidocoris malayus
+d171e6b6-a482-48f6-9d74-229a65bf4e16,species,Animalia,t0039705,Stenotus longiceps
 e7dfa51a-3c10-49e0-a5de-e1d346ceac70,infraspecies,Animalia,t0032741,Scutellera nepalensis amethystina
 60f2f8c5-e2f9-4094-9c68-b1eba4bfed4e,species,Animalia,t0037496,Pyrops spinolae
 10be98b4-6b54-46b9-b7c0-9fda8ef5ee11,species,Animalia,t0049082,Zanna chinensis
