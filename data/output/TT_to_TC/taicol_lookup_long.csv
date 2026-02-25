@@ -1,0 +1,5062 @@
+TT_simplifiedScientificName,hit_index,taicol_taxon_id,taicol_status
+Cellular Organisms,,,
+Bacteria,1,t0000005,accepted
+Archaea,1,t0000004,accepted
+Eukaryota,1,t0000001,accepted
+Lepadiformes,1,t0001934,not-accepted
+Ibliformes,1,t0001914,not-accepted
+Stephanoberyciformes,1,[],
+Saccopharyngiformes,1,[],
+Bdelloidea,1,t0001655,accepted
+Chordodidae,1,t0005620,accepted
+Halonoproctidae	,1,t0006090,accepted
+Caracanthidae,1,[],
+Ereuniidae,1,t0005928,not-accepted
+Diplophidae,1,t0005832,not-accepted
+Ziphiidae,1,t0004997,not-accepted
+Euphyllidae,,,
+Faviidae,,,
+Agathiphylliidae,,,
+Pectiniidae,,,
+Roeslerstammida,,,
+Crenarchaeota,1,t0000038,not-accepted
+Euryarchaeota,1,t0000044,accepted
+Euglenoida,1,t0000136,accepted
+Postgaardia,,,
+Glycomonada,,,
+Percolozoa,1,t0000073,accepted
+Tsukubamonadea,,,
+Jakobea,1,t0000299,accepted
+Trichozoa,,,
+Harosa,1,t0000016,accepted
+Haptista,,,
+Cryptista,1,t0000078,accepted
+Anaeromonada,,,
+Neolouka,1,t0000138,accepted
+Podiata,,,
+Picobiliphyta,,,
+Telonemia,,,
+Hemimastigophora,,,
+Chlorophytes,,,
+Streptophyta,1,t0000021,accepted
+Embryophyta,1,t0000029,accepted
+Tracheophytina,,,
+Lycophytes,,,
+Euphyllophytes,,,
+Isoetopsida,,,
+Equisetopsida,,,
+Psilotopsida,,,
+Marattiopsida,,,
+Spermatopsida,,,
+Lycopodiidae,1,[],
+Isoetidae,1,[],
+Psilotidae,1,t0000562,not-accepted
+Ginkgoidae,,,
+Gnetidae,1,t0000567,accepted
+Welwitschiales,1,t0002278,accepted
+Gnetales,1,t0000785,accepted
+Ephedrales,1,t0002279,accepted
+Canellales,1,t0000790,accepted
+Gunnerales,1,t0000811,accepted
+Picramniales,1,t0000826,accepted
+Berberidopsidales,1,t0000831,accepted
+Metteniusales,1,t0002283,accepted
+Vahliales,1,t0002284,accepted
+Escalloniales,1,t0000843,accepted
+Bruniales,1,t0000844,accepted
+Paracryphiales,1,t0000845,accepted
+Matoniaceae,1,[],
+Anemiaceae,1,[],
+Thyrsopteridaceae,1,[],
+Loxsomataceae,1,[],
+Culcitaceae,1,[],
+Dicksoniaceae,1,[],
+Metaxyaceae,1,[],
+Lonchitidaceae,1,[],
+Saccolomataceae,1,[],
+Cystodiaceae,1,[],
+Welwitschiaceae,,,
+Gnetaceae,,,
+Ephedraceae,,,
+Sciadopityaceae,,,
+Hydatellaceae,,,
+Austrobaileyaceae,,,
+Trimeniaceae,,,
+Canellaceae,,,
+Winteraceae,,,
+Degeneriaceae,,,
+Himantandraceae,,,
+Eupomatiaceae,,,
+Siparunaceae,,,
+Gomortegaceae,,,
+Atherospermataceae,,,
+Monimiaceae,,,
+Tofieldiaceae,,,
+Butomaceae,,,
+Scheuchzeriaceae,,,
+Maundiaceae,,,
+Posidoniaceae,,,
+Taccaceae,1,t0002323,not-accepted
+Velloziaceae,,,
+Campynemataceae,,,
+Corsiaceae,,,
+Petermanniaceae,,,
+Philesiaceae,,,
+Rhipogonaceae,,,
+Boryaceae,,,
+Blandfordiaceae,,,
+Asteliaceae,,,
+Lanariaceae,,,
+Doryanthaceae,,,
+Ixioliriaceae,,,
+Tecophilaeaceae,,,
+Xeronemataceae,,,
+Dasypogonaceae,,,
+Hanguanaceae,,,
+Haemodoraceae,,,
+Lowiaceae,,,
+Rapateaceae,,,
+Mayacaceae,,,
+Thurniaceae,,,
+Restionaceae,,,
+Joinvilleaceae,,,
+Ecdeiocoleaceae,,,
+Eupteleaceae,,,
+Circaeasteraceae,,,
+Platanaceae,,,
+Myrothamnaceae,,,
+Gunneraceae,,,
+Peridiscaceae,,,
+Cercidiphyllaceae,,,
+Aphanopetalaceae,,,
+Tetracarpaeaceae,,,
+Penthoraceae,,,
+Cynomoriaceae,,,
+Krameriaceae,,,
+Quillajaceae,,,
+Barbeyaceae,,,
+Dirachmaceae,,,
+Nothofagaceae,,,
+Ticodendraceae,,,
+Apodanthaceae,,,
+Anisophylleaceae,,,
+Corynocarpaceae,,,
+Tetramelaceae,,,
+Datiscaceae,,,
+Lepidobotryaceae,,,
+Huaceae,,,
+Cunoniaceae,,,
+Cephalotaceae,,,
+Brunelliaceae,,,
+Pandaceae,,,
+Irvingiaceae,,,
+Ctenolophonaceae,,,
+Erythroxylaceae,,,
+Bonnetiaceae,,,
+Podostemaceae,,,
+Caryocaraceae,,,
+Lophopyxidaceae,,,
+Centroplacaceae,,,
+Balanopaceae,,,
+Trigoniaceae,1,t0003855,accepted
+Dichapetalaceae,,,
+Euphroniaceae,,,
+Humiriaceae,,,
+Goupiaceae,,,
+Lacistemataceae,,,
+Peraceae,,,
+Rafflesiaceae,1,[],
+Ixonanthaceae,,,
+Picrodendraceae,,,
+Francoaceae,,,
+Vochysiaceae,,,
+Crypteroniaceae,,,
+Alzateaceae,,,
+Penaeaceae,,,
+Aphloiaceae,,,
+Geissolomataceae,,,
+Strasburgeriaceae,,,
+Guamatelaceae,,,
+Crossosomataceae,,,
+Picramniaceae,,,
+Gerrardinaceae,,,
+Petenaeaceae,,,
+Tapisciaceae,,,
+Biebersteiniaceae,,,
+Nitrariaceae,,,
+Kirkiaceae,,,
+Cytinaceae,,,
+Neuradaceae,,,
+Sphaerosepalaceae,,,
+Cistaceae,,,
+Sarcolaenaceae,,,
+Dipterocarpaceae,1,[],
+Limnanthaceae,,,
+Setchellanthaceae,,,
+Koeberliniaceae,,,
+Bataceae,,,
+Salvadoraceae,,,
+Emblingiaceae,,,
+Tovariaceae,,,
+Pentadiplandraceae,,,
+Gyrostemonaceae,,,
+Aextoxicaceae,,,
+Berberidopsidaceae,,,
+Misodendraceae,,,
+Frankeniaceae,,,
+Nepenthaceae,,,
+Drosophyllaceae,,,
+Dioncophyllaceae,,,
+Ancistrocladaceae,,,
+Rhabdodendraceae,,,
+Simmondsiaceae,,,
+Physenaceae,,,
+Asteropeiaceae,,,
+Macarthuriaceae,,,
+Microteaceae,,,
+Achatocarpaceae,,,
+Stegnospermataceae,,,
+Limeaceae,,,
+Lophiocarpaceae,,,
+Kewaceae,,,
+Barbeuiaceae,,,
+Gisekiaceae,,,
+Sarcobataceae,,,
+Montiaceae,,,
+Halophytaceae,,,
+Anacampserotaceae,,,
+Hydrostachyaceae,,,
+Loasaceae,,,
+Curtisiaceae,,,
+Grubbiaceae,,,
+Marcgraviaceae,,,
+Tetrameristaceae,,,
+Fouquieriaceae,,,
+Sladeniaceae,,,
+Roridulaceae,,,
+Clethraceae,,,
+Cyrillaceae,,,
+Oncothecaceae,,,
+Metteniusaceae,,,
+Eucommiaceae,1,[],
+Wellstediaceae,,,
+Codonaceae,,,
+Hydrophyllaceae,1,[],
+Namaceae,,,
+Lennoaceae,,,
+Hoplestigmataceae,,,
+Vahliaceae,,,
+Montiniaceae,,,
+Plocospermataceae,,,
+Carlemanniaceae,,,
+Tetrachondraceae,,,
+Calceolariaceae,,,
+Stilbaceae,,,
+Byblidaceae,,,
+Martyniaceae,,,
+Schlegeliaceae,,,
+Thomandersiaceae,,,
+Phyllonomaceae,,,
+Rousseaceae,,,
+Pentaphragmataceae,,,
+Alseuosmiaceae,,,
+Phellinaceae,,,
+Argophyllaceae,,,
+Calyceraceae,,,
+Escalloniaceae,,,
+Columelliaceae,,,
+Bruniaceae,,,
+Paracryphiaceae,,,
+Viburnaceae,1,[],
+Pennantiaceae,,,
+Torricelliaceae,,,
+Griseliniaceae,,,
+Myodocarpaceae,,,
+Xanthophyta,,,
+Labyrinthulomycota,,,
+Zygomycota,1,t0000089,not-accepted
+Ciliophora,1,t0000077,accepted
+Dinophyta,1,[],
+Apicomplexa,1,t0002878,accepted
+Apicomplexa,2,t0000191,accepted
+Myxospora,1,[],
+Prymnesiophyceae,1,t0000333,not-accepted
+Peronosporea,1,[],
+Synurophyceae,1,[],
+Chloromonadineae,,,
+Zygomycetes,,,
+Hyphomycetes,,,
+Spizellomtces,,,
+Labyrinthulea,1,t0000351,accepted
+Ciliatea,1,t0002909,accepted
+Oligotrichea,1,t0002911,accepted
+Polyhymenophora,1,[],
+Suctorea,1,t0002912,accepted
+Dinophyceae,1,t0000338,accepted
+Gregarinea,1,t0002908,accepted
+Myxosporea,1,t0000523,accepted
+Coccosphaerales,1,t0001114,accepted
+Chaetosphaeriales,1,t0001389,accepted
+Aphyllophorales,,,
+Sclerodermatales,,,
+Ceratobasidiales,,,
+Lycoperdales,,,
+Dimargaritaceae,1,t0003422,accepted
+Halosphaeriales,,,
+Leotiales,1,t0001438,accepted
+Actinophryida,1,t0001064,accepted
+Archnosphaera,1,t0006520,accepted
+Piroplasmida,1,t0001259,accepted
+Hypotrichida,1,t0003009,accepted
+Heterotrichida,1,t0001176,accepted
+Oligotrichida,1,t0003013,accepted
+Peritrichida,1,t0003014,accepted
+Hymenostomatida,1,t0003008,accepted
+Choreotrichida,1,t0003000,accepted
+Odontostomatida,1,t0001224,accepted
+Spelaeophryida,1,t0003021,accepted
+Peridiniales,1,t0001244,accepted
+Dinoflagellida,1,t0003002,accepted
+Dinophysiales,1,t0003003,accepted
+Pyrocystales,1,t0001281,accepted
+Gymnodiniales,1,t0001168,accepted
+Noctilucales,1,t0003012,accepted
+Prorocentrales,1,t0001267,accepted
+Thoracosphaerales,1,t0001342,accepted
+Eugregarinida,1,t0003006,accepted
+Multivalvulida,1,t0001992,accepted
+Bivalvulida,1,t0001723,accepted
+Chaetosphaeriaceae,1,t0003365,accepted
+Ganodermataceae,1,t0003454,not-accepted
+Fuscoboletinus,1,[],
+Physopella,1,t0008245,not-accepted
+Thamnidiaceae,1,[],
+Chaetocladiaceae,1,[],
+Eccriniidae,1,t0003208,accepted
+Stomiopeltella,1,t0008573,accepted
+Chloridium,1,t0007265,accepted
+Craspedodidymum,1,t0007362,accepted
+Diplodia,1,t0007476,accepted
+Dischloridium,1,t0007482,accepted
+Hemicorynespora,1,t0007704,accepted
+Heterosporium,1,[],
+Menisporopsis,1,t0007954,accepted
+Monilochaetes,1,t0007987,accepted
+Morrisiella,1,t0008003,accepted
+Thozetella,1,t0008632,accepted
+Nomuraea,1,[],
+Ovulariopsis,1,t0008129,accepted
+Dinemasporium,1,t0007470,accepted
+Linocarpon,1,t0007891,accepted
+Strigula,1,t0008576,accepted
+Actinophyridae,1,t0003159,accepted
+Actinosphaeridae,1,t0003160,accepted
+Alabaminidae,,,
+Nebelidae,1,[],
+Raphidiophyidae,1,t0003283,accepted
+Amphileptidae,1,t0003165,accepted
+Aspidiscidae,1,t0003173,accepted
+Euplotidae,1,t0003218,accepted
+Enchelys,1,t0006623,accepted
+Lionotus,1,t0006705,accepted
+Oxytrichidae,1,t0003258,accepted
+Podopyrya,1,t0006779,accepted
+Stichotricha,1,t0006861,accepted
+Uroleptus,1,t0006894,accepted
+Spirostomidae,1,t0003120,accepted
+Fabrea,1,t0006636,accepted
+Metopidae,1,t0003247,accepted
+Stentorella,1,t0006856,accepted
+Bilidiidae,1,t0003178,accepted
+Codonellopsidae,1,t0003194,accepted
+Cyrtostrombidiidae,1,t0003201,accepted
+Ptychocylididae,1,t0003278,accepted
+Halteriidae,1,t0003233,accepted
+Tintinnididae,1,t0003131,accepted
+Tontoniidae,1,t0003132,accepted
+Stentoridae,1,t0003123,accepted
+Codoenllidae,1,t0003193,accepted
+Vorticellidae,1,t0003142,accepted
+Tetrahymenidae,1,t0003126,accepted
+Ichthyophthiriidae,1,t0003238,accepted
+Frontoniidae,1,t0003219,accepted
+Glaucomidae,1,t0003224,accepted
+Parameciidae,1,t0003259,accepted
+Pleuronematidae,1,t0003270,accepted
+Urocentridae,1,t0003137,accepted
+Strombidinopsidae,1,t0003125,accepted
+Saprodinium,1,t0006817,accepted
+Thecacinetidae,1,t0003128,accepted
+Gonyaulaceae,1,t0003227,accepted
+Peridiniaceae,1,t0003264,accepted
+Ceratiaceae,1,t0003187,accepted
+Ceratocoryaceae,1,t0003189,accepted
+Glenodiniaceae,1,t0003225,accepted
+Heterodiniaceae,1,t0003236,accepted
+Oxytoxaceae,1,t0003257,accepted
+Podolampadaceae,1,t0003271,accepted
+Pyrophacaceae,1,t0003281,accepted
+Gymnodiniidae,1,t0003232,accepted
+Amphisoleniaceae,1,t0003167,accepted
+Dinophysiaceae,1,t0003206,accepted
+Pyrocystaceae,1,t0003280,accepted
+Gymnodiniaceae,1,t0003231,accepted
+Noctilucaceae,1,t0003251,accepted
+Prorocentraceae,1,t0003274,accepted
+Oodiniaceae,1,t0003255,accepted
+Lecudinidae,1,t0003240,accepted
+Kudoidae,1,t0003239,accepted
+Myxobolidae,1,t0003248,accepted
+Cybaeidae,,,
+Phonognathidae,,,
+Prodidomidae,,,
+Urocteidae,,,
+Hormogonales,1,[],
+Tetrasporales,1,[],
+Gloeocystaceae,1,[],
+Coelastraceae,1,[],
+Chlorococcaceae,1,[],
+Dictyosphaeriaceae,1,[],
+Callyspongia (Cladochalina),,,
+Callyspongia (Toxochalina),,,
+Petrosia (Petrosia),,,
+Petrosia (Strongylophora),,,
+Clathria (Thalysias),,,
+Crella (Grayella),,,
+Cosell,1,t0012329,not-accepted
+Oligonychus (Oligonychus),,,
+Oligonychus (Pritchardinychus),,,
+Oligonychus (Reckiella),,,
+Oligonychus (Wainsteiniella),,,
+Olingychus (Reckiella),,,
+Panonychus (Panonychus),,,
+Trombicula (Vorcana),,,
+Lasibelba,,,
+Takachihoa,,,
+Pseudotriaeris,,,
+Itatsina,,,
+Pakawops,,,
+Gamosellodes,,,
+Melichares (Blattisocius),,,
+Dendrolaelaps (Foveodendrolaelaps),,,
+Perisesarma,,,
+Aristemorpha,,,
+Asthenognathus,,,
+Pylocheles (Bathycheles),,,
+Pylocheles (Pylocheles),,,
+Pylocheles (Xylocheles),,,
+Ranilia,,,
+Lystmata,,,
+Pachos (Pachysoma),,,
+Corycaeus (Agetus),,,
+Corycaeus (Corycaeus),,,
+Corycaeus (Ditrichocorycaeus),,,
+Corycaeus (Monocorycaeus),,,
+Corycaeus (Onychocorycaeus),,,
+Corycaeus (Urocorycaeus),,,
+Paracylopina,,,
+Acartia (Acanthacartia),,,
+Acartia (Acartiura),,,
+Acartia (Odontacartia),,,
+Acartia (Plantacartia),,,
+Farrania (Drepanopsis),,,
+Totanus (Atortus),,,
+Totanus (Eutortanus),,,
+Totanus (Totanus),,,
+Amphibalanus (Balanus),,,
+Melophus,,,
+Mesophoyx,1,[],
+Loliolus (Nipponololigo),,,
+Uroteuthis (Photololigo),,,
+Heteroteuthis (Stephanoteuthis),,,
+Cymatosyrinx (Splendrillia),,,
+Elaeocyma (Splendrillia),,,
+Lophiotoma (Lophioturris),,,
+Marchia,,,
+Terebra (Oxymeris),,,
+Aegista (Plectotropis),,,
+Hippeutis (Helicorbis),,,
+Acanthochiton,,,
+Australomussa,,,
+Scolymia,,,
+Symphyllia,,,
+Acrhelia,,,
+Caryophyllia (Acanthocyathus),,,
+Caryophyllia (Caryophyllia),,,
+Stephanocyathus (Acinocyathus),,,
+Stephanocyathus (Odontocyathus),,,
+Stephanocyathus (Stephanocyathus),,,
+Trochocyathus (Trochocyathus),,,
+Balanophyllia (Balanophyllia),,,
+Barabattoia,,,
+Caulastrea,1,t0011480,not-accepted
+Leptoeris,,,
+Montastrea,,,
+Fungia (Danafungia),,,
+Fungia (Lobactis),,,
+Fungia (Pleuractis),,,
+Fungia (Verrillofungia),,,
+Fungia (Wellsofungia),,,
+Flabellum (Flabellum),,,
+Flabellum (Ulocyathus),,,
+Fungiacyathus (Bathyactis),,,
+Fungiacyathus (Fungiacyathus),,,
+Phascolosoma (Phascolosoma),,,
+Aspidosiphon (Aspidosiphon),,,
+Aspidosiphon (Paraspidosiphon),,,
+Themiste (Lagenopsis),,,
+Sipunculus (Austrosiphon),,,
+Sipunculus (Sipunculus),,,
+Elaphropus (Tachyura),,,
+Harpalus (Pseudoophonus),,,
+Mimocolliuris (Paramimocolliuris),,,
+Myas (Trigonognatha),,,
+Odacantha (Heliocasnonia),,,
+Pseudomenarus,,,
+Carabus (Damaster),,,
+Atrachya,,,
+Chaetocnema (Chaetocnema),,,
+Chaetocnema (Tlanoma),,,
+Chlisolina (Hypericia),,,
+Chlisolina (Lithopteroides),,,
+Colobaspis,1,t0012157,not-accepted
+Donacia (Cyphogaster),,,
+Donacia (Donacia),,,
+Donacia (Donaciomima),,,
+Gastrophysa (Gastrophysa),,,
+Gonioctena (Asiphytodecta),,,
+Gonioctena (Brachyphytodecta),,,
+Gonioctena (Gonioctena),,,
+Lema (Lema),,,
+Lema (Petauristes),,,
+Lema (Quasilema),,,
+Paridea (Paridea),,,
+Paridea (Semacia),,,
+Phyllodecta (Phyllodecta),,,
+Anthonomus (Anthonomus),,,
+Anthonomus (Tachypterellus),,,
+Lixus (Ortholixus),,,
+Metialma (Metialma),,,
+Metialma (Permetialma),,,
+Orchestes (Granulorchestes),,,
+Smicronyx (Smicronyx),,,
+Sternuchopsis (Mesalcidodes),,,
+Sternuchopsis (Sternuchopsis),,,
+Agelasta (Dissosira),,,
+Astathes (Tetraophthalmus),,,
+Glenea (Lobunguiglenea),,,
+Idonia (Cryptopidonia),,,
+Megopis (Aegolipton),,,
+Pterolophia (Pterolophia),,,
+Rondonia,,,
+Xylotrechus (Xylotrechus),,,
+Macrotoma (Bandar),,,
+Leptacinus (Phacophallus),,,
+Paederus (Eopaederus),,,
+Paederus (Heteropaederus),,,
+Paederus (Megalopaederus),,,
+Paederus (Paederus),,,
+Acrotrichis (Flachiana),,,
+Nephus (Geminosipho),,,
+Nephus (Nephus),,,
+Nephus (Sidis),,,
+Scymnus (Neopullus),,,
+Scymnus (Parapullus),,,
+Scymnus (Pullus),,,
+Scymnus (Scymnus),,,
+Sospita (Myzia),,,
+Amarygmus (Oogeton),,,
+Amarygmus (Pyanirygmus),,,
+Plesiophthalmus (Inspinogeton),,,
+Nalassus (Nalassus),,,
+Aphodius (Acrossus),,,
+Aphodius (Aganocrossus),,,
+Aphodius (Balthasarianus),,,
+Aphodius (Brachiaphodius),,,
+Aphodius (Calamosternus),,,
+Aphodius (Calaphodius),,,
+Aphodius (Loboparius),,,
+Aphodius (Nialus),,,
+Aphodius (Paulianellus),,,
+Aphodius (Phalacronothus),,,
+Aphodius (Pharaphodius),,,
+Aphodius (Platyderides),,,
+Aphodius (Pleuraphodius),,,
+Aphodius (Trichaphodius),,,
+Caccobius (Caccobius),,,
+Caccobius (Caccophilus),,,
+Copris (Copris),,,
+Odochilus (Odochilus),,,
+Onthophagus (Colobonthophagus),,,
+Onthophagus (Gibbonthophagus),,,
+Onthophagus (Indachorius),,,
+Onthophagus (Matashia),,,
+Onthophagus (Micronthophagus),,,
+Onthophagus (Onthophagiellus),,,
+Onthophagus (Onthophagus),,,
+Onthophagus (Palaeonthophagus),,,
+Onthophagus (Paraphanaeomorphus),,,
+Onthophagus (Parascatonomus),,,
+Onthophagus (Phanaeomorphus),,,
+Onthophagus (Serrophorus),,,
+Onthophagus (Strandius),,,
+Brachypeplus (Brachypeplus),,,
+Brachypeplus (Selis),,,
+Carpophilus (Capophilus),,,
+Carpophilus (Ecnomorphus),,,
+Carpophilus (Megacarpolus),,,
+Carpophilus (Myothorax),,,
+Epuraea (Epuraea),,,
+Epuraea (Haptoncus),,,
+Epuraea (Micruria),,,
+Pallodes (Coxollodes),,,
+Phenolia (Lasiodites),,,
+Phenolia (Phenolia),,,
+Prometopia (Prometopia),,,
+Urophorus (Anophorus),,,
+Agathidium (Agathidium),,,
+Agathidium (Cyphoceble),,,
+Agathidium (Macroceble),,,
+Agathidium (Microceble),,,
+Agathidium (Neoceble),,,
+Colon (Myloechus),,,
+Pseudcolenis (Pseudcolenis),,,
+Leptapoderus (Leptapoderidius),,,
+Leptapoderus (Pseudoleptapoderus),,,
+Buprestis (Akiyamaia),,,
+Coroebus,,,
+Lamprodila (Palmar),,,
+Ovalisia,,,
+Acmaeodera (Cobosiella),,,
+Episcapha (Episcapha),,,
+Episcapha (Psiloscapha),,,
+Paraxonotha,,,
+Episcapha (Ephicaspa),,,
+Anthrenus (Anthrenodes),,,
+Anthrenus (Anthrenus),,,
+Anthrenus (Florilinus),,,
+Anthrenus (Nathrenus),,,
+Attagenus (Aethriostoma),,,
+Attagenus (Attagenus),,,
+Ctesias (Tiresiomorpha),,,
+Dermestes (Dermestes),,,
+Dermestes (Dermestinus),,,
+Orphinus (Curtophinus),,,
+Orphinus (Orphinus),,,
+Fissocantharis,,,
+Habronychus (Habronychus),,,
+Habronychus (Monohabronychus),,,
+Malthinus (Malthinus),,,
+Malthodes (Malthodes),,,
+Themus (Telephorops),,,
+Themus (Themus),,,
+Atomaria (Anchicera),,,
+Erotides (Glabroplatycis),,,
+Laterialis (Laterialis),,,
+Laterialis (Tricostaeptera),,,
+Lyponia (Poniella),,,
+Heterhelus (Heterhelus),,,
+Heterhelus (Taiwanoheterhelus),,,
+Clada (Taiwanoclada),,,
+Callirhipis (Callirhipis),,,
+Callirhipis (Ennometidium),,,
+Cartodere (Cartodere),,,
+Melanophthalma (Melanophthalma),,,
+Necrophila (Calosilpha),,,
+Melandrya (Bonzicus),,,
+Phloeotrinus (Phloeotrinus),,,
+Lissodema (Episcapha),,,
+Phelotrupes (Eogeotrupes),,,
+Phelotrupes (Sinogeotrupes),,,
+Eulithis,,,
+Microlygris,,,
+Genusa,,,
+Apeleptera,,,
+Argyrotoxa,,,
+Schoenotenini,,,
+Gargudinia,,,
+Phycitia,,,
+Neodrymonia (Neodrymonia),,,
+Pantherinus,,,
+Pheosiopsis (Oligaeschra),,,
+Pseudofentonia (Eufentonia),,,
+Dactylorhychides,,,
+Sinensis,,,
+Amphitorna,,,
+Dendrophila,,,
+Benthia,,,
+Peracma,,,
+Apheliona (Sujitettix),,,
+Arboridia (Arboridia),,,
+Dialecticopteryx (Akotettix),,,
+Diomma (Diomma),,,
+Empoasca (Chlorita),,,
+Empoasca (Distantasca),,,
+Empoasca (Eremochlorita),,,
+Empoasca (Homa),,,
+Empoascanara (Empoascanara),,,
+Empoascanara (Kanguza),,,
+Eupteryx (Stacla),,,
+Eurhadina (Singhardina),,,
+Katachiota,1,[],
+Motschulskyia (Togaritettix),,,
+Motschulskyia (Woolongica),,,
+Pemia,1,[],
+Tautomeura,1,[],
+Thaia (Nlunga),,,
+Thaia (Thaia),,,
+Zygina (Zygina),,,
+Bosellius,,,
+Bryocoris (Bryocoris),,,
+Bryocoris (Cobalorrhynchus),,,
+Aphis (Protaphis),,,
+Aulacorthum (Neomyzus),,,
+Aulacorthum (Perillaphis),,,
+Dysaphis (Pomaphis),,,
+Macrosiphoniella (Asterobium),,,
+Neoacyrthosiphon (Pseudoacythosiphon),,,
+Schizaphis (Paraschizaphis),,,
+Uroleucon (Uromelan),,,
+Graphaosoma,,,
+Zoraida (Neozoraida),,,
+Zoraida (Peggiopsis),,,
+Zoraida (Zoraida),,,
+Eutrichosiphum (Paratrichosiphum),,,
+Greenidea (Paragreenidea),,,
+Greenidea (Trichosiphum),,,
+Mollitrichosiphum (Metatrichosiphum),,,
+Trioza (Megatrioza),,,
+Eriosoma (Schizoneura),,,
+Tetraneura (Tetraneurella),,,
+Pterocallis (Reticallis),,,
+Epiclinata,1,t0008839,not-accepted
+Moonia,1,t0008840,not-accepted
+Tenthredopsis (Thomsonia),,,
+Polyrhachis (Cyrtomyrma),,,
+Centistes (Chaetocentistes),,,
+Colastes (Colastes),,,
+Colastes (Shawiana),,,
+Homolobus (Apatia),,,
+Homolobus (Chartolobus),,,
+Homolobus (Homolobus),,,
+Homolobus (Oulophus),,,
+Homolobus (Phylacter),,,
+Pambolus (Phaenodus),,,
+Pauesia (Paraphidius),,,
+Streblocera (Asiastreblocera),,,
+Streblocera (Cosmophoridia),,,
+Streblocera (Streblocera),,,
+Streblocera (Villocera),,,
+Triaspis (Schizoprymnus),,,
+Triaspis (Triaspis),,,
+Trioxys (Binodoxys),,,
+Trioxys (Trioxys),,,
+Metopius (Ceratopius),,,
+Metopius (Tylopius),,,
+Nematopodius (Diapetus),,,
+Nematopodius (Microchorus),,,
+Netelia (Apatagium),,,
+Netelia (Bessobates),,,
+Netelia (Netelia),,,
+Netelia (Prosthodocis),,,
+Phytodietus (Neuchorus),,,
+Phytodietus (Phytodietus),,,
+Scambus (Ateleophadnus),,,
+Scambus (Endromopoda),,,
+Scambus (Scambus),,,
+Xorides (Cyanoxorides),,,
+Xorides (Moerophora),,,
+Metopius (Metopius),,,
+Polistes (Gyrostoma),,,
+Polistes (Polistella),,,
+Polistes (Polistes),,,
+Ectemnius (Menyllus),,,
+Bombus (Pyrobombus),,,
+Ceratina (Ceratinidia),,,
+Encarsiella,,,
+Campsomeris (Campsomeriella),,,
+Campsomeris (Megacampsomeris),,,
+Campsomeris (Phalerimeris),,,
+Scolia (Carinoscolia),,,
+Scolia (Discolia),,,
+Campsomeris (Micromeris),,,
+Scolia (Scolia),,,
+Nomia (Acunomia),,,
+Nomia (Dinomia),,,
+Nomia (Nomia),,,
+Nomia (Paranomina),,,
+Hydrophylita (Lutzimicron),,,
+Bactrocera (Bactrocera),,,
+Dacus (Callantra),,,
+Euphranta (Euphranta),,,
+Euphranta (Rhacochlaena),,,
+Urophora (Urophora),,,
+Carcelia (Carcelia),,,
+Carcelia (Carceliella),,,
+Carcelia (Catacarcelia),,,
+Carcelia (Euryclea),,,
+Carcelia (Senometopia),,,
+Aedes (Aedimorphus),,,
+Aedes (Cancraedes),,,
+Aedes (Finlaya),,,
+Aedes (Neomelaniconion),,,
+Aedes (Ochrelotatus),,,
+Aedes (Scutomyia),,,
+Anopheles (Anopheles),,,
+Anopheles (Cellia),,,
+Armigeres (Armigeres),,,
+Armigeres (Leicesteria),,,
+Coquillettidia (Coquillettia),,,
+Culex (Culex),,,
+Culex (Culiciomyia),,,
+Culex (Eumelanomyia),,,
+Culex (Lophoceraomyia),,,
+Culex (Thaiomyia),,,
+Culiseta (Climacura),,,
+Culiseta (Culiseta),,,
+Heizmannia (Heizmannia),,,
+Heizmannia (Mattinglyia),,,
+Mansonia (Mansonioides),,,
+Mimomyia (Etorleptiomyia),,,
+Mimomyia (Ingramia),,,
+Ochlerotatus (Finlaya),,,
+Ochlerotatus (Ochlerotatus),,,
+Topomyia (Suaymyia),,,
+Toxorhynchites (Toxorhynchites),,,
+Tripteroides (Rachionotomyia),,,
+Tripteroides (Tripteroides),,,
+Uranotaenia (Pseudoficalbia),,,
+Uranotaenia (Uranotaensis),,,
+Mimomyia (Mimomyia),,,
+Cerodontha (Butomomyza),,,
+Cerodontha (Cerodontha),,,
+Cerodontha (Dizygomyza),,,
+Cerodontha (Icteromyza),,,
+Cerodontha (Poemyza),,,
+Asarkina (Asarkina),,,
+Baccha (Allobaccha),,,
+Baccha (Baccha),,,
+Epistrophe (Epistrophella),,,
+Eristalinus (Eristalodes),,,
+Eristalis (Eoseristalis),,,
+Eristalis (Eristalis),,,
+Metasyrphus (Metasyrphus),,,
+Microdon (Microdon),,,
+Paragus (Pandasyophthalmus),,,
+Paragus (Pargus),,,
+Phytomia (Phytomia),,,
+Platycherius,,,
+Allometopon (Calometopon),,,
+Clusiodes (Microclusiaria),,,
+Hendelia (Prohendelia),,,
+Discocerina (Discocerina),,,
+Dryxo (Cyphops),,,
+Notiphila (Ahrolima),,,
+Notiphila (Notiphila),,,
+Ceratopogon (Isohelea),,,
+Culicoides (Avaritia),,,
+Culicoides (Beltranmyia),,,
+Culicoides (Culicoides),,,
+Culicoides (Monotomus),,,
+Culicoides (Oecacta),,,
+Culicoides (Trithecoides),,,
+Forcipomyia (Caloforcipomyia),,,
+Forcipomyia (Dacnoforcipomyia),,,
+Forcipomyia (Forcipomyia),,,
+Forcipomyia (Lasiohelea),,,
+Forcipomyia (Lepidohelea),,,
+Forcipomyia (Microhelea),,,
+Forcipomyia (Proforcipomyia),,,
+Forcipomyia (Pterobosca),,,
+Forcipomyia (Synthyridomyia),,,
+Forcipomyia (Thyridomyia),,,
+Stilobezzia (Stilobezzia),,,
+Amiota (Amiota),,,
+Amiota (Apsiphortica),,,
+Amiota (Phortica),,,
+Cacoxenus (Gitonides),,,
+Drosophila (Dorsidorpha),,,
+Drosophila (Drosophila),,,
+Drosophila (Lordiphosa),,,
+Drosophila (Phloridosa),,,
+Drosophila (Psilodorha),,,
+Drosophila (Sophophora),,,
+Hypselothyrea (Deplanothyrea),,,
+Hypselothyrea (Hypselothyrea),,,
+Lencophenga (Lencophenga),,,
+Lencophenga (Nankangomyia),,,
+Microdrosophila (Microdrosophila),,,
+Microdrosophila (Oxystyloptera),,,
+Scaptomyza (Parascaptomyza),,,
+Scaptomyza (Scaptomyza),,,
+Stegana (Orthostegana),,,
+Stegana (Oxyphortica),,,
+Stegana (Parastegana),,,
+Stegana (Stegana),,,
+Stegana (Steganina),,,
+Hercostomus (Hercostomus),,,
+Elachiptera (Elachiptera),,,
+Elachiptera (Melanochaeta),,,
+Mepachymerus (Steleocerellus),,,
+Antherigona,1,t0010066,not-accepted
+Antherigona (Acritochaeta),,,
+Morella,1,[],
+Musca (Byomya),,,
+Musca (Musca),,,
+Musca (Philaematomyia),,,
+Musca (Ptilolpis),,,
+Musca (Viviparomusca),,,
+Musca (Plaxemya),,,
+Antocha (Antocha),,,
+Austrolimnophila (Austrolimnophila),,,
+Cheilotrichia (Empeda),,,
+Elephantomyia (Elephantomyia),,,
+Elephantomyia (Elephantomyodes),,,
+Erioptera (Meterioptera),,,
+Erioptera (Psiloconopa),,,
+Erioptera (Tasiocerodes),,,
+Gnophomyia (Gymnastes),,,
+Gnophomyia (Idiocera),,,
+Gnophomyia (Lipophleps),,,
+Gnophomyia (Protogonomyia),,,
+Gnophomyia (Ptilostenoides),,,
+Helius (Eurhamphidia),,,
+Helius (Helius),,,
+Hexatoma (Eriocera),,,
+Limnophlia (Adelphomyia),,,
+Limnophlia (Brachylimnophlila),,,
+Limnophlia (Dicranophragma),,,
+Limnophlia (Eloeophila),,,
+Limnophlia (Prionolabis),,,
+Limonia (Atypophthalmus),,,
+Limonia (Dicranomyia),,,
+Limonia (Discobola),,,
+Limonia (Euglochina),,,
+Limonia (Eurhipida),,,
+Limonia (Geranomyia),,,
+Limonia (Goniodineura),,,
+Limonia (Idioglochina),,,
+Limonia (Laosa),,,
+Limonia (Libnotes),,,
+Limonia (Limonia),,,
+Limonia (Melanolimonia),,,
+Limonia (Nealexandriaria),,,
+Limonia (Neolimonia),,,
+Limonia (Pseudoglochina),,,
+Limonia (Sivalimnobia),,,
+Limonia (Thrypticomyia),,,
+Molophilus (Molophilus),,,
+Molophilus (Neolimnophila),,,
+Orimarga (Orimarga),,,
+Ormosia (Ormosia),,,
+Paradelphomyia (Oxyrhiza),,,
+Rhipidia (Eurhipidia),,,
+Rhipidia (Rhipidia),,,
+Tasiocera (Dasymolophilus),,,
+Toxorhina (Ceratocheilus),,,
+Atarba (Atarbodes),,,
+Ctenophora (Dictenidia),,,
+Ctenophora (Pselliophora),,,
+Dolichopeza (Dolichopeza),,,
+Dolichopeza (Mitopeza),,,
+Dolichopeza (Nesopeza),,,
+Dolichopeza (Oropeza),,,
+Epiphragma (Epiphragma),,,
+Leptoarsus (Longurio),,,
+Nephrotoma (Nephrotoma),,,
+Thaumastoptera (Taiwanita),,,
+Tipula (Acutipula),,,
+Tipula (Brithura),,,
+Tipula (Emodotipula),,,
+Tipula (Formotipula),,,
+Tipula (Indotipula),,,
+Tipula (Nippotipula),,,
+Tipula (Pterelachisus),,,
+Tipula (Schummelia),,,
+Tipula (Sivatipula),,,
+Tipula (Tipulodina),,,
+Tipula (Trichotipula),,,
+Tipula (Vestiplex),,,
+Tipula (Yamatotipula),,,
+Trentepholia (Mongoma),,,
+Trentepholia (Trentepohlia),,,
+Ula (Ula),,,
+Bolitophila (Bolitophila),,,
+Bolitophila (Cliopisa),,,
+Brachytarsina (Brachytarsina),,,
+Brunettia (Brunettia),,,
+Phlebotomus (Phlebotomus),,,
+Sergentomyia (Sergentomyia),,,
+Celyphus (Celyphus),,,
+Homoneura (Drosomyia),,,
+Homoneura (Homoneura),,,
+Homoneura (Minettioides),,,
+Homoneura (Neohomoeura),,,
+Minettia (Frendelia),,,
+Minettia (Minettiella),,,
+Sapromyza (Sapromyza),,,
+Trigonometopus (Tetroxyrhina),,,
+Chaetopleurophora (Tritoconicera),,,
+Diplonerva (Diplonerva),,,
+Diplonerva (Tristoechia),,,
+Megaselia (Aphiochaeta),,,
+Megaselia (Megaselia),,,
+Phalacrotophora (Omapanta),,,
+Phalacrotophora (Phalacrotophora),,,
+Woodiphora (Woodiphora),,,
+Leptocera (Leptocera),,,
+Leptocera (Opacifrons),,,
+Leptocera (Rachispoda),,,
+Pipunculus (Cephalops),,,
+Pipunculus (Claraeola),,,
+Pipunculus (Eudorylas),,,
+Loxocera (Loxocera),,,
+Conops (Conops),,,
+Grammicomyia (Ectemnodera),,,
+Crataerina (Stenepteryx),,,
+Icosta (Icosta),,,
+Icosta (Ornithopouns),,,
+Ornithoica (Ornithoica),,,
+Icosta (Ardmoeca),,,
+Cryptochetum (Cryptochetum),,,
+Dicranota (Amalopina),,,
+Dicranota (Rhaphidolabis),,,
+Pedicia (Tricyphona),,,
+Pilagiostenopterina (Meringomeria),,,
+Pilagiostenopterina (Plagiostenopterina),,,
+Leucopis (Leucopis),,,
+Piophila (Piophila),,,
+Piophila (Protopiophila),,,
+Xenokeroplatus (Tipulokeroplatus),,,
+Simulium (Comphostibia),,,
+Simulium (Eusimulium),,,
+Simulium (Montisimulium),,,
+Simulium (Nevermannia),,,
+Simulium (Simulium),,,
+Simulium (Wallacellum),,,
+Stronglyophthalmyia,1,t0016902,not-accepted
+Symmerus (Psilosymmerus),,,
+Ankylopteryx (Ankylopteryx),,,
+Ankylopteryx (Sencera),,,
+Mongoloraphidia (Formosoraphidia),,,
+Hierodula (Hierodula),,,
+Acropsylla (Acropsylla),,,
+Trigonidium (Trigonidium),,,
+Teratura (Megaconema),,,
+Eoxizicus (Axizicus),,,
+Eoxizicus (Eoxizicus),,,
+Duolandrevus (Eulandrevus),,,
+Phaloria (Phaloria),,,
+Cutilia,1,t0006932,not-accepted
+Xenos (Xenos),,,
+Phylloglossum,,,
+Tmesipteris,,,
+Cheiroglossa,,,
+Mankyua,,,
+Danaea,,,
+Eupodium,,,
+Christensenia,,,
+Marattia,1,[],
+Leptopteris,,,
+Todea,,,
+Trichomanes,1,[],
+Polyphlebium,,,
+Gleichenella,,,
+Sticherus,,,
+Gleichenia,1,[],
+Stromatopteris,,,
+Matonia,,,
+Phanerosorus,,,
+Anemia,,,
+Pilularia,,,
+Regnellidium,,,
+Thyrsopteris,,,
+Loxsoma,,,
+Loxsomopsis,,,
+Culcita,1,t0012509,accepted
+Culcita,2,,
+Cyathea,1,[],
+Gymnosphaera,1,[],
+Calochlaena,,,
+Dicksonia,1,[],
+Lophosoria,,,
+Metaxya,,,
+Lonchitis,1,[],
+Saccoloma,1,[],
+Orthiopteris,,,
+Cystodium,,,
+Sphenomeris,1,[],
+Nesolindsaea,,,
+Xyropteris,,,
+Blotiella,,,
+Leptolepia,1,t0009032,not-accepted
+Oenotrichia,1,t0009032,not-accepted
+Llavea,,,
+Actiniopteris,,,
+Aspleniopsis,,,
+Austrogramme,,,
+Cerosora,,,
+Cosentinia,,,
+Jamesonia,,,
+Nephopteris,,,
+Pterozonium,,,
+Syngramma,1,[],
+Taenitis,1,[],
+Adiantopsis,,,
+Argyrochosma,,,
+Aspidotis,,,
+Astrolepis,,,
+Bommeria,,,
+Calciphilopteris,,,
+Cassebeera,1,[],
+Cheiloplecton,,,
+Mildella,1,[],
+Notholaena,1,[],
+Paraceterach,1,[],
+Pellaea,1,[],
+Pentagramma,,,
+Trachypteris,,,
+Tryonella,,,
+Ananthacorus,,,
+Anetium,,,
+Hecistopteris,,,
+Monogramma,1,[],
+Polytaenium,,,
+Radiovittaria,,,
+Rheopteris,,,
+Scoliosorus,,,
+Cystoathyrium,,,
+Hemidictyum,,,
+Homalosorus,,,
+Parathelypteris,1,[],
+Cheilanthopsis,,,
+Hymenocystis,,,
+Protowoodsia,,,
+Onoclea,1,[],
+Salpichlaena,,,
+Stenochlaena,,,
+Sadleria,,,
+Pteridoblechnum,,,
+Blechnum,1,[],
+Struthiopteris,1,t0094739,accepted
+Anisocampium,1,[],
+Didymochlaena,,,
+Adenoderris,,,
+Coveniella,,,
+Dracoglossum,,,
+Revwattsia,,,
+Stenolepia,,,
+Acrophorus,1,t0091970,not-accepted
+Cyrtogonellum,1,[],
+Cyrtomidictyum,,,
+Dryopolystichum,,,
+Phanerophlebia,1,[],
+Polystichopsis,1,[],
+Arthrobotrya,,,
+Cyclodium,1,[],
+Lomagramma,,,
+Maxonia,,,
+Megalastrum,,,
+Mickelia,,,
+Olfersia,1,[],
+Olfersia,2,[],
+Polybotrya,1,[],
+Rumohra,1,[],
+Stigmatopteris,,,
+Teratophyllum,,,
+Cyclopeltis,,,
+Thysanosoria,,,
+Psammiosorus,,,
+Aenigmopteris,,,
+Hypoderris,,,
+Psomiocarpa,,,
+Triplophyllum,,,
+Wagneriopteris,1,[],
+Davallodes,,,
+Christiopteris,,,
+Gymnogrammitis,,,
+Paraselliguea,,,
+Phymatopteris,1,[],
+Dendroconche,1,[],
+Kaulinia,1,[],
+Kontumia,,,
+Lecanopteris,1,[],
+Paragramma,,,
+Phymatosorus,1,[],
+Podosorus,,,
+Thylacopteris,,,
+Tricholepidium,1,[],
+Campyloneurum,,,
+Microgramma,,,
+Niphidium,,,
+Pecluma,,,
+Phlebodium,,,
+Pleopeltis,1,[],
+Pleurosoriopsis,,,
+Serpocaulon,,,
+Synammia,,,
+Acrosorus,,,
+Adenophorus,,,
+Ceradenia,,,
+Chrysogrammitis,1,[],
+Cochlidium,,,
+Enterosora,,,
+Lellingeria,,,
+Leucotrichum,,,
+Luisma,,,
+Melpomene,,,
+Nematopteris,,,
+Radiogrammitis,1,[],
+Themelium,1,[],
+Zygophlebia,,,
+Pichisermollodes,1,[],
+Terpsichore,,,
+Dioon,,,
+Bowenia,,,
+Lepidozamia,,,
+Encephalartos,,,
+Stangeria,,,
+Ceratozamia,,,
+Microcycas,,,
+Welwitschia,,,
+Gnetum,,,
+Ephedra,,,
+Cathaya,,,
+Nothotsuga,,,
+Wollemia,,,
+Phyllocladus,,,
+Lepidothamnus,,,
+Prumnopitys,,,
+Sundacarpus,,,
+Halocarpus,,,
+Parasitaxus,,,
+Lagarostrobos,,,
+Manoao,,,
+Saxegothaea,,,
+Microcachrys,,,
+Pherosphaera,,,
+Acmopyle,,,
+Dacrycarpus,,,
+Dacrydium,,,
+Falcatifolium,,,
+Retrophyllum,,,
+Afrocarpus,,,
+Sciadopitys,,,
+Athrotaxis,,,
+Papuacedrus,,,
+Austrocedrus,,,
+Libocedrus,1,[],
+Pilgerodendron,,,
+Widdringtonia,,,
+Diselma,,,
+Fitzroya,,,
+Actinostrobus,,,
+Neocallitropsis,,,
+Tetraclinis,,,
+Platycladus,,,
+Microbiota,,,
+Austrotaxus,,,
+Torreya,,,
+Barclaya,,,
+Ondinea,,,
+Tasmannia,,,
+Bubbia,,,
+Drimys,,,
+Horsfieldia,,,
+Virola,,,
+Guatteria,,,
+Xylopia,1,[],
+Uvaria,1,[],
+Monodora,,,
+Anaxagorea,,,
+Asimina,1,[],
+Deeringothamnus,,,
+Ocotea,,,
+Licaria,,,
+Nectandra,,,
+Umbellularia,,,
+Chlorocardium,,,
+Lepidadenia,,,
+Nothaphoebe,,,
+Orontium,1,[],
+Peltandra,,,
+Spathicarpa,,,
+Damasonium,1,[],
+Elodea,1,[],
+Enhalus,,,
+Lagarosiphon,,,
+Metanarthecium,1,[],
+Stenomeris,,,
+Heloniopsis,1,[],
+Schoenocaulon,,,
+Anticlea,1,t0010092,accepted
+Amianthium,,,
+Chamaelirium,,,
+Pseudotrillium,,,
+Stenanthium,,,
+Toxicoscordion,,,
+Xerophyllum,,,
+Zigadenus,,,
+Colchicum,,,
+Wurmbea,,,
+Androcymbium,,,
+Iphigenia,,,
+Uvularia,,,
+Fritillaria,,,
+Calochortus,,,
+Clintonia,,,
+Medeola,,,
+Prosartes,,,
+Scoliopus,,,
+Acanthephippium,1,t0023077,not-accepted
+Dienia,1,[],
+Empusa,1,[],
+Eucosia,1,[],
+Flickingeria,1,[],
+Galeola,1,[],
+Pseudoliparis,1,[],
+Salacistis,,,
+Microtatorchis,1,[],
+Bletia,1,[],
+Calopogon,,,
+Calypso,,,
+Cleistes,,,
+Corallorhiza,1,[],
+Encyclia,,,
+Harrisella,,,
+Hexalectris,,,
+Lepanthes,,,
+Masdevallia,,,
+Maxillaria,1,[],
+Maxillaria,2,[],
+Orchis,1,[],
+Pleurothallis,,,
+Polystachya,,,
+Ponthieva,,,
+Stelis,,,
+Triphora,1,t0017776,accepted
+× Ascocenda,,,
+Ascocentrum,1,[],
+× Brassidium,,,
+Chamaeanthus,1,t0023442,accepted
+Coeloglossum,1,[],
+Didiciea,1,[],
+× Doritaenopsis,,,
+Ephemerantha,1,[],
+Epigeneium,1,[],
+× Epiphronitis,1,[],
+× Laeliocattleya,,,
+Myrmechis,1,[],
+× Potinara,,,
+× Sophrolaeliocattleya,,,
+Tulotis,1,[],
+× Vandachostylis,,,
+× Vandaenopsis,,,
+× Phalandopsis,,,
+Podochilus,1,[],
+Cirrhopetalum,1,[],
+Microstylis,1,[],
+Zosterostylis,1,[],
+Liuguishania,1,[],
+Grastidium,,,
+Platyclinis,1,[],
+Leucolena,1,[],
+Epiphanes,1,[],
+Cottonia,1,[],
+Galera,1,t0007594,accepted
+Limodorum,1,[],
+Trichosma,1,[],
+Physurus,1,[],
+Cyrtopera,1,[],
+Saccolabium,1,[],
+Georchis,1,[],
+Peramium,1,[],
+Adenostylis,1,[],
+Dicerostylis,1,[],
+Hippeophyllum,1,[],
+Evrardia,1,[],
+Chamaegastrodia,,,
+Apaturia,1,[],
+Papilisia,,,
+Glossula,1,[],
+Conchidium,1,[],
+Gymnadenia,1,[],
+Ione,1,t0021149,accepted
+Ione,2,,
+Sarcochilus,1,[],
+Euproboscis,1,[],
+Ascochilus,1,[],
+Dendrocolla,1,[],
+Aporum,,,
+Stauropsis,1,[],
+Kuhlhasseltia,1,[],
+Pristiglottis,1,[],
+Cystopus,1,[],
+Monochilus,1,[],
+Heterozeuxine,1,[],
+Alophia,,,
+Calydorea,,,
+Geissorhiza,,,
+Hesperantha,,,
+Nemastylis,,,
+Romulea,,,
+Watsonia,,,
+Urceolina,,,
+Galanthus,,,
+Nerine,,,
+Campylandra,1,t0002523,not-accepted
+Nolina,1,[],
+Attalea,,,
+Daemonorops,,,
+Euterpe,1,[],
+Metroxylon,,,
+Phytelephas,,,
+Rhaphidophyllum,,,
+Thrinax,,,
+Collinia,1,[],
+Neodypsis,1,[],
+Aneilema,1,[],
+Rhoeo,,,
+Setcreasea,1,[],
+Heteranthera,1,[],
+Monochoria,1,[],
+Anigozanthos,,,
+Conostylis,,,
+Haemodorum,,,
+Lachnanthes,,,
+Kaempferia,1,[],
+Renealmia,1,[],
+Languas,1,[],
+Catimbium,,,
+Catopsis,,,
+Puya,,,
+Lachnocaulon,,,
+Leiothrix,1,t0021618,accepted
+Paepalanthus,,,
+Syngonanthus,,,
+Eriophorum,,,
+Kyllinga,1,[],
+Mariscus,1,[],
+Chondropetalum,,,
+Elegia,,,
+Ischyrolepis,,,
+Restio,1,[],
+Thamnochortus,,,
+Andropogon,1,[],
+Pleioblastus,1,[],
+Sasa,1,[],
+Spartina,1,[],
+Stipa,1,[],
+Thaumastochloa,1,[],
+Calamovilfa,,,
+Chaetochloa,1,[],
+Dichanthelium,,,
+Adlumia,,,
+Arctomecon,,,
+Canbya,,,
+Chelidonium,1,t0011744,accepted
+Dendromecon,,,
+Dicentra,,,
+Glaucium,,,
+Hesperomecon,,,
+Meconella,,,
+Platystemon,,,
+Romneya,,,
+Sanguinaria,1,[],
+Stylophorum,,,
+Abuta,,,
+Calycocarpum,,,
+Menispermum,1,[],
+Achlys,1,[],
+Caulophyllum,1,[],
+Diphylleia,1,[],
+Jeffersonia,1,[],
+Podophyllum,1,[],
+Vancouveria,1,[],
+Actaea,1,t0009403,accepted
+Actaea,2,,
+Caltha,,,
+Hydrastis,,,
+Isopyrum,1,[],
+Myosurus,,,
+Xanthorhiza,,,
+Platanus,,,
+Banksia,1,[],
+Embothrium,,,
+Hakea,,,
+Leucadendron,,,
+Leucospermum,,,
+Protea,,,
+Roupala,,,
+Telopea,1,[],
+Altingia,,,
+Fothergilla,,,
+Hamamelis,,,
+Rhodoleia,,,
+Boykinia,,,
+Heuchera,,,
+Leptarrhena,,,
+Sullivantia,,,
+Tellima,,,
+Tolmiea,,,
+Diamorpha,,,
+Dudleya,,,
+Lenophyllum,,,
+Villadia,,,
+Balanites,,,
+Bulnesia,,,
+Fagonia,,,
+Guaiacum,,,
+Kallstroemia,,,
+Larrea,,,
+Porlieria,,,
+Zygophyllum,,,
+Adesmia,,,
+Dalea,,,
+Inga,1,[],
+Laburnum,,,
+Parkinsonia,,,
+Swartzia,1,[],
+Glycyrrhiza,,,
+Monnina,,,
+Muraltia,,,
+Securidaca,,,
+Alchemilla,,,
+Amelanchier,,,
+Exochorda,,,
+Kerria,1,t0021350,accepted
+Lyonothamnus,,,
+Physocarpus,,,
+Adolphia,,,
+Ceanothus,1,[],
+Colletia,,,
+Gouania,,,
+Krugiodendron,,,
+Phylica,,,
+Pomaderris,,,
+Reynosia,,,
+Forrestia,1,[],
+Planera,,,
+Brosimum,,,
+Dorstenia,,,
+Allaeanthus,1,t0091714,accepted
+Hesperocnide,,,
+Chrysolepis,,,
+Comptonia,,,
+Canacomyrica,,,
+Allocasuarina,,,
+Gymnostoma,,,
+Ostrya,,,
+Cayaponia,,,
+Cyclanthera,,,
+Echinocystis,,,
+Gurania,,,
+Hillebrandia,,,
+Catha,,,
+Crossopetalum,,,
+Salacia,,,
+Hippocratea,,,
+Paxistima,,,
+Schaefferia,,,
+Cassipourea,,,
+Clusia,,,
+Vismia,,,
+Aspicarpa,,,
+Banisteriopsis,,,
+Byrsonima,,,
+Galphimia,,,
+Heteropterys,,,
+Janusia,,,
+Rinorea,,,
+Banara,,,
+Oncoba,,,
+Samyda,,,
+Argythamnia,,,
+Bernardia,,,
+Cnidoscolus,,,
+Dalechampia,,,
+Reverchonia,,,
+Sapium,1,[],
+Sebastiania,,,
+Stillingia,1,[],
+Tragia,1,[],
+Pedilanthus,1,[],
+Synostemon,1,t0002629,not-accepted
+Andrachne,1,[],
+Cleistanthus,,,
+Savia,,,
+Cicca,1,[],
+Emblica,1,[],
+Bucida,,,
+Laguncularia,,,
+Decodon,1,t0018460,accepted
+Didiplis,,,
+Diplusodon,,,
+Lythrum,1,[],
+Nesaea,,,
+Peplis,1,[],
+Camissonia,,,
+Chamerion,,,
+Chylismia,,,
+Chylismiella,,,
+Eulobus,,,
+Gayophytum,,,
+Corymbia,1,[],
+Acca,,,
+Calyptranthes,1,[],
+Mosiera,,,
+Myrcia,,,
+Myrcianthes,,,
+Myrciaria,,,
+Myrtus,1,[],
+Pimenta,,,
+Pachycentria,1,[],
+Dissotis,,,
+Leandra,1,[],
+Miconia,1,[],
+Microlica,,,
+Rhexia,1,[],
+Tetrazygia,,,
+Euscaphis,1,[],
+Turpinia,1,[],
+Bursera,,,
+Commiphora,,,
+Protium,,,
+Astronium,,,
+Cotinus,,,
+Lannea,,,
+Loxopterygium,,,
+Metopium,,,
+Blighia,,,
+Cupania,,,
+Exothea,,,
+Harpullia,,,
+Hypelate,,,
+Paullinia,1,[],
+Agathosma,,,
+Amyris,,,
+Chloroxylon,,,
+Cneoridium,,,
+Fortunella,1,[],
+Ptelea,1,[],
+Triphasia,,,
+Euodia,1,[],
+Castela,,,
+Leitneria,,,
+Simaba,,,
+Simarouba,,,
+Entandrophragma,,,
+Guarea,,,
+Trichilia,1,[],
+Turraea,,,
+Chorisia,1,[],
+Althaea,,,
+Callirhoe,,,
+Cola,,,
+Dombeya,,,
+Fremontodendron,,,
+Kosteletzkya,,,
+Pavonia,,,
+Sidalcea,,,
+Sphaeralcea,,,
+Tilia,,,
+Diplomorpha,1,[],
+Cistus,,,
+Crocanthemum,,,
+Helianthemum,,,
+Hudsonia,,,
+Lechea,,,
+Dipterocarpus,,,
+Hopea,,,
+Shorea,,,
+Tovaria,1,[],
+Alliaria,,,
+Alyssum,,,
+Aurinia,,,
+Cakile,,,
+Caulanthus,,,
+Descurainia,,,
+Dimorphocarpa,,,
+Erysimum,,,
+Heliophila,,,
+Hesperis,,,
+Iberis,,,
+Leavenworthia,,,
+Lesquerella,,,
+Lunaria,1,[],
+Physaria,,,
+Polanisia,1,[],
+Schoenocrambe,,,
+Sinapis,,,
+Stanleya,,,
+Streptanthus,,,
+Warea,,,
+Arceuthobium,,,
+Buckleya,,,
+Comandra,,,
+Dendrophthora,,,
+Geocaulon,,,
+Nestronia,,,
+Phoradendron,,,
+Pryularia,,,
+Agelanthus,,,
+Amyema,,,
+Psittacanthus,,,
+Phthirusa,,,
+Struthanthus,,,
+Tapinanthus,,,
+Chorizanthe,,,
+Eriogonum,,,
+Nemacaulis,,,
+Oxyria,,,
+Oxytheca,,,
+Polygonella,,,
+Rheum,,,
+Stenogonum,,,
+Dionaea,,,
+Agrostemma,,,
+Geocarpon,,,
+Minuartia,,,
+Paronychia,,,
+Stipulicida,,,
+Blutaparon,,,
+Corispermum,,,
+Froelichia,,,
+Grayia,,,
+Monolepis,,,
+Nitrophila,,,
+Ptilotus,,,
+Salicornia,,,
+Salsola,1,[],
+Antimima,,,
+Carpobrotus,,,
+Cryophytum,,,
+Cypselea,,,
+Drosanthemum,,,
+Galenia,,,
+Lithops,,,
+Ruschia,,,
+Aptenia,1,[],
+Abronia,1,[],
+Acleisanthes,,,
+Allionia,,,
+Anulocaulis,,,
+Commicarpus,,,
+Cyphomeris,,,
+Guapira,,,
+Neea,,,
+Nyctaginia,,,
+Okenia,1,t0013384,accepted
+Tripterocalyx,,,
+Calandrinia,,,
+Cistanthe,,,
+Claytonia,,,
+Lewisia,,,
+Montia,,,
+Phemeranthus,,,
+Talinopsis,,,
+Hylocereus,1,[],
+Consolea,,,
+Cylindropuntia,,,
+Grusonia,,,
+Harrisia,,,
+Melocactus,,,
+Pediocactus,,,
+Schlumbergera,,,
+Sclerocactus,,,
+Cardiandra,1,t0002687,not-accepted
+Pileostegia,1,t0002687,not-accepted
+Pileostegia,2,,
+Schizophragma,1,t0002687,not-accepted
+Philadelphus,,,
+Decumaria,,,
+Fendlera,,,
+Benthamidia,1,t0002688,not-accepted
+Swida,1,[],
+Davidia,,,
+Mastixia,,,
+Nyssa,1,[],
+Eschweilera,1,[],
+Gustavia,1,t0020305,accepted
+Madhuca,,,
+Sideroxylon,1,[],
+Lucuma,1,[],
+Anagallis,1,t0002696,not-accepted
+Clavija,,,
+Glaux,1,t0002696,not-accepted
+Hottonia,1,[],
+Jacquinia,,,
+Trientalis,1,t0002696,not-accepted
+Wallenia,,,
+Gordonia,1,t0002704,accepted
+Gordonia,2,t0088182,accepted
+Franklinia,,,
+Laplacea,,,
+Stewartia,,,
+Heliamphora,,,
+Darlingtonia,,,
+Monotropastrum,1,[],
+Agapetes,1,[],
+Agarista,,,
+Andromeda,1,[],
+Arbutus,,,
+Arctostaphylos,,,
+Bejaria,,,
+Cavendishia,,,
+Ceratiola,,,
+Chamaedaphne,,,
+Corema,,,
+Diplycosia,,,
+Empetrum,,,
+Epacris,,,
+Erica,,,
+Eubotrys,,,
+Gaylussacia,,,
+Kalmia,,,
+Leucopogon,,,
+Leucothoe,,,
+Monotropsis,,,
+Oxydendrum,,,
+Pterospora,,,
+Palicourea,,,
+Rondeletia,1,t0015956,accepted
+Cliococca,,,
+Ernodea,1,[],
+Erithalis,,,
+Exostema,,,
+Genipa,,,
+Pentodon,,,
+Pinckneya,,,
+Serissa,1,t0002746,not-accepted
+Litosanthes,1,[],
+Neolamarckia,,,
+Gentianella,,,
+Sebaea,,,
+Halenia,,,
+Bartonia,,,
+Frasera,,,
+Sabatia,,,
+Voyria,,,
+Matelea,,,
+Gonolobus,,,
+Secamone,,,
+Mandevilla,,,
+Amsonia,,,
+Angadenia,,,
+Apocynum,1,[],
+Echites,1,[],
+Macrosiphonia,,,
+Morrenia,,,
+Pentalinon,,,
+Rhabdadenia,,,
+Sarcostemma,,,
+Vallesia,,,
+Aspidosperma,,,
+Cascabela,,,
+Tylophora,1,t0002519,not-accepted
+Pergularia,1,[],
+Onosma,,,
+Cryptantha,,,
+Phacelia,,,
+Amsinckia,,,
+Bourreria,,,
+Draperia,,,
+Ellisia,,,
+Eriodictyou,,,
+Hackelia,,,
+Hydrophyllum,,,
+Lappula,,,
+Mertensia,1,[],
+Nama,1,[],
+Nemophila,,,
+Onosmodium,,,
+Plagiobothrys,,,
+Romanzoffia,,,
+Pulmonaria,,,
+Varronia,,,
+Convolvulus,1,[],
+Bonamia,,,
+Stylisma,,,
+Porana,,,
+Atropa,1,[],
+Noronhia,,,
+Menodora,,,
+Forestiera,,,
+Forsythia,,,
+Besleria,,,
+Chirita,1,[],
+Alloplectus,,,
+Gesneria,,,
+Boea,1,[],
+Didymocarpus,,,
+Gratiola,1,[],
+Chelone,1,[],
+Collinsia,,,
+Hippuris,,,
+Maurandya,,,
+Verbascum,,,
+Eremophila,,,
+Selago,,,
+Manulea,1,t0026129,accepted
+Nemesia,,,
+Sutera,,,
+Bontia,,,
+Anisacanthus,,,
+Carlowrightia,,,
+Dyschoriste,,,
+Elytraria,,,
+Siphonoglossa,,,
+Stenandrium,,,
+Asystasiella,1,[],
+Adhatoda,1,[],
+Calliaspidia,,,
+Adenocalymma,1,[],
+Arrabidaea,,,
+Pithecoctenium,,,
+Chilopsis,,,
+Podranea,,,
+Pinguicula,,,
+Lippia,1,[],
+Citharexylum,,,
+Glandularia,,,
+Aloysia,,,
+Bouchea,,,
+Priva,,,
+Thymus,1,[],
+Plectranthus,1,[],
+Nepeta,1,[],
+Dicerandra,,,
+Dracocephalum,,,
+Hedeoma,,,
+Hyssopus,,,
+Marrubium,,,
+Monarda,,,
+Piloblephis,,,
+Pycnanthemum,,,
+Pycnostachys,,,
+Satureja,,,
+Trichostema,,,
+Holmskioldia,,,
+Leonotis,,,
+Mimulus,1,t0002837,not-accepted
+Castilleja,,,
+Buchnera,1,[],
+Harveya,,,
+Aureolaria,,,
+Conopholis,,,
+Epifagus,,,
+Orthocarpus,,,
+Rhinanthus,,,
+Seymeria,,,
+Centropogon,,,
+Siphocampylus,,,
+Downingia,,,
+Githopsis,,,
+Heterocodon,,,
+Howellia,,,
+Jasione,,,
+Legenere,,,
+Nemacladus,,,
+Parishella,,,
+Porterella,,,
+Cousinia,,,
+Helichrysum,1,[],
+Baccharis,1,[],
+Verbesina,1,[],
+Jurinea,,,
+Crepis,1,[],
+Symphyotrichum,,,
+Sericocarpus,,,
+Antennaria,,,
+Arnoglossum,,,
+Balduina,,,
+Berlandiera,,,
+Brickellia,,,
+Carphephorus,,,
+Chrysopsis,,,
+Croptilon,,,
+Chaenactis,,,
+Chrysothamnus,,,
+Ericameria,,,
+Eriophyllum,,,
+Euthamia,,,
+Gamochaeta,,,
+Haplopappus,,,
+Krigia,,,
+Layia,,,
+Lessingia,,,
+Lygodesmia,,,
+Packera,,,
+Pityopsis,,,
+Prenanthes,1,[],
+Silphium,1,[],
+Pulicaria,,,
+Glebionis,,,
+Hemistepta,1,t0023988,not-accepted
+Kalimeris,1,[],
+Wedelia,1,[],
+Arctotis,,,
+Ethulia,1,[],
+Gazania,,,
+Pseudoconyza,,,
+Synurus,1,[],
+Lapsana,1,[],
+Adoxa,,,
+Valerianella,,,
+Dipsacus,,,
+Linnaea,,,
+Symphoricarpos,,,
+Diervilla,,,
+Weigela,,,
+Kolkwitzia,,,
+Schefflera,1,[],
+Oreopanax,1,[],
+Ferula,,,
+Lomatium,,,
+Heracleum,,,
+Carum,,,
+Cicuta,1,[],
+Ligusticum,1,[],
+Oxypolis,,,
+Pastinaca,,,
+Ptilimnium,,,
+Spermolepis,,,
+Thaspium,,,
+Zizia,,,
+Cuminum,1,[],
+Petroselinum,,,
+Conium,,,
+Spilanthes,1,[],
+Herissantia,1,[],
+Humbertacalia,,,
+Schizocodon,1,[],
+Menziesia,,,
+Chelonopsis,1,[],
+Hemianthus,1,[],
+Hyphear,1,[],
+Discospaera,,,
+Peronoplasmopara,1,[],
+Rhoicospenia,,,
+Corithorn,,,
+Fragilariacylin,1,[],
+Licomophora,,,
+Schuettia,1,[],
+Sticodiscus,,,
+Nitzschiella,1,[],
+Lieudugeria,,,
+Molpadia,1,t0026148,accepted
+Hincksia,1,[],
+Neurocarpus,1,[],
+Chaetosphaeria,1,t0007253,accepted
+Codinaea,1,t0007319,accepted
+Dictyochaeta,1,t0007451,accepted
+Gonytrichum,1,t0007641,accepted
+Porosphaerella,1,t0008296,accepted
+Sporoschisma,1,t0008547,accepted
+Coriolus (Trametes),,,
+Fomes,1,[],
+Pachykytospora,1,[],
+Polyporellus,,,
+Poria,1,[],
+Magoderna,,,
+Plicatura,,,
+Merulius,1,[],
+Pulcherricium,,,
+Phlebiella,1,[],
+Megalocystidium,,,
+Psalliota,,,
+Copelandia,,,
+Pseudocoprinus,,,
+Armillariella,,,
+Omphalina,,,
+Sinotermitomyces,,,
+Simblum,,,
+Gastroboletus,,,
+Paxillus,,,
+Cryptoderma,1,t0012447,accepted
+Leifia,,,
+Femsjonia,1,[],
+Coleopuccinia,1,[],
+Micrococcus,1,t0007962,accepted
+Micrococcus,2,t0088272,accepted
+Naemateloma fasciculare,1,t0041026,not-accepted
+Poliotelium,,,
+Haplosporangium,,,
+Trichoconis,,,
+Phaeoseptoria,,,
+Trematosphaerella,,,
+Munkovalsaria,,,
+Fumago,,,
+Pringshemia,,,
+Cercosporidium,,,
+Phaeoramularia,,,
+Meria,,,
+Phytocordyceps,,,
+Polycephalomyces,,,
+Chloridium virescens,1,t0034801,accepted
+Gliocladium,1,[],
+Gonytrichella,,,
+Theissenia,,,
+Lopadostoma,,,
+Doratomyces,,,
+Trichurus,1,[],
+Schizoparme,1,[],
+Graphina,1,[],
+Gyrostomum,,,
+Sowerbyella,,,
+Galiella,,,
+Clavidisculum,,,
+Coelocaulon,,,
+Melanelia,,,
+Cladina,1,[],
+Psoroma,,,
+Merimbla,,,
+Sarophorum,,,
+Nematospora,,,
+Diplochytridium,1,[],
+Karlingia,,,
+Diplotheca,1,t0006612,not-accepted
+Parvicorbicula,1,[],
+Platypleura,1,t0014839,accepted
+Platypleura,2,t0093371,not-accepted
+Diploeca,1,[],
+Amphymenium,,,
+Tristephanium,,,
+Actinophrys,1,t0006497,accepted
+Actinosphaerium,1,t0006498,accepted
+Biloculinella (Pyrgoella),,,
+Flintina (Pseudofintina),,,
+Sigmoilina (Spirosigmoilina),,,
+Triloculina (Scutuloris),,,
+Globigerina (Globigerinella),,,
+Globigerina (Globorotaloides),,,
+Globigerina (Neogloboquadrina),,,
+Globigerinoides (Globigerinoidesella),,,
+Ammonia (Pseudorotalia),,,
+Ammonia (Rotalidium),,,
+Pseudorotalia (Rotalinoides),,,
+Nodosaria (Dentalina),,,
+Nodosaria (Pyramidulina),,,
+Florilus (Nonion),,,
+Florilus (Nonionella),,,
+Florilus (Pseudononion),,,
+Nonionella (Pseudononion),,,
+Eponides (Neoeponides),,,
+Textularia (Siphotextularia),,,
+Bolivina (Brizalina),,,
+Brizalina (Lugdunum),,,
+Cassidulina (Burseolina),,,
+Cellanthus (Elphidium),,,
+Elphidium (Cellanthus),,,
+Cibicides (Heterolepa),,,
+Cibicides (Lobatula),,,
+Discorbis (Rosalina),,,
+Epistominella (Asanonella),,,
+Oolina (Favulina),,,
+Fursenkoina (Virgulina),,,
+Gallitellia,1,t0006645,not-accepted
+Guembelitria,1,[],
+Guembelitria (Gallitellia),,,
+Quadrula,1,[],
+Quadrula,2,[],
+Turborotalia (Globoratalia),,,
+Zoogloea,,,
+Gyroidina (Hansenisca),,,
+Schenckiella (Martinotiella),,,
+Lenticulina (Spincterules),,,
+Robulus (Lenticulina),,,
+Robulus (Spincterules),,,
+Neouvigerina (Siphouvigerina),,,
+Uvigerina (Euvigerina),,,
+Spiroloculina (Sigmoilina),,,
+Raphidiophrys,1,t0006806,accepted
+Amphileptus,1,t0006507,accepted
+Aspidisca,1,t0006524,accepted
+Balladyna,1,t0007116,accepted
+Balladyna,2,t0006537,accepted
+Euplotes,1,t0006635,accepted
+Urostyla,,,
+Oxytricha,1,t0006750,accepted
+Stylonychia,1,t0006865,accepted
+Blepharisma,1,t0006542,accepted
+Spirostomum,1,t0006845,accepted
+Metopus,1,t0006722,accepted
+Bursaria,1,t0006552,accepted
+Cononellopsis,1,[],
+Cyrtostrombidium,1,t0006597,accepted
+Favella,1,t0006637,accepted
+Halteria,1,t0006669,accepted
+Leprotintinnus,1,t0006701,accepted
+Tintinnidium,1,t0006878,accepted
+Spirotontonia,1,t0006846,accepted
+Stentor,1,t0006855,accepted
+Tintinnopsis,1,t0006879,accepted
+Tintinopsis,1,[],
+Carchesium,1,t0006558,accepted
+Ophrydium,1,t0006745,accepted
+Vorticella,1,t0006900,accepted
+Zoothamnium,1,t0006904,accepted
+Colpidium,1,t0006578,accepted
+Tetrahymena,1,t0006868,accepted
+Cryptocaryon,1,t0006591,accepted
+Frontonia,1,t0006642,accepted
+Glaucoma,1,t0006649,accepted
+Paramecium,1,t0006753,accepted
+Pleuronema,1,t0006776,accepted
+Urocentrum,1,t0006893,accepted
+Parastrombidinopsis,1,t0006755,accepted
+Thecacineta,1,t0006871,accepted
+Alexandrium,1,t0006501,accepted
+Gonyaulax,1,t0006660,accepted
+Cachonina,1,t0006553,accepted
+Parvodinium,1,t0006757,accepted
+Peridinium,1,t0006763,accepted
+Protoperidinium,1,t0006787,accepted
+Ceratium,1,t0006566,accepted
+Neoceratium,1,[],
+Ceratocorys,1,t0006567,accepted
+Glenodinium,1,t0006650,accepted
+Heterodinium,1,t0006677,accepted
+Oxytoxum,1,t0006749,accepted
+Podolampas,1,t0006778,accepted
+Pyrophacus,1,t0006802,accepted
+Amphidinium,1,t0006506,accepted
+Gymnodinium,1,t0006663,accepted
+Gyrodinium,1,t0006664,accepted
+Amphisolenia,1,t0006510,accepted
+Dinophysis,1,t0006610,accepted
+Histioneis,1,t0006684,accepted
+Ornithocercus,1,t0006748,accepted
+Phalacroma,1,t0006767,accepted
+Dissodinium,1,t0006615,accepted
+Pyrocystis,1,t0006801,accepted
+Katodinium,1,t0006687,accepted
+Noctiluca,1,t0006734,accepted
+Prorocentrum,1,t0006786,accepted
+Thoracosphaera,1,t0006877,accepted
+Dictydium,1,[],
+Enteridium,1,[],
+Ascogregarina,1,t0006523,accepted
+Kudoa,1,t0006689,accepted
+Myxobolus,1,t0006727,accepted
+Hartmannia,1,[],
+Xylopleurum,1,[],
+Matteuccia,1,[],
+Oecanthus,1,[],
+Sladenia,,,
+Enteropogon,1,t0023774,accepted
+Enteropogon,2,t0006625,accepted
+Aphantaula,,,
+Cicurina,,,
+Lepthyphantes,,,
+Carrhotus viduus,,,
+Parazygiella,,,
+Pharta,,,
+Borboropactus,,,
+Epidius,,,
+Strigoplus,,,
+Phaeacius,,,
+Pseudicius,,,
+Simaetha,,,
+Trachelas,,,
+Proreinia,,,
+Hyaloraphidium,1,t0024029,accepted
+Amphiesma sp.,,,
+Themiste (Lagenopsis) minor,1,t0099122,not-accepted
+Struthio camelus domesticus,,,
+Carabus (Damaster) blaptoides,1,t0030128,not-accepted
+Lema (Quasilema) trivittata,1,[],
+Xylotrechus (Xylotrechus) latefasciatus,1,t0096694,not-accepted
+Episcapha (Ephicaspa) asahinai,1,t0096904,not-accepted
+Shaka atrovittatus,1,[],
+Megalophipida defectalis,,,
+Pemia meifengensis,1,[],
+Evacanthus flavocapitata,1,[],
+Polistes (Gyrostoma) tenebricosus,1,t0098558,not-accepted
+Polistes (Polistella) stigma,1,t0098556,not-accepted
+Polistes (Polistella) strigosus,1,t0098557,not-accepted
+Polistes (Polistes) chinensis,1,t0098554,not-accepted
+Aedes (Aedimorphus) vexans,1,t0099802,not-accepted
+Culex (Culex) pipiens,1,t0087676,not-accepted
+Ochlerotatus (Finlaya) elsiae,1,t0085993,not-accepted
+Ochlerotatus (Finlaya) pulchriventer,1,t0085995,not-accepted
+Asarkina (Asarkina) porcina,1,t0100120,not-accepted
+Phlegmariurus cryptomerianus,1,t0026340,not-accepted
+Selaginella flabellata,1,t0026318,not-accepted
+Selaginella philippina,1,t0102741,accepted
+Selaginella plana,1,t0102742,accepted
+Selaginella springiana,1,t0102743,accepted
+Selaginella atroviridis,1,t0102744,accepted
+Selaginella plumosa,1,t0102745,accepted
+Selaginella kraussiana,1,t0026326,misapplied
+Selaginella mongholica,1,t0102747,accepted
+Selaginella circinalis,1,t0103619,not-accepted
+Selaginella circinalis,2,t0103619,not-accepted
+Botrychium lanuginosum,1,t0026367,not-accepted
+Botrychium ternatum,1,t0026369,not-accepted
+Angiopteris ×itoi,,,
+Hymenophyllum polyanthos,1,t0026394,misapplied
+Cephalomanes thysanostomum,1,t0026417,not-accepted
+Diplopterygium chinense,1,t0026433,not-accepted
+Azolla filiculoides,1,t0102659,misapplied
+Azolla caroliniana,1,t0102659,misapplied
+Azolla japonica,1,t0102659,misapplied
+Cibotium cumingii,1,t0026464,not-accepted
+Alsophila lepifera,1,t0026462,not-accepted
+Odontosoria ×intermedia,,,
+Odontosoria ×yaeyamensis,,,
+Lindsaea merrillii,1,[],
+Lindsaea ×heterophylla,,,
+Pteridium latiusculum,1,t0103625,accepted
+Paesia radula,1,t0102152,accepted
+Dennstaedtia hirsuta,1,t0026579,not-accepted
+Dennstaedtia smithii,1,t0026582,not-accepted
+Microlepia trapeziformis,1,t0101877,accepted
+Ceratopteris gaudichaudii,1,t0026491,not-accepted
+Pteris aspericaulis,1,t0026522,misapplied
+Pteris ×namegatae,,,
+Cheilanthes formosana,1,t0026534,not-accepted
+Cheilanthes subargentea,1,t0026537,not-accepted
+Notholaena hirsuta,1,t0026539,not-accepted
+Adiantum ×meishanianum,,,
+Antrophyum parvulum,1,t0026566,not-accepted
+Gymnocarpium remotipinnatum,1,[],
+Hymenasplenium obscurum,1,t0026934,accepted
+Asplenium australasicum,1,t0099384,accepted
+Asplenium lobulatum,1,t0026895,misapplied
+Asplenium polyodon,1,t0026907,accepted
+Asplenium nitidum,1,t0026909,misapplied
+Asplenium serricula,1,t0026902,misapplied
+Asplenium ×shikokianum,,,
+Asplenium ×wangii,,,
+Asplenium hodoense,,,
+Asplenium latidens,,,
+Cyclosorus acuminatus,1,t0026948,not-accepted
+Cyclosorus parasiticus,1,t0026955,not-accepted
+Cyclosorus subpubescens,1,t0102203,accepted
+Cyclosorus ×intermedius,,,
+Cyclosorus lanyuensis,,,
+Cyclosorus megacuspis,1,t0026974,not-accepted
+Cyclosorus ×pseudoliukiuensis,,,
+Pseudophegopteris aurita,1,t0026942,not-accepted
+Thelypteris esquirolii,1,t0026980,not-accepted
+Thelypteris ×erubesquirolica,,,
+Thelypteris auriculata,1,t0026960,not-accepted
+Thelypteris erubescens,1,t0026963,not-accepted
+Thelypteris laxa,1,t0026969,not-accepted
+Thelypteris ornata,1,t0102816,accepted
+Thelypteris uraiensis,1,t0026970,not-accepted
+Cyclogramma omeiensis,1,t0026961,misapplied
+Pronephrium asperum,1,t0026972,misapplied
+Pronephrium cuspidatum,1,t0102209,accepted
+Pronephrium insularis,1,t0095924,not-accepted
+Woodwardia radicans,1,[],
+Woodwardia orientalis,1,t0027048,not-accepted
+Struthiopteris hancockii,1,t0027055,not-accepted
+Athyrium ×hohuanshanense,,,
+Athyrium ×pseudocryptogrammoides,,,
+Athyrium ×purpurascens,,,
+Athyrium fragile,1,t0102807,accepted
+Athyrium fragile,2,t0026884,not-accepted
+Athyrium pycnosorum,1,t0102731,accepted
+Athyrium dawuense,,,
+Athyrium foliolosum,1,t0102844,accepted
+Athyrium kuankaoense,,,
+Athyrium kuratae,1,t0102734,accepted
+Athyrium pseudo-arisanense,,,
+Athyrium pseudo-delavayi,,,
+Athyrium pseudo-kuratae,,,
+Athyrium pseudo-leiopodum,,,
+Athyrium pseudo-mearnsianum,,,
+Athyrium pseudo-silvicola,,,
+Athyrium pseudo-niponicum,,,
+Athyrium shannjyemoorei,,,
+Athyrium sungkangense,,,
+Athyrium unifurcatum,1,t0027021,not-accepted
+Cornopteris decurrenti-alata,1,[],
+Cornopteris opaca,1,t0027004,not-accepted
+Deparia allantodioides,1,t0103640,accepted
+Deparia longipes,1,t0102149,accepted
+Deparia ×tomitaroana,,,
+Diplazium conterminum,1,t0057261,not-accepted
+Diplazium lobatum,1,t0086577,not-accepted
+Diplazium proliferum,1,t0053428,accepted
+Diplazium taiwanense,1,t0057262,not-accepted
+Hypodematium crenatum,1,t0026609,accepted
+Arachniodes rhomboidea,1,t0086571,not-accepted
+Dryopteris barbigera,1,t0103626,accepted
+Dryopteris latibasis,1,t0102159,accepted
+Dryopteris sinofibrillosa,1,t0102160,accepted
+Dryopteris ×holttumii,,,
+Dryopteris ×subreflexipinna,,,
+Dryopteris rosthornii,,,
+Dryopteris panda,,,
+Polystichum biaristatum,1,t0103460,misapplied
+Polystichum deltodon,1,t0026715,misapplied
+Polystichum obliquum,1,t0103461,misapplied
+Bolbitis ×laxireticulata,,,
+Bolbitis ×nanjenensis,,,
+Bolbitis virens,1,[],
+Lomariopsis spectabilis,1,t0026748,misapplied
+Nephrolepis ×copelandii,,,
+Nephrolepis ×hipocrepicis,,,
+Nephrolepis ×pseudobiserrata,,,
+Nephrolepis exaltata,1,[],
+Araiostegia parvipinnula,1,t0026777,not-accepted
+Aglaomorpha coronans,1,t0026791,not-accepted
+Aglaomorpha meyeniana,1,t0026792,not-accepted
+Selliguea rhynchophylla,1,t0026797,misapplied
+Pyrrosia polydactyla,1,t0026808,not-accepted
+Lepisorus clathratus,1,t0026830,misapplied
+Leptochilus insignis,1,t0026839,not-accepted
+Leptochilus ×shintenensis,,,
+Microsorum membranaceum,1,t0026845,not-accepted
+Microsorum carinatum,,,
+Chrysogrammitis glandulosa,1,t0026855,not-accepted
+Grammitis intromissa,1,t0026867,not-accepted
+Grammitis fenicis,1,t0026864,misapplied
+Grammitis jagoriana,1,t0102730,accepted
+Oreogrammitis nuda,1,t0102673,not-accepted
+Prosaptia kanashiroi,1,t0026873,not-accepted
+Radiogrammitis ilanensis,1,t0026862,not-accepted
+Radiogrammitis setigera,1,t0026867,not-accepted
+Radiogrammitis subnervosa,1,t0026869,not-accepted
+Radiogrammitis taiwanensis,1,t0026870,not-accepted
+Pichisermollodes quasidivaricata,1,t0026798,not-accepted
+Goniophlebium hendersonii,,,
+Scleroglossum pusillum,1,t0026879,misapplied
+Pinus parviflora,1,[],
+Pinus luchuensis,1,t0054839,misapplied
+Pseudotsuga sinensis,1,[],
+Pseudotsuga forrestii,1,t0054981,not-accepted
+Tsuga formosana,1,t0055692,not-accepted
+Tsuga diversifolia,,,
+Tsuga sieboldii,,,
+Abies mariesii,1,[],
+Abies homolepis,,,
+Abies veitchii,,,
+Araucaria excelsa,1,t0040224,not-accepted
+Araucaria heterophylla,1,t0061021,accepted
+Sciadopitys verticillata,,,
+Juniperus recurva,1,[],
+Calocedrus formosana,1,t0052784,not-accepted
+Calocedrus preissi,,,
+Calocedrus quadrivalvis,,,
+Calocedrus rhomnoidea,,,
+Calocedrus robusta,,,
+Taxus mairei,1,t0058350,not-accepted
+Taxus chinensis,1,t0058350,not-accepted
+Taxus wallichiana,1,t0058350,misapplied
+Taxus cuspidata,1,t0058350,misapplied
+Cephalotaxus harringtonii,1,[],
+Cephalotaxus sinensis,1,[],
+Amentotaxus yunnanensis,1,[],
+Amentotaxus argotaenia,1,t0052582,misapplied
+Torreya grandis,,,
+Torreya nucifera,,,
+Nymphaea nouchali zanzibariensis,,,
+Nuphar rubrodisca,,,
+Peperomia reflexa,1,t0058715,not-accepted
+Aristolochia cucurbitifolia,1,t0052623,not-accepted
+Aristolochia yujungiana,1,t0061043,not-accepted
+Aristolochia tagala,1,t0040254,misapplied
+Michelia alba,1,t0054450,not-accepted
+Michelia champaca,1,t0046174,not-accepted
+Michelia figo,1,t0054451,not-accepted
+Michelia fuscata,1,t0054451,not-accepted
+Monoon liukiuense,1,[],
+Monoon longifolium,,,
+Hernandia nymphaeifolia,1,t0058000,not-accepted
+Machilus japonicus,1,[],
+Machilus kusanoi,1,t0054366,not-accepted
+Machilus mushaensis,1,t0054367,not-accepted
+Machilus obovatifolius,,,
+Machilus montanus,,,
+Phoebe sheareri,1,[],
+Sassafras albidum,,,
+Chloranthus serratus,1,t0052979,not-accepted
+Alocasia plumbea,1,t0033702,not-accepted
+Alocasia indica,1,[],
+Amorphophallus gigantiflorus,1,t0040150,not-accepted
+Amorphophallus niimurai,1,t0040148,not-accepted
+Arisaema kelung-insularis,1,t0040247,not-accepted
+Caladium hortulanum,1,t0040532,accepted
+Caladium hortulanum,2,t0040532,not-accepted
+Colocasia affinis,,,
+Monstera obliqua,,,
+Philodendron hederaceum oxycardium,,,
+Rhaphidophora korthalsii,,,
+Rhaphidophora perkinsiae,1,t0055062,misapplied
+Wolffia arrhiza,1,t0049351,misapplied
+Wolffia microscopica,1,t0049351,misapplied
+Aquarius cordifolius,1,t0046170,not-accepted
+Sagittaria sagittifolia,1,t0046157,misapplied
+Sagittaria pugioniformis,1,[],
+Blyxa laevissima,1,t0040395,not-accepted
+Blyxa angustipetata,,,
+Hydrocharis morsus-ranae,1,[],
+Elodea canadensis,1,[],
+Potamogeton pectinatus,1,t0055478,not-accepted
+Aletris foliata,1,[],
+Metanarthecium foliatum,1,t0033683,misapplied
+Dioscorea cirrhosa,1,t0053412,not-accepted
+Dioscorea gracillima,1,[],
+Tacca chantieri,1,t0069520,accepted
+Freycinetia williamsii,1,t0053735,misapplied
+Heloniopsis orientalis,1,[],
+Heloniopsis umbellata,1,t0057997,not-accepted
+Disporum nantouense,1,t0053435,not-accepted
+Disporum cantoniense,1,[],
+Smilax glauco-china,1,t0058263,misapplied
+Smilax glaucophylla,1,[],
+Lilium lancifolium,,,
+Lilium philippinense,1,[],
+Lilium japonicum,1,[],
+Fritillaria verticillata,,,
+Acampe rigida,1,t0033560,not-accepted
+Acanthephippium pictum,1,t0060785,not-accepted
+Acanthephippium striatum,1,t0033561,not-accepted
+Acanthephippium sylhetense,1,t0033562,not-accepted
+Anoectochilus semiresupinatus,,,
+Bletilla striata,1,[],
+Brachycorythis helferi,1,t0103327,accepted
+Bulbophyllum brevipedunculatum,1,t0052756,not-accepted
+Bulbophyllum remotifolium,1,t0033500,not-accepted
+Bulbophyllum remotifolium,1,t0040502,misapplied
+Bulbophyllum remotifolium,2,,
+Bulbophyllum sasakii,1,t0040510,not-accepted
+Bulbophyllum sui,1,t0040497,not-accepted
+Bulbophyllum weiminianum,1,t0087354,not-accepted
+Calanthe alismatifolia,,,
+Calanthe dominyi,1,[],
+Calanthe hsinchuensis,1,t0040537,accepted
+Calanthe hsinchuensis,2,,
+Cephalanthera alpicola,1,t0052923,not-accepted
+Cephalanthera taiwaniana,1,t0052923,not-accepted
+Cephalantheropsis dolichopoda,1,t0058747,not-accepted
+Cephalantheropsis halconensis,1,t0052925,not-accepted
+Cephalantheropsis longipes,1,t0058747,misapplied
+Cephalantheropsis obcordata,1,t0052927,not-accepted
+Cheirostylis clibborndyeri,1,t0052955,not-accepted
+Cheirostylis derchiensis,1,t0058780,not-accepted
+Cheirostylis tortilacinia rubrifolia,,,
+Cheirostylis takeoi,1,t0052961,not-accepted
+Cheirostylis monteiroi,1,t0052956,not-accepted
+Cleisostoma uraiense,1,t0053042,not-accepted
+Corybas taliensis,1,t0053125,accepted
+Crepidium roohutuense,1,t0073543,not-accepted
+Cymbidium goeringii,1,t0058902,misapplied
+Cymbidium babae,1,t0053226,not-accepted
+Cymbidium eburneum,1,[],
+Cymbidium gyokuchin,1,t0053228,not-accepted
+Cymbidium hookeriarum,,,
+Cypripedium guttatum,1,[],
+Dendrobium catenatum,1,t0053312,not-accepted
+Dendrobium sanseiense,1,t0053318,not-accepted
+Dendrobium phalaenopsis,1,t0069772,not-accepted
+Dienia ophrydis,1,t0057246,not-accepted
+Epipactis fascicularis,1,t0073846,not-accepted
+Epipogium kentingense,1,t0073849,not-accepted
+Eria herklotsii,1,t0053580,not-accepted
+Erythrodes triantherae,1,t0053603,not-accepted
+Eucosia hengchunensis,1,t0073909,not-accepted
+Eulophia brachycentra,1,t0053617,not-accepted
+Eulophia pulchra,1,t0053620,not-accepted
+Flickingeria tairukounia,1,t0058931,not-accepted
+Gastrochilus linii,1,t0053773,not-accepted
+Gastrochilus somae,1,t0057923,not-accepted
+Galeola falconeri,1,t0053744,not-accepted
+Galeola lindleyana,1,t0053745,not-accepted
+Gastrodia stapfii,1,t0053787,not-accepted
+Goodyera bilamellata,1,t0053859,not-accepted
+Goodyera bomiensis,1,t0053846,not-accepted
+Goodyera recurva,1,t0053855,misapplied
+Goodyera velutina,1,t0053860,not-accepted
+Habenaria crassilabia,1,t0053887,misapplied
+Peristylus tentaculatus,1,t0058718,misapplied
+Hemipilia alpestris,1,t0052583,not-accepted
+Hemipilia gracilis,1,t0040145,not-accepted
+Hemipilia takasagomontana,1,t0059087,not-accepted
+Hemipilia takasagomontana,2,t0059087,not-accepted
+Lecanorchis flavicans,1,t0074505,not-accepted
+Lecanorchis japonica,1,[],
+Lecanorchis kiusiana,1,t0058132,misapplied
+Lecanorchis subpelorica,1,t0058131,not-accepted
+Lecanorchis trachycaula,1,t0054189,not-accepted
+Liparis krameri,1,t0074598,accepted
+Liparis liangzuensis,1,t0054268,not-accepted
+Liparis petiolata,1,t0054273,misapplied
+Liparis bituberculata,1,t0054263,not-accepted
+Neottia fukuyamae,1,t0054556,not-accepted
+Nervilia aragoana,1,t0054574,not-accepted
+Nervilia ratis,1,t0054580,not-accepted
+Nervilia taiwaniana,1,t0054578,not-accepted
+Nervilia brevilobata,1,t0054573,not-accepted
+Nervilia discolor,1,t0054579,not-accepted
+Nervilia punctata,1,[],
+Oberonia arisanensis,1,t0054601,not-accepted
+Oberonia japonica,1,t0103278,accepted
+Oberonia gigantea,1,t0054603,not-accepted
+Oberonia falcata,1,t0103278,misapplied
+Oberonia anthropophora,1,[],
+Odontochilus drymoglossifoliu,,,
+Odontochilus bisaccatus,1,t0054615,not-accepted
+Oreorchis gracilis,1,t0054639,not-accepted
+Oreorchis foliosa,1,[],
+Paraphaius flavus,1,t0058689,not-accepted
+Paraphaius takeoi,1,t0058690,not-accepted
+Phaius mishmensis,1,t0054765,not-accepted
+Phaius actinomorphus,1,t0058307,not-accepted
+Phalaenopsis amabilis,1,[],
+Platanthera longibracteata,1,t0054875,not-accepted
+Platanthera mandarinorum,1,t0100856,accepted
+Pogonia japonica,1,[],
+Pomatocalpa undulatum,1,[],
+Hemipilia kiraishiensis,,,
+Hemipilia takasagomontana taitungensis,,,
+Hemipilia tominagae,,,
+Pseudoliparis moluccana,1,t0059113,misapplied
+Rhomboda tokioi,1,t0055084,not-accepted
+Rhomboda abbreviata,1,t0055084,not-accepted
+Spiranthes nivea papillata,1,t0102675,accepted
+Styloglossum lyroglossum,1,t0058310,not-accepted
+Styloglossum pumilum,1,t0052767,not-accepted
+Taeniophyllum radiatum,1,t0055540,misapplied
+Tainia laxiflora,1,[],
+Thrixspermum laurisilvaticum,1,t0055600,not-accepted
+Thrixspermum laurisilvaticum,2,t0055600,not-accepted
+Thrixspermum laurisilvaticum,3,t0055600,not-accepted
+Thrixspermum laurisilvaticum,4,t0055600,not-accepted
+Thrixspermum pricei,1,t0055599,not-accepted
+Thrixspermum sasaoi,1,t0055599,not-accepted
+Vanda caerulea,1,t0069758,not-accepted
+Vanilla griffithii,1,[],
+Vrydagzynea albida,1,[],
+Zeuxine pingtungensis,1,t0069849,not-accepted
+Zeuxine gracilis,1,[],
+× Ascocenda hybrida,,,
+Ascocentrum ampullaceum,1,t0069756,not-accepted
+Ascocentrum curvifolium,1,t0069759,not-accepted
+Ascocentrum miniatum,1,t0069760,not-accepted
+Brassia longissima,1,t0072901,not-accepted
+× Brassidium hybridium,,,
+× Brassocattleya hybrida,,,
+× Brassolaelia hybrida,,,
+× Brassolaeliocattleya hybrida,,,
+Chamaeanthus wenzelii,1,t0052940,accepted
+Didiciea neglecta,1,[],
+× Doritaenopsis hybrida,,,
+Ephemerantha pallens,1,t0073841,not-accepted
+Epigeneium fargesii,1,t0053318,not-accepted
+× Epiphronitis veitchii,,,
+Euanthe sanderiana,1,t0073869,not-accepted
+× Laeliocattleya hybrida,,,
+Myrmechis japonica,1,t0102290,misapplied
+Paphiopedilum chamberlainianum,,,
+× Potinara hybrida,,,
+× Sophrolaeliocattleya hybrida,,,
+Tulotis longicalcarata,1,t0054870,not-accepted
+Tulotis ussuriensis,1,[],
+× Vandachostylis hybrida,,,
+× Vandaenopsis hybrida,,,
+× Vandanthe rothschildiana,,,
+× Phalandopsis hybrida,,,
+Microstylis wallichii,1,[],
+Limodorum pulchrum,1,t0053620,not-accepted
+Peramium bilamellatum,1,t0053859,not-accepted
+Crocosmia ×crocosmiiflora,,,
+Gladiolus ×gandavensis,,,
+Gladiolus ×hybridus,,,
+Iris ×hollandica,,,
+Trimezia northiana,1,t0054554,not-accepted
+Freesia ×hybrida,,,
+Ixia polystachya,,,
+Watsonia rosea,,,
+Allium bakeri,1,t0033693,not-accepted
+Allium macrostemon,1,t0033695,not-accepted
+Allium tenuissimum,,,
+Cyrtanthus ×brownii,,,
+Urceolina × grandiflora,,,
+Haemanthus ×hybridus,,,
+Hippeastrum ×hybridum,,,
+Ismene narcissiflora,,,
+Narcissus ×hybridus,,,
+Agave gigantean,,,
+Agave stricta,,,
+Agave lophantha,1,t0033637,not-accepted
+Agave potatorum,,,
+Agave rigida,1,[],
+Aspidistra elatior,1,[],
+Rohdea japonica,1,[],
+Dracaena deremensis,1,t0053442,not-accepted
+Ophiopogon formosanum,1,t0054626,not-accepted
+Ophiopogon jaburan,1,t0054627,misapplied
+Ophiopogon scaber,1,t0054626,not-accepted
+Peliosanthes arisanensis,1,t0054732,not-accepted
+Peliosanthes tashiroi,1,t0054732,not-accepted
+Polygonatum arisanense chingshuishanianum,1,[],
+Yucca elephantipes,1,t0049363,not-accepted
+Nolina recurvata,1,t0072825,not-accepted
+Scilla violacea,1,t0075846,not-accepted
+Hemerocallis ×hybrida,,,
+Gasteria ×kewensis,,,
+Haworthia fasciata,1,[],
+Haworthia margaritifera,,,
+Haworthia reinwardtii,,,
+Chamaedorea erumpens,1,t0052944,not-accepted
+Livistona hoogendorpii,1,t0074615,accepted
+Phoenix loureiroi,1,[],
+Sabal bermudana,,,
+Salacca edulis,1,t0058180,not-accepted
+Collinia elegans,1,t0073156,not-accepted
+Neodypsis decaryi,1,t0054543,not-accepted
+Neodypsis lastelliana,1,t0073774,not-accepted
+Murdannia formosana,1,t0054506,not-accepted
+Murdannia simplex,1,t0054508,misapplied
+Murdannia taiwanensis,,,
+Tradescantia albiflora,1,t0055634,not-accepted
+Rhoeo discolor,1,t0055636,not-accepted
+Setcreasea purpurea,1,t0058426,not-accepted
+Monochoria vaginalis,1,t0054489,not-accepted
+Canna coccinea,1,t0040616,not-accepted
+Canna patens,1,t0040616,not-accepted
+Canna reevesii,1,t0040615,not-accepted
+Canna ×hybrida,,,
+Canna ×orchiodes,,,
+Musa paradisiaca,1,t0054514,accepted
+Musa paradisiaca,2,t0054512,misapplied
+Musa sapientum,1,t0123862,accepted
+Musa sapientum,2,t0054512,misapplied
+Musa ×formobisiana,,,
+Calathea oseopicta,,,
+Calathea musaica,1,t0040551,not-accepted
+Maranta bicolor,1,t0040553,not-accepted
+Alpinia ×formosana,,,
+Alpinia ×ilanensis,,,
+Alpinia ×kusshakuensis,,,
+Alpinia ×mesanthera,,,
+Alpinia ×tonrokuensis,,,
+Alpinia schumaniana,,,
+Curcuma domestica,1,t0053208,not-accepted
+Zingiber shuanglongensis,1,t0069852,not-accepted
+Zingiber koshunensis,1,t0049396,not-accepted
+Aechmea ×maginali,,,
+Guzmania ×magnifica,,,
+Neoregelia ×hybrida,,,
+Tillandsia ×emilie,,,
+Vriesea speciosa,1,t0049339,not-accepted
+Vriesea ×poelmannii,,,
+Eriocaulon chishingsanensis,1,t0053586,not-accepted
+Eriocaulon merrillii,1,t0053592,not-accepted
+Eriocaulon nigrum,1,[],
+Juncus tobdenii,1,t0054129,not-accepted
+Juncus spadicea,,,
+Carex retrofracta,1,[],
+Carex satsumensis,1,t0058730,not-accepted
+Carex chinensis,1,t0052858,misapplied
+Carex sacrosancta,1,t0052813,not-accepted
+Carex japonica,1,t0052826,not-accepted
+Carex pisiformis,1,[],
+Carex sachalinensis,1,[],
+Carex filipes,1,[],
+Carex ligata,1,[],
+Carex hebecarpa,1,[],
+Carex remota,1,[],
+Carex dissitiflora,1,[],
+Cyperus cylindrocephalus,1,t0058911,not-accepted
+Eleocharis pellucida,1,t0057314,not-accepted
+Fimbristylis shimadana,1,t0053711,not-accepted
+Mariscus sumatrensis,1,t0058509,not-accepted
+Axonopus fissifolius,1,t0040320,not-accepted
+Bothriochloa macera,1,t0040419,not-accepted
+Brachiaria brizantha,1,t0046065,not-accepted
+Vahlodea atropurpurea,1,[],
+Saccharum rufipilum,,,
+Glyceria obtusa,,,
+Hemarthria altissima,,,
+Leptochloa fusca,1,t0054212,not-accepted
+Miscanthus sacchariflorus,,,
+Miscanthus ×gigantheus,,,
+Panicum irgatum,,,
+Pennisetum amiricanum,1,t0073106,not-accepted
+Pennisetum setosum,1,t0052918,not-accepted
+Phleum pratense,1,[],
+Phyllostachys pubescens,1,t0058996,not-accepted
+Pleioblastus simonii,1,[],
+Saccharum barberi,1,t0055178,accepted
+Saccharum sinense,1,t0055181,not-accepted
+Schizachyrium scoparium,,,
+Sorghum sudanense,1,t0055409,accepted
+Spartina alterniflora,1,t0055411,not-accepted
+Thaumastochloa chenii,1,t0046219,not-accepted
+Thaumastochloa cochinchinensis,1,t0055586,not-accepted
+Calamovilfa brevipilis,,,
+Chaetochloa italica,1,t0055324,not-accepted
+Dichanthelium meridionale,,,
+Dichanthelium sphaerocarpon,,,
+Akebia trifoliata australis,1,t0033671,accepted
+Cocculus sarmentosus,1,t0073343,not-accepted
+Clematis austro-taiwanensis,1,t0053055,not-accepted
+Clematis japonica,,,
+Coptis morii,1,t0053110,not-accepted
+Thalictrum urbainii,1,t0055585,not-accepted
+Daphniphyllum himalense,1,t0073628,accepted
+Kalanchoe delagoensis,1,t0054142,not-accepted
+Kalanchoe ceratophylla,1,[],
+Sedum uniflorum,1,t0105489,not-accepted
+Sedum uniflorum,1,t0055303,misapplied
+Sedum uniflorum,2,,
+Sedum alboroseum,,,
+Sedum brachryhinchum,1,[],
+Cayratia trifolia,,,
+Bauhinia championii,1,t0052696,not-accepted
+Bauhinia aculeate,,,
+Bauhinia vahlii,1,t0058979,not-accepted
+Callerya reticulata,1,t0103179,not-accepted
+Campylotropis macrocarpa,1,[],
+Senna sophera,1,t0058250,not-accepted
+Cassia bicapsularis,1,t0058246,not-accepted
+Crotalaria zanzibarica,1,t0058878,not-accepted
+Crotalaria alata,,,
+Crotalaria serisea,,,
+Cyamopsis psoralioides,1,t0053218,not-accepted
+Dendrolobium trianglare,,,
+Desmodium diffusum,1,t0053346,not-accepted
+Desmodium gangeticum,1,t0058943,not-accepted
+Desmodium gracillimum,1,t0053347,not-accepted
+Desmodium heterocarpon,1,t0053348,not-accepted
+Desmodium heterophyllum,1,t0053349,not-accepted
+Desmodium laxiflorum,1,t0053346,misapplied
+Desmodium microphyllum,1,t0053352,not-accepted
+Desmodium renifolium,1,t0053354,not-accepted
+Desmodium sequax,1,t0053355,not-accepted
+Desmodium triflorum,1,t0053357,not-accepted
+Desmodium velutinum,1,t0053359,not-accepted
+Desmodium velutinum,2,,
+Desmodium zonatum,1,t0053360,not-accepted
+Desmodium illinoense,,,
+Dolichos lablab,1,t0054154,not-accepted
+Entada pursaetha,1,t0046112,not-accepted
+Erythrina indica,1,t0053601,not-accepted
+Indigofera bungeana,,,
+Lens culinaris,1,t0058136,not-accepted
+Macroptilium atropurpureus,1,t0054371,not-accepted
+Ormocarpum cochinchinense,1,t0054641,not-accepted
+Phaseolus mungo,1,t0049307,not-accepted
+Phaseolus radiatus,1,t0049307,not-accepted
+Pterocarpus vidalianus,1,t0054990,not-accepted
+Pueraria lobata,1,t0059136,not-accepted
+Robinia pseudoacacia,1,t0075687,accepted
+Senna sulfurea,1,t0075893,misapplied
+Senna ×floribunda,,,
+Wisteria venusta,1,t0069820,not-accepted
+Glycyrrhiza glabra,,,
+Polygala arcuata,1,t0054912,not-accepted
+Polygala paniculata,1,t0054915,not-accepted
+Polygala tatarinowii,1,t0054917,not-accepted
+Salomonia oblongifolia,1,t0055197,not-accepted
+Cotoneaster kudoi,,,
+Cotoneaster lui,,,
+Cotoneaster micropomus,,,
+Cotoneaster nantouensis,1,[],
+Osteomeles anthyllidifolia,1,t0054665,not-accepted
+Osteomeles anthyllidifolia,2,t0058670,misapplied
+Pourthiaea beauverdiana notabilis,1,t0059095,not-accepted
+Potentilla amurensis,1,t0054944,not-accepted
+Prunus cerasus,1,[],
+Prunus ×yedoensis,,,
+Pyrus serotina,1,t0059144,not-accepted
+Rosa lucieae,,,
+Rosa multiflora,1,[],
+Rosa ×odorata,,,
+Rubus howii,1,t0055141,misapplied
+Rubus ×parvifraxinifolius,,,
+Rubus hayatakoidzumii,1,t0105404,not-accepted
+Rubus hayatakoidzumii,2,t0105404,not-accepted
+Rubus hopingensis,1,t0055145,not-accepted
+Rubus pinfaensis,1,t0055161,not-accepted
+Rubus piptopetalus,1,t0055140,not-accepted
+Spiraea japonica,1,[],
+Berchemia racemosa,1,t0052724,misapplied
+Trema orientale,1,t0069669,not-accepted
+Artocarpus incisus,1,t0040269,misapplied
+Ficus aurantiaca,1,t0099640,not-accepted
+Ficus drupacea,,,
+Boehmeria blinii,1,t0040399,not-accepted
+Boehmeria wattersii,1,t0040399,not-accepted
+Elatostema sessile,1,[],
+Poikilospermum acuminatum,1,t0075435,not-accepted
+Castanopsis faberi,1,t0052892,not-accepted
+Lagenaria leucantha,1,t0054159,not-accepted
+Melothria indica,,,
+Trichosanthes laceribracteata,1,t0055652,not-accepted
+Trichosanthes okamotoi,1,t0055653,not-accepted
+Celastrus articulata,,,
+Celastrus patentiflorus,1,[],
+Euonymus chinensis,1,t0053877,not-accepted
+Euonymus chinensis,2,,
+Euonymus striata,,,
+Tripterygium hypoglaucum,1,t0055676,not-accepted
+Oxalis acetocella,1,[],
+Garcinia mangostana,1,t0053762,accepted
+Hypericum laxum,1,t0053988,not-accepted
+Viola nagasawae,1,t0069792,not-accepted
+Viola tashiroi,,,
+Viola verecunda,1,t0049311,misapplied
+Viola tricolor,1,[],
+Salix purpurea,,,
+Acalypha godseffiana,1,t0033559,not-accepted
+Acalypha hamiltoniana,1,t0033559,not-accepted
+Aleurites moluccana,1,[],
+Euphorbia jolkinii,1,t0053646,not-accepted
+Excoecaria bicolor,1,t0053672,not-accepted
+Manihot palmata,1,[],
+Pedilanthus tithymaloides,1,t0054731,not-accepted
+Antidesma pentandrum,1,t0040199,not-accepted
+Breynia nivosa,1,t0040448,not-accepted
+Cicca acida,1,t0058993,not-accepted
+Emblica officinalis,1,t0054800,not-accepted
+Pelargonium ×hortorum,,,
+Pelargonium ×hybridum,,,
+Pelargonium ×roseum,,,
+Pelargonium zonalle,,,
+Trapa japonica,1,t0055638,not-accepted
+Trapa maximowiczii,1,t0055639,misapplied
+Trapa pseudoincisa,1,t0069662,not-accepted
+Trapa quadrispinosa,1,t0055640,not-accepted
+Trapa quadrispinosa,2,,
+Fuchsia ×hybrida,,,
+Ludwigia alternifolia,,,
+Ludwigia glandulosa,,,
+Ludwigia linearis,,,
+Eugenia cumini,1,t0055523,not-accepted
+Eugenia javanica,1,t0055530,not-accepted
+Eugenia malaccensis,1,t0055528,not-accepted
+Psidium littorale,1,t0075512,not-accepted
+Tashiroea laisherana,1,[],
+Bredia penduliflora,1,t0040445,not-accepted
+Bredia penduliflora,2,,
+Memecylon affine,1,[],
+Pleroma semidecandrum,,,
+Pleroma heteromallum,,,
+Euscaphis japonica,1,t0053665,not-accepted
+Turpinia formosana,1,t0055696,not-accepted
+Turpinia ovalifolia,1,t0055697,not-accepted
+Turpinia ternata,1,t0055698,not-accepted
+Schinus terebinthifolius,1,t0055242,not-accepted
+Toxicodendron diversilobum,,,
+Toxicodendron pubescens,,,
+Acer caudatifolium,1,t0033569,not-accepted
+Acer tutcheri,1,[],
+Allophylus timorensis,,,
+Sapindus saponaria,1,t0055225,not-accepted
+Citrus × limon,1,t0053033,accepted
+Citrus taiwanica,1,t0053034,accepted
+Citrus taiwanica,2,t0053032,not-accepted
+Citrus trifoliata,1,t0054926,not-accepted
+Citrus bergamia,1,t0053032,not-accepted
+Citrus poonensis,1,t0058813,not-accepted
+Fortunella crassifolia,1,t0058814,not-accepted
+Fortunella japonica,1,t0058814,not-accepted
+Brucea amarissima,1,t0040467,not-accepted
+Simarouba amara,,,
+Swietenia mahogoni,1,t0055491,not-accepted
+Chorisia speciosa,1,t0052988,not-accepted
+Malva rotundifolia,1,t0054390,not-accepted
+Malva sylvestris,1,t0058506,misapplied
+Waltheria americana,1,t0049343,not-accepted
+Barbarea arisanensis,1,t0052695,not-accepted
+Brassica japonica,,,
+Brassica parachinensis,,,
+Cardamine flexuosa,1,t0040626,misapplied
+Cardamine parviflora,1,[],
+Cardamine resedifolia,,,
+Eutrema japonica,1,t0053668,not-accepted
+Raphanus acanthiformis,1,t0055045,not-accepted
+Raphanus sativus,1,t0055045,not-accepted
+Viscum liquidambaricola,1,t0049328,not-accepted
+Tamarix juniperina,1,t0055552,not-accepted
+Cerastium formosanum,1,t0073130,not-accepted
+Cerastium holosteoides,1,[],
+Cerastium parvipetalum,1,t0052932,not-accepted
+Dianthus ×hybridus,,,
+Silene glabella,1,t0055348,not-accepted
+Silene formosamontana,1,t0075910,not-accepted
+Alternanthera polygonoides,1,t0040130,not-accepted
+Chenopodium ambrosioides,1,t0053465,not-accepted
+Telanthera bettzichian,,,
+Telanthera versicoloa,1,t0058355,not-accepted
+Cryophytum bilobum,,,
+Cryophytum springbokense,,,
+Mesembryanthemum pentagonus,,,
+Mesembryanthemum spectabile,1,t0058115,not-accepted
+Aptenia cordifolia,1,t0028632,not-accepted
+Boerhavia hualienense,1,t0072874,not-accepted
+Bougainvillea ×buttiana,,,
+Cereus pitahaya,,,
+Hylocereus undatus,1,t0058239,not-accepted
+Echinocereus viridiflorus,,,
+Epixochia ×splendens,,,
+Gymnocalycium bruchii,,,
+Notocactus submammulosus,,,
+Hydrangea cuspidata,,,
+Hydrangea scandens,1,[],
+Schizophragma integrifolium,1,t0107058,not-accepted
+Benthamidia japonica,1,[],
+Swida controversa,1,t0069488,not-accepted
+Swida macrophylla,1,t0058315,not-accepted
+Anneslea lanceolata,1,t0040174,not-accepted
+Lucuma nervosa,1,t0054325,not-accepted
+Anagallis arvensis,1,t0046172,not-accepted
+Anagallis minima,1,t0046096,not-accepted
+Lysimachia ardisioides,1,t0054351,not-accepted
+Lysimachia remota remota,,,
+Lysimachia christiniae,,,
+Lysimachia leucantha,1,t0054352,misapplied
+Maesa elmerii,1,t0054373,not-accepted
+Gordonia axillaris,1,t0059078,not-accepted
+Pyrenaria buisanensis,1,t0059140,not-accepted
+Symplocos hualiensis,1,t0055499,not-accepted
+Symplocos pendula,1,t0058322,misapplied
+Actinidia chinensis,1,[],
+Saurauia tristyla,1,[],
+Enkianthus quinquefolius,1,t0057321,not-accepted
+Monotropa taiwaniana,1,t0054491,not-accepted
+Monotropastrum humile,1,t0054492,not-accepted
+Monotropastrum macrocarpum,1,t0054493,not-accepted
+Rhododendron indicum,1,[],
+Nothapodytes nimmoniana,1,t0105657,accepted
+Galium kwazanense,,,
+Galium maborasense,1,t0053752,not-accepted
+Ixora ×westii,,,
+Ixora chinensis,1,t0054107,not-accepted
+Ixora wallichii,,,
+Scleromitrion brachypodium,,,
+Oldenlandia paniculatum,,,
+Hedyotis tetrangularis,,,
+Aidia cochinchinensis,1,t0059166,not-accepted
+Benkara sinensis,1,[],
+Catunaregam spinosa,1,t0055029,not-accepted
+Gardenia angusta,,,
+Mussaenda formosana,1,t0074868,not-accepted
+Borreria latifolia,1,t0055420,not-accepted
+Borreria stricta,1,[],
+Coffea canephora,,,
+Cinchona ×hybrida,,,
+Serissa serissoides,1,t0055316,not-accepted
+Lasianthus tawadae,1,t0054174,not-accepted
+Nertera granadense,1,t0058626,not-accepted
+Nertera depressa,1,t0058626,not-accepted
+Neolamarckia cadamba,,,
+Gentiana loureirii,1,[],
+Swertia matsudae,1,t0055489,not-accepted
+Lomatogonium chilaiense,,,
+Tripterospermum lilungshanense,1,t0069694,not-accepted
+Cynanchum atratum,1,t0046066,not-accepted
+Nerium indicum,1,t0054571,not-accepted
+Trachelospermum majus,1,t0103298,not-accepted
+Vinca rosea,1,t0058737,not-accepted
+Anodendron benthamiana,1,t0040182,not-accepted
+Tylophora lui,1,t0046070,not-accepted
+Tylophora oshimae,1,t0046071,not-accepted
+Tylophora ovata,1,t0046068,not-accepted
+Tylophora sui,1,t0046072,not-accepted
+Tylophora taiwanensis,1,t0046073,not-accepted
+Tylophora brevipes,1,t0069718,not-accepted
+Tylophora insulana,1,t0046069,not-accepted
+Pergularia odoratissima,1,[],
+Wrightia pubescens laniti,,,
+Cynoglossum formosanum,1,t0053250,not-accepted
+Heliotropium formosanum,1,t0053913,not-accepted
+Heliotropium procumbens,1,t0074255,not-accepted
+Ipomoea reptans,1,t0054056,not-accepted
+Ipomoea staphylina,1,t0054073,misapplied
+Convolvulus parviflorus,1,t0058095,not-accepted
+Camonea vitifolia,1,t0040590,not-accepted
+Merremia aegyptia,1,t0057277,not-accepted
+Camonea umbellata,1,t0040589,not-accepted
+Solanum luzoniense,1,t0033499,not-accepted
+Solanum macaonense,1,t0033497,not-accepted
+Solanum peikuoensis,1,t0033495,not-accepted
+Solanum undatum,1,t0033491,not-accepted
+Solanum biflorum,1,t0058473,not-accepted
+Nicotiana ×sanderi,,,
+Physalis alkekengi,,,
+Datura meteloides,1,t0053299,not-accepted
+Petunia ×atkinsiana,,,
+Lycopersicon lycopersicum,1,[],
+Nemophila menziesii,,,
+Ligustrum seisuiense,1,t0054232,not-accepted
+Osmanthus integrifolius,1,t0054661,not-accepted
+Streptocarpus ×kewensis,,,
+Chirita anachoreta,1,t0052976,not-accepted
+Paraboea swinhoei,1,t0075117,not-accepted
+Achimenes ×hybrida,,,
+Didymocarpus anachoretus,1,t0052976,not-accepted
+Veronica galactites,1,t0049278,not-accepted
+Bacopa carolineana,1,t0072771,not-accepted
+Lindernia hyssopoides,1,t0074593,not-accepted
+Vandellia anagallis,1,t0058405,not-accepted
+Justicia ciliata,1,[],
+Aphelandra aurantiaca,,,
+Asystasiella neesiana,1,t0040306,not-accepted
+Hemigraphis repanda,1,t0074261,not-accepted
+Pseuderanthemum maculatum,,,
+Adhatoda vasica,1,t0057321,not-accepted
+Calliaspidia guttata,1,t0054133,not-accepted
+Pseuderanthemum carruthersii,,,
+Tabebuia chrysantha,1,t0069515,not-accepted
+Parmentiera indicum,,,
+Utricularia vulgaris,1,[],
+Lantana nivea,1,t0054169,misapplied
+Lantana tiliaefolia,,,
+Stachytarpheta dichotoma,1,t0055448,not-accepted
+Salvia viridis,,,
+Clerodendrum ohwii,1,t0053066,not-accepted
+Clerodendrum brachyanthum,,,
+Clerodendrum intermedium,1,t0073297,misapplied
+Scutellaria javanica,1,[],
+Nepeta japonica,1,t0052876,not-accepted
+Premna chevalieri,,,
+Callicarpa mollis,1,[],
+Callicarpa oshimensis,,,
+Callicarpa poilanei,,,
+Ajuga ciliata,,,
+Lamium chinense,1,t0074479,misapplied
+Leonurus sibiricus,1,t0054200,misapplied
+Mentha arvensis,1,t0054443,not-accepted
+Ocimum tenuiflorum,1,t0054612,not-accepted
+Gomphostemma formosana,1,t0053838,not-accepted
+Mosla formosana,1,t0054501,not-accepted
+Paraphlomis rugosa,1,t0058692,not-accepted
+Pogostemon auricularius,1,t0054904,not-accepted
+Mazus stachydifolius,1,[],
+Mimulus tenellus,1,t0074823,not-accepted
+Paulownia ×taiwaniana,,,
+Paulownia tomentosa,,,
+Pedicularis nanfutashanensis,1,t0058707,not-accepted
+Euphrasia bilineata,1,t0073931,not-accepted
+Euphrasia exilis,1,t0073931,not-accepted
+Euphrasia masamuneana,1,t0073931,not-accepted
+Euphrasia matsudae,1,t0073931,not-accepted
+Euphrasia pumilio,1,t0073931,not-accepted
+Lathraea japonica,,,
+Codonopsis convolvulacea,,,
+Codonopsis pilosula,,,
+Nymphoides cristata,1,t0054598,not-accepted
+Senecio campestris,1,[],
+Vernonia andersonii,1,t0049271,misapplied
+Eupatorium luchuense,1,t0053635,misapplied
+Artemisia mongolica,1,[],
+Artemisia mongolica,2,[],
+Hieracium pinanense,1,t0053939,not-accepted
+Helichrysum bracteatum,1,t0053907,not-accepted
+Cirsium albescens,1,t0053017,not-accepted
+Cirsium formosanum,,,
+Aster shimadae,1,t0061066,not-accepted
+Aster laurureanus,1,t0040298,not-accepted
+Solidago virgaurea,1,t0100454,accepted
+Solidago canadensis,1,[],
+Nidorella aegyptiaca,,,
+Erigeron bonariensis,1,t0053106,not-accepted
+Erigeron canadensis,1,t0053107,not-accepted
+Eschenbachia japonica,1,t0053109,not-accepted
+Eschenbachia leucantha,,,
+Erigeron sumatrensis,1,t0073443,not-accepted
+Erigeron thunbergii,,,
+Erigeron linifolius,1,t0053106,not-accepted
+Helianthus cucumerifolius,1,t0057989,not-accepted
+Lactuca debilis,1,t0054101,not-accepted
+Cichorium endivia,1,t0053001,not-accepted
+Dahlia ×hortensis,,,
+Tagetes tenuifolia,1,t0055541,not-accepted
+Anaphalis margaritacea,1,[],
+Blumea membranacea,1,[],
+Glebionis coronaria,1,t0052992,not-accepted
+Gynura cardunculus,,,
+Gynura pinnatifida,1,t0053882,not-accepted
+Gynura regetum,,,
+Ixeris japonica,1,[],
+Paraprenanthes melanantha,1,[],
+Parasenecio monantha,1,t0054697,misapplied
+Praxelis pauciflora,1,t0033521,not-accepted
+Sigesbeckia glabrescens,1,t0055342,not-accepted
+Syneilesis intermedia,1,t0058327,not-accepted
+Wedelia chinensis,1,t0055427,not-accepted
+Wedelia montana,1,t0058073,not-accepted
+Wedelia trilobata,1,t0058277,not-accepted
+Arctotis stoechadifolia,,,
+Chrysanthemum frutescens,1,t0052993,not-accepted
+Chrysanthemum leucanthemum,1,t0054222,not-accepted
+Ethulia conyoides,,,
+Synurus taiwanianus,1,t0058201,not-accepted
+Wollastonia montana,1,t0058073,not-accepted
+Viburnum arboricola,1,t0057482,not-accepted
+Viburnum dilatatum,,,
+Viburnum suspensum,,,
+Triplostegia formosa,,,
+Heptapleurum ellipticum ellipticum,,,
+Hydrocotyle keelungensis,1,t0053967,not-accepted
+Hedera japonica,1,t0058935,not-accepted
+Pimpinella tagawae,1,[],
+Angelica taiwaniana,1,t0040169,not-accepted
+Carum petroselinum,,,
+Gaultheria leucocarpa,1,[],
+Desmodium laxum,1,t0103673,not-accepted
+Quercus acuta,1,t0058462,not-accepted
+Swertia kuroiwai,1,t0055488,misapplied
+Archangiopteris henryi,1,[],
+Maesa montana,1,[],
+Rhizophora mucronata,1,t0055067,misapplied
+Symplocos glomerata,1,t0124183,accepted
+Aristolochia shimadae,1,t0061042,not-accepted
+Acer cissifolium,,,
+Ilex mutchagara,1,t0054028,misapplied
+Athyrium japonicum,1,t0100553,misapplied
+Deparia pycnosora,1,[],
+Juniperus communis,,,
+Daphniphyllum teijsmannii,,,
+Schizocodon soldanelloides,,,
+Dioscorea pentaphylla,1,t0053403,not-accepted
+Cyrtomium longipes,1,t0026637,not-accepted
+Menziesia multiflora,,,
+Astragalus mollissimus,,,
+Desmodium incanum,1,t0053351,not-accepted
+Cinnamomum doederleinii,,,
+Hemianthus micranthemoides,1,t0054452,not-accepted
+Hyphear kaoi,1,t0074644,not-accepted
+Cyclea hypoglauca,,,
+Ludwigia peploides,1,[],
+Chloris radiata,,,
+Sorghum vulgare,1,t0058272,not-accepted
+Sorghum verticilliflorum,,,
+Cyclosorus tottoides,1,t0026965,not-accepted
+Vitis heyneana,,,
+Quercus serrata,1,t0052890,not-accepted
+Leucas mollissima,1,[],
+Pourthiaea villosa,1,[],
+Arisaema concinnum,,,
+Huperzia serrata serrata,1,t0105573,accepted
+Huperzia serrata longipetiolata,1,t0058031,not-accepted
+Huperzia serrata longipetiolata,2,t0058031,not-accepted
+Huperzia serrata myriophyllifolia,1,t0026336,not-accepted
+Huperzia serrata myriophyllifolia,2,t0026336,not-accepted
+Isoetes taiwanensis kinmenensis,1,t0086565,accepted
+Selaginella doederleinii doederleinii,1,t0084627,accepted
+Selaginella doederleinii trachyphylla,1,t0084628,accepted
+Selaginella helvetica helvetica,,,
+Selaginella helvetica pseudonipponica,1,t0058237,accepted
+Equisetum ramosissimum ramosissimum,1,t0105591,accepted
+Equisetum ramosissimum debile,1,t0103465,accepted
+Cephalomanes javanicum asplenioides,1,t0026404,not-accepted
+Crepidomanes schmidtianum latifrons,1,t0086566,accepted
+Tapeinidium pinnatum pinnatum,1,t0102549,accepted
+Lindsaea orbiculata orbiculata,1,t0102548,accepted
+Lindsaea orbiculata recedens,1,t0103466,accepted
+Pteridium latiusculum japonicum,1,t0059119,not-accepted
+Microlepia marginata marginata,1,t0101878,accepted
+Microlepia marginata bipinnata,1,t0026604,not-accepted
+Ceratopteris gaudichaudii vulgaris,1,t0086567,accepted
+Pteris cretica cretica,1,t0102192,accepted
+Pteris cretica laeta,1,t0026508,not-accepted
+Pteris cretica laeta,2,t0026508,not-accepted
+Pteris dimorpha dimorpha,1,t0086568,accepted
+Pteris dimorpha metagrevilleana,1,t0086569,accepted
+Pteris dimorpha prolongata,1,t0086570,accepted
+Pteris grevilleana grevilleana,1,t0086963,not-accepted
+Pteris grevilleana grevilleana,2,t0086963,accepted
+Pteris grevilleana ornata,1,t0087608,accepted
+Pteris grevilleana ornata,2,t0087608,not-accepted
+Adiantum capillus-veneris lanyuanum,,,
+Asplenium yoshinagae indicum,1,t0103474,accepted
+Asplenium yoshinagae indicum,2,t0026925,not-accepted
+Athyrium delavayi subrigescens,1,t0040308,accepted
+Athyrium iseanum angustisectum,1,t0086576,accepted
+Athyrium iseanum angustisectum,2,t0086576,not-accepted
+Cornopteris decurrenti-alata decurrenti-alata,,,
+Cornopteris decurrenti-alata pilosella,,,
+Diplazium esculentum esculentum,1,t0057259,accepted
+Arachniodes rhomboidea rhomboidea,1,t0086571,not-accepted
+Arachniodes rhomboidea yakusimensis,1,t0040217,not-accepted
+Cyrtomium falcatum falcatum,1,t0084593,accepted
+Cyrtomium falcatum australe,1,t0085097,accepted
+Cyrtomium falcatum australe,2,t0085097,not-accepted
+Cyrtomium macrophyllum macrophyllum,1,t0105602,accepted
+Cyrtomium macrophyllum simadae,1,t0026643,not-accepted
+Dryopteris enneaphylla enneaphylla,1,t0102550,accepted
+Dryopteris enneaphylla pseudosieboldii,1,t0026683,not-accepted
+Dryopteris wallichiana wallichiana,1,t0057293,accepted
+Dryopteris wallichiana nepalensis,1,t0057292,misapplied
+Oreogrammitis congener congener,1,t0086529,accepted
+Oreogrammitis congener polytricha,1,t0086572,accepted
+Pinus armandii armandii,,,
+Pinus armandii mastersiana,1,t0059014,accepted
+Pinus massoniana massoniana,1,[],
+Keteleeria davidiana formosana,1,t0058106,accepted
+Keteleeria davidiana formosana,2,,
+Keteleeria fortunei cyclolepis,,,
+Keteleeria fortunei oblonga,,,
+Chamaecyparis obtusa obtusa,1,t0052943,not-accepted
+Chamaecyparis obtusa formosana,1,t0086676,accepted
+Chamaecyparis obtusa formosana,2,,
+Juniperus chinensis chinensis,1,t0087606,accepted
+Juniperus formosana formosana,1,t0086540,accepted
+Taxus cuspidata microcar,,,
+Cephalotaxus harringtonii wilsoniana,1,t0052928,not-accepted
+Myristica ceylanica cagayanensis,1,t0086903,accepted
+Myristica elliptica simiarum,1,t0086904,accepted
+Michelia compressa formosana,1,t0086525,not-accepted
+Michelia compressa lanyuensis,1,t0058497,not-accepted
+Litsea akoensis akoensis,1,t0086887,accepted
+Litsea akoensis chitouchiaoensis,1,t0087381,accepted
+Litsea akoensis sasakii,1,t0058465,accepted
+Litsea cubeba formosana,1,[],
+Litsea elongata mushaensis,1,t0058466,accepted
+Litsea lii nunkao-tahangensis,,,
+Litsea rotundifolia oblongifolia,1,t0058467,accepted
+Machilus obovatifolius taiwuensis,,,
+Neolitsea aciculata variabillima,1,t0058618,accepted
+Neolitsea sericea aurata,1,t0086908,accepted
+Persea americana drymifolia,1,t0054753,not-accepted
+Aglaonema commutatum elegans,1,t0033643,accepted
+Aglaonema commutatum maculatum,,,
+Aglaonema nitidum curtisii,1,t0087502,accepted
+Aglaonema pictum tricolor,,,
+Arisaema taiwanense taiwanense,1,t0086628,accepted
+Arisaema taiwanense brevipedunculatum,1,t0087351,accepted
+Arisaema thunbergii autumnale,1,t0085090,accepted
+Colocasia esculenta antiquorum,1,t0086727,accepted
+Colocasia affinis jenningsii,,,
+Dieffenbachia maculata angustior,,,
+Dieffenbachia maculata jenmannii,,,
+Dieffenbachia seguine barraquiniana,,,
+Dieffenbachia seguine decora,,,
+Dieffenbachia seguine liturata,,,
+Dieffenbachia seguine nobilis,,,
+Monstera obliqua explata,,,
+Philodendron hederaceum hederaceum,,,
+Sagittaria guayanensis lappula,1,t0055189,accepted
+Dioscorea japonica japonica,1,t0057251,accepted
+Dioscorea japonica oldhamii,1,t0087368,accepted
+Dioscorea japonica pseudojaponica,1,t0086785,accepted
+Paris polyphylla stenophylla,1,t0058696,accepted
+Paris polyphylla taitungensis,1,t0058697,accepted
+Smilax bracteata bracteata,1,t0087045,accepted
+Smilax planipedunculata raishaensis,1,t0055361,not-accepted
+Lilium longiflorum scabrum,1,t0086546,accepted
+Lilium speciosum gloriosoides,1,t0058170,accepted
+Lilium lancifolium scabrum,,,
+Tricyrtis formosana formosana,1,t0058450,not-accepted
+Tricyrtis formosana formosana,2,t0058450,not-accepted
+Tricyrtis formosana grandiflora,1,t0055655,not-accepted
+Tricyrtis formosana lasiocarpa,1,t0105443,not-accepted
+Tricyrtis formosana ovatifolia,1,t0058449,not-accepted
+Tricyrtis formosana stolonifera,1,t0058450,not-accepted
+Tricyrtis formosana stolonifera,2,,
+Fritillaria verticillata thunbergii,,,
+Aphyllorchis montana membranacea,1,t0086627,accepted
+Bletilla formosana kotoensis,1,t0102278,accepted
+Bulbophyllum albociliatum albociliatum,1,t0040493,not-accepted
+Bulbophyllum albociliatum shanlinshiense,1,t0033500,not-accepted
+Bulbophyllum albociliatum weiminianum,1,t0087354,accepted
+Bulbophyllum electrinum calvum,1,t0087355,not-accepted
+Bulbophyllum electrinum sui,1,t0040497,accepted
+Bulbophyllum hirundinis hirundinis,,,
+Bulbophyllum hirundinis calvum,1,t0087355,accepted
+Bulbophyllum hirundinis puniceum,1,t0087356,accepted
+Bulbophyllum kuanwuense kuanwuense,1,t0033502,not-accepted
+Bulbophyllum kuanwuense peitawuense,1,t0086656,accepted
+Bulbophyllum setaceum pilusiense,1,t0086659,accepted
+Calanthe davidii davidii,1,t0040544,accepted
+Calanthe davidii matsudae,1,t0086660,accepted
+Cattleya labiata dowiana,,,
+Cattleya labiata gaskelliana,,,
+Cattleya labiata mendelii,,,
+Cattleya labiata mossiae,,,
+Cattleya labiata trianaei,,,
+Cattleya labiata warneri,,,
+Cattleya labiata warscewiczii,,,
+Cephalantheropsis obcordata alboflavescens,1,t0086673,accepted
+Cheirostylis pusilla simplex,1,t0087362,accepted
+Cremastra appendiculata variabilis,,,
+Cymbidium ensifolium ensifolium,,,
+Cymbidium formosanum formosanum,1,t0058902,not-accepted
+Cymbidium formosanum gracillimum,1,t0058902,not-accepted
+Cymbidium lancifolium lancifolium,1,t0102093,accepted
+Cymbidium lancifolium aspidistrifolium,1,t0058904,accepted
+Cymbidium lancifolium aspidistrifolium,2,t0058904,not-accepted
+Cymbidium lancifolium papuanum,1,t0102093,not-accepted
+Cymbidium lancifolium syunitianum,1,t0058905,accepted
+Cymbidium sinense albo-jucundissimum,,,
+Cymbidium gyokuchin soshin,1,t0053228,not-accepted
+Dendrobium moniliforme moniliforme,,,
+Dendrobium nobile formosanum,1,t0058930,accepted
+Dendrobium xantholeucum tairukounia,1,t0058931,accepted
+Didymoplexis pallens pallens,1,t0057245,accepted
+Didymoplexis pallens nantouensis,1,t0086782,accepted
+Erythrodes triantherae triantherae,1,t0053603,not-accepted
+Erythrodes triantherae ecalcarata,1,t0053603,not-accepted
+Eulophia pulchra pelorica,1,t0053619,not-accepted
+Gastrochilus matsudae matsudae,,,
+Gastrodia confusoides confusoides,1,t0102284,accepted
+Gastrodia confusoides taitungensis,1,t0086828,accepted
+Gastrodia elata flavida,1,t0053783,not-accepted
+Gastrodia elata glauca,1,t0053783,not-accepted
+Gastrodia fontinalis fontinalis,1,t0086829,accepted
+Gastrodia fontinalis suburceolata,1,t0086830,accepted
+Goodyera foliosa foliosa,,,
+Goodyera foliosa taoana,1,t0053848,not-accepted
+Goodyera similis albonervosa,1,t0086843,accepted
+Goodyera similis albonervosa,2,t0086843,not-accepted
+Goodyera velutina albo-nervosa,,,
+Herminium lanceum longicrure,1,t0053923,not-accepted
+Lecanorchis flavicans acutiloba,1,t0054190,not-accepted
+Lecanorchis japonica thalassica,1,t0054188,not-accepted
+Lecanorchis kiusiana albida,1,t0058132,not-accepted
+Lecanorchis nigricans nigricans,1,t0103360,accepted
+Lecanorchis nigricans yakusimensis,1,t0086545,not-accepted
+Lecanorchis subpelorica subpelorica,,,
+Lecanorchis subpelorica latens,1,t0054187,not-accepted
+Neottia fukuyamae fukuyamae,,,
+Neottia fukuyamae chilaiensis,1,t0054556,not-accepted
+Odontochilus brevistylis candidus,1,[],
+Peristylus lacertifer lacertifer,1,t0086942,accepted
+Phalaenopsis aphrodite formosana,1,t0085100,not-accepted
+Phalaenopsis decumbens lobbii,1,t0086944,accepted
+Phalaenopsis sumatrana gersenii,,,
+Saccolabiopsis viridiflora taiwaniana,1,t0075720,accepted
+Yoania amagiensis squamipes,1,t0087114,accepted
+Zeuxine strateumatica rupicola,1,t0102295,accepted
+Zeuxine strateumatica rupicola,2,t0057517,not-accepted
+Aerides quinquevulnerum purpuratum,,,
+Doritis pulcherrima buyssoniana,,,
+Myrmechis japonica sasakii,1,t0102290,not-accepted
+Paphiopedilum chamberlainianum flavescens,,,
+Paphiopedilum glaucophyllum moquetteanum,,,
+Paphiopedilum insigne chantinii,,,
+Paphiopedilum insigne mauli,,,
+Paphiopedilum insigne maximum,,,
+Paphiopedilum insigne sanderae,,,
+Paphiopedilum tonsum cupreum,,,
+Paphiopedilum tonsum curtissifolium,,,
+Paphiopedilum venustum pardinum,,,
+Rhynchostylis gigantea petoliana,,,
+Tulotis ussuriensis transnokoensis,1,t0054875,not-accepted
+Watsonia rosea adernei,,,
+Allium bakeri morrisonense,1,t0086604,accepted
+Allium fistulosum caespitosum,1,t0033694,not-accepted
+Allium fistulosum giganteum,1,t0033694,not-accepted
+Allium tenuissimum anisopodium,,,
+Agave americana variegata,1,t0086602,accepted
+Agave angustifolia marginata,,,
+Agave lophantha latifolia,,,
+Agave potatorum verschaffeltii,,,
+Rohdea japonica watanabei,1,t0059195,not-accepted
+Disporopsis fuscopicta arisanensis,1,t0057269,accepted
+Liriope graminifolia,1,[],
+Peliosanthes teta humilis,1,t0054732,not-accepted
+Peliosanthes teta kaoi,1,t0058711,not-accepted
+Polygonatum odoratum pluriflorum,1,t0059074,accepted
+Aloe humilis echinata,1,t0086605,accepted
+Aloe variegata ausana,1,t0087624,accepted
+Hemerocallis fulva kwanso,,,
+Haworthia margaritifera maxima,,,
+Haworthia reinwardtii bullula,,,
+Haworthia reinwardtii chalwinii,,,
+Livistona chinensis subglobosa,1,t0058468,accepted
+Murdannia taiwanensis lilungensis,,,
+Canna indica orientalis,1,t0123876,accepted
+Musa itinerans chiumeiae,,,
+Musa itinerans kavalanensis,1,t0087387,accepted
+Alpinia pricei pricei,1,t0102077,accepted
+Alpinia pricei sessiliflora,1,t0033720,accepted
+Alpinia shimadae shimadae,1,t0102078,accepted
+Alpinia shimadae kawakamii,1,t0040127,accepted
+Hedychium coronarium flavescens,,,
+Aechmea fulgens discolor,1,t0033612,not-accepted
+Billbergia pyramidalis concolor,1,t0040379,not-accepted
+Cryptanthus acaulis ruber,,,
+Eriocaulon merrillii suishaense,1,t0053592,not-accepted
+Juncus effusus decipiens,1,t0087380,accepted
+Bolboschoenus maritimus affinis,1,t0085092,accepted
+Carex alopecuroides subtransversa,1,t0052808,not-accepted
+Carex dolichostachya trichosperma,1,t0052858,not-accepted
+Carex gentilis nakaharae,1,t0087360,accepted
+Carex gentilis nakaharae,2,,
+Carex grallatoria heteroclita,1,t0058727,accepted
+Carex grallatoria heteroclita,2,t0058727,not-accepted
+Carex manca takasagoana,1,t0052841,accepted
+Carex mitrata aristata,1,t0087361,accepted
+Carex mitrata aristata,2,t0087361,not-accepted
+Carex tristachya pocilliformis,1,t0058731,accepted
+Carex tristachya pocilliformis,2,t0058731,not-accepted
+Cyperus imbricatus imbricatus,1,t0084592,accepted
+Cyperus imbricatus elongatus,1,t0058912,accepted
+Cyperus malaccensis malaccensis,1,t0102094,accepted
+Cyperus malaccensis monophyllus,1,t0053266,accepted
+Cyperus nutans subprolixus,1,t0085096,accepted
+Cyperus nutans subprolixus,2,t0085096,not-accepted
+Eleocharis congesta japonica,1,t0057314,accepted
+Eleocharis congesta japonica,2,,
+Eleocharis congesta subvivipara,1,t0086789,accepted
+Eleocharis congesta thermalis,1,t0102247,accepted
+Eleocharis dulcis dulcis,1,t0086790,accepted
+Eleocharis dulcis tuberosa,1,t0057315,accepted
+Fimbristylis aestivalis aestivalis,1,t0057373,accepted
+Fimbristylis aestivalis esquarrosa,1,t0057374,accepted
+Fimbristylis ferruginea ferruginea,1,t0057377,accepted
+Fimbristylis ferruginea anpinensis,1,t0057376,accepted
+Fimbristylis littoralis koidzumiana,1,t0053703,accepted
+Fimbristylis tristachya subbispicata,1,t0057381,accepted
+Rhynchospora rugosa brownii,1,t0055100,accepted
+Schoenus nitens nitens,1,t0084626,accepted
+Agrostis infirma infirma,1,t0033656,accepted
+Agrostis infirma arisan-montana,,,
+Agrostis infirma formosana,1,t0033654,accepted
+Agrostis infirma fukuyamae,1,t0033655,accepted
+Anthoxanthum horsfieldii formosanum,1,t0040195,accepted
+Arrhenatherum elatius variegatum,1,t0087626,accepted
+Arundo donax coleotricha,1,t0040279,not-accepted
+Arundo donax versiocolor,,,
+Bambusa beecheyana pubescens,1,t0086637,accepted
+Bambusa pachinensis hirsutissima,1,t0040331,accepted
+Bambusa vulgaris vulgaris,1,t0040334,accepted
+Bambusa vulgaris striata,1,t0040333,accepted
+Bothriochloa bladhii punctata,1,t0052745,accepted
+Bromus remotiflorus piananensis,1,t0106531,accepted
+Capillipedium parviflorum spicigerum,1,t0086665,accepted
+Chloris divaricata divaricata,1,t0058784,accepted
+Coix lacryma-jobi formosana,,,
+Coix lacryma-jobi maxima,,,
+Coix lacryma-jobi mayuen,,,
+Cymbopogon tortilis goeringii,1,t0086764,accepted
+Digitaria radicosa radicosa,1,t0086784,accepted
+Digitaria radicosa hirsuta,1,t0086783,accepted
+Eccoilopus formosanus tohoensis,1,[],
+Echinochloa crus-galli formosensis,,,
+Echinochloa crus-galli oryzicola,,,
+Echinochloa crus-galli praticola,,,
+Festuca rubra niitakensis,1,t0053687,not-accepted
+Hordeum vulgare nudum,,,
+Imperata cylindrica major,1,t0087378,accepted
+Ischaemum aristatum aristatum,1,t0086858,accepted
+Ischaemum barbatum gibbum nodulosum,,,
+Leptochloa fusca fascicularis,1,t0054213,accepted
+Leptochloa fusca uninervia,1,t0054214,accepted
+Oplismenus compositus compositus,,,
+Oryza sativa glutinosa,,,
+Phyllostachys pubescens heterocycla,,,
+Schizachyrium fragile shimadae,1,t0087036,accepted
+Setaria viridis pycnocoma,1,t0055330,not-accepted
+Setaria viridis pachystachys,1,t0055330,not-accepted
+Sorghum bicolor verticilliflorum,,,
+Sorghum nitidum aristatum,1,t0087758,accepted
+Spodiopogon tainanensis hayatae,1,t0055441,not-accepted
+Spodiopogon tainanensis hogoensis,1,t0055441,not-accepted
+Spodiopogon tainanensis hogoensis,2,,
+Spodiopogon tainanensis takeoi,1,t0055441,not-accepted
+Spodiopogon tainanensis takeoi,2,,
+Sporobolus indicus major,1,t0087393,accepted
+Thaumastochloa cochinchinensis shimadana,1,t0055586,not-accepted
+Themeda caudata matsudae,1,t0086554,not-accepted
+Trisetum spicatum formosanum,1,t0087097,accepted
+Zea mays rugosa,1,t0087116,accepted
+Chaetochloa italica germanica,1,t0055324,not-accepted
+Corydalis pallida sparsimamma,1,t0058865,accepted
+Stauntonia obovata angustata,1,t0103677,accepted
+Cocculus sarmentosus stenophyllus,,,
+Stephania japonica hispidula,1,t0087062,accepted
+Stephania japonica japonica,1,t0087063,accepted
+Aconitum fukutomei fukutomei,1,t0086593,accepted
+Aconitum fukutomei formosanum,1,t0086592,accepted
+Clematis chinensis tatushanensis,1,t0087366,accepted
+Clematis gouriana lishanensis,1,t0085094,accepted
+Clematis henryi morii,1,t0086692,accepted
+Clematis henryi morii,2,,
+Clematis parviloba bartlettii,1,t0053052,accepted
+Clematis parviloba bartlettii,2,t0053052,not-accepted
+Clematis parviloba bartlettii,3,,
+Clematis tashiroi huangii,1,t0087367,accepted
+Clematis terniflora garanbiensis,1,t0086693,accepted
+Clematis uncinata okinawensis,1,t0058832,accepted
+Clematis japonica simsii,,,
+Thalictrum javanicum puberulum,1,t0087396,accepted
+Thalictrum urbainii majus,1,t0086553,not-accepted
+Buxus microphylla sinica,1,t0084584,accepted
+Buxus microphylla sinica,2,t0072950,misapplied
+Buxus microphylla sinica tarokoensis,1,t0087357,accepted
+Loropetalum chinense rubrum,,,
+Chrysosplenium lanuginosum formosanum,1,t0058808,accepted
+Ampelopsis brevipedunculata ciliata,1,t0052590,not-accepted
+Ampelopsis brevipedunculata hancei,1,t0086610,accepted
+Ampelopsis cantoniensis leecoides,1,t0086612,accepted
+Ampelopsis glandulosa heterophylla,1,t0052590,not-accepted
+Parthenocissus himalayana rubrifolia,1,t0086926,accepted
+Vitis flexuosa parvifolia,1,t0087670,accepted
+Vitis thunbergii taiwaniana,1,t0087348,accepted
+Aeschynomene americana glandulosa,1,t0033622,accepted
+Alysicarpus vaginalis taiwanensis,1,t0086608,accepted
+Amphicarpaea bracteata edgeworthii japonica,1,t0086613,accepted
+Bauhinia variegata candida,1,t0040356,not-accepted
+Bauhinia aculeate grandiflora,,,
+Campylotropis macrocarpa hupehensis,1,[],
+Campylotropis macrocarpa hupehensis,2,[],
+Desmodium heterocarpon strigosum,1,t0086563,not-accepted
+Dolichos trilobus kosyunensis,1,t0102255,accepted
+Entada phaseoloides tonkinensis,1,t0046111,not-accepted
+Entada pursaetha formosana,1,t0046112,not-accepted
+Erythrina indica picta,,,
+Galactia tenuiflora tenuiflora,1,t0057443,accepted
+Galactia tenuiflora villosa,1,t0057444,accepted
+Glycine max formosana,1,t0084597,accepted
+Hylodesmum podocarpum oxyphyllum,1,t0058043,accepted
+Lespedeza thunbergii formosa,1,t0058149,accepted
+Lespedeza bicolor japonica,1,t0054217,not-accepted
+Lotus corniculatus japonicus,1,t0085099,not-accepted
+Lotus corniculatus japonicus,2,t0085099,accepted
+Medicago minima brevispina,,,
+Millettia pulchra microphylla,1,t0086899,accepted
+Mucuna gigantea tashiroi,1,t0084608,accepted
+Mucuna pruriens pruriens,1,t0058577,accepted
+Mucuna pruriens utilis,1,t0058578,accepted
+Phaseolus coccineus albonanus,,,
+Phaseolus radiatus flexuosus,,,
+Pueraria lobata thomsonii,1,t0084621,not-accepted
+Pueraria lobata thomsonii,2,t0084621,not-accepted
+Pueraria phaseoloides javanica,,,
+Tadehagi triquetrum pseudotriquetrum,1,t0058341,accepted
+Tephrosia purpurea glabra,,,
+Vicia sativa nigra,1,t0057484,accepted
+Vigna angularis nipponensis,1,t0057487,accepted
+Vigna minima minima,1,t0102258,accepted
+Vigna minima minor,1,t0087105,accepted
+Vigna radiata sublobata,1,t0049308,accepted
+Vigna unguiculata sesquipedalis,1,t0057490,accepted
+Vigna vexillata tsusimensis,1,t0087106,accepted
+Glycyrrhiza glabra glandulifera,,,
+Eriobotrya deflexa buisanensis,1,t0087642,accepted
+Eriobotrya deflexa buisanensis,2,t0087642,not-accepted
+Eriobotrya deflexa koshunensis,1,t0087642,not-accepted
+Eriobotrya deflexa koshunensis,2,t0087642,not-accepted
+Osteomeles anthyllidifolia subrotunda,1,t0058670,accepted
+Osteomeles anthyllidifolia subrotunda,2,t0058670,not-accepted
+Photinia serratifolia serratifolia,1,t0102116,accepted
+Photinia serratifolia ardisiifolia,1,t0058989,accepted
+Photinia serratifolia lasiopetala,1,t0058991,accepted
+Photinia serratifolia daphniphylloides,1,t0058990,accepted
+Potentilla matsumurae pilosa,1,t0102120,accepted
+Prunus japonica multiplex,,,
+Prunus phaeosticta ilicifolia,1,t0086962,accepted
+Prunus spinulosa globosa,,,
+Prunus serrulata classica,,,
+Prunus serrulata purpurascens,,,
+Rhaphiolepis indica impressivena,,,
+Rosa bracteata bracteata,1,t0086980,accepted
+Rosa bracteata scabricaulis,1,t0059199,accepted
+Rosa lucieae rosea,,,
+Rosa multiflora formosana,1,t0055119,not-accepted
+Rosa sambucina wushaniana,,,
+Rosa sericea morrisonensis,1,t0059200,accepted
+Rosa centifolia pomponia,,,
+Rosa chinensis semperflorens,,,
+Rubus buergeri pseudo-buergeri,,,
+Rubus parvifolius toapiensis,1,t0086537,accepted
+Rubus pseudoacer flexuosus,1,t0084623,accepted
+Rubus pseudoacer flexuosus,2,t0084623,not-accepted
+Rubus pungens oldhamii,1,t0055152,accepted
+Rubus taitoensis aculeatiflorus,1,t0102129,accepted
+Sanguisorba officinalis longifolia,1,t0058184,accepted
+Spiraea prunifolia pseudoprunifolia,1,t0058284,accepted
+Elaeagnus oldhamii nakaii,,,
+Berchemia racemosa magna,1,t0072855,not-accepted
+Rhamnus chingshuiensis chingshuiensis,1,t0102123,accepted
+Rhamnus chingshuiensis tashanensis,1,t0087389,accepted
+Sageretia thea thea,1,t0058179,accepted
+Sageretia thea taiwaniana,1,t0058178,accepted
+Ziziphus jujuba jujuba,,,
+Ziziphus vulgaris pinosus,,,
+Cannabis sativa indica,,,
+Ficus cumingii terminalifolia,1,t0046295,accepted
+Ficus elastica variegata,,,
+Ficus erecta beecheyana,1,t0046297,accepted
+Ficus fistulosa benguetensis,1,t0046301,accepted
+Ficus formosana shimadae,1,t0087644,accepted
+Ficus microcarpa crassifolia,1,t0086533,accepted
+Ficus microcarpa fuyuensis,1,t0087372,accepted
+Ficus microcarpa oluangpiensis,1,t0087373,accepted
+Ficus microcarpa pusillifolia,1,t0087374,accepted
+Ficus pedunculosa mearnsii,1,t0046308,accepted
+Ficus pumila awkeotsang,1,t0046312,accepted
+Ficus ruficaulis antaoensis,1,t0046313,accepted
+Ficus tannoensis rhombifolia,1,t0087645,accepted
+Ficus drupacea pubescens,,,
+Boehmeria blinii podocarpa,1,t0040399,not-accepted
+Boehmeria nivea tenacissima,1,t0086646,accepted
+Droguetia iners urticoides,1,t0053447,accepted
+Elatostema lineolatum majus,1,t0087370,accepted
+Elatostema sessile cuspidatum,1,[],
+Gonostegia pentandra hypericifolia,1,t0124142,accepted
+Pilea aquarum brevicornuta,1,t0059004,accepted
+Pilea peploides peploides,1,t0086948,accepted
+Pilea peploides major,1,t0086947,accepted
+Quercus aliena acutiserrata,1,t0106432,accepted
+Quercus glandulifera brevipetiolata,1,t0059148,accepted
+Quercus serrata brevipetiolata,1,t0059148,not-accepted
+Coriaria japonica intermedia,1,t0058863,accepted
+Lagenaria leucantha depressa,,,
+Lagenaria leucantha gourda,,,
+Lagenaria leucantha microcarpa,,,
+Begonia formosana albomaculata,1,t0087756,accepted
+Euonymus japonicus aureo-variegatus,,,
+Euonymus striata alatus,,,
+Oxalis acetocella griffithii,1,t0084611,not-accepted
+Oxalis variabilis alba,,,
+Oxalis variabilis rubra,,,
+Elaeocarpus sphaericus hayatae,1,t0086787,accepted
+Elaeocarpus sylvestris lanyuensis,1,t0087369,not-accepted
+Elaeocarpus sylvestris sylvestris,1,t0053494,accepted
+Hypericum geminiflorum simplicistylum,1,t0058051,accepted
+Hypericum geminiflorum simplicistylum,2,,
+Viola adenothrix tsugitakaensis,1,t0087108,accepted
+Viola formosana stenopetala,1,t0087109,accepted
+Viola inconspicua nagasakiensis,1,t0057491,accepted
+Viola nagasawae pricei,1,t0087110,not-accepted
+Viola obtusa tsuifengensis,1,t0087347,accepted
+Viola verecunda radicans,1,t0049311,not-accepted
+Salix fulvopubescens doii,1,t0058181,accepted
+Salix fulvopubescens tagawana,1,t0086988,accepted
+Salix taiwanalpina morrisonicola,1,t0086989,accepted
+Salix taiwanalpina takasagoalpina,1,t0086991,accepted
+Salix purpurea angustifolia,,,
+Acalypha indica indica,1,t0086586,accepted
+Acalypha indica minima,1,t0033555,accepted
+Acalypha wilkesiana macafeana,,,
+Acalypha wilkesiana macrophylla,1,t0033559,not-accepted
+Acalypha wilkesiana musaica,,,
+Acalypha godseffiana heterophylla,1,t0033559,not-accepted
+Alchornea trewioides formosae,1,t0033682,accepted
+Codiaeum variegatum ambiguum,,,
+Codiaeum variegatum appediculatum,,,
+Codiaeum variegatum cornutum,,,
+Codiaeum variegatum crispum,,,
+Codiaeum variegatum lobatum,,,
+Codiaeum variegatum platyphyllum,,,
+Codiaeum variegatum taeniosum,,,
+Euphorbia milii splendens,,,
+Euphorbia milii tananarive,,,
+Euphorbia milii tuleaiensis,,,
+Excoecaria bicolor purpurascens,1,t0053672,not-accepted
+Pedilanthus tithymaloides smallii,,,
+Pedilanthus tithymaloides variegatus cuculatus,,,
+Antidesma japonicum acutisepalum,1,t0040198,accepted
+Antidesma japonicum densiflorum,1,t0086625,accepted
+Antidesma pentandrum barbatum,1,t0040199,not-accepted
+Breynia officinalis officinalis,1,t0086653,accepted
+Glochidion zeylanicum lanceolatum,1,t0057942,accepted
+Glochidion zeylanicum tomentosum,1,t0057943,accepted
+Phyllanthus urinaria nudicarpus,1,t0085101,accepted
+Geranium nepalense thunbergii,1,t0057934,accepted
+Geranium nepalense thunbergii,2,t0057934,not-accepted
+Trapa bicornis taiwanensis,1,t0055638,not-accepted
+Circaea alpina imaicola,1,t0084590,accepted
+Circaea alpina imaicola,2,t0084590,not-accepted
+Circaea alpina imaicola,3,,
+Epilobium brevifolium trichoneurum,1,t0053538,accepted
+Fuchsia magellanica globosa,,,
+Syzygium densinervium insulare,1,t0087394,not-accepted
+Leptospermum scoparium rotundifolium,,,
+Bredia hirsuta rotundifolia,1,t0052750,accepted
+Sarcopyramis napalensis delicata,1,t0086995,accepted
+Rhus chinensis roxburghii,1,t0086975,accepted
+Rhus succedanea dumoutieri,1,t0087390,accepted
+Toxicodendron radicans negundo,,,
+Toxicodendron radicans oriental,,,
+Toxicodendron radicans pubens,,,
+Acer palmatum pubescens,1,t0086589,accepted
+Acer palmatum pubescens,2,,
+Acer tutcheri shimadae,1,[],
+Citrus grandis buntan,,,
+Citrus grandis hakunikuyu,,,
+Citrus maxima banyu,,,
+Citrus maxima buntan,,,
+Citrus maxima hakunikuyu,,,
+Citrus maxima hakuyu,,,
+Citrus maxima jiyu,,,
+Citrus maxima mitsuyu,,,
+Citrus maxima santoyu,,,
+Citrus maxima soyu,,,
+Citrus maxima uyoyu,,,
+Citrus nobilis sunki,,,
+Citrus sinensis brasiliensis,,,
+Citrus tankan hairi,,,
+Citrus tankan koshotankan,,,
+Glycosmis parviflora erythrocarpa,1,t0086832,accepted
+Phellodendron amurense wilsonii,1,t0086945,accepted
+Skimmia japonica distincte-venulosa distincte-venulosa,,,
+Skimmia japonica distincte-venulosa orthoclada,,,
+Zanthoxylum ailanthoides pubescens,1,t0087115,accepted
+Ailanthus altissima tanakae,1,t0086603,not-accepted
+Abelmoschus manihot pungens,1,t0052517,accepted
+Abutilon guineense,1,t0086585,not-accepted
+Corchorus aestuans brevicaulis,1,t0086729,accepted
+Hibiscus indicus integrilobus,1,[],
+Malva sylvestris mauritiana,,,
+Sida javensis expilosa,1,t0084630,accepted
+Sida rhombifolia insularis,1,t0084631,accepted
+Sida rhombifolia maderensis,1,t0087043,accepted
+Daphne kiusiana atrocaulis,1,t0086766,accepted
+Capparis micracantha henryi,1,t0040622,accepted
+Capparis sikkimensis formosana,1,t0084585,accepted
+Crateva adansonii formosensis,1,t0053153,accepted
+Cleome viscosa deglabrata,,,
+Arabidopsis halleri gemmifera,1,t0052608,not-accepted
+Arabidopsis halleri gemmifera,2,t0052608,accepted
+Arabidopsis lyrata kamtschatica,1,t0085089,not-accepted
+Brassica japonica indivisa,,,
+Brassica japonica isena,,,
+Brassica japonica suiguki-na,,,
+Brassica oleracea acephala,,,
+Brassica oleracea alboglabra,,,
+Brassica oleracea botrytis,,,
+Brassica oleracea capitata,1,t0040443,not-accepted
+Brassica oleracea caulorapa,,,
+Brassica oleracea gemmifera,,,
+Brassica oleracea gongyloides,,,
+Brassica oleracea italica,,,
+Cardamine changbaiana,,,
+Raphanus acanthiformis gigantissimus,,,
+Raphanus acanthiformis horyo,,,
+Raphanus acanthiformis miyashige,,,
+Raphanus acanthiformis nerima,,,
+Raphanus acanthiformis sempervinus,,,
+Raphanus acanthiformis shogoin,,,
+Raphanus sativus longipinnatus,1,t0055045,not-accepted
+Raphanus sativus non-pinnatus,,,
+Raphanus sativus radicula,1,t0055045,not-accepted
+Taxillus limprichtii limprichtii,1,t0087067,accepted
+Taxillus limprichtii longiflorus,1,t0087068,accepted
+Taxillus lonicerifolius longifolius,1,t0087395,accepted
+Taxillus lonicerifolius lonicerifolius,1,t0087069,accepted
+Persicaria barbata barbata,1,t0058724,accepted
+Persicaria barbata gracilis,1,t0086943,accepted
+Rumex crispus japonicus,1,t0059215,not-accepted
+Dianthus superbus taiwanensis,1,t0086771,accepted
+Silene fortunei bilobata,1,t0058255,not-accepted
+Stellaria media procera,1,t0087061,not-accepted
+Stellaria media micrantha,1,t0058294,not-accepted
+Stellaria monosperma japonica,1,t0052932,accepted
+Stellaria monosperma taiwaniana,1,t0052932,not-accepted
+Achyranthes aspera indica,1,t0033575,accepted
+Achyranthes aspera rubrofusca,1,t0052533,not-accepted
+Achyranthes aspera rubrofusca,2,t0052533,accepted
+Achyranthes bidentata japonica,1,t0087349,accepted
+Beta vulgaris rubra,,,
+Chenopodium acuminatum virgatum,1,t0084589,accepted
+Chenopodium album centrorubrum,1,t0052963,not-accepted
+Portulaca oleracea granatus,1,t0086961,accepted
+Echinocereus viridiflorus chloranthus,,,
+Mammillaria prolifera mexicana,,,
+Espostoa lanata sericata,,,
+Gymnocalycium bruchii hossei,,,
+Lobivia famatimensis densispina,,,
+Notocactus submammulosus pampeanus,,,
+Hydrangea cuspidata japonica,,,
+Hydrangea scandens chinensis lobbii,,,
+Schizophragma integrifolium fauriei,1,t0058035,not-accepted
+Benthamidia japonica chinensis,1,t0085095,not-accepted
+Adinandra formosana obtusissima,1,t0086601,accepted
+Cleyera japonica longicarpa,1,t0086697,accepted
+Cleyera japonica morii,1,t0086698,accepted
+Cleyera japonica taipinensis,1,t0086700,accepted
+Eurya nitida nanjenshanensis,1,t0087371,not-accepted
+Ardisia cornudentata cornudentata,1,t0084578,accepted
+Ardisia cornudentata morrisonensis,1,t0084579,accepted
+Ardisia cornudentata morrisonensis stenosepala,1,t0099363,accepted
+Ardisia crispa dielsii,1,t0061026,not-accepted
+Embelia laeta papilligera,1,t0057317,accepted
+Embelia laeta papilligera,2,,
+Maesa perlaria perlaria,1,t0102307,accepted
+Maesa perlaria formosana,1,t0086524,accepted
+Camellia sinensis assamica,1,t0040586,not-accepted
+Schima superba kankaoensis,1,t0087035,accepted
+Symplocos cochinchinensis cochinchinensis,1,t0087065,accepted
+Symplocos cochinchinensis philippinensis,1,t0058320,accepted
+Symplocos congesta theifolia,1,t0105513,accepted
+Shortia rotundifolia rotundifolia,1,t0058253,accepted
+Shortia rotundifolia rotundifolia,2,t0058253,not-accepted
+Shortia rotundifolia ritoensis,1,t0087040,accepted
+Shortia rotundifolia subcordata,1,t0087041,accepted
+Shortia rotundifolia transalpine,1,t0087042,not-accepted
+Styrax formosanus hayataianus,1,t0087064,not-accepted
+Styrax japonicus kotoensis,1,t0086549,accepted
+Lyonia ovalifolia ovalifolia,1,t0086891,accepted
+Lyonia ovalifolia lanceolata,1,t0058476,accepted
+Vaccinium dunalianum caudatifolium,1,t0057470,accepted
+Vaccinium japonicum lasiostemon,1,t0057471,accepted
+Vaccinium wrightii wrightii,1,t0087101,accepted
+Vaccinium wrightii formosanum,1,t0057472,accepted
+Rhododendron ovatum ovatum,1,t0086972,accepted
+Rhododendron ovatum lamprophyllum,1,t0086971,accepted
+Rhododendron rubropilosum rubropilosum,1,t0086973,accepted
+Rhododendron rubropilosum taiwanalpinum,1,t0086974,accepted
+Aucuba chinensis fongfangshanensis,1,t0086636,accepted
+Leptopetalum coreanum coreanum,,,
+Oldenlandia corymbosa tereticaulis,,,
+Neanotis kwangtungensis,1,[],
+Gardenia jasminoides grandiflora,1,t0053766,not-accepted
+Gardenia jasminoides radicans,1,t0053766,not-accepted
+Gardenia angusta grandiflora,,,
+Gardenia angusta ovalifolia,,,
+Mussaenda macrophylla brevipilosa,1,t0086902,accepted
+Pentas lanceolata coccinea,,,
+Rubia akane akane,1,t0086985,accepted
+Rubia akane erecta,1,t0059202,accepted
+Damnacanthus angustifolius stenophyllus,1,t0053293,not-accepted
+Damnacanthus angustifolius stenophyllus,2,,
+Lasianthus appressihirtus appressihirtus,1,t0102046,accepted
+Lasianthus appressihirtus maximus,1,t0086543,accepted
+Lasianthus japonicus japonicus,1,t0058123,accepted
+Lasianthus japonicus satsumensis,1,t0086874,accepted
+Lasianthus obliquinervis obliquinervis,1,t0086875,accepted
+Lasianthus obliquinervis simizui,1,t0086876,accepted
+Lasianthus obliquinervis taitoensis,1,t0058124,accepted
+Uncaria lanosa appendiculata,1,t0057464,accepted
+Gentiana davidii formosana,1,t0057932,accepted
+Gentiana flavomaculata yuanyanghuensis,1,t0087375,accepted
+Gentiana scabrida punctulata,1,t0087376,accepted
+Centaurium pulchellum altaicum,1,t0086672,accepted
+Tripterospermum taiwanense alpinum,1,t0058454,not-accepted
+Tripterospermum taiwanense alutaceofolium,1,t0055675,not-accepted
+Tripterospermum taiwanense alutaceofolium,2,t0055675,not-accepted
+Plumeria rubra acutifolia,,,
+Allamanda cathartica hendersonii,,,
+Allamanda cathartica williamsii,,,
+Trigonotis formosana elevatovenosa,1,t0058452,not-accepted
+Heliotropium procumbens depressum,1,t0074255,not-accepted
+Heliotropium procumbens depressum,2,t0074255,not-accepted
+Cordia aspera kanehirae,1,t0084591,accepted
+Ipomoea carnea fistulosa,1,t0058075,accepted
+Ipomoea pes-caprae brasiliensis,,,
+Cuscuta japonica formosana,1,t0053217,accepted
+Evolvulus alsinoides oblongus,,,
+Lepistemon binectariferum trichocarpum,1,t0058138,accepted
+Solanum melongena melongena,,,
+Solanum seaforthianum album,,,
+Solanum biflorum kotoensis,1,t0058473,not-accepted
+Physalis alkekengi franchetii,,,
+Capsicum annuum grossum,1,t0086666,accepted
+Capsicum annuum annuum bicolor,,,
+Capsicum annuum annuum incrassatum,,,
+Capsicum annuum fasciculatum,,,
+Capsicum frutescens frutescens,,,
+Capsicum frutescens conoides,1,t0086667,accepted
+Datura stramonium tatula,1,t0053302,accepted
+Lycopersicon esculentum esculentum,1,t0086890,accepted
+Lycopersicon esculentum cerasiforme,1,t0058266,accepted
+Nemophila menziesii insignis,,,
+Epithema taiwanensis taiwanensis,1,t0046144,not-accepted
+Epithema taiwanensis fasciculata,1,t0046144,not-accepted
+Lysionotus pauciflorus pauciflorus,1,t0086892,accepted
+Lysionotus pauciflorus ikedae,1,t0058480,accepted
+Rhynchoglossum obliquum hologlossum,1,t0086977,accepted
+Callitriche palustris palustris,1,t0102085,accepted
+Callitriche palustris oryzetorum,1,t0086664,accepted
+Justicia procumbens procumbens,1,t0054136,accepted
+Justicia procumbens hayatae,1,t0086866,accepted
+Justicia procumbens hirsuta,1,t0086541,accepted
+Justicia procumbens linearifolia,1,t0086867,accepted
+Thunbergia alata aurantica,,,
+Aphelandra aurantiaca roezlii,,,
+Aphelandra squarrosa lousiae,,,
+Asystasia gangetica gangetica,1,t0084580,accepted
+Asystasia gangetica micrantha,1,t0085091,accepted
+Pseuderanthemum carruthersii atropurpureum,,,
+Utricularia vulgaris tenuicaulis,1,t0055716,not-accepted
+Lantana camara mista,1,t0054169,not-accepted
+Salvia formosana matsudae,1,t0086992,accepted
+Salvia nipponica formosana,1,t0086993,accepted
+Salvia viridis horminum,,,
+Clerodendrum trichotomum fargesii,1,t0053068,not-accepted
+Clerodendrum trichotomum ferrugineum,1,t0053068,not-accepted
+Callicarpa formosana formosana,1,t0086662,accepted
+Callicarpa formosana glabrata,1,t0087358,accepted
+Callicarpa formosana longifolia,1,t0086663,accepted
+Callicarpa formosana albiflora,,,
+Callicarpa japonica luxurians,1,t0087359,accepted
+Glechoma hederacea grandis,1,t0086831,accepted
+Leonurus sibiricus albiflorus,,,
+Lycopus lucidus formosanus,,,
+Lycopus lucidus hirtus,1,t0054348,not-accepted
+Mentha arvensis piperascens,1,t0084606,not-accepted
+Mentha arvensis piperascens,2,t0084606,accepted
+Mentha arvensis vulgaris,,,
+Prunella vulgaris vulgaris,,,
+Prunella vulgaris asiatica,1,t0084620,accepted
+Prunella vulgaris asiatica,2,,
+Prunella vulgaris asiatica nanhutashanensis,1,t0087388,accepted
+Mosla dianthera nana,1,t0054501,not-accepted
+Mimulus tenellus japonicus,1,t0086900,misapplied
+Euphrasia transmorrisonensis transmorrisonensis,1,t0086807,accepted
+Euphrasia transmorrisonensis durietziana,1,t0086806,accepted
+Ilex sugerokii brevipedunculata,1,t0058070,accepted
+Ilex sugerokii brevipedunculata,2,,
+Ilex yunnanensis parvifolia,1,t0058071,accepted
+Lobelia alsinoides hancei,1,t0054302,accepted
+Adenophora morrisonensis morrisonensis,1,t0084577,accepted
+Adenophora morrisonensis uehatae,1,t0052534,accepted
+Adenophora triphylla angustifolia,1,t0033605,not-accepted
+Codonopsis javanica japonica,1,t0058847,accepted
+Codonopsis convolvulacea forrestii,,,
+Codonopsis pilosula tangshen,,,
+Senecio nemorensis dentatus,1,t0087039,accepted
+Senecio scandens scandens,1,t0058244,accepted
+Senecio scandens incisus,1,t0058243,accepted
+Vernonia cinerea cinerea,1,t0057477,accepted
+Vernonia cinerea parviflora,1,t0049269,accepted
+Vernonia andersonii albipappa,,,
+Eupatorium chinense tozanense,1,t0086804,accepted
+Eupatorium clematideum clematideum,1,t0057344,accepted
+Eupatorium clematideum gracillimum,1,t0086805,accepted
+Eupatorium luchuense kiirunense,1,t0073922,not-accepted
+Artemisia somae batakensis,1,t0086629,not-accepted
+Cirsium japonicum australe,1,t0087363,accepted
+Cirsium japonicum takaoense,1,t0087365,accepted
+Bidens pilosa pilosa,1,t0086644,accepted
+Bidens pilosa minor,1,t0040377,accepted
+Bidens alba,1,[],
+Aster ageratoides ovatus,,,
+Aster subulatus sandwicensis,1,t0086634,accepted
+Gnaphalium hypoleucum hypoleucum,1,t0086835,accepted
+Gnaphalium hypoleucum amoyense,1,t0086834,accepted
+Gnaphalium involucratum ramosum,1,t0086836,accepted
+Gnaphalium involucratum simplex,1,t0086837,accepted
+Gnaphalium luteoalbum luteoalbum,1,t0084598,accepted
+Gnaphalium luteoalbum affine,1,t0057950,accepted
+Solidago virgaurea leiocarpa,1,t0055397,not-accepted
+Solidago virgaurea leiocarpa,2,t0055397,not-accepted
+Erigeron canadensis pusilla,,,
+Elephantopus scaber oblanceolata,1,t0053517,not-accepted
+Erigeron morrisonensis morrisonensis,1,t0086794,accepted
+Erigeron morrisonensis fukuyamae,1,t0086793,accepted
+Helianthus debilis cucumerifolius,1,t0057989,accepted
+Rudbeckia laciniata hortensis,,,
+Dendranthema lavandulifolium tomentellum,1,t0086767,accepted
+Adenostemma lavenia lavenia,1,t0102075,accepted
+Adenostemma lavenia parviflorum,1,t0086600,accepted
+Ainsliaea latifolia henryi,1,t0033661,accepted
+Blumea riparia megacephala,1,t0087352,accepted
+Centratherum punctatum fruticosum,1,t0085093,accepted
+Crepidiastrum lanceolatum batakanense,1,t0053154,not-accepted
+Erechtites hieraciifolius hieraciifolius,1,t0086792,accepted
+Erechtites hieraciifolius cacalioides,1,t0053574,accepted
+Farfugium japonicum japonicum,1,t0102222,accepted
+Farfugium japonicum formosanum,1,t0086810,accepted
+Farfugium japonicum nokozanense,1,t0086810,not-accepted
+Gynura divaricata formosana,1,t0084599,accepted
+Gynura cardunculus scolymus,,,
+Hypochaeris albiflora,,,
+Picris hieracioides morrisonensis,1,t0084613,accepted
+Picris hieracioides ohwiana,1,t0084614,accepted
+Wedelia biflora ryukyuensis,1,t0086557,not-accepted
+Wedelia prostrata prostrata,1,t0057507,not-accepted
+Wedelia prostrata robusta,1,t0057507,not-accepted
+Youngia japonica japonica,1,t0084636,accepted
+Youngia japonica formosana,1,t0084635,accepted
+Youngia japonica formosana,2,t0084635,not-accepted
+Youngia japonica longiflora,1,t0069833,accepted
+Arctotis stoechadifolia grandis,,,
+Chrysanthemum leucanthemum pinnatifidum,1,t0054222,not-accepted
+Viburnum foetidum rectangulatum,1,t0057483,accepted
+Viburnum plicatum formosanum,1,t0087346,accepted
+Abelia chinensis ionandra,1,t0086584,accepted
+Pittosporum illicioides angustifolium,1,t0086951,accepted
+Pittosporum illicioides angustifolium,2,t0086951,not-accepted
+Polyscias fruticosa deleauana,,,
+Polyscias guilfoylei victoriae,1,t0059076,not-accepted
+Hedera rhombea formosana,1,t0057987,accepted
+Eleutherococcus trifoliatus trifoliatus,1,t0102097,accepted
+Eleutherococcus trifoliatus setosus,1,t0086531,accepted
+Angelica dahurica formosana,1,t0040168,accepted
+Angelica morrisonicola morrisonicola,1,t0086617,accepted
+Angelica morrisonicola nanhutashanensis,1,t0086618,accepted
+Apium graveolens dulce,1,t0052605,not-accepted
+Foeniculum vulgare dulce,,,
+Cnidium monnieri formosanum,1,t0086719,accepted
+Juniperus communis nana,,,
+Lagerstroemia subcostata hirtella,,,
+Osmanthus fragrans aurantiacus,,,
+Ludwigia peploides stipulacea,1,t0074647,not-accepted
+Sorghum vulgare technicum,1,t0058273,not-accepted
+Mussaenda parviflora yaeyamensis,,,
+Taxodium distichum imbricatum,,,
+Vitis heyneana ficifolia,,,
+Rosa indica,1,[],
+Matteuccia struthiopteris,,,
+Oplismenus undulatifolius microphyllus,1,t0058657,not-accepted
+Strychnos pseudoquina,,,
+Begonia ×albopicta,,,
+Sladenia celastrifolia,,,
+Salvia formosana formosana,1,t0106433,accepted
+Echinochloa crus-pavonis,1,[],
+Ozptila nongae,1,t0082677,not-accepted
+Ozptila matsumotoi,1,t0082676,not-accepted
+Microcystis aeruginosa aeruginosa,1,[],
+Scenedesmus intermedius,1,t0075791,not-accepted
+Scenedesmus intermedius valatonicus ophilus,1,t0075791,not-accepted
+Scenedesmus pannonicus pannonicus,1,t0087021,accepted
+Viruses,1,,
+Viruses,2,t0104550,accepted
+Viroids,,,
+Limacidae,,,
+Marchiantiophytina,,,
+Bryophytina,,,
+Anthocerotophytina,,,
+Haplomitriophytes*,,,
+Marchiantiophytes*,,,
+Takakiophytes*,,,
+Sphagnophytes*,,,
+Andreaeophytes*,,,
+Andreaeobryophytes*,,,
+Bryophytes*,,,
+Leiosporocerotophytes*,,,
+Anthocerotophytes*,,,
+Treubiopsida,,,
+Andreaeobryopsida,1,t0000426,accepted
+Oedipodiopsida,1,t0000450,accepted
+Leiosporocerotopsida,1,t0000444,accepted
+Treubiidae,,,
+Haplomitriidae,,,
+Blasiidae,,,
+Marchantiidae,,,
+Takakiidae,,,
+Sphagnidae,,,
+Andreaeidae,,,
+Andreaeobryidae,,,
+Oedipodiidae,,,
+Polytrichidae,,,
+Tetraphididae,,,
+Diphysciidae,1,t0000638,accepted
+Gigaspermidae,,,
+Timmiidae,,,
+Leiosporocerotidae,,,
+Notothyladidae,,,
+Sphaerocarpales,1,t0001639,accepted
+Neohodgsoniales,1,t0001593,accepted
+Ambuchananiales,1,t0001514,accepted
+Andreaeobryales,1,t0001516,accepted
+Oedipodiales,1,t0001596,accepted
+Diphysciales,1,t0001552,accepted
+Gigaspermales,1,t0001563,accepted
+Disceliales,,,
+Encalyptales,1,t0001555,accepted
+Timmiales,1,t0001648,accepted
+Catoscopiales,,,
+Hedwigiales,1,t0001571,accepted
+Bartramiales,1,t0001522,accepted
+Splachnales,1,t0001642,accepted
+Orthodontiales,,,
+Rhizogoniales,1,t0001625,accepted
+Aulacomniales,,,
+Hypnodendrales,1,t0001576,accepted
+Ptychomniales,1,t0001623,accepted
+Hypopterygiales,,,
+Leiosporocerotales,1,t0001580,accepted
+Phymatocerotales,,,
+Flatbergiaceae,,,
+Ambuchananiaceae,,,
+Buxbaumiaceaec,,,
+Bryobartramiaceae,,,
+Amphidiaceae,,,
+Dicranellaceae,,,
+Eustichiaceae,,,
+Leucophanaceae,,,
+Oncophoraceae,,,
+Rhachitheciaceae,,,
+Schistostegaceae,,,
+Viridivelleraceae,,,
+Sphaerocarpaceae,,,
+Riellaceae,,,
+Monocarpaceae,,,
+Neohodgsoniaceae,,,
+Cleveaceae,,,
+Cyathodiaceae,,,
+Corsiniaceae,,,
+Monocleaceae,,,
+Oxymitraceae,,,
+Noterocladaceae,,,
+Petalophyllaceae,,,
+Allisoniaceae,,,
+Sandeothallaceae,,,
+Moerckiaceae,,,
+Hymenophytaceae,,,
+Phyllothalliaceae,,,
+Lepidolaenaceae,,,
+Goebeliellaceae,,,
+Ptilidiaceae,,,
+Herzogianthaceae,,,
+Lophoziaceae,,,
+Grolleaceae,,,
+Brevianthaceae,,,
+Trichotemnomataceae,,,
+Blepharidophyllaceae,,,
+Arnelliaceae,,,
+Gyrothyraceae,,,
+Antheliaceae,,,
+Blepharostomataceae,,,
+Notoscyphaceae,,,
+Andreaeobryaceae,,,
+Oedipodiaceae,,,
+Tetraphidaceae,,,
+Gigaspermaceae,,,
+Disceliaceae,,,
+Timmiaceae,,,
+Bruchiaceae,,,
+Rhabdoweisiaceae,,,
+Ephemeraceae,,,
+Splachnobryaceae,,,
+Catoscopiaceae,,,
+Helicophyllaceae,,,
+Rhacocarpaceae,,,
+Meesiaceae,,,
+Orthodontiaceae,,,
+Calomniaceae,,,
+Mitteniaceae,,,
+Aulacomniaceae,,,
+Braithwaiteaceae,,,
+Pterobryellaceae,,,
+Garovagliaceae,,,
+Daltoniaceae,,,
+Pilotrichaceae,,,
+Saulomataceae,,,
+Schimperobryaceae,,,
+Anomodontaceae,,,
+Calliergonaceae,,,
+Campyliaceae,,,
+Trachylomataceae,,,
+Myriniaceae,,,
+Leptodontaceae,,,
+Leiosporocerotaceae,,,
+Phymatocerotaceae,,,
+Flatbergium,,,
+Ambuchanania,,,
+Eosphagnum,,,
+Acroschisma,,,
+Bruchia,,,
+Eustichia,,,
+Rhachithecium,,,
+Schistostega,,,
+Viridivellus,,,
+Canalohypopterygium,,,
+Dendrohypopterygium,,,
+Catharomnion,,,
+Andreaeobryum,,,
+Oedipodium,,,
+Gigaspermum,,,
+Chamaebryum,,,
+Lorentziella,,,
+Oedipodiella,,,
+Costesia,,,
+Timmia,,,
+Treubia,,,
+Sauteria,,,
+Aphanolejeunea,1,[],
+Rectolejeunea,,,
+Rhaphidolejeunea,,,
+Taxilejeunea,,,
+Scaphophyllum,,,
+Chandonanthus,1,[],
+Tetrodontium,,,
+Eccremidium,,,
+Kiaeria,,,
+Solmsiella,,,
+Tortella,1,[],
+Astomum,,,
+Ephemerum,1,[],
+Drepanocladus,1,[],
+Oxyrrhynchium,1,[],
+Campylophyllum,,,
+Pylaisia,,,
+Leskeella,1,[],
+Circulifolium,,,
+Pseudotrismegistia,,,
+Haplomitrium blumei,,,
+Asterella liukiuensis,,,
+Asterella monospiris,1,t0061071,not-accepted
+Asterella yoshinagana,1,t0061070,not-accepted
+Plagiochasma crupestre,,,
+Sauteria yatsuensis,,,
+Riccia crozalsii,,,
+Fossombronia australinipponica,,,
+Fossombronia cristula,,,
+Metzgeria conjugata,,,
+Metzgeria fauriana,1,t0058534,not-accepted
+Metzgeria fruticulosa,,,
+Riccardia platyclada,,,
+Riccardia tamariscina,,,
+Radula apiculata,,,
+Radula borneensis,,,
+Radula complanata,,,
+Radula portoricensis,,,
+Radula protensa,,,
+Frullania caduca,,,
+Frullania fauriana,,,
+Frullania galeata,,,
+Frullania parihari,,,
+Frullania parvistipiila,,,
+Frullania trichode,,,
+Frullania yuzawa,,,
+Aphanolejeunea grossepapillosa,1,t0073391,not-accepted
+Aphanolejeunea truncatifolia,1,t0058853,not-accepted
+Cheilolejeunea longiloba,1,t0073175,not-accepted
+Cololejeunea magnipapillosa,,,
+Cololejeunea oshimensis,,,
+Cololejeunea scabriflora,,,
+Cololejeunea shibiensis,,,
+Cololejeunea tixieriana,,,
+Diplasiolejeunea pellucida,,,
+Drepanolejeunea formosana,1,t0075483,not-accepted
+Drepanolejeunea subacuta,,,
+Lejeunea alata,,,
+Lejeunea catanduana,,,
+Lejeunea cucullata,,,
+Lejeunea imbricata,,,
+Lejeunea lunulatiloba,,,
+Lejeunea magohukui,,,
+Lejeunea pallidevirens,1,t0074525,accepted
+Lejeunea planiloba,,,
+Lejeunea planissima,,,
+Lejeunea proliferans,,,
+Lejeunea ramulosa,,,
+Lejeunea subigiensis,,,
+Lejeunea tuberculosa,,,
+Leptolejeunea aberrantia,,,
+Leptolejeunea apiculatum,,,
+Leptolejeunea foliicola,,,
+Leptolejeunea radiata,,,
+Leucolejeunea turgida,,,
+Lopholejeunea aberrantia,,,
+Lopholejeunea applanata,,,
+Lopholejeunea javanica,,,
+Lopholejeunea muensis,,,
+Lopholejeunea nicobarica,,,
+Lopholejeunea nipponica,,,
+Microlejeunea punctiformis,,,
+Rectolejeunea barbata,,,
+Rhaphidolejeunea foliicola,1,t0073753,not-accepted
+Taxilejeunea luzonensis,,,
+Taxilejeunea subcompressiuscula,,,
+Bazzania mayebarae,,,
+Lepidozia wallichiana,1,t0069558,not-accepted
+Cephalozia otaruensis,1,t0058750,not-accepted
+Scapania glaucoviridis,,,
+Scapania robusta,1,t0075768,not-accepted
+Acrobolbus cilatus,,,
+Calypogeia japonica,,,
+Calypogeia trichomanis,1,t0073001,not-accepted
+Metacalypogeia quelpaertensis,,,
+Jungermannia appressifolia,1,t0058267,not-accepted
+Jungermannia comata,,,
+Jungermannia haskarliana,,,
+Jungermannia hyalina,,,
+Jungermannia infusca,,,
+Jungermannia pseudocyclops,1,t0058269,not-accepted
+Jungermannia pyriftora,,,
+Jungermannia schauliana,,,
+Jungermannia subrubra,,,
+Jungermannia subulata,,,
+Jungermannia tetragona,,,
+Jungermannia truncata,1,t0075941,not-accepted
+Jungermannia virgata,,,
+Scaphophyllum speciosum,,,
+Marsupella revoluta,,,
+Marsupella rubida,,,
+Lophozia cornuta,,,
+Lophozia incisa,,,
+Lophozia morrisoncola,,,
+Lophozia nakanishii,,,
+Herbertus giraldianus,,,
+Herbertus sakuraii,,,
+Lepicolea yakusimensis,,,
+Chiloscyphus aposinensis,,,
+Chiloscyphus cuspidatus,1,t0074629,not-accepted
+Chiloscyphus minor,1,t0074633,not-accepted
+Chiloscyphus muricatus,1,t0074634,not-accepted
+Chiloscyphus profundus,1,t0074631,not-accepted
+Chiloscyphus semiteres,,,
+Plagiochila blepharophora,,,
+Plagiochila hattoriana,,,
+Plagiochila integrilobula,,,
+Plagiochila oblonga,,,
+Plagiochila microdonta,,,
+Mylia nuda,1,t0084609,not-accepted
+Anastrophyllum acuminatum,1,t0086614,not-accepted
+Chandonanthus birmensis,1,t0059045,not-accepted
+Chandonanthus hirtellus,1,t0075417,not-accepted
+Pogonatum alpinum,1,t0059079,not-accepted
+Pogonatum shevockii,,,
+Dicranum groenlandicum,,,
+Dicranum himalayanum,,,
+Dicranum viride,,,
+Leucophanes octoblepharioides,,,
+Ditrichum macrorhynchum,,,
+Eccremidium brisbanicum,,,
+Fissidens involutus,,,
+Fissidens longisetus,,,
+Fissidens zippelianus,1,t0057388,not-accepted
+Leucobryum aduncum,,,
+Kiaeria falcata,,,
+Solmsiella biseriata,,,
+Bryoerythrophyllum alpigenum,,,
+Didymodon erosodenticulatus,,,
+Oxystegus tenuirostris,1,t0058446,not-accepted
+Tortella tortuosa,,,
+Trichostomum hattorianum,,,
+Weissia longifolia,,,
+Grimmia apiculata,,,
+Grimmia longirostris,,,
+Racomitrium japonicum,,,
+Schistidium rivulare,,,
+Blindia acuta,1,[],
+Philonotis laii,,,
+Pohlia longicolla,,,
+Rhodobryum ontariense,,,
+Rhizomnium hattorii,,,
+Macrocoma tenuis,,,
+Ulota reptans,,,
+Campyliadelphus chrysophyllus,,,
+Drepanocladus fluitans,,,
+Hygrohypnum luridum,,,
+Hygrohypnum molle,,,
+Brachythecium moriense,,,
+Brachythecium velutinum,,,
+Palamocladium leskeoides,,,
+Rhynchostegium contractum,,,
+Campylophyllum halleri,,,
+Glossadelphus bilobatus,,,
+Hypnum oldhamii,,,
+Hypnum plumiforme,,,
+Hypnum ctristoviride,,,
+Isopterygium propaguliferum,,,
+Pylaisia falcata,,,
+Pylaisia levieri,,,
+Taxiphyllum arcuatum,,,
+Hondaella caperata,,,
+Leskea scabrinervis,,,
+Leskeella pusilla,,,
+Barbella enervis,,,
+Floribundaria pseudofloribunda,1,t0057426,accepted
+Pseudobarbella laosiensis,,,
+Entodon dolichocucullatus,,,
+Entodon flavescens,,,
+Circulifolium exiguum,,,
+Circulifolium microdendron,,,
+Homaliodendron papillosum,,,
+Nowellia curvilfolia,,,
+Calyptothecium philippinense,1,t0040576,not-accepted
+Papillidiopsis complanata,,,
+Pseudotrismegistia undulata,,,
+Taxithelium oblongifolium,,,
+Trichosteleum lutschianum,,,
+Wijkia hornschuchii,,,
+Wijkia surcularis,,,
+Climacium japonicum,,,
+Helicodontium kiusianum,,,
+Taiwanobryum guangdongense,,,
+Anthoceros formosae,1,t0040194,not-accepted
+Folioceros fuciformis,,,
+Folioceros vesiculosus,,,
+Phaeoceros miyakeanus,,,
+Haplohymenium pseudotriste,1,t0057983,accepted
+Marchantia emarginata tosana,1,t0084602,accepted
+Marchantia paleacea diptera,1,t0084603,accepted
+Porella acutifolia tosana,1,t0084617,accepted
+Porella caespitans cordifolia,1,t0086958,accepted
+Porella caespitans nipponica,1,t0086959,accepted
+Porella gracillima urogea,1,t0084619,accepted
+Porella obtusata macroloba,1,t0086960,accepted
+Radula retroflexa retroflexa,,,
+Radula retroflexa fauciloba,,,
+Frullania davurica davurica chichibuensis,,,
+Frullania kagoshimensis minor,,,
+Frullania monocera depauperata,1,t0086822,accepted
+Frullania ternatensis nonappendiculata,1,t0086825,accepted
+Jubula hutchinsiae javanica,1,t0074432,not-accepted
+Cololejeunea peraffinis corticola,,,
+Schiffneriolejeunea tumida haskarliana,1,t0087034,accepted
+Tuyamaella molischii taiwanensis,1,t0087099,accepted
+Bazzania tridens assamica,1,t0086641,accepted
+Cephalozia catenulata nipponica,1,t0084586,accepted
+Jungermannia exsertifolia cordifolia,,,
+Marsupella emarginata tubulosa,,,
+Chiloscyphus polyanthos fragilis,1,t0086680,accepted
+Heteroscyphus argutus brevidens,1,t0086848,accepted
+Heteroscyphus zollingeri pluridentatus,1,t0087648,accepted
+Jackiella javanica cavifolia,1,t0086864,accepted
+Sphagnum junghuhnianum pseudomolle,1,t0058280,not-accepted
+Andreaea rupestris fauriei,1,t0040163,accepted
+Atrichum undulatum gracilisetum,1,t0086635,accepted
+Pogonatum cirratum fuscatum,1,t0084615,accepted
+Syrrhopodon prolifer tosaensis,1,t0087066,accepted
+Fissidens crispulus robinsonii,,,
+Leucobryum aduncum scalare,,,
+Anomobryum filiforme concinnatum,1,t0040188,accepted
+Macrocoma tenuis sullivantii,,,
+Hypnum subimponens ulophyllum,1,t0058061,accepted
+Meteoriopsis reclinata subreclinata,1,t0086894,accepted
+Plagiothecium cavifolium fallax,1,t0059027,accepted
+Plagiothecium neckeroideum niitakayamae,1,t0086952,accepted
+Thuidium pristocalyx orientale,,,
+Thuidium recognitum delicatulum,1,t0058391,accepted
+Phaeoceros laevis carolinianus,,,
+Bryoxiphiales,1,t0001528,accepted
+Cyrtopodaceae,,,
+Orthostichellaceae,,,
+Stereophyllaceae,,,
+Gottschea,,,
+Jamesoniella,,,
+Gottschea aligera,,,
+Gottschea nuda,,,
+Gottschea philippinensis,,,
+Jamesoniella autumnalis,,,
+Jamesoniella nipponica,,,
+Podocnemididae,1,[],
+Podocnemis,1,[],
+Podocnemis unifilis,1,[],
+Habroloma (Parahabroloma),,,
+Chrysodema (Chrysodema),,,
+Phymatodes (Poecilium),,,
+Chaetocnema (Udorpes),,,
+Bactrocera (Zeugodacus),,,
+Anthaxia (Haplanthaxia),,,
+Coelostoma (Holocoelostoma),,,
+Anthaxia (Merocratus),,,
+Rhyzodiastes (Temoana),,,
+Omoglymmius (Orthoglymmius),,,
+Anthaxia (Anthaxia),,,
+Coelostoma (Coelostoma),,,
+Aedes (Stegomyia),,,
+Elaeocarpus hainanensis,,,
+Coccolithophyceae familia incertae sedis,,,
+Lema (Microlema),,,
+Omoglymmius (Omoglymmius),,,
+Parascatonomus (Parascatonomus),,,
+Dienerella (Dienerella),,,
+Melobasis (Melobasis),,,
+Menimus (Menimus),,,
+Nipponobuprestis (Nipponoburprestisia),,,
+Coelostoma (Lachnocoelostoma),,,
+Centrochelys,,,
+Centrochelys sulcata,,,
+Dendriscosticta,,,
+Dendriscosticta phyllidiata,,,
+Opisthokonta,,,
+Fungi,1,t0000008,accepted
+Tussilago,1,[],
+Tussilago farfara,,,
+Rosa kwangtungensis,1,t0105406,misapplied
+Brachypodium sylvaticum luzoniense,1,t0040433,not-accepted
+Carex japonica subtransversa,1,[],
+Aechmea ×hybrida,,,
+Carex rhynchachaenium keelungensis,,,
+Clinacanthus,,,
+Clinacanthus nutans,,,
+Citrus medica gaoganensis,,,
+Aristolochia liukiuensis,1,t0105572,not-accepted
+Citrus medica sarcodactylus,,,
+Aechmea ×hybrida Array,,,
+Cleisostoma ionosma,1,t0055454,misapplied
+Smilax sebeana,1,t0055362,misapplied
+Vanda hybrida,,,
+Alocasia amazonica,,,
+Anemone taraoi,1,[],
+Asplenium cuneatum,1,t0026895,misapplied
+Bothriochloa bladhii bladhii,,,
+Tapeinidium gracile,1,t0026482,not-accepted
+Pedicularis cheilanthifolia,,,
+Pedicularis cheilanthifolia purpurea,,,
+Symphoricarpos albus,,,
+Begonia ×buimontana,,,
+Begonia ×chungii,,,
+Symplocos sonoharae formosana,1,[],
+Scutellaria luzonica,1,t0058234,misapplied
+Begonia ×semperflorens-cultorum,,,
+Rumex dentatus,1,[],
+Rubus subcrataegifolius,1,t0055160,misapplied
+Symplocos formosana formosana,1,t0105539,accepted
+Rhododendron amanoi,,,
+Symplocos formosana taiheizanensis,1,t0105538,accepted
+Hemipilia takasagomontana takasagomontana,,,
+Begonia ×taipeiensis,,,
+Breynia androgyna,,,
+Sida rhombifolia alnifolia,1,[],
+Calymmodon nuda,,,
+Keteleeria davidiana calcarea,,,
+Keteleeria davidiana davidiana,,,
+Prunus spinosa,,,
+Quercus aliena aliena,1,t0106431,accepted
+Carex ascocentra,1,t0052830,not-accepted
+Perilla frutescens crispa,,,
+Castanea sativa,1,[],
+Ludwigia glandulosa brachycarpa,,,
+Perilla frutescens frutescens,,,
+Polygonum virginianum,,,
+Perilla frutescens hirtella,,,
+Lycopodium clavatum nipponicum,1,t0026351,not-accepted
+Oplismenus compositus intermedius,1,t0086528,accepted
+Menziesia multiflora longicalyx,,,
+Pistacia vera,,,
+Castanopsis purpurella,1,[],
+Philodendron hybridum,,,
+Cyrtandra cumingii,,,
+Persicaria tenella,1,[],
+Hemiboea follicularis,1,t0053919,misapplied
+Dicliptera induta,,,
+Parthenocissus semicordata,,,
+Dioscorea aculeata,1,t0057250,not-accepted
+Murraya koenigii,1,t0054510,misapplied
+Ludwigia polycarpa,,,
+Metathelypteris dayi,,,
+Ludwigia ravenii,,,
+Lycopodium volubile,,,
+Lycopodium alpinum,1,[],
+Ichnanthus pallens major,1,t0058068,accepted
+Ludwigia ×taiwanensis,,,
+Lycopodium sitchense,1,[],
+Lycopodium nikoense,,,
+Lycopodium alticola,,,
+Lycopodium sabinifolium,,,
+Erinaceidae,,,
+Atelerix,,,
+Tropidoclonion,,,
+Tropidoclonion lineatum,,,
+Malayemys,1,[],
+Malayemys subtrijuga,1,[],
+Alle,,,
+Alle alle,,,
+Pyrrhura,1,[],
+Pyrrhura molinae,,,
+Serpentes,1,t0002146,accepted
+Serpentes,2,,
+Lacertilia,,,
+Yangochiroptera,,,
+Yinpterochiroptera,,,
+Mustela putorius,,,
+Mustela putorius furo,,,
+Grapsoidea,1,[],
+Calanthe kibanakirishima,,,
+Dryopteris wallichiana pachyphylla,1,t0057292,accepted
+Scrophularia kakudensis,,,
+Osmolindsaea ×yakushimensis,,,
+Platanus ×hispanica,,,
+Camellia ×williamsii,,,
+Ismene,1,[],
+Davidia involucrata,,,
+Plukenetia,,,
+Plukenetia volubilis,,,
+Grewia occidentalis,,,
+Platanus orientalis,,,
+Platanus occidentalis,,,
+Stachys geobombycis,,,
+Malvaviscus arboreus drummondii,,,
+Hydnocarpus alcalae,,,
+Hydnocarpus castaneus,,,
+Hydnocarpus kurzii,,,
+Hydnocarpus wightianus,,,
+Chukrasia,,,
+Chukrasia tabularis,,,
+Alternanthera brasiliana,,,
+Hydrocotyle delicata,1,t0053966,not-accepted
+Cerastium calcicola,1,[],
+Tetradenia,1,[],
+Tabernaemontana amygdalifolia,,,
+Tetradenia riparia,,,
+Deutzia hayatae,1,t0027065,not-accepted
+Primula vulgaris,,,
+Limnophila chinensis,1,[],
+Jatropha gossypiifolia gossypiifolia,,,
+Sorghum ×almum,,,
+Sarcophyton,1,t0024758,accepted
+Sarcophyton,2,t0009130,accepted
+Epipogium meridianum,1,[],
+Kaempferia roscoeana,,,
+Kaempferia rotunda,,,
+Polygonatum arisanense,1,t0059074,not-accepted
+Polygonatum arisanense arisanense,,,
+Polygonatum arisanense formosanum,1,[],
+Polygonatum sibiricum,,,
+Geoglossomycetes,1,[],
+Haptophyta classis incertae sedis,,,
+Haptophyta ordo incertae sedis,,,
+Bacillariophyta classis incertae sedis,,,
+Bacillariophyta ordo incertae sedis,,,
+Haptophyta familia incertae sedis,,,
+Cybaeus,,,
+Bacillariophyceae ordo incertae sedis,,,
+Bacillariophyceae familia incertae sedis,,,
+Australiascaceae,1,t0003328,accepted
+Linocarpaceae,1,t0003520,accepted
+Tripos,1,t0092035,accepted
+Procyonidae,,,
+Procyon,,,
+Procyon lotor,1,[],
+Debaryozyma,1,[],
+Acrodictyaceae 	,1,t0003295,accepted
+Hermatomycetacea,,,
+Breonia,,,
+Camonea,1,[],
+Hypodematium crenatum loyalii,1,[],
+Maianthemum japonicum,1,[],
+Tetracera,,,
+Tetracera sarmentosa,,,
+Xanthostemon,,,
+Xanthostemon chrysanthus,,,
+Eriochrysis,1,[],
+Cassine,1,[],
+Tricholaena,1,[],
+Heliozoa ordo incertae sedis,,,
+Heliozoa familia incertae sedis,,,
+Hypocreales familia incertae sedis,,,
+Ascomycota classis incertae sedis,,,
+Ascomycota ordo incertae sedis,,,
+Ascomycota familia incertae sedis,,,
+Dothideomycetes ordo incertae sedis,,,
+Dothideomycetes familia incertae sedis,,,
+Pleosporales familia incertae sedis,,,
+Lagenina familia incertae sedis,,,
+Saccharomycetales familia incertae sedis,,,
+Pezizales familia incertae sedis,,,
+Dothideales familia incertae sedis,,,
+Phyllachorales familia incertae sedis,,,
+Xylariales familia incertae sedis,,,
+Hypotrichida familia incertae sedis,,,
+Sordariomycetes ordo incertae sedis,,,
+Sordariomycetes familia incertae sedis,,,
+Cystobasidiomycetes ordo incertae sedis,,,
+Leotiomycetes ordo incertae sedis,,,
+Gastropoda ordo incertae sedis,,,
+Heterotrichida familia incertae sedis,,,
+Ustilaginales familia incertae sedis,,,
+Ascomycetes ordo incertae sedis,,,
+Ascomycetes familia incertae sedis,,,
+Auriculariales familia incertae sedis,,,
+Malasseziales familia incertae sedis,,,
+Bacillariophyta familia incertae sedis,,,
+Helotiales familia incertae sedis,,,
+Uredinales familia incertae sedis,,,
+Protomonadina familia incertae sedis,,,
+Pucciniales familia incertae sedis,,,
+Diaporthales familia incertae sedis,,,
+Spizellomycetales familia incertae sedis,,,
+Odontostomatida familia incertae sedis,,,
+Eurotiomycetes ordo incertae sedis,,,
+Eurotiomycetes familia incertae sedis,,,
+Petauridae,,,
+Petaurus,,,
+Petaurus breviceps,,,
+Caridina gracilirostris,,,
+Chamaecrista nictitans patellaria glabrata,1,t0086675,not-accepted
+Wrightia pubescens,,,
+Aquarius,1,t0010247,accepted
+Aquarius,2,t0102354,accepted
+Euplectes,,,
+Euplectes orix,,,
+Machlolophus spilonotus,,,
+Amandava subflava,,,
+Netelia (Toxochiloides),,,
+Agapornis personatus,,,
+Ara chloropterus,,,
+Ara macao,1,[],
+Callonetta,,,
+Callonetta leucophrys,,,
+Chloropseidae,,,
+Crithagra citrinipectus,,,
+Dacelo,,,
+Dacelo novaeguineae,,,
+Chloropsis cochinchinensis,,,
+Diopsittaca,,,
+Diopsittaca nobilis,,,
+Eclectus,,,
+Eclectus roratus,,,
+Geokichla dohertyi,,,
+Geopelia cuneata,,,
+Lamprotornis caudatus,,,
+Icteridae,1,[],
+Leistes,,,
+Leistes superciliaris,,,
+Meleagris,,,
+Meleagris gallopavo,,,
+Myiopsitta,,,
+Myiopsitta monachus,,,
+Numididae,,,
+Numida,,,
+Numida meleagris,,,
+Parabuteo,,,
+Parabuteo unicinctus,,,
+Paroaria gularis,,,
+Ploceus jacksoni,,,
+Poicephalus,1,[],
+Poicephalus senegalus,,,
+Primolius,1,[],
+Primolius auricollis,,,
+Psittacara,,,
+Psittacara erythrogenys,,,
+Psittacula eupatria,,,
+Pyrrhocorax,,,
+Pyrrhocorax pyrrhocorax,,,
+Sicalis,,,
+Sicalis columbiana,,,
+Trichoglossus moluccanus,,,
+Trichoglossus rubritorquis,,,
+Trochalopteron formosum,,,
+Vidua chalybeata,,,
+Vidua obtusa,,,
+Rhodobiotina,,,
+Glaucobiotina,,,
+Mesostigmatophytes,,,
+Mesostigmatophyta,,,
+Chlorokybophyta,,,
+Klebsormidiophyta,,,
+Coleochaetophyta,,,
+Zygnematophycota,,,
+Rozellomycota,1,t0001045,accepted
+Basidiomycota,1,t0000086,accepted
+Ascomycota,1,t0000085,accepted
+Microsporidia,1,t0000072,accepted
+Euphyllophytes classis incertae sedis,,,
+Euphyllophytes subclassis incertae sedis,,,
+Euphyllophytes ordo incertae sedis,,,
+Pezizomycotina,1,t0000160,accepted
+Leotiomyceta,,,
+Euphyllophytes familia incertae sedis,,,
+Musella,,,
+Anacampseros,,,
+Rhinephyllum,,,
+Mitragyna,,,
+Megaskepasma,,,
+Smallanthus,,,
+Calea,1,[],
+Pecopteris,,,
+Polychaeta ordo incertae sedis,,,
+Satyrium,1,t0016102,accepted
+Satyrium,2,t0094638,accepted
+Aira,1,[],
+Tournefortia,1,t0002795,not-accepted
+Meyenia,1,[],
+Hexacentris,1,[],
+Acrocephalus,1,t0009376,accepted
+Acrocephalus,2,t0106666,accepted
+Haumaniastrum,,,
+Bolbitis sinensis,,,
+Encephalartos munchii,,,
+Calocedrus decurrens,,,
+Spirodela oligorrhiza,1,t0055440,not-accepted
+Pandanus amaryllifolius,,,
+Crassula muscosa,,,
+Acacia mearnsii,1,[],
+Inga edulis,,,
+Ormosia pinnata,,,
+Ormosia semicastrata,,,
+Mucuna macrocarpa oui,1,t0106111,accepted
+Parkia speciosa,,,
+Sindora siamensis,,,
+Castanopsis tribuloides,1,[],
+Catha edulis,,,
+Turnera diffusa,,,
+Euphorbia chamissonis,,,
+Glochidion lanyuense,,,
+Toona ciliata,,,
+Cleome houtteana,,,
+Pyrenaria spectabilis,,,
+Ixora coccinea,1,[],
+Wrightia antidysenterica,,,
+Ipomoea muricata,,,
+Osmanthus ×fortunei,,,
+Salvia hispanica,,,
+Salvia divinorum,,,
+Salvia leucantha,,,
+Salvia mexicana,,,
+Mentha suaveolens,,,
+Aquarius palifolius,,,
+Euodia suaveolens,,,
+Trimezia steyermarkii,,,
+Trimezia gracilis,,,
+Cleistogenes hancei,,,
+Lilium longiflorum longiflorum,,,
+Fimbristylis dichotoma tikushiensis,,,
+Fimbristylis dichotoma dichotoma,,,
+Youngia japonica monticola,1,t0085104,accepted
+Rodgersia,,,
+Erythroxylum,,,
+Atractocarpus,,,
+Calceolaria,,,
+Dolichandra,,,
+Anemopaegma,,,
+Kalopanax,,,
+Cussonia,,,
+Encephalartos manikensis,,,
+Encephalartos concinnus,,,
+Encephalartos chimanimaniensis,,,
+Encephalartos pterogonus,,,
+Peperomia tetragona,,,
+Smilax herbacea,1,[],
+Smilax binchuanensis,,,
+Liparis auriculata,1,t0054273,misapplied
+Manihot carthagenensis,,,
+Hopea odorata,,,
+Coleus hadiensis,,,
+Eleutherococcus henryi,,,
+Mitragyna speciosa,,,
+Megaskepasma erythrochlamys,,,
+Musella lasiocarpa,,,
+Smallanthus sonochifolius,,,
+Pecopteris cyathea,,,
+Peltigera mikado,,,
+Calea ternifolia,,,
+Aegilops tauschii,,,
+Anacampseros rufescens,,,
+Rhinephyllum broomii,,,
+Calceolaria × herbeohybrida,,,
+Rodgersia podophylla,,,
+Erythroxylum coca,,,
+Erythroxylum novogranatense,,,
+Dolichandra unguis-cati,,,
+Anemopaegma chamberlaynii,,,
+Atractocarpus fitzalanii,,,
+Kalopanax septemlobus,,,
+Cussonia spicata,,,
+Erythroxylum coca coca,,,
+Erythroxylum coca ipadu,,,
+Erythroxylum novogranatense novogranatense,,,
+Erythroxylum novogranatense truxillense,,,
+Erythroxylum novogranatense tobagense,,,
+Manihot carthagenensis glaziovii,,,
+Kalopanax septemlobus septemlobus,,,
+Zignoëlla,1,t0008771,accepted
+Pestalotiopsidaceae,1,t0003600,not-accepted
+Ramariaceae,1,[],
+Codonellopsis,1,t0094198,accepted
+Discosphaera,1,t0025322,accepted
+Pselliophora,1,t0093477,accepted
+Acalypha pendula,,,
+Angelica aliensis,1,[],
+Skimmia japonica distincte-venulosa,,,
+Passiflora foetida hispida,1,t0075131,not-accepted
+Capra aegagrus,1,[],
+Carpodacus vinaceus,1,t0030182,not-accepted
+Pourthiaea,1,[],
+Monoon,,,
+Anisophyllum,1,[],
+Vahlodea,1,[],
+Benkara,,,
+Catunaregam,,,
+Tarennoidea,,,
+Pleroma,,,
+Avenella,1,[],
+Rhodotypos,,,
+× Rhaphiobotrya,,,
+Anisophyllea,,,
+Heterocentron,,,
+Heterotis,,,
+Andesanthus,,,
+Arcytophyllum,,,
+Pleopeltis angusta,,,
+Syngonium neglectum,,,
+Syngonium angustatum,,,
+Cymbidium × oblancifolium,,,
+Oreorchis wumaniae,,,
+Asparagus aethiopicus,,,
+Eriophorum callitrix,,,
+Jacaranda mimosifolia,,,
+Viburnum awabuki,1,t0049291,not-accepted
+Anisophyllum pinnatum,,,
+Heterocentron elegans,,,
+Heterotis rotundifolia,,,
+Pleroma urvilleanum,,,
+Andesanthus lepidotus,,,
+Abutilon indicum albescens,,,
+Cheirostylis tortilacinia tortilacinia,,,
+Cheirostylis tortilacinia wutaiensis,,,
+Platycerium bifurcatum willinckii,,,
+Aspidistra daibuensis daibuensis,1,t0102010,accepted
+Aspidistra daibuensis longkiauensis,1,t0102012,not-accepted
+Rhododendron × pulchrum Big Purple,,,
+Rhododendron × pulchrum Shu,,,
+Rhododendron × pulchrum Baimiao,,,
+Senna alexandrina alexandrina,,,
+Senna alexandrina obtusata,,,
+Clinopodium laxiflorum laxiflorum,1,t0103409,accepted
+Neolitsea sericea sericea,1,t0058619,accepted
+Rhus chinensis chinensis,1,t0105715,accepted
+Dasypogonales,1,t0001548,accepted
+Apodanthales,,,
+Huales,,,
+Cardiopteridales,,,
+Columelliales,,,
+Oncothecales,,,
+Spiranthes australis,1,[],
+Dasypogon,1,[],
+Dasypogon bromeliifolius,,,
+Apodanthes,,,
+Apodanthes caseariae,,,
+Hua,,,
+Hua gabonii,,,
+Columellia,,,
+Columellia oblonga,,,
+Cardiopteris,,,
+Cardiopteris moluccana,,,
+Oncotheca,,,
+Oncotheca balansae,,,
+Mystropetalaceae,,,
+Mystropetalon,,,
+Wightiaceae,,,
+Wightia,,,
+Hydnoraceae,,,
+Alnus maritima,1,[],
+Arabis shengkuangshanensis,,,
+Machilus obovatifolius obovatifolius,,,
+Spiranthes nivea nivea,1,t0102660,accepted
+Camphora officinarum officinarum,,,
+Camphora officinarum nominale,1,t0086685,accepted
+Urceolina amazonica,,,
+Hedysarum,1,[],
+Aristolochia fangchi,,,
+Emilia javanica,1,t0053528,misapplied
+Urothemis signata signata,,,
+Macrochelys,,,
+Macrochelys temminckii,,,
+Euplectes afer,,,
+Stizoptera,,,
+Stizoptera bichenovii,,,
+Graptemys,,,
+Graptemys ouachitensis,,,
+Equisetum hyemale,1,[],
+Nymphaea pygmaea,,,
+Pandanus tectorius,1,[],
+Ania hongkongensis,,,
+Anoectochilus roxburghii,1,t0052597,misapplied
+Dendrobium lindleyi,,,
+Kalanchoe serrata,,,
+Mucuna gigantea gigantea,,,
+Mucuna macrocarpa macrocarpa,1,t0105985,accepted
+Mucuna bennettii,,,
+Mucuna birdwoodiana,,,
+Mucuna interrupta,,,
+Mucuna lamellata,,,
+Mucuna sempervirens,,,
+Mucuna sloanei,,,
+Glycyrrhiza uralensis,,,
+Glycyrrhiza inflata,,,
+Glycyrrhiza aspera,,,
+Cytisophyllum,,,
+Eriobotrya deflexa deflexa,1,t0053584,not-accepted
+Prunus ×subhirtella,,,
+Begonia grandis grandis,,,
+Begonia grandis sinensis,,,
+Begonia hohuanensis,1,[],
+Tashiroea,1,[],
+Acer buergerianum buergerianum,,,
+Cardamine hirsuta,1,[],
+Nidorella,,,
+Eschenbachia,1,[],
+Brassaiopsis,,,
+Heterodon,1,[],
