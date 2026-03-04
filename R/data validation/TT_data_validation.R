@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20260211"  # 舉例
+modified_date <- "20260304"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -447,40 +447,40 @@ df_TT_attribute_error <- rbind(df_TT_withouttcnamecode, df_TT_undertaxon, df_TT_
 # ✅ 在這裡加判斷：完全包住 for 迴圈
 
 
-if (nrow(df_TT_attribute_error) > 0) {
-  
-  for (i in 1:nrow(df_TT_attribute_error)) {
-    
-    while(TRUE) {
-      tryCatch({
-        TBN_result <- fromJSON(sprintf(
-          "https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20",
-          df_TT_attribute_error$taxonUUID[i]
-        ))
-        break
-      }, error = function(e) {
-        message("Error occurred: ", e)
-        message("Retrying after 5 seconds")
-        Sys.sleep(5)
-      })
-    }
-    
-    if (TBN_result$meta$status == "SUCCESS") {
-      df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$total
-    } else if (TBN_result$meta$status == "NOT FOUND") {
-      df_TT_attribute_error$number_of_occurrence[i] <- 0
-    } else {
-      df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$status
-    }
-    
-    print(paste("finish i=", i, " download"))
-  }
-  
-} else {
-  message("🛑 df_TT_attribute_error 沒有資料，跳過整個查詢迴圈。")
-}
+# if (nrow(df_TT_attribute_error) > 0) {
+#   
+#   for (i in 1:nrow(df_TT_attribute_error)) {
+#     
+#     while(TRUE) {
+#       tryCatch({
+#         TBN_result <- fromJSON(sprintf(
+#           "https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20",
+#           df_TT_attribute_error$taxonUUID[i]
+#         ))
+#         break
+#       }, error = function(e) {
+#         message("Error occurred: ", e)
+#         message("Retrying after 5 seconds")
+#         Sys.sleep(5)
+#       })
+#     }
+#     
+#     if (TBN_result$meta$status == "SUCCESS") {
+#       df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$total
+#     } else if (TBN_result$meta$status == "NOT FOUND") {
+#       df_TT_attribute_error$number_of_occurrence[i] <- 0
+#     } else {
+#       df_TT_attribute_error$number_of_occurrence[i] <- TBN_result$meta$status
+#     }
+#     
+#     print(paste("finish i=", i, " download"))
+#   }
+#   
+# } else {
+#   message("🛑 df_TT_attribute_error 沒有資料，跳過整個查詢迴圈。")
+# }
 
-
+df_TT_attribute_error$number_of_occurrence <- NA
 
 
 df_TT_attribute_error$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_attribute_error$taxonUUID)
