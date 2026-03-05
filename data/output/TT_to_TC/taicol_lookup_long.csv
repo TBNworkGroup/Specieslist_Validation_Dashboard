@@ -1507,7 +1507,7 @@ Balanites,,,
 Bulnesia,,,
 Fagonia,,,
 Guaiacum,,,
-Kallstroemia,,,
+Kallstroemia,1,[],
 Larrea,,,
 Porlieria,,,
 Zygophyllum,,,
@@ -4494,6 +4494,7 @@ Heteroscyphus zollingeri pluridentatus,1,t0087648,accepted
 Jackiella javanica cavifolia,1,t0086864,accepted
 Sphagnum junghuhnianum pseudomolle,1,t0058280,not-accepted
 Andreaea rupestris fauriei,1,t0040163,accepted
+Andreaea rupestris fauriei,2,,
 Atrichum undulatum gracilisetum,1,t0086635,accepted
 Pogonatum cirratum fuscatum,1,t0084615,accepted
 Syrrhopodon prolifer tosaensis,1,t0087066,accepted
@@ -5049,6 +5050,7 @@ Glycyrrhiza inflata,,,
 Glycyrrhiza aspera,,,
 Cytisophyllum,,,
 Eriobotrya deflexa deflexa,1,t0053584,not-accepted
+Eriobotrya deflexa deflexa,2,,
 Prunus ×subhirtella,,,
 Begonia grandis grandis,,,
 Begonia grandis sinensis,,,
