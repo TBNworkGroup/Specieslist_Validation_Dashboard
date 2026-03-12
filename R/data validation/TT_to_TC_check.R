@@ -10,8 +10,28 @@ modified_date <- "20260311"  # 舉例
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
 
-df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
-  filter(is_in_taiwan%in%"TRUE")
+df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
+
+# 先抓第一頁
+splist <- fromJSON(sprintf("https://api.taicol.tw/v2/taxon?is_in_taiwan=false&limit=300"))
+df_TCsplist_notintaiwan <- splist$data
+total <- splist$info$total
+
+# 計算頁碼
+pg <- floor(total / 300)
+if (total %% 300 == 0) {
+  pg <- pg - 1
+}
+sequence <- seq(300, pg * 300, by = 300)
+
+# loop 從第二頁開始
+for (i in sequence) {
+  splist <- fromJSON(sprintf("https://api.taicol.tw/v2/taxon?is_in_taiwan=false&limit=300&offset=%d", i))
+  df_TCsplist_notintaiwan <- rbind(df_TCsplist_notintaiwan, splist$data)
+  print(i)
+}
+
+df_TCsplist <- rbind(df_TCsplist, df_TCsplist_notintaiwan)
 
 
 
@@ -206,11 +226,11 @@ TT_add_taxonid_unique <- TT_add_taxonid_checked %>%
   group_by(TT_taxonUUID) %>%
   filter(n() == 1) %>%
   ungroup()%>%
-  filter(!is.na(taicol_taxon_id) & taicol_taxon_id != "")
+  filter(!is.na(hit_index))
 
 
 TT_add_taxonid_miss <- TT_add_taxonid_checked %>%
-  filter(is.na(taicol_taxon_id) | taicol_taxon_id == "")
+  filter(is.na(hit_index))
 
 
 TT_add_taxonid_multiple <- TT_add_taxonid_checked[!(TT_taxonUUID %in% as.vector(TT_add_taxonid_unique$TT_taxonUUID))]%>%
