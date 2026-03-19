@@ -1,0 +1,115 @@
+TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,taxon_id,taxon_status,simple_name,rank,kingdom
+87fe9b9d-8291-4f3c-8b27-480d2edad7c1,genus,Plantae,"",Culcita,t0012509,accepted,Culcita,Genus,Animalia
+0c218450-c46e-4ae1-8aab-5f35c33458a8,genus,Plantae,"",Ione,t0021149,accepted,Ione,Genus,Animalia
+16c6789b-0f54-46dc-8468-e09831c13c1b,genus,Plantae,"",Actaea,t0009403,accepted,Actaea,Genus,Animalia
+6f1a6779-6e1e-4d01-ae0b-4cf09f4a59c6,genus,Plantae,"",Pileostegia,t0002687,accepted,Hydrangea,Genus,Plantae
+e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,"",Platypleura,t0014839,accepted,Platypleura,Genus,Animalia
+e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,"",Platypleura,t0093371,accepted,Thomsenella,Genus,Protozoa
+cb98fe64-7a6d-44f8-af2f-5b4851efeb58,genus,Protozoa,"",Balladyna,t0006537,accepted,Balladyna,Genus,Chromista
+cb98fe64-7a6d-44f8-af2f-5b4851efeb58,genus,Protozoa,"",Balladyna,t0007116,accepted,Balladyna,Genus,Fungi
+77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,"",Enteropogon,t0006625,accepted,Enteropogon,Genus,Protozoa
+77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,"",Enteropogon,t0023774,accepted,Enteropogon,Genus,Plantae
+e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,"",Selaginella circinalis,t0103619,accepted,Lycopodium circinale,Species,Plantae
+ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,"",Selaginella circinalis,t0103619,accepted,Lycopodium circinale,Species,Plantae
+61caa6c2-5fc9-4518-a867-96e8c3708694,species,Plantae,"",Caladium hortulanum,t0040532,accepted,Caladium × hortulanum,Species,Plantae
+2b05ab46-36b1-4a15-b266-8569a7cf213f,species,Plantae,"",Bulbophyllum remotifolium,t0033500,accepted,Bulbophyllum albociliatum var. remotifolium,Variety,Plantae
+2b05ab46-36b1-4a15-b266-8569a7cf213f,species,Plantae,"",Bulbophyllum remotifolium,t0040502,accepted,Bulbophyllum hirundinis,Species,Plantae
+2b05ab46-36b1-4a15-b266-8569a7cf213f,species,Plantae,"",Bulbophyllum remotifolium,t0099239,deleted,Bulbophyllum hirundinis,Species,Plantae
+a529536e-ad0b-4644-8f11-397d0b7d964e,species,Plantae,"",Calanthe hsinchuensis,t0040537,accepted,Calanthe × hsinchuensis,Species,Plantae
+593f7c14-4de1-4acb-a71a-0db2a1305e85,species,Plantae,"",Hemipilia takasagomontana,t0059087,accepted,Ponerorchis takasago-montana,Species,Plantae
+56385b80-92e0-4fd2-a69e-35f6c7be586c,species,Plantae,"",Thrixspermum laurisilvaticum,t0055600,accepted,Thrixspermum pygmaeum,Species,Plantae
+992e387e-a308-4c05-b14d-e15954be3fef,species,Plantae,"",Musa paradisiaca,t0054512,accepted,Musa balbisiana,Species,Plantae
+992e387e-a308-4c05-b14d-e15954be3fef,species,Plantae,"",Musa paradisiaca,t0054514,accepted,Musa × paradisiaca,Species,Plantae
+01e10c83-3dee-4306-8c35-302f0de94717,species,Plantae,"",Musa sapientum,t0054512,accepted,Musa balbisiana,Species,Plantae
+01e10c83-3dee-4306-8c35-302f0de94717,species,Plantae,"",Musa sapientum,t0123862,accepted,Musa × sapientum,Species,Plantae
+7e7cc419-f730-47cb-b079-b264d49f2c7d,species,Plantae,"",Sedum uniflorum,t0055303,accepted,Sedum japonicum subsp. oryzifolium,Subspecies,Plantae
+7e7cc419-f730-47cb-b079-b264d49f2c7d,species,Plantae,"",Sedum uniflorum,t0105489,accepted,Sedum ryukyuense,Species,Plantae
+0fa0d663-9fef-41ce-9d0f-0104142795c2,species,Plantae,"",Desmodium velutinum,t0053359,accepted,Polhillides velutina,Species,Plantae
+ab15e21e-597b-45db-9011-257ab107c7c5,species,Plantae,"",Osteomeles anthyllidifolia,t0054665,accepted,Osteomeles schwerinae,Species,Plantae
+ab15e21e-597b-45db-9011-257ab107c7c5,species,Plantae,"",Osteomeles anthyllidifolia,t0058670,accepted,Osteomeles anthyllidifolia var. subrotunda,Variety,
+41aa0a6b-7dd6-44a8-a2e2-5977163adfe4,species,Plantae,"",Rubus hayatakoidzumii,t0075701,deleted,Rubus pentalobus,Species,Plantae
+41aa0a6b-7dd6-44a8-a2e2-5977163adfe4,species,Plantae,"",Rubus hayatakoidzumii,t0103385,deleted,Rubus pentalobus,Species,Plantae
+41aa0a6b-7dd6-44a8-a2e2-5977163adfe4,species,Plantae,"",Rubus hayatakoidzumii,t0104456,deleted,Rubus pentalobus,Species,Plantae
+41aa0a6b-7dd6-44a8-a2e2-5977163adfe4,species,Plantae,"",Rubus hayatakoidzumii,t0105404,accepted,Rubus pentalobus,Species,Plantae
+6dfc0a8c-7f4d-4099-82ac-853127fd89c6,species,Plantae,"",Euonymus chinensis,t0053877,accepted,Gymnopetalum chinense,Species,Plantae
+2a042a42-f097-4f75-b737-d6c7324c23df,species,Plantae,"",Trapa quadrispinosa,t0055640,accepted,Trapa natans var. komarovii,Variety,Plantae
+a0509ef5-4312-4b2b-b13d-3effcbbae235,species,Plantae,"",Bredia penduliflora,t0040445,accepted,Bredia gibba,Species,Plantae
+e4d379bd-463a-4599-8f3a-36937eed35e6,species,Plantae,"",Citrus taiwanica,t0053032,accepted,Citrus × aurantium,Species,Plantae
+e4d379bd-463a-4599-8f3a-36937eed35e6,species,Plantae,"",Citrus taiwanica,t0053034,accepted,Citrus × taiwanica,Species,Plantae
+7623b29a-b858-4962-97b0-61d59e8bd413,infraspecies,Plantae,"",Huperzia serrata longipetiolata,t0058031,accepted,Huperzia javanica,Species,Plantae
+7623b29a-b858-4962-97b0-61d59e8bd413,infraspecies,Plantae,"",Huperzia serrata longipetiolata,t0103469,deleted,Huperzia serrata var. longipetiolata,Variety,Plantae
+ae3df992-2344-49ec-8671-fb83e5bf7c00,infraspecies,Plantae,"",Huperzia serrata myriophyllifolia,t0026336,accepted,Huperzia myriophyllifolia,Species,Plantae
+ae3df992-2344-49ec-8671-fb83e5bf7c00,infraspecies,Plantae,"",Huperzia serrata myriophyllifolia,t0103352,deleted,Huperzia serrata var. myriophyllifolia,Variety,Plantae
+8873e169-f9c9-4401-ae67-0b826cc458e6,infraspecies,Plantae,"",Pteris cretica laeta,t0026508,accepted,Pteris esquirolii,Species,Plantae
+8873e169-f9c9-4401-ae67-0b826cc458e6,infraspecies,Plantae,"",Pteris cretica laeta,t0102192,accepted,Pteris cretica subsp. cretica,Subspecies,Plantae
+fed99acb-7dfd-45ad-9aa8-265e0b0ea492,infraspecies,Plantae,"",Pteris grevilleana grevilleana,t0086963,accepted,Pteris grevilleana fo. grevilleana,Form,Plantae
+fed99acb-7dfd-45ad-9aa8-265e0b0ea492,infraspecies,Plantae,"",Pteris grevilleana grevilleana,t0101202,deleted,Pteris grevilleana fo. grevilleana,Form,Plantae
+fed99acb-7dfd-45ad-9aa8-265e0b0ea492,infraspecies,Plantae,"",Pteris grevilleana grevilleana,t0103381,deleted,Pteris grevilleana var. grevilleana,Variety,Plantae
+4fb0a69c-7751-42b1-b7c4-4e08c69564cd,infraspecies,Plantae,"",Pteris grevilleana ornata,t0087608,accepted,Pteris grevilleana fo. ornata,Form,Plantae
+4fb0a69c-7751-42b1-b7c4-4e08c69564cd,infraspecies,Plantae,"",Pteris grevilleana ornata,t0102193,deleted,Pteris grevilleana var. ornata,Variety,Plantae
+e34b5c27-8c11-47ba-80b4-d3755cbc3fc8,infraspecies,Plantae,"",Asplenium yoshinagae indicum,t0026925,accepted,Asplenium yoshinagae,Species,Plantae
+e34b5c27-8c11-47ba-80b4-d3755cbc3fc8,infraspecies,Plantae,"",Asplenium yoshinagae indicum,t0103474,accepted,Asplenium yoshinagae subsp. indicum,Subspecies,Plantae
+e7ca7c60-6a8d-4c9b-8597-0a56a99d8c18,infraspecies,Plantae,"",Athyrium iseanum angustisectum,t0086576,accepted,Athyrium iseanum var. angustisectum,Variety,Plantae
+3ae40a98-5a85-445f-8634-3395626bffbb,infraspecies,Plantae,"",Cyrtomium falcatum australe,t0085097,accepted,Cyrtomium falcatum subsp. australe,Subspecies,Plantae
+3cdaeaf0-c671-4edc-89b9-94aca3b0ab74,infraspecies,Plantae,"",Keteleeria davidiana formosana,t0058106,accepted,Keteleeria davidiana var. formosana,Variety,Plantae
+11118108-8b1f-4aa9-bd4d-6063ce37da7b,infraspecies,Plantae,"",Chamaecyparis obtusa formosana,t0086676,accepted,Chamaecyparis obtusa var. formosana,Variety,Plantae
+c90e0ef2-1813-4bc4-a392-70e274a8f2a6,infraspecies,Plantae,"",Tricyrtis formosana formosana,t0058450,accepted,Tricyrtis formosana,Species,Plantae
+c90e0ef2-1813-4bc4-a392-70e274a8f2a6,infraspecies,Plantae,"",Tricyrtis formosana formosana,t0087096,deleted,Tricyrtis formosana var. formosana,Variety,Plantae
+c90e0ef2-1813-4bc4-a392-70e274a8f2a6,infraspecies,Plantae,"",Tricyrtis formosana formosana,t0105631,deleted,Tricyrtis formosana fo. formosana,Form,Plantae
+c123ef9f-1722-429c-9af8-0644d3bde1c5,infraspecies,Plantae,"",Tricyrtis formosana stolonifera,t0058450,accepted,Tricyrtis formosana,Species,Plantae
+c123ef9f-1722-429c-9af8-0644d3bde1c5,infraspecies,Plantae,"",Tricyrtis formosana stolonifera,t0069687,deleted,Tricyrtis formosana,Species,Plantae
+c123ef9f-1722-429c-9af8-0644d3bde1c5,infraspecies,Plantae,"",Tricyrtis formosana stolonifera,t0103552,deleted,Tricyrtis formosana var. stolonifera,Variety,Plantae
+051f81c9-21e8-4336-841f-dea98a5c6b32,infraspecies,Plantae,"",Cymbidium lancifolium aspidistrifolium,t0058904,accepted,Cymbidium lancifolium var. aspidistrifolium,Variety,Plantae
+95ef91aa-d02a-4560-a0f6-a67bac39a98d,infraspecies,Plantae,"",Goodyera similis albonervosa,t0086843,accepted,Goodyera similis fo. albonervosa,Form,Plantae
+5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,t0057517,accepted,Zeuxine strateumatica var. strateumatica,Variety,Plantae
+5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,t0102295,accepted,Zeuxine strateumatica var. rupicola,Variety,Plantae
+9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,t0057517,accepted,Zeuxine strateumatica var. strateumatica,Variety,Plantae
+9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,t0102295,accepted,Zeuxine strateumatica var. rupicola,Variety,Plantae
+10da2525-8cff-4e84-9708-7d8e5cc0d236,infraspecies,Plantae,"",Carex gentilis nakaharae,t0087360,accepted,Carex gentilis var. nakaharae,Variety,Plantae
+a93e85dd-8367-4428-a2ae-fa68216d4816,infraspecies,Plantae,"",Carex grallatoria heteroclita,t0058727,accepted,Carex grallatoria var. heteroclita,Variety,Plantae
+74629838-deec-4237-bea7-6ffe30f80bb9,infraspecies,Plantae,"",Carex mitrata aristata,t0087361,accepted,Carex mitrata var. aristata,Variety,Plantae
+b5fcc002-9d42-4231-a773-a9104e39a41e,infraspecies,Plantae,"",Carex tristachya pocilliformis,t0058731,accepted,Carex tristachya var. pocilliformis,Variety,Plantae
+e2e6e4dc-5f4f-40c4-ae3e-adbe2f1d9565,infraspecies,Plantae,"",Cyperus nutans subprolixus,t0085096,accepted,Cyperus nutans subsp. subprolixus,Subspecies,Plantae
+ddb257c3-4838-4eeb-98a8-c267493d98e2,infraspecies,Plantae,"",Eleocharis congesta japonica,t0057314,accepted,Eleocharis congesta subsp. japonica,Subspecies,Plantae
+d61a8fdf-48b6-4696-b5ba-12d6843753c4,infraspecies,Plantae,"",Spodiopogon tainanensis hogoensis,t0055441,accepted,Spodiopogon tainanensis,Species,Plantae
+510aee5c-3b37-4569-91fd-76a093fb3d98,infraspecies,Plantae,"",Spodiopogon tainanensis takeoi,t0055441,accepted,Spodiopogon tainanensis,Species,Plantae
+2f4d4a4a-a1b9-4d13-8db3-a3952a2d4364,infraspecies,Plantae,"",Clematis henryi morii,t0086692,accepted,Clematis henryi var. morii,Variety,Plantae
+1aaecb7a-8ce6-4590-b276-80e0f69398b7,infraspecies,Plantae,"",Clematis parviloba bartlettii,t0053052,accepted,Clematis parviloba subsp. bartlettii,Subspecies,Plantae
+89c14b1f-d82b-4bcf-8d9b-de74b09dca49,infraspecies,Plantae,"",Buxus microphylla sinica,t0072950,accepted,Buxus liukiuensis,Species,Plantae
+89c14b1f-d82b-4bcf-8d9b-de74b09dca49,infraspecies,Plantae,"",Buxus microphylla sinica,t0084584,accepted,Buxus microphylla subsp. sinica,Subspecies,Plantae
+0f7a2123-7257-43ca-9026-36e84f5f6265,infraspecies,Plantae,"",Lotus corniculatus japonicus,t0085099,accepted,Lotus corniculatus var. japonicus,Variety,Plantae
+b7c29b73-051e-4c96-9c6a-863a2b98e0aa,infraspecies,Plantae,"",Pueraria lobata thomsonii,t0084621,accepted,Pueraria montana var. thomsonii,Variety,Plantae
+b7c29b73-051e-4c96-9c6a-863a2b98e0aa,infraspecies,Plantae,"",Pueraria lobata thomsonii,t0100915,deleted,Pueraria montana var. thomsonii,Variety,Plantae
+220344f5-8c39-4863-bce1-cf5f9a4e137f,infraspecies,Plantae,"",Eriobotrya deflexa buisanensis,t0087642,accepted,Eriobotrya deflexa fo. buisanensis,Form,Plantae
+8b1cc637-4582-4d5f-a94e-4bc031b1c7db,infraspecies,Plantae,"",Eriobotrya deflexa koshunensis,t0087642,accepted,Eriobotrya deflexa fo. buisanensis,Form,Plantae
+8b1cc637-4582-4d5f-a94e-4bc031b1c7db,infraspecies,Plantae,"",Eriobotrya deflexa koshunensis,t0087643,accepted,Eriobotrya deflexa fo. koshunensis,Form,Plantae
+cbf9bb85-c388-46d2-949b-7b247c04fd39,infraspecies,Plantae,"",Osteomeles anthyllidifolia subrotunda,t0058670,accepted,Osteomeles anthyllidifolia var. subrotunda,Variety,
+0c4a4845-cbf9-4062-ad3a-36cb3654a9f9,infraspecies,Plantae,"",Rubus pseudoacer flexuosus,t0084623,accepted,Rubus pseudoacer subsp. flexuosus,Subspecies,Plantae
+7d0af78c-5b21-43c3-8c92-2a45f23b9824,infraspecies,Plantae,"",Hypericum geminiflorum simplicistylum,t0058051,accepted,Hypericum geminiflorum var. simplicistylum,Variety,Plantae
+0674fbd7-0e3e-414e-8a64-968145da9da4,infraspecies,Plantae,"",Geranium nepalense thunbergii,t0057934,accepted,Geranium nepalense subsp. thunbergii,Subspecies,Plantae
+90249bab-7515-4b2c-bd53-67b7cebeaa72,infraspecies,Plantae,"",Circaea alpina imaicola,t0084590,accepted,Circaea alpina subsp. imaicola,Subspecies,Plantae
+d3227d37-d07e-4728-bb03-239a30369cfe,infraspecies,Plantae,"",Acer palmatum pubescens,t0086589,accepted,Acer palmatum var. pubescens,Variety,Plantae
+79c72cd6-0ecb-462c-93b0-5411ecd72162,infraspecies,Plantae,"",Arabidopsis halleri gemmifera,t0052608,accepted,Arabidopsis halleri var. gemmifera,Variety,Plantae
+3725a54e-ad88-4a3c-9dc3-e42d50ead006,infraspecies,Plantae,"",Achyranthes aspera rubrofusca,t0052533,accepted,Achyranthes aspera var. rubro-fusca,Variety,Plantae
+3725a54e-ad88-4a3c-9dc3-e42d50ead006,infraspecies,Plantae,"",Achyranthes aspera rubrofusca,t0086591,deleted,Achyranthes aspera var. rubro-fusca,Variety,Plantae
+3725a54e-ad88-4a3c-9dc3-e42d50ead006,infraspecies,Plantae,"",Achyranthes aspera rubrofusca,t0103405,deleted,Achyranthes aspera var. rubrofusca,Variety,Plantae
+6466c984-66fb-4502-9ed9-bbc73b448215,infraspecies,Plantae,"",Embelia laeta papilligera,t0057317,accepted,Embelia laeta var. papilligera,Variety,Plantae
+db846ca0-56a9-4d96-9a9f-381dfe722420,infraspecies,Plantae,"",Shortia rotundifolia rotundifolia,t0058253,accepted,Shortia rotundifolia var. rotundifolia,Variety,Plantae
+9488238e-7a6e-427a-8243-46f6f2c6f33f,infraspecies,Plantae,"",Damnacanthus angustifolius stenophyllus,t0053293,accepted,Damnacanthus angustifolius,Species,Plantae
+1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,t0055675,accepted,Tripterospermum taiwanense,Species,Plantae
+1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,t0069693,accepted,Tripterospermum alutaceifolium,Species,Plantae
+132fc435-a6ed-487a-b301-ebae1ec52c94,infraspecies,Plantae,"",Heliotropium procumbens depressum,t0074255,accepted,Euploca procumbens,Species,Plantae
+132fc435-a6ed-487a-b301-ebae1ec52c94,infraspecies,Plantae,"",Heliotropium procumbens depressum,t0086846,deleted,Heliotropium procumbens var. depressum,Variety,Plantae
+90227064-1a8a-4d76-88a5-86c144d689d8,infraspecies,Plantae,"",Mentha arvensis piperascens,t0084606,accepted,Mentha arvensis var. piperascens,Variety,Plantae
+5d70d366-e75b-43d6-8bdd-7f9d9fd603b2,infraspecies,Plantae,"",Prunella vulgaris asiatica,t0084620,accepted,Prunella vulgaris subsp. asiatica,Subspecies,Plantae
+5d70d366-e75b-43d6-8bdd-7f9d9fd603b2,infraspecies,Plantae,"",Prunella vulgaris asiatica,t0106669,deleted,Prunella vulgaris var. asiatica,Variety,Plantae
+a0f7501d-f64e-47bb-88f9-cd7d69e4dc2d,infraspecies,Plantae,"",Ilex sugerokii brevipedunculata,t0058070,accepted,Ilex sugerokii var. brevipedunculata,Variety,Plantae
+d2fa392d-dcb5-4eaf-971b-0e0e2ae0812c,infraspecies,Plantae,"",Solidago virgaurea leiocarpa,t0055397,accepted,Solidago decurrens,Species,Plantae
+d2fa392d-dcb5-4eaf-971b-0e0e2ae0812c,infraspecies,Plantae,"",Solidago virgaurea leiocarpa,t0087391,deleted,Solidago virgaurea var. leiocarpa,Variety,Plantae
+6ba70f18-09ce-4922-950f-a7d52beb7a49,infraspecies,Plantae,"",Youngia japonica formosana,t0084635,accepted,Youngia japonica subsp. formosana,Subspecies,Plantae
+15750db9-76d4-4a5b-aa8c-c9cc901cb2dd,infraspecies,Plantae,"",Pittosporum illicioides angustifolium,t0086951,accepted,Pittosporum illicioides var. angustifolium,Variety,Plantae
+93d6b8ff-4a9f-42bf-b6fb-b435599078ab,superdomain,"","",Viruses,t0103715,deleted,Viruses,Kingdom,Viruses
+93d6b8ff-4a9f-42bf-b6fb-b435599078ab,superdomain,"","",Viruses,t0104550,accepted,Viruses,Unranked,
+09940411-6824-4e20-ae7d-e584285a8eed,infraspecies,Plantae,"",Andreaea rupestris fauriei,t0040163,accepted,Andreaea rupestris var. fauriei,Variety,Plantae
+032209f0-0b53-47af-aad4-5739b0d9ea04,suborder,Animalia,"",Serpentes,t0002146,accepted,Serpentes,Order,Animalia
+02090170-6acc-40cf-af8d-2b6caf7bce7b,infraspecies,Plantae,"",Eriobotrya deflexa deflexa,t0124208,accepted,Eriobotrya deflexa fo. deflexa,Form,Plantae

@@ -1,6 +1,6 @@
 taxon_class,taxon_type,taxon_names,taxon_len,has_vector_inside,n
-NULL,NULL,"",0,FALSE,2895
-data.frame,list,taxon_id|taicol_name_status|is_in_taiwan,3,FALSE,1629
-character,character,"",1,FALSE,504
-data.frame,list,"",0,FALSE,31
+NULL,NULL,"",0,FALSE,2875
+data.frame,list,taxon_id|taicol_name_status|is_in_taiwan,3,FALSE,1511
+character,character,"",1,FALSE,180
+data.frame,list,"",0,FALSE,29
 data.frame,list,taxon_id|taicol_name_status|is_in_taiwan,3,TRUE,2

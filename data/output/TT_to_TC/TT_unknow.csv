@@ -1,340 +1,8 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName
-346ca6f6-5941-4a50-9ee9-1eae8850d82d,class,Animalia,t0000518,Maxillopoda
-57ec2a7c-cd34-44ad-b6d5-2bc4d5385c93,class,Animalia,t0002891,Chondrichthyes
-47933c17-4f07-4892-b29b-0274c6a7e972,class,Animalia,t0002888,Amphioxichthyes
-6f82946d-471a-45a0-89db-86eb98ed24a8,class,Animalia,t0002890,Cestoda
-e12102e6-e113-46bd-a8c0-05f904652c8c,class,Animalia,t0002892,Digononta
-81cf66f2-68c6-4ae3-bf9a-4b02adf3bdfa,class,Animalia,t0000465,Anopla
-8825e9f3-62fa-47b8-b533-2d06ed421713,class,Animalia,t0002895,Inarticulata
-855d74f3-a536-4836-aef1-08b5191ff223,order,Animalia,t0003069,Mysidacea
-33a06981-7325-4e95-bc7f-31c778d042b9,order,Animalia,t0002147,Sessilia
-05afcbaa-57cc-475b-aaa2-84f847a81a6a,order,Animalia,t0003082,Scalpelliiformes
-f1ad5b1d-2fe7-4d1b-b83f-d349dcf3cd5c,order,Animalia,t0001923,Kentrogonida
-7867f6a3-723e-4879-9210-ebb5a28a81e9,order,Animalia,t0003084,Scorpaeniformes
-4f6f151c-96e5-4d15-bca5-2cfd6e588c82,order,Animalia,t0002079,Pleuronectiformes
-320e7ac3-7cdf-4c44-8ef6-e4a47434b897,order,Animalia,t0002060,Phoenicopteriformes
-e8a80449-b354-48b5-96e0-573211e17264,order,Animalia,t0002161,Soricomorpha
-ec38dbbc-9211-4318-808b-1f073baf9d5c,order,Animalia,t0001683,Anaspidea
-e6451844-fa12-4323-92f8-8826e360aeb1,order,Animalia,t0003073,Notaspidea
-55bb2b52-300d-4eb8-b46f-33caafd41b59,order,Animalia,t0003064,Lepetellida
-2ded7fed-7a0d-4151-af5c-f8e3975cc1c6,order,Animalia,t0003091,Strigeata
-7a9b76e6-eeb0-4032-b177-94d861a244e7,family,Animalia,t0005393,Axinellidae
-c806ceb5-54a6-4ebf-9250-69256156b2f5,family,Animalia,t0004717,Spongiidae
-f2471a5e-33e7-428e-87d5-c7a177c6fe9c,family,Animalia,t0006206,Irciniidae
-2b2292e0-0580-428c-b574-ed1c1ff8638a,family,Animalia,t0004484,Prothoplophoridae
-b17c5b02-5d85-4efb-8d2d-6e49398046ec,family,Animalia,t0091653,Hexathelidae
-aa6aa4d6-cca9-43c9-8e8c-32c719e7f26a,family,Animalia,t0004868,Trachyleheridae
-0966de3b-d094-438a-8b4d-89de6a36e7ca,family,Animalia,t0004276,Paracyprididae
-ca233745-d82e-4e4d-9dda-73dac352d2f5,family,Animalia,t0005407,Bathocytheridae
-8f874860-e368-4e1e-8ad4-d64d9107a741,family,Animalia,t0005942,Eucandonidae
-ffe15cf0-6904-4dab-9ca7-75d8111741f3,family,Animalia,t0006198,Ilyocprididae
-a8c79aa6-1aa8-4382-afc8-7975437cdd68,family,Animalia,t0005505,Calocarididae
-a0181ddd-c054-4d15-8024-9d5e3dabd0a1,family,Animalia,t0005771,Dairidae
-d7ae9bec-bc23-436e-ba55-9695e8fa3ad5,family,Animalia,t0006183,Hymenoceridae
-c40df691-e630-42d9-b4ea-1092616b7201,family,Animalia,t0005412,Bathysquilloidea
-56d8838d-ba19-4247-8cf9-74fa8054b4e5,family,Animalia,t0004787,Tanaidae
-551dc5dc-e291-4366-bffc-fed46d909dc1,family,Animalia,t0006397,Mecynoceridae
-72d9c4ff-5b8b-4ba8-b554-d651b50a5f15,family,Animalia,t0005264,Ambunguipedidae
-88092c05-ef69-4afc-a3de-f3b0358409b6,family,Animalia,t0005665,Clytemnestridae
-978291b8-b235-4c23-be71-8c073ac61af3,family,Animalia,t0005966,Euterpinidae
-29930039-7cdb-4f0d-be0f-c517ede91704,family,Animalia,t0004542,Pyrgomatidea
-f81f35db-8d60-4292-9fe2-fdf3e02930e4,family,Animalia,t0004410,Platylepadidae
-1bdd6193-a901-49a9-8f81-bf1a98fa338f,family,Animalia,t0004437,Pollicipidae
-c25e0853-6c73-4c99-b015-89b316d65124,family,Animalia,t0006472,Monstrilloidae
-f1e60c0c-2bdd-4b9a-b11e-78fcff9ddf5d,family,Animalia,t0004596,Sacculinidae
-e42edd54-739e-49e3-94c1-4f9667e701ec,family,Animalia,t0005711,Cottidae
-89136b27-2470-40af-ab68-12e201bfa3da,family,Animalia,t0004278,Paradoxornithidae
-96312bd1-7132-48fa-b385-b792978c4c48,family,Animalia,t0004360,Phoenicopteridae
-d3d02425-6f89-40bf-ab72-fcc0cbbc9183,family,Animalia,t0005723,Crocodylidae
-29824a5b-e081-4787-8be5-19c574319002,family,Animalia,t0004688,Smaragdinellidae
-edacd0d9-0353-482c-8a4e-c4982730de6f,family,Animalia,t0004952,Veretillidae
-29fce59b-4c9b-4f52-b840-b9377f9d22bb,order,Animalia,t0003095,Thysanura
-b847a849-072d-4d9f-9ec4-bd6c76967668,order,Animalia,t0003055,Embiidina
-fb915ac1-8f87-4732-8570-2b88f41f8ed6,family,Animalia,t0005783,Deltocephalidae
-33925feb-60ae-439e-aea6-eb52f5fe6b14,family,Animalia,t0005317,Aphrodidae
-c794d6dd-e97f-4e46-9675-3ab58226e2cb,family,Animalia,t0006181,Hylicidae
-712a2818-f317-4fb5-bea7-9802bd45fb0b,family,Animalia,t0104445,Ledridae
-0aa84b28-f691-41fb-bac6-cb828995f41b,family,Animalia,t0005967,Evacanthidae
-912e2213-e143-45bb-91ad-ca673b949e03,family,Animalia,t0006099,Hecalidae
-1dc944f9-87c5-4cb3-8f1c-d6059ba6f6ce,family,Animalia,t0004926,Ulopidae
-a8abe481-54f0-4c64-9128-8b81f32dae8f,family,Animalia,t0004157,Nirvanidae
-f1c7861d-684b-4c4c-b077-3001430cc23e,family,Animalia,t0004324,Penthimiidae
-f8b992b8-0ecd-412e-8a80-b287c00bbf64,family,Animalia,t0005563,Ceraphromnidae
-7ae4040e-49c1-4fe3-b272-29780b91cde7,family,Animalia,t0004224,Opomyzidae
-cc013d70-4cb4-4a2c-b224-57476ce3a120,family,Animalia,t0004537,Pygotidae
-c159973f-a202-4c36-9549-b9867eba92da,family,Animalia,t0005900,Eneopteridae
-831ddcb0-9299-4a2f-b08d-fb4bed479139,family,Animalia,t0006082,Haglotettigoniidae
 dea51676-679b-4744-a484-6eb566806f62,family,Animalia,t0004134,Nemobiidae
-b022d563-e3b1-4751-a7a7-6f1b40f76525,family,Animalia,t0006433,Metrodoridae
-9489e5c0-67b9-4b44-9a95-51e8cc36af3e,family,Animalia,t0005546,Catantopidae
-33e6b616-3ec0-4960-a6c4-ce6487556332,family,Animalia,t0004577,Rhinotermitidae
-54d39266-41b4-493c-9b10-30e112afacd3,family,Animalia,t0005339,Archotermopsidae
-710fd318-d250-4de6-b70f-c66e26d80aad,family,Animalia,t0005802,Diapheromeridae
-b2ea539b-38d0-4fa5-b060-c28e38727c50,family,Animalia,t0006128,Heteronemiidae
 04d877f8-bca8-41cf-9bf4-5f9885de23d9,infraspecies,Fungi,t0087421,Cryptococcus neoformans sinensis
 4a607d9e-701a-4f73-9ed0-003b946259dd,species,Fungi,t0045026,Archnosphaera myriacantha
-59ff2b23-786f-4ea4-ac79-f80bd375cb45,order,Animalia,t0002099,Pristiformes
 5cc3c4f2-ed66-437c-89e4-1b3c84e70eb7,infraspecies,Animalia,t0084942,Papilio paris nakaharai
-7f9a3059-1e19-4ca3-a1ec-0f558698f0e1,genus,Animalia,t0009815,Amorphinopsis
-d4abdbc8-6d25-4b31-a652-bdce7814b99d,genus,Animalia,t0010633,Axinyssa
-a26fcc11-70bb-4a26-a4e8-598f76f9103d,genus,Animalia,t0020701,Higginsia
-de726fa3-7f2b-4171-9de5-a19c91616f96,genus,Animalia,t0014473,Phakellia
-91d5beec-21ab-49ce-8371-2dee1ac9533f,genus,Animalia,t0011676,Chalinula
-46ed0bef-923d-4c2a-86e0-5a3e2efb54da,genus,Animalia,t0019634,Eurospongia
-24958df3-eae0-4d22-b638-6bb53b95c30a,genus,Animalia,t0020738,Hippospongia
-12218b1c-9ae9-46ad-9b58-dafeea926076,genus,Animalia,t0021167,Ircinia
-382355ef-a69a-4faa-b5ca-9ac8cb69c5fc,genus,Animalia,t0015750,Raviella
-39745f24-a10a-417a-9b06-dc520b69f474,genus,Animalia,t0009919,Anatetranychus
-140f3e3d-2508-44d1-b301-be4e1bfd7839,genus,Animalia,t0010675,Bakerina
-f945a7fd-03c7-4ef1-9233-1c9b38bfc064,genus,Animalia,t0013406,Olingychus
-044a9145-eb4b-4f31-b746-2f082af1917d,genus,Animalia,t0011273,Caloglyphus
-c97e1158-832d-428e-87b4-403782fb3dc0,genus,Animalia,t0012164,Cologlyphus
-fbe8b644-44a6-4fe4-89c7-5fe120058ca5,genus,Animalia,t0023048,Mycetosancassania
-764cbdcd-d58b-4afe-9a35-b5917753bbfc,genus,Animalia,t0022529,Meqninia
-36e730b4-79a1-427b-a59c-c09e91587770,genus,Animalia,t0015356,Pseudobranchiopiella
-408eab66-9d09-469e-b995-a05bb1af0efb,genus,Animalia,t0012498,Ctenus
-e68b6e2a-f1f3-4232-b070-edd3b052b471,genus,Animalia,t0019768,Faiditus
-542cc7f4-24a2-4f0f-939a-b339bafe3cc1,genus,Animalia,t0017937,Ulesanis
-2456884e-c099-4d4d-a01b-76f01f69f8ed,genus,Animalia,t0011252,Callitrichia
-6c461c13-4bce-4088-b804-b44dfbd589a1,genus,Animalia,t0016517,Sitticus
-9212359b-a815-457c-8a90-e28a97e9c6db,genus,Animalia,t0017227,Tauala
-7d9caae7-47e6-4a03-bbfe-c6172709b41d,genus,Animalia,t0017387,Thalassius
-20e371ed-6d43-4407-87a7-0cdbc73be894,genus,Animalia,t0019827,Filistata
-1fb11932-5562-4b5f-be20-0b551db66e17,genus,Animalia,t0021702,Leptoneta
-60f432da-39a6-4ebc-99b7-de7516ec07eb,genus,Animalia,t0012706,Mysmena
-184a5dcb-1d43-4b43-9f7d-026277d51808,genus,Animalia,t0013662,Otacilia
-99c3e37c-c2bb-4766-9ec0-37592ce00827,genus,Animalia,t0020979,Hypoaspis
-4cd54049-dd18-40fb-bd40-821ebaf11ff1,genus,Animalia,t0021429,Labuanium
-afecca1d-ae84-43d2-a4e9-373bb71f05f2,genus,Animalia,t0092144,Zalasius
-e7f82783-f8c2-461c-b09b-a7f02fdb58e6,genus,Animalia,t0014098,Paraponotocaris
-58d96355-7f02-4682-8cc5-b99ccf6bbf46,genus,Animalia,t0014455,Peuaeus
-be0ea4d2-16e0-446f-866a-16a115d37765,genus,Animalia,t0014883,Plesioniak
-854a93cb-1ea7-4d33-a4ca-602c7e12321e,genus,Animalia,t0021648,Lepidophthalmus
-432cb083-48a5-4666-9b11-b734c1b418c0,genus,Animalia,t0019756,Exopalaemon
-237f4d65-7b21-430c-a1a7-c7cb9da67948,genus,Animalia,t0014390,Pericilimenes
-5f6a779d-2674-4966-acb6-3fdfbce501b9,genus,Animalia,t0009289,Acanthurella
-e8843603-1489-4e8e-957f-7a77506676ad,genus,Animalia,t0010175,Aphysa
-66f6335b-4326-446a-920f-d7bf2d72a84c,genus,Animalia,t0014219,Paronella
-86d95b57-5f49-4890-adb3-441ce7fa1f31,genus,Animalia,t0018669,Dicyrtoma
-94c5cfa6-718f-458a-81ef-7794e02c5be7,genus,Animalia,t0016657,Sphyrotheca
-19205e7a-619c-409a-9319-c15e14ad13dc,genus,Animalia,t0020994,Hypogastrura
-c9e456c8-c2c0-421b-b80d-37e6d8c10b72,genus,Animalia,t0021107,Imparitubercula
-32984ad8-3f50-4808-b048-35971edd5024,genus,Animalia,t0014063,Paranura
-c37f40cf-c37a-43ca-acf2-1d1f88ee77b5,genus,Animalia,t0014222,Paronychiurus
-cca986b8-22c3-41ca-bccb-a0e33315fc1d,genus,Animalia,t0010427,Asiomorpha
-12e7a748-d3b3-47bd-87e1-03a92559071f,genus,Animalia,t0017793,Triso
-dcc3eab0-49d5-4abe-a8ba-8764f2673ac1,genus,Animalia,t0010744,Bathyclupea
-1a0de9dc-18d8-4643-b7f3-448b5b2fc8e7,genus,Animalia,t0012747,Nannobrachium
-bbdbe369-019a-472d-b2f7-d7af869e49f9,genus,Animalia,t0093671,Seicercus
-11093c8f-95e5-4e9b-9bba-ba8e7fe61e8a,genus,Animalia,t0014572,Phoenicopterus
-6ff49ad3-d3f1-4588-a790-1d152c6125de,genus,Animalia,t0018315,Zaocys
-6b376710-a5c9-4b5f-a65d-916351a42a19,genus,Animalia,t0021347,Kerilia
-04db26bc-36a3-4b2f-83f1-38efb8dfd339,genus,Animalia,t0095020,Anguis
-ec4551c1-44f2-45dd-9852-d4ea2af2939a,genus,Animalia,t0015090,Praescutata
-c1fba892-9465-4b5c-8f4d-19b7ff406a91,genus,Animalia,t0015727,Ramphotyphlops
-5ba82f2b-c606-40e3-ae77-03dbdc172cb3,genus,Animalia,t0019357,Eptesicus
-7737e46b-856a-48dc-8124-76b935f46e85,genus,Animalia,t0015350,Pseudoamolops
-ad249698-6162-4ec1-8ee5-991a62a47af0,genus,Animalia,t0010768,Bathytormus
-ee16f6ad-7bf2-4219-86fa-7ff9192e5f69,genus,Animalia,t0015086,Potiarca
-3ac19897-9006-427b-ad2c-84d561dc8096,genus,Animalia,t0013845,Pandorella
-9b3be10b-f427-4849-b100-f66b4090dd9b,genus,Animalia,t0020857,Hormomya
-62e9fcb7-93a0-4067-9fcc-fa1e3a86ee9c,genus,Animalia,t0017956,Unio
-0c67dd15-00c9-4631-aae6-a676ec1f0d8a,genus,Animalia,t0014904,Plicarcularia
-15e2efe6-a205-4afb-b4e6-c4e41217f937,genus,Animalia,t0022699,Micantapex
-dd8f69dc-3f16-43c8-8a25-dd45def3bfd1,genus,Animalia,t0015635,Pusiostoma
-57eb8dcf-28a8-4a45-99d4-027366c87502,genus,Animalia,t0010955,Bonellitia
-c91fdf8b-2b3c-4317-ad4b-5f5c70e1c107,genus,Animalia,t0015704,Quoyula
-4836d214-09c3-4e5f-9ad5-2c732581edda,genus,Animalia,t0021565,Latirulus
-dc8a8abb-22b9-436d-8725-e37dd65fa474,genus,Animalia,t0011304,Camaena
-8035a350-feac-4d01-b976-486e3fe6ed8d,genus,Animalia,t0019126,Elegantiscala
-a080a9e9-c17b-4d57-8fc7-d419e0fd6de9,genus,Animalia,t0021411,Kurosioia
-750bcfe3-b5df-47a8-aa4f-9f42727597ed,genus,Animalia,t0022895,Modulus
-149ccc24-97d7-4b84-9694-1ffc055a14de,genus,Animalia,t0021869,Liotina
-1f298ccc-c52b-442d-8a6f-936b47b096b0,genus,Animalia,t0010838,Berbyce
-ca178e30-5786-4a07-aa6d-265cd577907a,genus,Animalia,t0009631,Alcyonium
-87944f9b-2911-45fb-874e-5cec688bfe6f,genus,Animalia,t0011488,Cavernularia
-7eaa5e41-5106-490e-8d62-5fad910ce717,genus,Animalia,t0010073,Anthocidaris
-e3d56a5e-b10d-4b08-937a-ea5cc9597673,genus,Animalia,t0018020,Vampirolrpis
-beedb598-055a-4580-85fb-4a3a605b4ca4,genus,Animalia,t0013782,Paeoniella
-e249543f-86ab-4af7-a2b6-1d9416543aa1,genus,Animalia,t0013203,Notholca
-2c67adba-2378-4957-8646-202998f2b1ce,genus,Animalia,t0013222,Notommata
-62511a2e-af09-431f-b052-0562eb8dba39,genus,Animalia,t0015151,Proales
-8d598da9-410b-43db-8272-fcb4cadc63a9,genus,Animalia,t0011934,Cillenus
-fe972af8-4779-4783-9a27-142863d37da0,genus,Animalia,t0012691,Myriochile
-5d74ed95-0822-4754-a92a-a230a9fbd0f8,genus,Animalia,t0012476,Csikia
-abdfc271-5dcd-40f1-8105-4624339e32af,genus,Animalia,t0009565,Agoniella
-fa77426a-f559-418a-9fe1-0b188c35e236,genus,Animalia,t0011815,Chlisolina
-e85b0056-8b3d-4e2b-b82a-196bbff20b74,genus,Animalia,t0020848,Horaia
-a31d0361-9b93-4853-91fc-b9213e7c021a,genus,Animalia,t0014019,Paraluperodes
-16ce8bcd-6d85-4880-8a5f-e06ccfb7f931,genus,Animalia,t0014640,Phyllodecta
-58a83e0d-cc94-493f-909c-271b9c94db13,genus,Animalia,t0015187,Proegmana
-5e864dbf-67f8-45e4-822d-b3390cce301d,genus,Animalia,t0016055,Saperoderma
-a80ed9b3-fa9f-448d-9431-26213a1b81ef,genus,Animalia,t0016396,Siemssenius
-da30d66e-4c22-4028-9b61-86d87dbb32bc,genus,Animalia,t0017633,Trachyphthona
-77df16c3-078c-4f51-8e02-5713002d060d,genus,Animalia,t0016994,Sympeizomias
-4bf769a8-66d2-46d7-85ad-f1d7ce150054,genus,Animalia,t0020469,Hayashi
-c8d07d30-7bfa-48de-a5e4-04d1e1bd26f4,genus,Animalia,t0093226,Parandra
-d9faddfb-d1ed-446a-b794-d4f99d096d84,genus,Animalia,t0014292,Pedostrangalia
-499611c3-0268-44b5-bd6e-0377a23d9874,genus,Animalia,t0015672,Pyrocalymma
-a51d72e4-1bed-43f9-8705-dc1aeb9c4cb4,genus,Animalia,t0015920,Rhytiphora
-cb674637-51a6-47ce-816a-6201bbc24048,genus,Animalia,t0016978,Sybra
-17ca8a5d-8366-4cb3-9878-e4efab2f0c06,genus,Animalia,t0022450,Megopisbaralipton
-54533366-202b-45a7-b265-c81970e3984a,genus,Animalia,t0019159,Emmelostiba
-7ede458b-43a9-49f3-aa9d-4b34d47bc543,genus,Animalia,t0020078,Geostibida
-68b088a3-526f-47f7-969f-5263f7a6d7e5,genus,Animalia,t0013315,Ocyusa
-b200a6ef-3bf7-41f3-b3f7-7f8f91a367c2,genus,Animalia,t0013404,Oligota
-494aa962-e5a5-4f72-8821-c4af8a795fec,genus,Animalia,t0014090,Parapimela
-aed5d5c8-06a9-4377-bc57-8573fd2750a8,genus,Animalia,t0014694,Phytosus
-e1c8d0bc-7eb1-4f29-a7da-c1da16c036ff,genus,Animalia,t0014780,Plagiusa
-644510aa-6505-43e8-a69a-098147a6507e,genus,Animalia,t0014841,Platyprosops
-4a1eb1a7-078f-4afd-bbd8-fe9fc5ca342c,genus,Animalia,t0021624,Lemnia
-d2bba599-d2f6-4296-8a0a-942a59dfafa2,genus,Animalia,t0018058,Verania
-5e61dd1b-d6c7-4ba6-a254-5a7ba3a75c38,genus,Animalia,t0018926,Drepanocerus
-70e9e210-e87a-4853-9ecc-720650542b9a,genus,Animalia,t0015283,Psammobius
-a30158e2-909e-479c-a4c8-890c7cde98e1,genus,Animalia,t0021791,Librodor
-8befe1a3-d337-417b-813d-23d3f69895e9,genus,Animalia,t0020617,Herophydrus
-625b0afc-7308-4aba-a891-2741dd2ad896,genus,Animalia,t0011712,Chasmogenus
-d5878c6a-7df3-4c21-a7a8-7c9ccf1630c2,genus,Animalia,t0017561,Tomarus
-fdeee5b3-4a3b-484c-ad7f-76aa1b66fb73,genus,Animalia,t0021142,Inopeplus
-40244c2b-843d-48a2-9360-f8ee5a58a1e4,genus,Animalia,t0021825,Limnubius
-872c29bb-b1f8-48d9-b40a-1836cb72b1c1,genus,Animalia,t0095040,Anthyria
-dbf9ae9e-fe45-41d5-aa63-dce89a1942b7,genus,Animalia,t0094262,Crypsicometa
-94063288-5623-4cd7-8ca0-29aef16ebd87,genus,Animalia,t0019502,Eucosmabraxas
-5dae42ba-127a-41c0-9f73-41cafa88ca56,genus,Animalia,t0092564,Heterocallia
-019bd86b-4cae-4a49-a4f1-32073aacc475,genus,Animalia,t0022720,Microcalcarifera
-0c3971f1-5e0f-4f4b-b31c-2126d9a6f8ed,genus,Animalia,t0013141,Nipponogelasma
-90fbc24b-ce7e-4ff2-8f31-e2456541078c,genus,Animalia,t0092098,Vindusara
-655f42e7-12a1-48f8-b748-a61550cb33dd,genus,Animalia,t0018311,Zanclopera
-d6ae8886-328d-41b4-ad35-92c37b3b26a2,genus,Animalia,t0009619,Albocosta
-fc5912a3-7807-4558-b0c0-b913b97ae8f2,genus,Animalia,t0010026,Anomis
-b7294f65-8b02-42cd-90e6-d24c7a388a36,genus,Animalia,t0011093,Bryophilina
-becbbc86-298c-43ad-907f-1a1a12f1989f,genus,Animalia,t0020710,Himalistra
-3d178829-fc37-4236-9dea-7866f267ff71,genus,Animalia,t0021758,Leucocosmia
-1187f8c9-d2ec-4bf4-a4ad-07ba669ae3f5,genus,Animalia,t0013293,Ochropleura
-ce9e335b-989a-4201-8ad7-afcd989ff3a8,genus,Animalia,t0013731,Ozarna
-b484fba1-0f86-4e21-8ae9-e327f3367f11,genus,Animalia,t0093275,Perigea
-b2443093-5069-46a3-8634-859e2ade6786,genus,Animalia,t0018169,Xanthoptera
-7f7177f7-357a-40bd-b5d1-a8f1a9588a41,genus,Animalia,t0009380,Acroclita
-90863793-0b8c-4143-8e74-c8b8ac94258f,genus,Animalia,t0011509,Celypha
-09ad97fc-8cdf-4c87-ad0e-2758c0ad3136,genus,Animalia,t0092325,Eucoenogenes
-080d79c5-f1c9-4b60-9b71-13d0a56da73f,genus,Animalia,t0020705,Hilarographa
-a32e83fc-fe6f-46ad-93b5-ff9ae26a781c,genus,Animalia,t0092602,Hoshinoa
-f42ea8eb-e578-495d-84de-65d150e4fcd8,genus,Animalia,t0026157,Neohermenias
-016898ef-62a7-473e-b6c5-146f62bbef21,genus,Animalia,t0014191,Parepisimia
-2b2ae2e1-8a59-49d6-9ab4-d6dc4341d110,genus,Animalia,t0016663,Spilonota
-e9d79a4e-5c83-4645-b43a-fea4143cd25d,genus,Animalia,t0010321,Argyractia
-e48f88a5-6bab-4ecc-9d88-b116420ce053,genus,Animalia,t0010363,Aroa
-d363439c-3495-4823-ba2d-9bf328169069,genus,Animalia,t0010952,Bomolocha
-2f509511-4640-4f6c-84b7-85d9d3ebb7d4,genus,Animalia,t0093958,Borsippa
-f70cffcd-41a6-4d24-bf7f-586906696c0a,genus,Animalia,t0011364,Capnodes
-b4c66320-4d47-47e9-b9b9-5d8203d29739,genus,Animalia,t0011466,Catoblemma
-87dcd00c-bb82-4d44-a064-2e9a44b9e295,genus,Animalia,t0018438,Dasychira
-6be2c072-6972-41df-9aea-03a224239696,genus,Animalia,t0019049,Eclipsea
-576d06f0-76b1-45be-ab1f-5e6297324904,genus,Animalia,t0012795,Neasura
-dbad9c3e-d83d-4702-88f6-8201d5893c6a,genus,Animalia,t0012796,Neasuroides
-683eadd1-adfc-401e-b8a4-7940c3176fb0,genus,Animalia,t0012867,Neochiera
-5d7a9d15-dd87-480d-bdb3-22469494f75c,genus,Animalia,t0014126,Parasiccia
-d0819e16-bf5d-47b0-87ed-53265f76b5f5,genus,Animalia,t0093625,Sarcopteron
-3beae324-c7b8-427a-8145-4740883163fa,genus,Animalia,t0017575,Topomesoides
-bf57f891-cf41-4c51-8d68-000851cfa233,genus,Animalia,t0010680,Balataea
-cb412121-2185-419a-b396-490b27bb01e5,genus,Animalia,t0019938,Fuscartona
-8cb8c248-e3ae-436f-8255-9083e6c40e4a,genus,Animalia,t0021040,Hysteroscene
-7a45fabe-6a44-4f40-98be-a3efa6086a6e,genus,Animalia,t0014973,Pollanista
-d50ce47f-9368-48f6-b5d4-b3fd65ba9c88,genus,Animalia,t0009970,Anerastia
-b3e6522d-34cc-46f4-9776-b5bd5627e04e,genus,Animalia,t0010209,Apomyelois
-24d9fab1-9db5-4b06-bb6f-dd78854589d8,genus,Animalia,t0012194,Comorta
-b969a74f-3018-46e7-ba5d-7f5bd97aae29,genus,Animalia,t0012407,Critonia
-07a9a424-bec7-4d00-8943-8d8568d68e30,genus,Animalia,t0021282,Jocara
-5b496975-7fb0-45b5-9bda-745e113f9def,genus,Animalia,t0013922,Paracme
-717a5c1f-c336-448e-8ba0-1538ab3dbd74,genus,Animalia,t0015088,Poujadia
-3df81663-6400-4eb0-838b-a3e55f0aebcd,genus,Animalia,t0012356,Crambostenia
-a8a49174-fccb-45b5-b277-f955fa9cb60a,genus,Animalia,t0019485,Euchromius
-8b987b60-c1c2-4b12-8aea-1ba530413195,genus,Animalia,t0013661,Ostrinina
-c626f9a3-91f3-4516-90ba-251773d25310,genus,Animalia,t0093188,Pagada
-145014a6-563f-409b-b641-0b6945736ae8,genus,Animalia,t0014230,Parthenodes
-941d930a-162f-4282-bc6c-3ffa4d00b001,genus,Animalia,t0014480,Phalangiodes
-1e07a3f1-69b4-488b-a1fc-5330a02e8b81,genus,Animalia,t0015204,Pronomis
-5bf4db7f-b5a0-4fc7-a18c-40f643ccf2df,genus,Animalia,t0016511,Sisyrophora
-5c6fdaf7-6bfe-44e3-82ff-744e9732a9ad,genus,Animalia,t0016761,Stenia
-6facfdd0-828a-4462-be75-2da96daac839,genus,Animalia,t0017588,Torulisquama
-79b7b7f8-b98e-46cb-bec2-d5b7583edd0a,genus,Animalia,t0015501,Pseudoxyroptila
-eb86800b-9226-4010-9071-41f4171c481a,genus,Animalia,t0093569,Rhamnopsis
-de6576b5-457c-4a6b-b0f3-2e2c8ce44fe2,genus,Animalia,t0011360,Capidentalia
-771a7d47-1a2a-4d82-9c91-dae97fb28069,genus,Animalia,t0093905,Thyrsostoma
-9e8bbb17-8353-4241-9394-3bd5abc3f47e,genus,Animalia,t0011482,Caunaca
-1ec66cee-ff6f-4e47-8e74-2ab865666d4b,genus,Animalia,t0010323,Argyreus
-146260f4-23fc-43d8-9aac-49e71c2228cd,genus,Animalia,t0013776,Paduca
-cce83dd2-c171-45c8-a0e3-ef92f5ab23e0,genus,Animalia,t0014116,Parasarpa
-9b6756cf-4337-4d00-8a72-ee1184d418f4,genus,Animalia,t0022131,Lysipatha
-759c2caf-ae9a-4df0-b06c-ba6844d2b61e,genus,Animalia,t0094125,Chilasa
-6ed2e8d0-8b05-42ec-a44e-a87a019245e6,genus,Animalia,t0014271,Pazala
-c95cbb1b-a790-449d-b7f9-5f18f87045e2,genus,Animalia,t0016607,Spatularia
-9a842553-029f-4320-b934-5dd7943673a0,genus,Animalia,t0094128,Chimaerosphecia
-50038a86-b3ca-453a-9574-9c950b30574a,genus,Animalia,t0093128,Oligophlebiella
-0dd8b4c3-8e8a-4a04-bcf0-3666e989cf2d,genus,Animalia,t0016714,Squamura
-967401f4-eed0-4e22-9054-b7d1468d6ed1,genus,Animalia,t0009329,Acia
-bb16bdf6-fdf6-48e4-a579-e098403b7c50,genus,Animalia,t0010866,Bicoloratum
-576edde7-99f1-42d8-9701-100fa5ad6c33,genus,Animalia,t0019282,Epiacanthus
-bade1167-7e35-428f-8b5d-5e04bba763be,genus,Animalia,t0021193,Ishidaella
-cbea0013-ccb6-44f3-a67e-50601a6a22ab,genus,Animalia,t0022630,Metalimnus
-e4e43d4e-0f99-42f1-9beb-008ad4184a54,genus,Animalia,t0013060,Nesophrosyne
-b76369fd-67eb-4193-af39-ba7f8099351a,genus,Animalia,t0017375,Tettigonia
-31ba6106-5b2a-44a1-a403-5cdb881bab4d,genus,Animalia,t0009357,Aconura
-8940fa57-bbd3-449b-a81d-67641b1dbea6,genus,Animalia,t0011927,Cicadula
-e583b569-4e83-42e7-a21c-9563500560bc,genus,Animalia,t0021135,Inemadara
-fa5992c8-0f1f-4396-947a-a74a63ea091d,genus,Animalia,t0021172,Irinula
-63988261-f314-4155-9b6b-4915b7f5286b,genus,Animalia,t0022490,Melichariella
-fbf3ca1d-5122-4b27-9b48-9339bb73e6b9,genus,Animalia,t0014032,Paramesus
-da9e157f-1ae3-4ab8-90b0-404426be4f09,genus,Animalia,t0014559,Phlepsius
-0b692afd-cedc-445b-86ca-2910df03e4d1,genus,Animalia,t0015632,Purpuranus
-4a3be3dd-4214-4b68-a668-5fb6b860f365,genus,Animalia,t0017448,Thomsoniella
-75f958e0-8681-482e-b656-a6444261aae9,genus,Animalia,t0017549,Togacephalus
-5d4939ef-f378-4811-8793-c5bc47fb2520,genus,Animalia,t0019353,Epotiocerus
-fb60dbe2-a974-4e52-948c-f0a08c12ed12,genus,Animalia,t0010826,Benna
-2c5af29d-b79d-4598-a1e9-e1dc17884ce1,genus,Animalia,t0014956,Poeciloptera
-4cee493b-25d3-43da-92c0-ea80c88ddb70,genus,Animalia,t0016291,Seliza
-2dbae184-8d50-4c98-af82-adafcfa8517e,genus,Animalia,t0013386,Okiscarta
-53d23478-e50d-4a4a-88a5-6a3a171ab265,genus,Animalia,t0017499,Tibicen
-b9eb5423-70e5-4f74-935d-a955e39c8e57,genus,Animalia,t0016087,Saruallis
-d4b4a0b5-aba1-42d9-8f24-9c92cd612894,genus,Animalia,t0013457,Onukia
-0ed1d233-87dd-423a-a770-0e526383b8f3,genus,Animalia,t0013882,Parabolocratus
-14cfebbe-e0ea-4eb4-8d91-e51676090b62,genus,Animalia,t0016844,Stictopleureus
-8f70f499-044c-4e05-82ff-95c6b366f692,genus,Animalia,t0018313,Zanna
-9c8c3e6e-049d-4d5d-be8d-0bc97af3a80a,genus,Animalia,t0016784,Stenometopius
-b8d7661a-d47a-4449-9153-e359d9267452,genus,Animalia,t0009367,Acrepyris
-aa86dd12-ca3a-4b19-a411-910641cc53b9,genus,Animalia,t0010141,Apenesia
-bc11cea1-1d3a-4eff-a96b-30196ffee5e7,genus,Animalia,t0021342,Kennethis
-d55c3d74-0fe7-46d8-95bd-5c662e2f2ea4,genus,Animalia,t0011763,Chersodromia
-3b468a50-bdac-4478-a48b-7246b52af3b5,genus,Animalia,t0009730,Alsomyia
-6c5549c3-56ec-45b3-bca4-3ff9b2636d42,genus,Animalia,t0010595,Austriphorocera
-233bdb45-55c4-43ac-8876-12491bcb18b3,genus,Animalia,t0018571,Dexiomiops
-2f244469-9871-48d9-a9b5-fc3e102ff897,genus,Animalia,t0021721,Leptothelarie
-207eb146-52d5-46e5-9777-bed1a1153f70,genus,Animalia,t0022682,Metopomintho
-a706b5cf-a693-4179-8a0f-c7c759d192b7,genus,Animalia,t0014582,Phoriniophylax
-5b7319d8-f1ea-47b4-a071-3467d7606fc9,genus,Animalia,t0018336,Zenillinan
-8e989982-6128-4aad-b83a-9675b8abb4b7,genus,Animalia,t0010529,Atissa
-2e10b280-5617-40ff-b62e-049b8fc21946,genus,Animalia,t0009811,Amobina
-b8c1a631-95ef-449d-909b-c6feec7c8468,genus,Animalia,t0020448,Harpagophalla
-a952e767-8f63-45fa-a5ec-61207a119c6b,genus,Animalia,t0015550,Pterella
-324659c3-18ac-466d-a4c8-ed9d1f31bf80,genus,Animalia,t0014493,Phania
-a5aa7238-9164-449d-a7aa-9fe1f8b7ac6a,genus,Animalia,t0092620,Hylimya
-1911c009-05aa-410f-91da-d0690a866181,genus,Animalia,t0020747,Hiroshia
-5ced3174-78dd-4eb5-9643-43464e20df40,genus,Animalia,t0014392,Pericoma
-063b76d8-90c0-4011-b437-c86dad9f535a,genus,Animalia,t0017255,Teleopsis
-3a7e39ff-8174-4be1-a4ae-6bbf48827e9b,genus,Animalia,t0013037,Nepsalus
-9df1b883-a0c8-40ab-b591-8bba680e8db2,genus,Animalia,t0016927,Stylurus
-b31f452f-7330-40d6-9e2b-50f86e5ab449,genus,Animalia,t0018703,Dinarthrum
-0633c289-9190-4e2a-b718-7887816aa24f,genus,Animalia,t0020200,Goerodes
-7e5baebc-6009-4772-ac68-e6d83c7d05ed,genus,Animalia,t0020100,Gibosia
-0105f67f-e75f-40f9-a09e-fe54ac1d9c6a,genus,Animalia,t0020885,Hyboella
-92ecf1c6-2986-42b7-a301-724155a8719f,genus,Animalia,t0015430,Pseudomacromotettix
-5ddbcae9-d6a5-4da0-8c68-c1b16de68e1d,genus,Animalia,t0009929,Anaxipha
-dfc3d480-ef38-4b97-be73-b2adb58d78e4,genus,Animalia,t0017310,Teratura
-c6c5afee-bf58-4c2a-aca1-cfc6f88e6b18,genus,Animalia,t0011030,Brachytrupes
-4482fe99-1d86-4162-bf15-d5b802981b19,genus,Animalia,t0012793,Neanias
-eb9cd872-f959-44cc-87de-637138584a85,genus,Animalia,t0014609,Phryganogryllacris
-5dc7d441-db6d-4d23-bac1-6e03a0e83d8a,genus,Animalia,t0093332,Phyllodromia
-39279008-c8f7-4c83-93ee-4545138f2249,genus,Animalia,t0017533,Tisamenus
 8369c7c1-8781-48e4-b994-db3110b97168,infraspecies,Chromista,t0087184,Florisphaera profunda elongata
 711fef16-0999-46ca-a045-ecd23bc63ddd,infraspecies,Chromista,t0087185,Florisphaera profunda profunda
 07906a79-9f85-447e-bf51-b80e7c2a4585,species,Chromista,t0034800,Chloridium laeense
@@ -362,59 +30,19 @@ d25d9726-5e9e-40e8-8129-44db67cac798,species,Protozoa,t0045529,Lionotus fasciola
 edaf2ca5-fc71-46a7-9d1b-fdbc9d7cf126,species,Protozoa,t0045891,Stentorella polymorphus
 bc7ed559-2d2f-40a0-8cf5-ef7c2d2fb2cb,species,Protozoa,t0045892,Stentorella viridis
 06964969-b46f-4fc7-a87c-b411794662bd,species,Protozoa,t0045813,Saprodinium dentatum
-0cc0d9d8-b045-4afb-a134-a9660c4ab18c,genus,Animalia,t0026096,Homoeogryllus
-0cc8edd2-f229-4e1b-8a47-5211576b72d6,genus,Animalia,t0013477,Opadometa
-2a1e7b70-37fc-48fd-840a-7cdbaa8717fb,genus,Animalia,t0026014,Chorizopes
-37f6af3a-495c-4c48-a6ae-530ba41decb4,genus,Animalia,t0026112,Larinia
-8f2b9f22-1c27-4887-8723-c419100c62e6,genus,Animalia,t0026156,Neoantistea
-6189e6a9-c75a-4633-979b-fe451fdfbdc3,genus,Animalia,t0092302,Ero
-4187af23-d6cc-42b1-b150-4136a5637444,genus,Animalia,t0026136,Menosira
-57a9cef5-2794-4104-a078-f3639952ce4f,genus,Animalia,t0025970,Angaeus
-506e7ecb-4a7f-4e3e-b3a4-b2fef6399cb8,genus,Animalia,t0025992,Bathyphantes
-510c982a-d7ed-45f6-912f-516752d1856a,genus,Animalia,t0026158,Neolinyphia
-7ad4dd13-7e1d-41c9-ad6e-4fd4d0499a3d,genus,Animalia,t0026122,Loxobates
-88877f38-f77d-4b3a-98e2-e7cf4ce77ab5,genus,Animalia,t0026175,Ordgarius
-5e41145c-adaa-4d84-9cc7-c1b1f0a9cdec,genus,Animalia,t0025981,Asemonea
-53b89abd-65fa-45fe-9843-b82e1107c808,genus,Animalia,t0094292,Cyrba
-2d9c47ed-81d5-4613-8c46-a9f6590cc3f3,genus,Animalia,t0092649,Icius
-d9a33a42-21cb-4786-9ff1-facbc4726f91,genus,Animalia,t0026169,Ocrisiona
-874d622f-c966-4713-8d2a-1b39e454ceda,genus,Animalia,t0026289,Thyene
-61daf063-a22d-4f11-991c-98489ff95e90,genus,Animalia,t0026056,Enoplognatha
-19478c82-76a4-4d3b-9264-f695df84b90d,genus,Animalia,t0092361,Euryopis
-7cfcf2d0-a1f5-4119-a565-385a41616f13,species,Animalia,t0046797,Tarsonemus pallidus
 b33560e4-07c5-4ef3-bfb0-358e6edef699,infraspecies,Animalia,t0086331,Tectocepheus velatus sarekensis
-410bdd3b-cb3a-4114-af76-9c3cc2c7c730,species,Animalia,t0031592,Parasteatoda angulithorax
-58f6bbc5-68de-4818-80ea-25551ca4e20b,species,Animalia,t0031593,Parasteatoda kompirensis
-3694d23f-0700-47e1-a870-cd84ca05cee1,species,Animalia,t0083385,Parasteatoda lunata
-9eafa13e-a10c-407d-b40c-d4f0be442c29,species,Animalia,t0030378,Cheiracanthium lascivum
-b1b0dc17-f9d2-4dc7-be64-1847197e6cad,species,Animalia,t0030588,Clubiona japonica
-305caac7-a116-46d8-9312-0220b6e47012,species,Animalia,t0071100,Amblyomma breviscutatum
-31cc9657-4543-4200-acc0-d43c2cde5746,species,Animalia,t0064171,Gagrella grandis
 f043873d-e80b-497f-b3af-02cf3e9583e2,species,Protozoa,t0047800,Trichia dromiaeformis
 68092a2d-8770-418c-abea-5aed3fbeacd9,species,Protozoa,t0028312,Trichia sakaii
-da11bd42-3756-42cc-9240-999ab2c54d8d,species,Animalia,t0036188,Plesionika quasigrandis
 3f7a043a-1eab-488c-a709-2fbc9d6a751d,infraspecies,Animalia,t0086341,Tetraclita japonica formosana
-33a01639-f562-4b27-8b6b-cf20392e43d3,species,Animalia,t0027202,Johnius dussumieri
-64eed81e-c328-451b-9c52-095b48625234,species,Animalia,t0027204,Johnius macrorhynus
 b77b7b07-7229-4a10-a0e1-c63f3b68ec1c,species,Animalia,t0030060,Calliurichthys izuensis
-4424d841-7a8f-4646-842e-4473be31b550,species,Animalia,t0049952,Bathyclupea argentea
-3f59a1f3-60d6-4a18-9670-3d029c2938dc,species,Animalia,t0033389,Thryssa hamiltonii
-dd2065a2-1269-4233-96a6-95de7416fb25,species,Animalia,t0051283,Halieutopsis ingerorum
 86411be4-c1f1-43b5-8750-fcdd950eed87,infraspecies,Animalia,t0031284,Oncorhynchus masou formosanus
-ef44ca84-ee02-4d56-8375-fad10efff288,species,Animalia,t0037918,Riparia diluta
-c18dc704-201a-4a2b-9407-839141acbc60,species,Animalia,t0084176,Phoenicopterus roseus
-513997ed-bd65-4e11-84dc-d2f49f638017,species,Animalia,t0029932,Brachidontes striatulus
-a97663ed-544f-4e8e-bbb6-f2ee710566ed,species,Animalia,t0029931,Brachidontes pharaonis
-36939f7a-a0b6-4e21-bc03-52809bba5305,species,Animalia,t0061407,Deroceras varians
 071e2b93-feb0-4d32-a311-1c74ef1d27e5,species,Animalia,t0081812,Notoacmea boninensis
-3dd91683-429c-422c-88a0-964535fa6acd,species,Animalia,t0069343,Microsomacanthus taiwanensis
 c8a1a0cd-11d7-4a01-863d-a694797e72cf,infraspecies,Animalia,t0085231,Amynthas nanganensis nanganensis
 5074a45d-da42-4fa2-9275-3cea6cfc6b1f,infraspecies,Animalia,t0085230,Amynthas nanganensis beiganensis
 b9cd7aa3-02a3-4b6d-9cd1-aca151acd24e,infraspecies,Animalia,t0085901,Metaphire nanaoensis nanaoensis
 92535ed9-27e6-4022-b3b1-3a98e7fc200c,infraspecies,Animalia,t0085907,Metaphire taiwanensis taiwanensis
 c8e043e7-3696-468b-9fb8-d70e57546b71,infraspecies,Animalia,t0085902,Metaphire nanaoensis truku
 d10e3f78-6cd3-41de-bc4f-4834cb0ab0cb,infraspecies,Animalia,t0085908,Metaphire taiwanensis tsaii
-d4943b41-ac5b-47a5-b097-2e60ab65cb83,species,Animalia,t0100047,Anuraea aculeata
 b26feeb6-ddf2-402c-95c9-0112fee44780,infraspecies,Animalia,t0086084,Perscheloribates clavatus torquatu
 8d708b22-6aca-416a-bf08-ae1ba742a467,infraspecies,Animalia,t0085327,Belba verrucosa japonica
 16c1850f-e30a-41ad-be9c-2e833c05ff34,infraspecies,Animalia,t0086054,Parachipteria distincta incurva
@@ -1166,10 +794,6 @@ a29932dd-4e93-4c1c-9f52-bc5f025aab35,infraspecies,Animalia,t0087505,Brachionus c
 220bfaca-ce08-4034-b978-c5ec1ab8baa6,infraspecies,Animalia,t0085143,Brachionus quadridentatus quadridentatus
 ddd32990-66ea-4185-8f1e-afef03839fa3,infraspecies,Animalia,t0087680,Lepadella patella onga
 9b4851e7-82ee-41d1-96b3-eba220b0e4aa,infraspecies,Animalia,t0028153,Myotis fimbriatus taiwanensis
-7ff5ac80-e865-4e60-b268-b48dcd44e565,species,Animalia,t0076391,Bembidion rufotibiellum
-591bed69-2020-4c68-a01f-d00619ca6948,species,Animalia,t0076396,Bembidion taiyuanense
-dd7a1359-5fc9-4387-bc3b-3cb52d687a24,species,Animalia,t0076399,Bembidion varium
-075cd4eb-c8a1-4794-ae15-2065b38f35df,species,Animalia,t0100226,Bembidion tenellum
 8233cb23-d289-4310-8772-a18b98b9ecdb,infraspecies,Animalia,t0085445,Chlaenius noguchii formesanus
 1831e137-2822-418c-9c1e-c47225a571e3,species,Animalia,t0079289,Coptodera taiwana
 209c8770-d3ba-419a-88bf-93ef42b96791,infraspecies,Animalia,t0085729,Harpalus indicus orientalis
@@ -1178,19 +802,11 @@ ec274766-91f2-4abe-adb6-089f30922a71,species,Animalia,t0030636,Platynus acroglyp
 dc68d9f8-4397-45fe-952c-e19d2b91cec8,species,Animalia,t0057588,Adelocera shirozui
 aa06fb92-72ce-45a9-ac85-e53019fae9f1,infraspecies,Animalia,t0086149,Praolia citrinipes atripennis
 975fac0d-2075-4151-8f75-df0efbe9fbfa,infraspecies,Animalia,t0086359,Thranius rufescens formosanus
-6cc4a524-250b-444f-bc06-2b76aa698c94,species,Animalia,t0105419,Priotyrranus closteroides
-5e9e2f9c-fe04-4e79-beda-67ecae7d0ad8,species,Animalia,t0071958,Aphodius reichei
 a254a7b4-9e79-4ff9-8a26-fab71b66cfd4,species,Animalia,t0061573,Dicronocephalus bourgoini
-13d113c4-6385-497f-be18-f2b613e1e688,species,Animalia,t0070406,Aegus philippinensis
 b91366e8-8d5f-482e-b5fc-b178cc7a48b1,species,Animalia,t0105413,Cyclommatus asahinai
 a94070bd-26a8-4355-9a61-362efa98b4e3,species,Animalia,t0061967,Dorcus gracilicornis
 7ef0b59f-e630-419e-9636-1e4c19433a09,species,Animalia,t0028712,Dorcus mochizukii
-573811aa-2fef-42c2-a4b5-661723e45a55,species,Animalia,t0096773,Dorcus curvidens
-21a991a1-04ce-43a2-bba9-680f85a115da,species,Animalia,t0081612,Nigidius lewisi
 a2b4eb87-ea90-47f9-81e5-21f0dffd5dc7,species,Animalia,t0105414,Prosopocoilus formosanus
-336b464e-415e-4a71-b615-e49a783a7f45,species,Animalia,t0070606,Agraphydrus orientalis
-bbe2241c-a9dd-4c27-8afb-81b91484d398,species,Animalia,t0039387,Sphaeridium dimidiatum
-757ddd53-837a-48b6-ad7a-91e324230eb3,species,Animalia,t0070641,Agrilus planipennis
 e00facaa-b534-4418-82c8-f9677ef51cee,infraspecies,Animalia,t0085408,Cephalomalthinus taoyuanus ilanensis
 3331e824-0f6a-4f06-a145-5beb26f39099,infraspecies,Animalia,t0030801,Cusiala boarmoides boarmoides
 97c60447-4769-4318-9470-9fbc3adac503,infraspecies,Animalia,t0030196,Catarhoe obscura obscura
@@ -1199,34 +815,18 @@ e598cd49-0c7e-43a9-a62d-e3307e0d76f3,infraspecies,Animalia,t0105415,Dichagyris t
 8b28e50c-9f1b-4999-93ff-187cd2dd3e1c,infraspecies,Animalia,t0084903,Nyctycia hoenei simonyii
 1613dfb5-7077-4c18-a2f8-d063109b8f8d,infraspecies,Animalia,t0105416,Huangilene alikangiae alikangiae
 0f46c84c-41a2-4422-80df-9793caff0683,infraspecies,Animalia,t0027697,Macroglossum divergens heliophila
-cef1e7a7-857b-4f16-a53a-22969fb53b9c,species,Animalia,t0049893,Autocharis fessalis
 00819621-3531-4fe4-8b73-205c6ebdcb93,infraspecies,Animalia,t0028979,Epistauropus terminalis anmashanensis
 18ae1d38-ead8-4c73-9131-86838dafe79d,infraspecies,Animalia,t0084648,Actias ningpoana ningtaiwana
 c2131209-7410-4154-be07-7cf8fbbe479c,infraspecies,Animalia,t0027729,Mahathala ameria hainani
 6cb115e2-1844-4f74-9a5a-5ccce8b66588,species,Animalia,t0056476,Tajuria caerulea
-98bf4954-a511-48c2-bf35-ce4e9db0dd35,species,Animalia,t0100167,Athyma jina
 b496dc26-a6da-4c35-9b1f-60099f884194,infraspecies,Animalia,t0028136,Mycalesis mucianus zonatus
-324a481d-7c26-4b85-b6df-22037747f6c5,species,Animalia,t0098027,Neptis hesione
 5cea1547-9c0a-448d-ab2b-8b008860b161,infraspecies,Animalia,t0052320,Algia fasciata fasciata
 3511a61a-90f4-4103-a673-bf727faef919,infraspecies,Animalia,t0028580,Ypthima atra taiwana
 b7191015-26ca-4138-962c-36d2170901e4,species,Animalia,t0056760,Ypthima okurai
 1f9df10d-ca8c-424c-8274-deb6d8680734,infraspecies,Animalia,t0028383,Troides rhadamantus plateni
-e55396c3-7ff9-472f-839e-b1fb1d06b4c2,species,Animalia,t0096999,Eurema brigitta
-d531d769-6e92-455f-a97f-bce498acbdf1,species,Animalia,t0100071,Aporia agathon
 0c22ffd9-f212-45ac-8436-baa00222aee4,infraspecies,Animalia,t0027886,Melittia eurytion formosana
-f6fa8f2d-f783-48cc-bba1-af2dd4b0eea1,species,Animalia,t0062845,Epiacanthus guttiger
-53e6e95d-2de2-462a-bf9b-f9e477f1aa5d,species,Animalia,t0066359,Ishidaella albomarginata
-a40a21a7-0286-4c9a-bc7b-b9f15a302fc9,species,Animalia,t0069099,Metalimnus formosus
-1ebbe9e8-458f-4fa9-b207-513cf31878a7,species,Animalia,t0078033,Cheilocapsus miyamotoi
-20793e39-75e8-44b0-ae89-ff10592b22ad,species,Animalia,t0036705,Proboscidocoris malayus
 d171e6b6-a482-48f6-9d74-229a65bf4e16,species,Animalia,t0039705,Stenotus longiceps
 e7dfa51a-3c10-49e0-a5de-e1d346ceac70,infraspecies,Animalia,t0032741,Scutellera nepalensis amethystina
-60f2f8c5-e2f9-4094-9c68-b1eba4bfed4e,species,Animalia,t0037496,Pyrops spinolae
-10be98b4-6b54-46b9-b7c0-9fda8ef5ee11,species,Animalia,t0049082,Zanna chinensis
-cec23c7c-26e7-4d5a-a124-24e91cdcc9b1,species,Animalia,t0027705,Macronychia griseola
-3936bf15-bfed-40d3-a5cc-446b93b2d50e,species,Animalia,t0084319,Phylloteles pictipennis
-0f3128c7-bd31-4a1e-bdc0-1052501d8dfe,species,Animalia,t0037273,Pterella fasciata
-c39bb5cb-5848-4700-89cf-eb775ba03843,species,Animalia,t0038231,Sarcotakaops arnaudiella
 49851c2d-c493-4d4f-9e0f-7d5465b0485c,infraspecies,Animalia,t0085843,Limonia productina formosana
 6f659a22-a3f0-465b-b4db-ea02e93c0607,infraspecies,Animalia,t0085119,Limonia apicalis majuscula
 72793bff-b1ba-49f5-8d70-904a9d6578cc,species,Fungi,t0032193,Pselliophora ctenophorina
@@ -1234,12 +834,8 @@ ffada69b-ded3-4b8f-9980-fc2ed38bbb1e,species,Fungi,t0032194,Pselliophora enderle
 d6dcb63f-6524-4e7a-8570-bcdd229ac2f8,species,Fungi,t0032195,Pselliophora hoppo
 0bb144c3-f2b7-4e97-8d72-b29d31068701,species,Fungi,t0032196,Pselliophora scalator
 99f4ef3f-2d5e-4fde-b5b5-299334a9fa7f,species,Fungi,t0032197,Pselliophora taprobanes
-2c5e7f53-0301-4836-9fce-b49818b08472,species,Animalia,t0033282,Teleopsis quadriguttata
 96637826-25da-4e32-813d-1591d8ae2d81,infraspecies,Animalia,t0101047,Orthetrum melania continentale
 0151f2e2-4365-49f8-a697-d93cfbe28de5,infraspecies,Animalia,t0098199,Orthetrum triangulare triangulare
-01026e8a-5f3d-45c9-b4a9-a3fd5ccddb7d,species,Animalia,t0046932,Tenodera capitata
-3f1bd6fc-5e7d-4cce-95b3-94a590a72a22,species,Animalia,t0078131,Chimarra concolor
-7bacdd97-a56b-4ef0-aba1-819962d0f35b,species,Animalia,t0033417,Tisamenus draconina
 33a8376c-41e3-4c95-b463-858e7fb04733,infraspecies,Animalia,t0085197,Agonum japonicum chinadense
 b83d32de-c38e-40f7-a0c4-b1b4acbc7b26,infraspecies,Animalia,t0085331,Bembidion niloticum batesi
 fb527ee9-f7d7-4494-aff3-cdc1081c844d,infraspecies,Animalia,t0085332,Bembidion tenellum pseudoplaga
@@ -2581,19 +2177,14 @@ d55322b8-8eb1-4c08-b731-a3604a4560e4,infraspecies,Animalia,t0085148,Centrocolumn
 ac75acc8-1fe7-4a4f-b28f-1effe98e6ed8,infraspecies,Animalia,t0086048,Panesthia angustipennis spadica
 ac47463f-dc6a-4d0f-90a0-47191f1eb6ac,infraspecies,Animalia,t0086049,Panesthia angustipennis yayeyamensis
 88cd4119-cf1f-4838-95c3-747dd5370dae,infraspecies,Animalia,t0086250,Sinophasma hoenei formosanum
-b657481f-6cbc-45f4-a21b-542afb741da9,species,Plantae,t0103622,Didymoglossum motleyi
 c17a8b58-e32e-4509-8bae-7040ff96d5d8,infraspecies,Plantae,t0057958,Goniophlebium amoenum arisanense
 75ab21bb-eb46-4adb-a87d-6415da49f474,infraspecies,Plantae,t0054593,Nymphaea nouchali caerulea
-04825583-4cd7-4718-beb7-37c6bc652eb5,species,Plantae,t0054733,Peliosanthes teta
 e80f0369-b2ef-4a9c-8814-48e7f5e95256,species,Plantae,t0086661,Goeppertia picturata
 bca3eef1-b604-44d8-af07-4d814f7a2485,species,Plantae,t0103419,Paspalum commersonii
 ee943a20-4c4e-42cd-918b-cb4cebbcccf9,infraspecies,Plantae,t0103422,Pourthiaea villosa chingshuiensis
 c168c53d-8f3d-4701-98c9-c6a0779a456c,infraspecies,Plantae,t0103423,Pourthiaea villosa parvifolia
-0ee8b56b-fe58-426f-b015-1da9259c509a,species,Plantae,t0052911,Celtis julianae
 dac9d5c3-c345-45d0-884a-a6283872866b,species,Plantae,t0069668,Trema tomentosum
 ab08f3a1-ab2e-4b93-bdfc-ebfe2aa18593,species,Plantae,t0086803,Corymbia citriodora
-db261f71-66ca-432e-aecf-ef1a88cfa419,species,Plantae,t0055170,Rumex microcarpus
-79738ded-71a5-4a1e-8895-d3ce7f1d82e8,species,Plantae,t0074595,Lindernia vitacea
 6bee055b-2582-4e1a-9ab7-acc9a7f1e3b5,species,Plantae,t0052785,Calogyne chinensis
 f52bce91-7bea-487e-94f3-51ebe3299be0,infraspecies,Plantae,t0026482,Tapeinidium pinnatum biserratum
 84e60579-3288-4650-bec5-6ba87de06830,infraspecies,Plantae,t0026473,Lindsaea merrillii yaeyamensis
@@ -2750,10 +2341,7 @@ ec04f4c7-d941-4281-94fe-c66523076b2a,infraspecies,Plantae,t0054859,Pittosporum i
 d861c79a-c757-489c-b23e-f6e22c611329,species,Fungi,t0045260,Enteropogon formosensis
 8f3a5bdd-b756-49d5-bdb3-7be3e4700341,species,Fungi,t0060424,Discosphaera tubifera
 d8bee5ee-a108-42eb-a15a-dee9b3d06267,species,Chromista,t0060690,Peronospora aparines
-34520b3f-7a64-40ea-b3a3-032c9e3e49ac,species,Chromista,t0060725,Navicula cari
-25bc1053-8875-4ee4-8cd8-f2565aefbd1f,species,Chromista,t0060728,Navicula heufleri
 3738dcb3-c19a-4457-bd75-3edd5fdb8c81,species,Chromista,t0060677,Gomphonema subclavatum
-eb949a51-8d60-4f20-93d1-ebaa8ced15d7,species,Chromista,t0100498,Synedra rumpen
 21dc6771-dd8c-4afd-84e6-76d8f66ad64c,species,Chromista,t0060686,Nitzschia fonticola
 c4ba519f-040c-4c05-865c-557e6c6d3286,species,Chromista,t0060688,Nitzschia perminuta
 fb046517-ee4f-4a57-b8e0-cfd786f8caf8,species,Chromista,t0080381,Molpadia changi
@@ -2816,7 +2404,6 @@ e8668f9d-0887-4234-a6f9-7f1d7b8ad203,species,Fungi,t0048587,Venturia minuta
 13b2b8bf-1e45-4e58-97bb-cd95468a5cc8,species,Fungi,t0048588,Venturia oditesi
 eab5a1de-a918-4074-8ac7-fba3e811c8bc,species,Fungi,t0048589,Venturia quadrata
 8bc8bf6c-a7cd-4073-9ddd-7d2abb1b8c94,species,Fungi,t0048590,Venturia taiwana
-e584d7d5-86b7-407b-8ab4-7c61ac4cc15c,species,Fungi,t0043367,Pseudospiropes rousselianus
 95b78662-100e-462e-9a65-e5bb37ed8764,species,Fungi,t0064090,Fulvia mutica
 b27ac1e3-be3b-441c-9ccd-74eedd752152,species,Fungi,t0064091,Fulvia papyracea
 625e9a9d-bbed-48d1-8c32-0ea151dcde12,species,Fungi,t0064092,Fulvia undatopicta
@@ -2842,9 +2429,6 @@ cb425868-29f4-42b0-a659-057f06b45125,species,Fungi,t0072430,Asterina anomala
 9bfb9da8-7b63-42b2-ad42-2a13c6f78764,infraspecies,Fungi,t0040613,Candida rugosa rugosa
 b58d2273-0f9c-437d-94b4-a58b01aa2614,infraspecies,Fungi,t0087414,Candida tropicalis tropicalis
 98f61eac-2796-457d-9efe-eed8dd15e48a,infraspecies,Fungi,t0087415,Candida zeylanoides zeylanoides
-964f6870-dde5-412f-ba31-73587e52915b,species,Protozoa,t0045611,Parvicorbicula superpositus
-bca35744-230e-4388-98b5-d979d8247630,species,Protozoa,t0045895,Stephanoeca cupula
-fcc28f1a-60d5-4af9-a1e1-ba1ddd71b28f,species,Protozoa,t0045236,Diploeca elongata
 9e9e760c-4234-4b86-b25e-cce7500bdfa8,species,Protozoa,t0044973,Actinophrys sol
 6a302a8b-1c57-4322-ad88-157d52f0eed6,species,Protozoa,t0044974,Actinosphaerium eichhorni
 e05b4a4c-f13d-4ee0-81c4-6d1ae488fd76,infraspecies,Protozoa,t0086501,Pulleniatina obliquiloculata finalis
@@ -3694,36 +3278,7 @@ e7667af8-d7bf-44de-a23f-5f7c86333aa6,infraspecies,Animalia,t0085802,Lanius tephr
 cc2c77d7-0598-41cf-abf0-e9a6e2dada7f,infraspecies,Animalia,t0085173,Acrocephalus concinens concinens
 a979f434-40d5-44b7-b409-830ae619ac28,infraspecies,Animalia,t0086111,Phylloscopus intermedius intermedius
 c74356e2-4bcc-43b0-a5ee-33d3e9820637,infraspecies,Animalia,t0085938,Motacilla alba personata
-4967e423-2fba-4464-8a87-ad7b720090b0,species,Animalia,t0072111,Araneus seminiger
-fd57d36c-5b76-42d7-8ff0-f3c2bcf3677b,species,Animalia,t0078293,Chorizopes khanjanes
-49844695-882c-42c8-a510-964362d0bb91,species,Animalia,t0072201,Argiope chloreis
-13e38fe1-f323-49f2-963b-10352f5b06c3,species,Animalia,t0080206,Cyrtarachne schmidi
-8e58d1a9-cc08-40c0-91f4-6bf9080b413c,species,Animalia,t0066855,Larinia phthisica
-bc466fe5-cfb1-451c-a97d-79eaec2e2663,species,Animalia,t0061934,Dolomedes sulfureus
-6fe8d290-3596-4242-85f0-ad5fe48cf624,species,Animalia,t0071496,Anelosimus chonganicus
-389dd802-bd19-4311-a32c-f2b8497e40f1,species,Animalia,t0072214,Argyrodes flavescens
-4a50bb18-7115-463b-b199-e3f35cbdeacd,species,Animalia,t0061745,Dipoena turriceps
-770e80a2-7c15-4466-a67b-691f5937831b,species,Animalia,t0068934,Meotipa picturata
-298d8fa6-be48-4cfd-898a-3acc67ea979d,species,Animalia,t0071510,Angaeus rhombifer
-5eb2b89b-7ae0-4d2a-a515-180d71938b92,species,Animalia,t0082654,Oxytate hoshizuna
-b290a5a7-3e78-4d1f-91d9-d5e33d2bdc51,species,Animalia,t0068408,Mallinella fulvipes
-e70de28b-4a0b-4b24-a205-6012f0ec4f38,species,Animalia,t0068409,Mallinella shimojanai
-0ad67ca9-33e3-48e9-a059-eae5fc80f501,species,Animalia,t0076307,Bathyphantes tongluensis
-7b675d44-5433-4df3-b30a-4567eb668853,species,Animalia,t0081240,Neolinyphia nigripectoris
-ff8de1fd-95e7-4a4f-8c98-10c16954dc68,species,Animalia,t0082140,Olios punctipes
-ca718211-ab90-4a06-8a63-c3943e1896ea,species,Animalia,t0062213,Ebrechtella forcipata
-492b02ae-41f0-466f-ace7-f44bb8a865e4,species,Animalia,t0067900,Loxobates daitoensis
-4b0ac2bd-c483-4c6f-b247-e3d45e561556,species,Animalia,t0084235,Phrynarachne mammillata
-26915867-27d1-4da2-b135-dae6d908cb78,species,Animalia,t0046476,Synema nangoku
-51efe2ba-60d4-47e8-9c3a-c9fe815c68a4,species,Animalia,t0082392,Ordgarius hobsoni
-83e33ff1-757e-4fec-a9fe-8793b1c8f8da,species,Animalia,t0072330,Asemonea tanikawai
 8aacd5f2-f294-4e27-ba0a-3b42ad7e80a6,species,Animalia,t0081956,Ocrisiona frenata
-c0cbc02a-93b4-4925-8a8a-1b6e81d0743c,species,Animalia,t0036245,Plexippus petersi
-66b2b179-520d-4689-8802-eae47de5f50f,species,Animalia,t0047349,Thyene imperialis
-ea6e4e6b-b634-4ecf-9acf-7526a0fd3bcb,species,Animalia,t0062686,Enoplognatha caricis
-eafe3302-bc3c-46d9-a218-330b6258c261,species,Animalia,t0066939,Latrodectus elegans
-a43547f5-fe32-4cbc-96ba-e6eebfc7ab41,species,Animalia,t0066940,Latrodectus geometricus
-9c9e9f00-5632-4c6c-88f4-4e28a1595814,species,Animalia,t0078428,Chrysso urbasae
 3eb1f71f-4c4c-4384-9428-35a63c5e10d2,infraspecies,Bacteria,t0091537,Merismopedia elegans major
 c30b6156-0d13-4084-93b0-cff76ad24e0b,infraspecies,Bacteria,t0091536,Lyngbya putealis putealis
 f6d6b95b-cbd7-4ae2-8dca-c3b85183d2d7,infraspecies,Bacteria,t0091539,Oscillatoria tenuis asiatica
@@ -3747,24 +3302,13 @@ ba033b1c-2231-465d-99c2-980f76f65eff,infraspecies,Plantae,t0086744,Cosmarium moe
 bcc5b306-5eaf-4508-a3d9-b50b3fbaa0dc,infraspecies,Plantae,t0086752,Cosmarium sportella sportella
 b34f05f9-ac38-4fd6-9964-d9d88f5d8411,infraspecies,Plantae,t0086754,Cosmarium subgranatum borgei
 e656060c-d321-4ea1-a4d6-260aefe03a8e,species,Plantae,t0074323,Hyaloraphidium contotum
-a4d00efa-d5d4-4137-ad24-a59616d9d3ed,genus,Animalia,t0012154,Collocalia
-2cc06bd8-62f4-4e85-8421-c6871880dbf4,species,Animalia,t0078986,Collocalia marginata
 83131693-7026-46e3-b12f-89b272a75a3c,infraspecies,Animalia,t0085859,Loxia curvirostra japonica
 71e0d009-f8f2-43f6-8a8c-c136574d5546,infraspecies,Animalia,t0085321,Balaenoptera edeni brydei
 7676cf9a-9a80-489e-8271-9d6b92021024,infraspecies,Animalia,t0085056,Shijimia moorei taiwana
-700c0ede-5999-4580-8510-d3f4fa766889,family,Animalia,t0004814,Tetraliidae
-519d85af-2b30-4cf4-ab6c-929268a47e8d,genus,Animalia,t0018353,Zeuxippa
 4a1f1614-0ad5-4c87-890c-f7696795d17c,infraspecies,Animalia,t0085722,Habroloma griseonigrum chionochaetum
 acc1a518-e50d-4c5d-b2f0-6351999bf9a2,infraspecies,Animalia,t0085456,Chrysodema lewisii nakatai
 7a754b0d-4156-48a3-b21d-6874244d76ae,infraspecies,Animalia,t0085133,Elephantomyia major major
-6d1467ad-5570-4bc6-9e25-54a3cb9b909e,order,Animalia,t0003066,Microcoryphia
-9907062c-2b05-476d-beb9-70317dfd7210,genus,Animalia,t0020820,Homonopsis
-779e18f5-14a4-4669-80ca-dc5d19d6512d,genus,Animalia,t0013434,Omphalomia
-34af1699-8353-4c48-b4bf-f2f1898f19a4,genus,Animalia,t0022352,Matsumursine
-c8e88282-2c27-478a-97bd-ee1f1cc2c9c8,genus,Animalia,t0009132,Shelfordina
-0ac1bed9-87d4-48e1-a825-c587c611872d,genus,Animalia,t0017939,Uliaria
 e5dadfcc-cccf-4f34-b584-7d9eb2703718,species,Animalia,t0030572,Clelea simplicior
-a5d6d3f3-7e4e-4b58-bf40-9e5064119e7a,species,Animalia,t0051400,Homonopsis foederatana
 97b698cf-6a5f-4105-a422-917a0df60c68,infraspecies,Animalia,t0085827,Leptobelus gazella sauteri
 45b6a136-54d4-4adf-a0a1-eeac6bda41d0,infraspecies,Animalia,t0086442,Xylotrechus subscalaris basalis
 ea50f62e-948e-4e3a-aa7f-fb7da951f9e3,infraspecies,Animalia,t0097804,Cosmia restituta picta
@@ -3858,20 +3402,15 @@ c651bd03-f078-4f3c-81ab-f5a7eb567b7f,infraspecies,Animalia,t0033421,Togaritensha
 daf19282-1d4e-4ecd-b726-38c4bb0d3826,infraspecies,Animalia,t0084970,Polia gigantea gigantea
 d4b5a246-88b0-4224-85e4-bcee6f211fa6,infraspecies,Animalia,t0030404,Chinasa costalis bicoloriceps
 4f0be4a6-493e-4241-96ae-1e7ff4383fbc,infraspecies,Animalia,t0031211,Nyctemera carissima formosana
-c1df7cd8-ad99-4eb2-ae9e-06c273e7d355,order,Animalia,t0001851,Erinaceomorpha
 a7cb893e-15b5-4925-b8b5-4cc5238ec39c,infraspecies,Fungi,t0058574,Mucor circinelloides circinelloides
-9c6078c0-4e86-4dab-b8fb-88d60a44930c,class,Animalia,t0002894,Gordioida
-2dc795ab-e2d8-40bf-9203-105ec8ffd1c1,genus,Animalia,t0006918,Sylvirana
 79799ebe-55e6-4ebf-a5c8-6a4640da13b2,infraspecies,Fungi,t0058919,Daedaleopsis confragosa confragosa
 0834da11-53db-4fcd-97a2-da846e9af213,infraspecies,Chromista,t0087416,Chloridium virescens chlamydosporum
 f775a0d3-145a-4820-93a8-bacbaf2c8463,infraspecies,Animalia,t0101017,Lanius excubitor pallidirostris
 d4462017-0b38-4b00-9bd5-5505d8668eac,species,Animalia,t0101168,Pycnonotus sinensis formosae × Pycnonotus taivanus
 a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,Animalia,t0101167,Garrulax canorus × Garrulax taewanus
-b158f102-e29c-4c9e-8780-fa07bb57f7e3,order,Animalia,t0001830,Diprotodontia
 2610d703-9b56-47ac-8d36-27175d63412a,infraspecies,Animalia,t0029111,Euryobeidia languidata languidata
 c172503c-1dc2-4343-97df-ef02aaa25cbd,infraspecies,Animalia,t0057127,Hemiglaea costalis costalis
 e3625327-5e57-470a-8231-8d03edd34026,infraspecies,Animalia,t0097338,Hypersypnoides submarginata submarginata
-64329761-1b29-4a8a-8c10-0ee91630181e,species,Animalia,t0064817,Gracupica contra
 3d463226-e913-41aa-a1fa-aca2abe82d95,infraspecies,Animalia,t0102335,Amaurornis phoenicurus leucomelana
 80ed5264-c108-4770-97db-7387113daa02,infraspecies,Plantae,t0086801,Euastrum sinuosum perforatum
 5c500c82-521b-464e-9006-341a76b59496,infraspecies,Animalia,t0057093,Cyclophora intermixtaria intermixtaria
@@ -3886,21 +3425,14 @@ acea7887-71ca-4290-86a0-80c57dd914ae,infraspecies,Animalia,t0085190,Aethes cnica
 ebeef434-c3aa-4f3b-96e4-8817f5152807,infraspecies,Animalia,t0057142,Macroglossum faro faro
 96ce14ec-e453-48fc-ba08-93f24c4a7cbd,infraspecies,Animalia,t0098220,Oxya japonica japonica
 1a03550d-c74e-4e2d-94be-2157f616ee66,infraspecies,Animalia,t0086332,Tectocepheus velatus velatus
-e3858360-3ba8-4361-addc-a748c87ee1dd,genus,Animalia,t0026108,Kishinouyepenaeopsis
-2860a168-5cfc-41d4-b808-b22e1c102ca2,genus,Animalia,t0093390,Plexippoides
-1b3dbf17-4774-4e61-8a3a-39340fc3446d,genus,Animalia,t0093513,Pseudoxyroptilatila
-44acf615-4763-4ddd-911e-def627014804,family,Animalia,t0003970,Paronellidae
 5458294a-bb3f-4aaf-8c80-aa04fe1ebbe8,species,Protozoa,t0028370,Ceratium symmetricum
 fc983799-1b2c-4f03-8add-f39aba3484bf,infraspecies,Plantae,t0086768,Deschampsia cespitosa cespitosa
 58fc16d2-a9f9-40e3-b8d7-3f3c81b66d34,species,Animalia,t0029328,Ginebis convexiuscula
 d9e02467-0bd1-470c-b6e9-4dd341bb66e1,species,Fungi,t0043722,Rhizopus chinensis
 c6edbe86-37a3-4b70-a598-2c175e04614f,species,Fungi,t0043724,Rhizopus oligosporus
 00c4480c-82b3-41a8-8e2d-cf6115b1ea36,infraspecies,Animalia,t0085384,Capra aegagrus hircus
-bcfe7020-fc31-4c06-bef7-4e960ff8d824,genus,Animalia,t0015025,Polyura
-d33d1ffa-3da6-4849-b9af-f41c2d48cb45,genus,Animalia,t0104431,Rathouisia
 e7fcc177-ddde-4e80-8519-e09dd930bb17,species,Animalia,t0087773,Epinephelus fuscoguttatus × Epinephelus lanceolatus
 fddc3400-0932-4f43-be55-815acd02c15e,infraspecies,Animalia,t0084983,Pseudocoladenia dan dan
-1c87c0cc-4283-4101-8daf-0d797c82a048,genus,Animalia,t0009364,Acraea
 0f102248-82c8-4a05-858d-8e69778b24e7,infraspecies,Animalia,t0029821,Hypolimnas anomala truentus
 c9da62be-bf5e-4cdd-b28c-c8f8645fad60,infraspecies,Animalia,t0095969,Kaniska canace canace
 63886265-d37f-4635-a277-822ec340edfb,infraspecies,Animalia,t0098029,Neptis hylas hylas
