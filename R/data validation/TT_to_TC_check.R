@@ -12,27 +12,27 @@ df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_dat
 
 df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
 
-# 先抓第一頁
-splist <- fromJSON(sprintf("https://api.taicol.tw/v2/taxon?is_in_taiwan=false&limit=300"))
-df_TCsplist_notintaiwan <- splist$data
-total <- splist$info$total
-
-# 計算頁碼
-pg <- floor(total / 300)
-if (total %% 300 == 0) {
-  pg <- pg - 1
-}
-sequence <- seq(300, pg * 300, by = 300)
-
-# loop 從第二頁開始
-for (i in sequence) {
-  splist <- fromJSON(sprintf("https://api.taicol.tw/v2/taxon?is_in_taiwan=false&limit=300&offset=%d", i))
-  df_TCsplist_notintaiwan <- rbind(df_TCsplist_notintaiwan, splist$data)
-  print(i)
-}
-
-df_TCsplist <- rbind(df_TCsplist, df_TCsplist_notintaiwan)
-
+# # 先抓第一頁
+# splist <- fromJSON(sprintf("https://api.taicol.tw/v2/taxon?is_in_taiwan=false&limit=300"))
+# df_TCsplist_notintaiwan <- splist$data
+# total <- splist$info$total
+# 
+# # 計算頁碼
+# pg <- floor(total / 300)
+# if (total %% 300 == 0) {
+#   pg <- pg - 1
+# }
+# sequence <- seq(300, pg * 300, by = 300)
+# 
+# # loop 從第二頁開始
+# for (i in sequence) {
+#   splist <- fromJSON(sprintf("https://api.taicol.tw/v2/taxon?is_in_taiwan=false&limit=300&offset=%d", i))
+#   df_TCsplist_notintaiwan <- rbind(df_TCsplist_notintaiwan, splist$data)
+#   print(i)
+# }
+# 
+# df_TCsplist <- rbind(df_TCsplist, df_TCsplist_notintaiwan)
+# 
 
 
 df_TT_select <- df_TTsplist %>%
@@ -40,8 +40,8 @@ df_TT_select <- df_TTsplist %>%
   setnames(., c("taxonUUID", "taxonRank", "kingdom", "taiCOLNameCode", "simplifiedScientificName"), c("TT_taxonUUID", "TT_taxonRank", "TT_kingdom", "TT_taiCOLNameCode", "TT_simplifiedScientificName"))
 
 df_TC_select <- df_TCsplist %>% 
-  select(taxon_id, rank, kingdom, simple_name)%>%
-  setnames(., c("taxon_id", "simple_name", "rank", "kingdom"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom")) %>% 
+  select(taxon_id, rank, kingdom, simple_name, taxon_status)%>%
+  setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status")) %>% 
   .[, TC_rank := tolower(TC_rank)]
 
 
