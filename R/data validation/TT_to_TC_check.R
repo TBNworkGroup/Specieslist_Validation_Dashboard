@@ -226,7 +226,11 @@ TT_add_taxonid_unique <- TT_add_taxonid_checked %>%
   group_by(TT_taxonUUID) %>%
   filter(n() == 1) %>%
   ungroup()%>%
-  filter(!is.na(hit_index))
+  filter(
+    !is.na(hit_index),
+    !is.na(taicol_taxon_id),
+    !taicol_taxon_id %in% c("", "[]", "list()")
+  )
 
 
 TT_add_taxonid_miss <- TT_add_taxonid_checked %>%
@@ -244,6 +248,11 @@ TT_unknow <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_same$TT_taxonU
   .[!(.$TT_taxonUUID %in%  as.vector(TT_add_taxonid_multiple$TT_taxonUUID))]%>%
   .[!(.$TT_taxonUUID %in%  as.vector(TT_add_taxonid_miss$TT_taxonUUID))]
 
+TT_add_taxonid_unique <- fread("../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+  filter(!taicol_taxon_id %in% "[]")
+
+
+
 
 data.table::fwrite(taicol_shape, "../../data/output/TT_to_TC/taicol_taxon_shape_summary.csv")
 data.table::fwrite(TT_add_taxonid_unique, "../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv")
@@ -251,3 +260,68 @@ data.table::fwrite(TT_add_taxonid_multiple, "../../data/output/TT_to_TC/TT_add_t
 data.table::fwrite(TT_add_taxonid_miss, "../../data/output/TT_to_TC/TT_add_taxonid_miss.csv")
 
 fwrite(TT_unknow, "../../data/output/TT_to_TC/TT_unknow.csv")
+
+
+TT_add_taxonid_unique <- fread("../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+  filter(taicol_taxon_id %in% "[]") %>% 
+  select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName)
+
+TT_add_taxonid_multiple <- fread("../../data/output/TT_to_TC/TT_add_taxonid_multiple_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+  select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName) %>% 
+  unique()
+
+TT_add_taxonid_miss <- fread("../../data/output/TT_to_TC/TT_add_taxonid_miss.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+  select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName)
+
+TT_add_taxonid_final <- rbind(TT_add_taxonid_multiple, TT_add_taxonid_unique, TT_add_taxonid_miss)
+
+handlers(global = TRUE)
+handlers("txtprogressbar")
+
+query_taicol_taxon <- function(sciname) {
+  url <- sprintf(
+    "https://api.taicol.tw/v2/taxon?scientific_name=%s",
+    URLencode(sciname, reserved = TRUE)
+  )
+  
+  res <- tryCatch(fromJSON(url), error = function(e) NULL)
+  
+  if (is.null(res) || is.null(res$info$total) || res$info$total == 0) {
+    return(NULL)
+  }
+  
+  as.data.table(res$data)[, .(
+    taxon_id,
+    taxon_status,
+    simple_name,
+    rank,
+    kingdom
+  )]
+}
+
+result_dt_list <- list()
+name_vec <- TT_add_taxonid_final$TT_simplifiedScientificName
+
+with_progress({
+  p <- progressor(steps = length(name_vec))
+  
+  for (i in seq_along(name_vec)) {
+    sciname <- name_vec[i]
+    p(sprintf("[%d/%d] %s", i, length(name_vec), sciname))
+    
+    Sys.sleep(0.1)
+    tmp <- query_taicol_taxon(sciname)
+    
+    if (is.null(tmp) || nrow(tmp) == 0) next
+    
+    tt_row <- as.data.table(TT_add_taxonid_final[i, ])
+    tt_expand <- tt_row[rep(1, nrow(tmp))]
+    
+    result_dt_list[[length(result_dt_list) + 1]] <- cbind(tt_expand, tmp)
+  }
+})
+TT_add_taxonid_taxon_api <- rbindlist(result_dt_list, fill = TRUE)
+fwrite(TT_add_taxonid_taxon_api, "../../data/output/TT_to_TC/TT_add_taxonid_taxon_api_check.csv")
+
+TT_add_taxonid_unknow <- TT_add_taxonid_final[!(TT_taxonUUID %in% as.vector(TT_add_taxonid_taxon_api$TT_taxonUUID))]
+fwrite(TT_add_taxonid_unknow, "../../data/output/TT_to_TC/TT_add_taxonid_unknow.csv")

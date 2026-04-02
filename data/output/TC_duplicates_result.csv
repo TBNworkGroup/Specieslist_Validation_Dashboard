@@ -205,6 +205,7 @@ t0026312,Subgenus,Zeugodacus,"Hendel, 1927",TRUE,FALSE,FALSE,學名重複,https:
 t0029211,Species,Ficus variegata,"Röding, 1798",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0029211
 t0046167,Species,Hemigraphis reptans,(G.Forst.) T.Anderson ex Hemsl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0046167
 t0054642,Species,Ormosia formosana,Kaneh.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0054642
+t0060966,Species,Angelica dahurica,(Hoffm.) Benth. & Hook.f. ex Franch. & Sav.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0060966
 t0082442,Species,Ormosia formosana,"Edwards, 1921",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0082442
 t0088182,Genus,Gordonia,(ex Tsukamura 1971.0) Stackebrandt et al. 1989,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088182
 t0088272,Genus,Micrococcus,Cohn 1872 (Approved Lists 1980),TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088272
@@ -301,6 +302,8 @@ t0122659,Genus,Ranzania,T.Itô,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/z
 t0123754,Subgenus,Stenobracon,"Szépligeti, 1901",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123754
 t0123770,Subgenus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0123770
 t0124086,Order,Salviniales,Bartl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124086
+t0124308,Species,Angelica dahurica,Benth. & Hook.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124308
+t0124328,Species,Angelica dahurica,Maxim.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124328
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137

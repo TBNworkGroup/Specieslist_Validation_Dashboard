@@ -5702,6 +5702,8 @@ b0bf918a-14a8-4be7-9d9d-a67a27f19ca8,species,Animalia,"",Copris punctatus,t00977
 4c4fc1ad-9f79-4680-a696-f1fb310ddfb0,species,Animalia,"",Onthophagus potanini,t0098158
 8fa3b3cb-7b16-42f8-add2-011ecf34f6cf,species,Animalia,"",Trypoxylus dichotomus,t0096590
 c45969d8-284b-4e8f-8aaf-33256d93cbb9,species,Animalia,"",Dorcus hirticornis,t0096774
+658db301-7725-4feb-889d-9c96055572c1,species,Animalia,t0063868,Figulus punctatus,t0124283
+658db301-7725-4feb-889d-9c96055572c1,species,Animalia,t0063868,Figulus punctatus,t0124283
 959f9c9d-9ee2-4766-99c0-94d376dc7504,species,Animalia,"",Chrysodema eximia,t0100740
 49494132-1c5f-425f-ac09-e46a6459dd1a,species,Animalia,"",Chrysodema lewisii,t0100741
 5251d70d-9902-415b-b8f3-e3394faadc17,species,Animalia,"",Habroloma griseonigrum,t0097191
@@ -6349,7 +6351,6 @@ ae5d62aa-e5ea-4b20-81e8-3f1739041e3f,species,Plantae,"",Dryopteris subexaltata,t
 f832345b-cb7e-4ad4-b666-dd1296114e54,species,Plantae,"",Dryopteris sublacera,t0026695
 d42d52c6-6837-4338-8f9b-224df267adcb,species,Plantae,"",Dryopteris subtriangularis,t0026696
 39871db9-d001-4993-bde6-687a9cc72b17,species,Plantae,"",Dryopteris tenuipes,t0026698
-46940008-580c-4c4e-b85b-6df6dcbc082d,species,Plantae,"",Dryopteris toyamae,t0026699
 9e660db7-f75b-478a-a464-e1615714b928,species,Plantae,"",Dryopteris varia,t0026701
 1711e7c7-b3dc-4de1-b62d-d76fdd57c7e4,species,Plantae,"",Dryopteris wallichiana,t0057291
 67a15541-c42a-4ff1-998d-acf77942afd4,species,Plantae,"",Dryopteris yoroii,t0026705
@@ -10205,7 +10206,6 @@ fc0927a6-99d1-451d-af5f-4bdb9f66736a,species,Plantae,"",Nephelium mutabile,t0054
 4e245ddc-bac5-45f3-80b8-601cf513327c,species,Plantae,"",Nephelium lappaceum,t0074921
 d89d2f89-88f0-4130-9a24-e9b6a8ac1b0e,species,Plantae,"",Nephelium malaiense,t0074922
 171fb6c4-dc8b-43de-b1b2-35bc693bd238,species,Plantae,"",Pometia pinnata,t0054925
-a9c92fef-aef7-432e-9716-f11094d17908,species,Plantae,t0103293,Sapindus mukorossii,t0055225
 11f31406-0df2-45ee-83e0-6cdc7194486a,species,Plantae,"",Sapindus rarak,t0055226
 e85415bc-0c65-4bee-90a9-d011b81d0818,species,Plantae,"",Acronychia pedunculata,t0033589
 f87993e5-8054-4036-be82-739ace50ec2b,species,Plantae,"",Boenninghausenia albiflora,t0040400
@@ -11413,7 +11413,6 @@ c3b5ba9f-9645-4ac0-adef-e18bc8a1d91c,species,Plantae,"",Distimake cissoides,t005
 c03fbe52-b9cd-47bd-b1bd-ac933c8df5f3,species,Plantae,"",Merremia hederacea,t0074774
 cede3f29-a15f-458b-b6a8-aaa2fc58a6a5,species,Plantae,"",Merremia hirta,t0058521
 3ee0efbb-4b9d-4f94-a12e-8b4108382d95,species,Plantae,"",Distimake quinatus,t0057279
-5cbd512e-4c2d-4cb4-9875-8e28f7f58cec,species,Plantae,"",Decalobanthus similis,t0054446
 74bd9a28-5756-4e90-bfa0-6050fff75027,species,Plantae,"",Distimake tuberosus,t0054447
 06b33991-32d9-437a-b1cd-bc7f6436358f,species,Plantae,"",Distimake dissectus,t0057278
 0a2f225a-c9e7-48e7-b369-a34bd07920ee,species,Plantae,"",Distimake quinquefolius,t0057280
@@ -12393,6 +12392,8 @@ e423c268-7ee0-4afd-a62b-6c0aefe0bda9,species,Plantae,"",Peucedanum japonicum,t00
 5d7d99ee-77e7-4400-8c4e-c0321fe9480a,species,Plantae,"",Bupleurum kaoi,t0052764
 ee06aba7-e8fc-431c-89e0-de93cd22bce8,species,Plantae,"",Bupleurum falcatum,t0072946
 e4633ae2-1795-4b73-bea1-7bbff49dd6df,species,Plantae,"",Angelica dahurica,t0060966
+e4633ae2-1795-4b73-bea1-7bbff49dd6df,species,Plantae,"",Angelica dahurica,t0124308
+e4633ae2-1795-4b73-bea1-7bbff49dd6df,species,Plantae,"",Angelica dahurica,t0124328
 014f9b25-a167-4c79-8896-4453ce44b5af,species,Plantae,"",Angelica hirsutiflora,t0052593
 0ed72a55-21bb-425b-8b27-f7a60805c1fd,species,Plantae,"",Angelica morii,t0040169
 4970b98e-e97e-4e24-8172-219a2d5168af,species,Plantae,"",Angelica morrisonicola,t0060968
