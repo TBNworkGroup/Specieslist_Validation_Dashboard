@@ -1,8 +1,8 @@
 taxon_id,rank,simple_name,reason,TC_URL
 t0009100,Genus,× Chrinephrium,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0009100
 t0009100,Genus,× Chrinephrium,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0009100
-t0025573,Genus,× Brassocattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025573
-t0025573,Genus,× Brassocattleya,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0025573
+t0025573,Genus,Brassavola × Cattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025573
+t0025573,Genus,Brassavola × Cattleya,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0025573
 t0025574,Genus,× Brassolaelia,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025574
 t0025574,Genus,× Brassolaelia,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0025574
 t0025575,Genus,× Brassolaeliocattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025575
@@ -206,6 +206,7 @@ t0106491,Subspecies,Eupatorium cannabinum subsp. asiaticum,錯誤符號與括號
 t0106540,Subspecies,Cyperus alternifolius subsp. flabelliformis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0106540
 t0106552,Subspecies,Epilobium amurense subsp. amurense,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0106552
 t0106569,Subspecies,Balanophora fungosa subsp. fungosa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0106569
-t0122680,Genus,× Epicattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0122680
-t0122680,Genus,× Epicattleya,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0122680
+t0122680,Genus,Cattleya × Epidendrum,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0122680
+t0122680,Genus,Cattleya × Epidendrum,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0122680
 t0124199,Subspecies,Cyrtomium falcatum subsp. littorale,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0124199
+t0124386,Subspecies,Balaenoptera edeni subsp. edeni,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0124386

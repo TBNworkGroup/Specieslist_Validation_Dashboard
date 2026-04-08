@@ -3,6 +3,7 @@ TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificNa
 0c218450-c46e-4ae1-8aab-5f35c33458a8,genus,Plantae,"",Ione,t0021149,accepted,Ione,Genus,Animalia
 16c6789b-0f54-46dc-8468-e09831c13c1b,genus,Plantae,"",Actaea,t0009403,accepted,Actaea,Genus,Animalia
 6f1a6779-6e1e-4d01-ae0b-4cf09f4a59c6,genus,Plantae,"",Pileostegia,t0002687,accepted,Hydrangea,Genus,Plantae
+06a393a8-984e-4c0d-a846-a4b21bdee2c0,genus,Fungi,"",Asterocalyx,t0007086,accepted,Asterocalycella,Genus,Fungi
 e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,"",Platypleura,t0014839,accepted,Platypleura,Genus,Animalia
 e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,"",Platypleura,t0093371,accepted,Thomsenella,Genus,Protozoa
 cb98fe64-7a6d-44f8-af2f-5b4851efeb58,genus,Protozoa,"",Balladyna,t0006537,accepted,Balladyna,Genus,Chromista

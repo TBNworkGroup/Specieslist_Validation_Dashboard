@@ -48,6 +48,8 @@ ef1eb501-dc40-469c-9dec-53afae7fd1eb,genus,Plantae,"",Agapetes,1,[],
 0ced4b9a-b4e8-4176-a72c-3e1d399163f1,genus,Plantae,"",Synurus,1,[],
 00050737-6553-4180-b540-3612d9afe252,genus,Plantae,"",Schizocodon,1,[],
 8601bbfe-3252-4e4d-a053-f0b3e05900e2,genus,Plantae,"",Hyphear,1,[],
+06a393a8-984e-4c0d-a846-a4b21bdee2c0,genus,Fungi,"",Asterocalyx,1,t0007086,not-accepted
+06a393a8-984e-4c0d-a846-a4b21bdee2c0,genus,Fungi,"",Asterocalyx,2,t0007086,misapplied
 e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,"",Platypleura,1,t0014839,accepted
 e6134be1-3ee9-4cd7-aa74-8b5fe85dfa6b,genus,Protozoa,"",Platypleura,2,t0093371,not-accepted
 cb98fe64-7a6d-44f8-af2f-5b4851efeb58,genus,Protozoa,"",Balladyna,1,t0007116,accepted
@@ -183,7 +185,6 @@ caf99555-3474-418b-92b7-c4bf4c222c7d,species,Plantae,"",Anagallis arvensis,1,t01
 726dde5a-bfeb-4122-8cb9-70f238c13be9,species,Plantae,"",Lycopersicon lycopersicum,1,[],
 1fe1eb9d-f02e-4bc9-958d-6cd41ae0b57f,species,Plantae,"",Justicia ciliata,1,[],
 676ee9bf-845b-4c13-a8bd-b5f03f44ec24,species,Plantae,"",Scutellaria javanica,1,[],
-c734219a-512f-48ad-85cf-9c21718a397d,species,Plantae,"",Cirsium formosanum,1,[],
 474c0af4-a776-4eeb-865f-7ce918ee469d,species,Plantae,"",Ixeris japonica,1,[],
 50d90673-a0ec-4ea5-b4a7-b4f9d4f188da,species,Plantae,"",Paraprenanthes melanantha,1,[],
 9a1960d0-4b43-42a6-896c-5b6486a2cf20,species,Plantae,"",Parasenecio monantha,1,t0106217,not-accepted
@@ -299,10 +300,10 @@ db846ca0-56a9-4d96-9a9f-381dfe722420,infraspecies,Plantae,"",Shortia rotundifoli
 00c9644a-8ff4-492c-a74d-6bcfc5f5cefa,species,Plantae,"",Neanotis kwangtungensis,1,[],
 9488238e-7a6e-427a-8243-46f6f2c6f33f,infraspecies,Plantae,"",Damnacanthus angustifolius stenophyllus,1,t0053293,not-accepted
 9488238e-7a6e-427a-8243-46f6f2c6f33f,infraspecies,Plantae,"",Damnacanthus angustifolius stenophyllus,2,,
-1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,1,t0055675,not-accepted
 1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,1,t0069693,not-accepted
-1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,2,t0055675,not-accepted
+1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,1,t0055675,not-accepted
 1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,2,t0069693,not-accepted
+1324482a-aa6a-4189-98d0-d4560924608d,infraspecies,Plantae,"",Tripterospermum taiwanense alutaceofolium,2,t0055675,not-accepted
 132fc435-a6ed-487a-b301-ebae1ec52c94,infraspecies,Plantae,"",Heliotropium procumbens depressum,1,t0074255,not-accepted
 132fc435-a6ed-487a-b301-ebae1ec52c94,infraspecies,Plantae,"",Heliotropium procumbens depressum,2,t0074255,not-accepted
 90227064-1a8a-4d76-88a5-86c144d689d8,infraspecies,Plantae,"",Mentha arvensis piperascens,1,t0084606,not-accepted
@@ -311,10 +312,10 @@ db846ca0-56a9-4d96-9a9f-381dfe722420,infraspecies,Plantae,"",Shortia rotundifoli
 5d70d366-e75b-43d6-8bdd-7f9d9fd603b2,infraspecies,Plantae,"",Prunella vulgaris asiatica,2,,
 a0f7501d-f64e-47bb-88f9-cd7d69e4dc2d,infraspecies,Plantae,"",Ilex sugerokii brevipedunculata,1,t0058070,accepted
 a0f7501d-f64e-47bb-88f9-cd7d69e4dc2d,infraspecies,Plantae,"",Ilex sugerokii brevipedunculata,2,,
-6d4ffa2e-269f-4d9c-985b-a2daabd6eb80,infraspecies,Plantae,"",Eupatorium luchuense kiirunense,1,t0073922,not-accepted
 6d4ffa2e-269f-4d9c-985b-a2daabd6eb80,infraspecies,Plantae,"",Eupatorium luchuense kiirunense,1,t0053635,not-accepted
+6d4ffa2e-269f-4d9c-985b-a2daabd6eb80,infraspecies,Plantae,"",Eupatorium luchuense kiirunense,1,t0073922,not-accepted
 a6d962fc-9771-4228-90cc-087b6adf0f0a,infraspecies,Plantae,"",Cirsium japonicum takaoense,1,t0087365,accepted
-a6d962fc-9771-4228-90cc-087b6adf0f0a,infraspecies,Plantae,"",Cirsium japonicum takaoense,2,,
+a6d962fc-9771-4228-90cc-087b6adf0f0a,infraspecies,Plantae,"",Cirsium japonicum takaoense,2,t0087365,not-accepted
 9164c378-ef51-4423-a166-1a979c73a97d,species,Plantae,"",Bidens alba,1,[],
 d2fa392d-dcb5-4eaf-971b-0e0e2ae0812c,infraspecies,Plantae,"",Solidago virgaurea leiocarpa,1,t0055397,not-accepted
 d2fa392d-dcb5-4eaf-971b-0e0e2ae0812c,infraspecies,Plantae,"",Solidago virgaurea leiocarpa,2,t0055397,not-accepted

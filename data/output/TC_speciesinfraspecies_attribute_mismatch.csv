@@ -157,8 +157,12 @@ t0075836,Species,t0024785,Schoenoplectiella mucronata,native,TRUE,"",LC,LC,"",t0
 t0075866,Species,t0008970,Selaginella doederleinii,native,TRUE,"",LC,"","",t0075866,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0075866
 t0084627,Subspecies,t0075866,Selaginella doederleinii subsp. doederleinii,native,TRUE,"",LC,"","",t0075866,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084627
 t0084628,Subspecies,t0075866,Selaginella doederleinii subsp. trachyphylla,native,TRUE,"",DD,"","",t0075866,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084628
-t0076154,Species,t0010677,Balaenoptera edeni,native,TRUE,I,"",LC,"",t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0076154
+t0076154,Species,t0010677,Balaenoptera edeni,native,TRUE,I,"",LC,輕度,t0076154,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0076154
+t0085321,Subspecies,t0076154,Balaenoptera edeni brydei,native,TRUE,I,"","","",t0076154,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0085321
+t0124386,Subspecies,t0076154,Balaenoptera edeni subsp. edeni,"",TRUE,"","","","",t0076154,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0124386
+t0076154,Species,t0010677,Balaenoptera edeni,native,TRUE,I,"",LC,輕度,t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0076154
 t0085321,Subspecies,t0076154,Balaenoptera edeni brydei,native,TRUE,I,"","","",t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085321
+t0124386,Subspecies,t0076154,Balaenoptera edeni subsp. edeni,"",TRUE,"","","","",t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0124386
 t0077018,Species,t0011180,Calamaria pavimentata,native,TRUE,"",LC,LC,輕度,t0077018,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0077018
 t0102404,Subspecies,t0077018,Calamaria pavimentata pavimentata,native,TRUE,"",LC,"","",t0077018,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0102404
 t0078483,Species,t0011948,Circus aeruginosus,native,TRUE,II,"",LC,"",t0078483,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0078483
@@ -349,7 +353,7 @@ t0096471,Species,t0023034,Mustela nivalis,native,TRUE,"",VU,LC,輕度,t0096471,I
 t0085950,Subspecies,t0096472,Mustela sibirica taivana,native,TRUE,"",LC,"","",t0096472,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085950
 t0096472,Species,t0023034,Mustela sibirica,native,TRUE,"",LC,LC,"",t0096472,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096472
 t0085957,Subspecies,t0096487,Myiomela leucura montium,native,TRUE,III,LC,"","",t0096487,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085957
-t0096487,Species,t0023054,Myiomela leucura,native,TRUE,III,LC,LC,"",t0096487,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096487
+t0096487,Species,t0023054,Myiomela leucura,native,TRUE,III,LC,LC,輕度,t0096487,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096487
 t0028153,Subspecies,t0096489,Myotis fimbriatus taiwanensis,native,TRUE,"",LC,"","",t0096489,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0028153
 t0096489,Species,t0023070,Myotis fimbriatus,native,TRUE,"",LC,LC,"",t0096489,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096489
 t0085958,Subspecies,t0096490,Myotis formosus flavus,native,TRUE,"",VU,"","",t0096490,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085958
