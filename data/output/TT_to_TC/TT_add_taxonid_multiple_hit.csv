@@ -196,11 +196,6 @@ d86e744f-3d5a-4ade-9cf3-38192cfd4d7d,species,Plantae,"",Gaultheria leucocarpa,1,
 1997995e-0c30-4c53-bf89-3c27692bb007,species,Plantae,"",Maesa montana,1,[],
 92cb8500-d788-4116-a831-e049bcfd5dc5,species,Plantae,"",Deparia pycnosora,1,[],
 de65f6d2-918d-4386-86a1-af2ebc2d76da,species,Plantae,"",Ludwigia peploides,1,[],
-5d139382-c062-433a-8e19-d896578b3b64,species,Plantae,"",Vitis heyneana,1,[],
-7623b29a-b858-4962-97b0-61d59e8bd413,infraspecies,Plantae,"",Huperzia serrata longipetiolata,1,t0058031,not-accepted
-7623b29a-b858-4962-97b0-61d59e8bd413,infraspecies,Plantae,"",Huperzia serrata longipetiolata,2,t0058031,not-accepted
-ae3df992-2344-49ec-8671-fb83e5bf7c00,infraspecies,Plantae,"",Huperzia serrata myriophyllifolia,1,t0026336,not-accepted
-ae3df992-2344-49ec-8671-fb83e5bf7c00,infraspecies,Plantae,"",Huperzia serrata myriophyllifolia,2,t0026336,not-accepted
 8873e169-f9c9-4401-ae67-0b826cc458e6,infraspecies,Plantae,"",Pteris cretica laeta,1,t0026508,not-accepted
 8873e169-f9c9-4401-ae67-0b826cc458e6,infraspecies,Plantae,"",Pteris cretica laeta,1,t0102192,misapplied
 8873e169-f9c9-4401-ae67-0b826cc458e6,infraspecies,Plantae,"",Pteris cretica laeta,2,t0026508,not-accepted
@@ -363,6 +358,8 @@ bb8d63a5-fcd7-40c5-be68-2d7149fcf989,infraspecies,Plantae,"",Machilus obovatifol
 8647e30d-c757-4af6-8502-288b315074f1,infraspecies,Plantae,"",Camphora officinarum officinarum,1,[],
 d3b605b1-cdaf-42fc-bc65-b0f59dfafc5e,species,Plantae,"",Emilia javanica,1,t0053530,not-accepted
 d3b605b1-cdaf-42fc-bc65-b0f59dfafc5e,species,Plantae,"",Emilia javanica,1,t0053528,misapplied
+3acec326-dd1c-4da6-8764-480cb17d12e5,genus,Animalia,"",Macrochelys,1,[],
+4b37b23c-ab7c-4e13-bc0a-9ea333ce51ee,species,Animalia,"",Macrochelys temminckii,1,[],
 439ad63d-8454-4d3d-bc54-5f108a60c844,species,Plantae,"",Equisetum hyemale,1,[],
 02090170-6acc-40cf-af8d-2b6caf7bce7b,infraspecies,Plantae,"",Eriobotrya deflexa deflexa,1,t0124208,accepted
 02090170-6acc-40cf-af8d-2b6caf7bce7b,infraspecies,Plantae,"",Eriobotrya deflexa deflexa,2,t0124208,not-accepted
