@@ -159,10 +159,10 @@ t0084627,Subspecies,t0075866,Selaginella doederleinii subsp. doederleinii,native
 t0084628,Subspecies,t0075866,Selaginella doederleinii subsp. trachyphylla,native,TRUE,"",DD,"","",t0075866,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0084628
 t0076154,Species,t0010677,Balaenoptera edeni,native,TRUE,I,"",LC,輕度,t0076154,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0076154
 t0085321,Subspecies,t0076154,Balaenoptera edeni brydei,native,TRUE,I,"","","",t0076154,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0085321
-t0124386,Subspecies,t0076154,Balaenoptera edeni subsp. edeni,"",TRUE,"","","","",t0076154,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0124386
+t0124386,Subspecies,t0076154,Balaenoptera edeni edeni,"",TRUE,"","","","",t0076154,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0124386
 t0076154,Species,t0010677,Balaenoptera edeni,native,TRUE,I,"",LC,輕度,t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0076154
 t0085321,Subspecies,t0076154,Balaenoptera edeni brydei,native,TRUE,I,"","","",t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085321
-t0124386,Subspecies,t0076154,Balaenoptera edeni subsp. edeni,"",TRUE,"","","","",t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0124386
+t0124386,Subspecies,t0076154,Balaenoptera edeni edeni,"",TRUE,"","","","",t0076154,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0124386
 t0077018,Species,t0011180,Calamaria pavimentata,native,TRUE,"",LC,LC,輕度,t0077018,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0077018
 t0102404,Subspecies,t0077018,Calamaria pavimentata pavimentata,native,TRUE,"",LC,"","",t0077018,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0102404
 t0078483,Species,t0011948,Circus aeruginosus,native,TRUE,II,"",LC,"",t0078483,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0078483
