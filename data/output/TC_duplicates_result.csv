@@ -41,6 +41,7 @@ t0002629,Genus,Breynia,J.R.Forst. & G.Forst.,TRUE,FALSE,FALSE,學名重複,https
 t0002636,Genus,Perrottetia,Kunth,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002636
 t0002704,Genus,Gordonia,J.Ellis,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002704
 t0002788,Genus,Trichodesma,R.Br.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002788
+t0002806,Genus,Limnophila,R.Br.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002806
 t0002809,Genus,Scoparia,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002809
 t0002817,Genus,Lindernia,All.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002817
 t0002822,Genus,Thunbergia,Retz.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002822
@@ -127,6 +128,7 @@ t0012735,Genus,Nais,"Müller, 1774",TRUE,FALSE,FALSE,學名重複,https://taicol
 t0013361,Genus,Oenanthe,"Vieillot, 1816",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013361
 t0013719,Genus,Oxyporus,"Fabricius, 1775",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013719
 t0013923,Genus,Paracoccus,"Ezzat & McConnell, 1956",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0013923
+t0014335,Genus,Penicillaria,"Guenée, 1852",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014335
 t0014489,Genus,Phaloria,"Stål, 1877",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014489
 t0014659,Genus,Phymatodes,"Mulsant, 1839",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014659
 t0014708,Genus,Pieris,"Schrank, 1801",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014708
@@ -167,6 +169,7 @@ t0020683,Genus,Hexagonia,"Kirby, 1825",TRUE,FALSE,FALSE,學名重複,https://tai
 t0021263,Genus,Japonia,"Gould, 1859",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021263
 t0021446,Genus,Lactarius,"Valenciennes, 1833",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021446
 t0021451,Genus,Laelia,"Stephens, 1828",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021451
+t0021822,Genus,Limnophila,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021822
 t0022776,Genus,Microporus,"Uhler, 1872",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022776
 t0022933,Genus,Monocera,"Wulp, 1898",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022933
 t0023086,Genus,Acmella,Rich.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023086
@@ -304,6 +307,7 @@ t0123770,Subgenus,Aesalus,"Fabricius, 1801",TRUE,TRUE,FALSE,學名重複,https:/
 t0124086,Order,Salviniales,Bartl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124086
 t0124308,Species,Angelica dahurica,Benth. & Hook.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124308
 t0124328,Species,Angelica dahurica,Maxim.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124328
+t0124877,Genus,Penicillaria,Willd.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124877
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
