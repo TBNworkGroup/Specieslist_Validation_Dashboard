@@ -33,6 +33,7 @@ f31453f2-2148-4198-8cb0-338fdc69dfeb,genus,Animalia,t0017743,Trigonodera,Pelecot
 79b7b7f8-b98e-46cb-bec2-d5b7583edd0a,genus,Animalia,t0015501,Pseudoxyroptila,Pseudoxyroptilatila,accepted
 24ab3ac7-3aa9-4386-8689-cbfb2d943216,genus,Animalia,t0013815,Palionebris,Trachydora,accepted
 ce3a1763-c978-4c59-9982-7c79f403a2e9,genus,Animalia,t0012683,Dacrypohanes,Dacryphanes,accepted
+fa240400-c653-43e6-bec6-dc3a95e86e5c,genus,Animalia,t0012742,Namatopogon,Nematopogon,accepted
 0efec1a2-cbae-4ebc-95d8-ddf9346083ec,genus,Animalia,t0019658,Eurystylomorpha,Eurystylopsis,accepted
 6807e765-4c1c-488e-b857-8713729b6dcd,genus,Animalia,t0017666,Triantennaria,Tripartita,accepted
 3fbe0614-f2e1-49d4-8ca5-c3dfced31df5,genus,Animalia,t0008839,Epiclinata,Tituria,accepted
@@ -180,7 +181,7 @@ a41809f8-db03-42d1-9935-fd3e1b3b85e6,species,Animalia,t0076318,Bathytormus foveo
 14cccbb5-9032-4529-814f-0d547f8f6f9c,species,Animalia,t0078228,Chlamys squamata,Scaeochlamys squamea,accepted
 ab7d41fa-7bbc-46dd-bee2-79380077f46d,species,Animalia,t0061207,Delectopecten fluctuatus,Ciclopecten fluctuatus,accepted
 79e47ac2-346f-4b15-b257-33175d4f6861,species,Animalia,t0033010,Spondylus barbatus,Spondylus squamosus,accepted
-16e52ca3-62df-486e-b34a-c74cda43a10d,species,Animalia,t0066900,Laternula marilina,Exolaternula liautaudi,accepted
+16e52ca3-62df-486e-b34a-c74cda43a10d,species,Animalia,t0066900,Laternula marilina,Parilaternula liautaudi,accepted
 db7cbf8a-a0c7-4e31-93a9-bc9cdcd69b86,species,Animalia,t0066902,Laternula truncata,Exolaternula spengleri,accepted
 747e7a6c-d605-438a-beb9-1e27caf02bf9,species,Animalia,t0027333,Laternula attenuata,Laternula creccina,accepted
 513997ed-bd65-4e11-84dc-d2f49f638017,species,Animalia,t0029932,Brachidontes striatulus,Byssogerdius striatulus,accepted
@@ -191,6 +192,7 @@ f9f065dc-5bf0-418d-83d4-d26990d7ffb0,species,Animalia,t0036246,Pliarcularia bell
 be790daf-24be-4e62-9841-f832cea56f04,species,Animalia,t0038319,Scabricola yokoyamai,Cancilla isabella,accepted
 43fa9466-6cb2-4097-b0ce-c52936b8a2cc,species,Animalia,t0062129,Drupinia grossularia,Drupina grossularia,accepted
 fdd16329-c54f-4ffe-a894-ba7c367dafb9,species,Animalia,t0080938,Nass francolina,Nassa francolina,accepted
+246cea67-15ca-471c-8242-7f2f473024ae,species,Animalia,t0065372,Hemiphaedusa minutus,Hemiphaedusa changi,accepted
 2a8a7a77-1778-4e64-acf5-3a3ca726ec86,species,Animalia,t0096913,Epitonium pallasii,Epitonium pallasi,accepted
 41752fb1-9278-471d-9e6e-da0f5f2b2b57,species,Animalia,t0076320,Batillaria cumingi,Batillaria cumingii,accepted
 a8e5f24a-9aba-49f2-bf4f-1a1af8644287,species,Animalia,t0102722,Cerithidea djadjariensis,Pirenella pupiformis,accepted
@@ -256,6 +258,7 @@ b4d16ec5-28f7-4902-86ad-38b567fedd61,species,Animalia,t0028709,Dorcus carinulatu
 4d55b92e-747b-4c09-a601-781eedebc79d,species,Animalia,t0028711,Dorcus kyanrauensis,Serrognathus kyanrauensis,accepted
 37e20424-7254-48ad-8d89-cb7c91e27eee,species,Animalia,t0061969,Dorcus parvulus,Metallactulus parvulus,accepted
 8f1de207-2ccb-4db1-81d6-236ee8486ab2,species,Animalia,t0102459,Dorcus titanus,Serrognathus titanus,deleted
+4856b50e-6410-49e1-8478-7070c3ae4301,species,Animalia,t0068015,Lucanus kurosawai,Lucanus chuyunshanus,accepted
 c143d773-9d86-4bdd-8cec-d14cbaf22e2d,species,Animalia,t0096537,Neolucanus maxinus,Neolucanus maximus,accepted
 bcd64b50-db11-4e0e-81ef-e2a9bf1ce17c,species,Animalia,t0081611,Nigidius fromosanus,Nigidius formosanus,accepted
 62ca0809-2aea-4f80-9f68-1579f95bd825,species,Animalia,t0033290,Teneropsis lividipenne,Teneropsis formosanum,accepted
@@ -497,6 +500,8 @@ d94851ff-9abb-4814-8c76-e3a32b991513,species,Animalia,t0098514,Planaeschna risi,
 bde427d2-2374-4a6d-828f-e6f712f9c575,species,Animalia,t0036393,Polycanthagyna melanictera,Indaeschna melanictera,accepted
 c1939d1a-bee6-4a8c-87ae-dafa2bba1f85,species,Animalia,t0036394,Polycanthagyna ornithocephala,Indaeschna ornithocephala,accepted
 bbca84f0-ff9c-4c50-afe0-adad9b17ce28,species,Animalia,t0071539,Anisogomphus koxingai,Euthygomphus koxingai,accepted
+1bd82e00-a7f8-432b-b9fd-3a979e2b7dec,species,Animalia,t0078244,Chlorogomphus splendidus,Chlorogomphus suzukii,accepted
+120cf5a9-6994-4957-b698-c339dcb076dd,species,Animalia,t0032518,Rhyothemis fuliginosa,Rhyothemis regia,accepted
 09d65873-e37e-4e45-98bc-2f9a617ffc12,species,Animalia,t0079260,Copera ciliata,Pseudocopera ciliata,accepted
 4c4da32f-e92f-4804-9ac4-fe862991aead,species,Animalia,t0068660,Megalestes maai,Megalestes riccii,accepted
 3259db88-c351-4444-a86e-376377a14943,species,Animalia,t0065582,Hierodula (Hierodula) bipapilla,Hierodula patellifera,deleted

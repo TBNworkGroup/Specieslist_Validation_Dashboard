@@ -35,11 +35,13 @@ t0105762,Subspecies,t0032116,Prionailurus bengalensis euptilurus,native,TRUE,I,E
 t0032116,Species,t0015116,Prionailurus bengalensis,native,TRUE,II,EN,LC,輕度,t0032116,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032116
 t0105762,Subspecies,t0032116,Prionailurus bengalensis euptilurus,native,TRUE,I,EN,"","",t0032116,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0105762
 t0032206,Species,t0015316,Pseudagrion rubriceps,native,TRUE,"","",LC,"",t0032206,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032206
-t0124893,Subspecies,t0032206,Pseudagrion rubriceps rubriceps,"",TRUE,"","","","",t0032206,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0124893
+t0124893,Subspecies,t0032206,Pseudagrion rubriceps rubriceps,native,TRUE,"","","","",t0032206,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0124893
 t0032350,Species,t0093530,Pterorhinus chinensis,invasive,TRUE,"","",LC,"",t0032350,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032350
 t0101086,Subspecies,t0032350,Pterorhinus chinensis chinensis,invasive,TRUE,"","","","",t0032350,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0101086
 t0032417,Species,t0015724,Rallus aquaticus,native,TRUE,"","",LC,"",t0032417,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032417
 t0102330,Subspecies,t0032417,Rallus aquaticus korejewi,native,TRUE,"","","","",t0032417,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0102330
+t0032518,Species,t0015909,Rhyothemis regia,native,TRUE,"","",LC,"",t0032518,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032518
+t0086211,Subspecies,t0032518,Rhyothemis regia regia,native,TRUE,"","","","",t0032518,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086211
 t0032877,Species,t0016486,Sinotaia quadrata,native,TRUE,"","",LC,"",t0032877,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032877
 t0086252,Subspecies,t0032877,Sinotaia quadrata aeruginosa,native,TRUE,"","","","",t0032877,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086252
 t0086253,Subspecies,t0032877,Sinotaia quadrata heudei,native,TRUE,"","","","",t0032877,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086253
@@ -396,7 +398,7 @@ t0085113,Subspecies,t0096627,Urile pelagicus pelagicus,native,TRUE,"","","","",t
 t0096627,Species,t0092082,Urile pelagicus,native,TRUE,"","",LC,"",t0096627,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096627
 t0086412,Subspecies,t0096630,Urothemis signata yiei,native,TRUE,"","","","",t0096630,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086412
 t0096630,Species,t0017997,Urothemis signata,native,TRUE,"","",LC,"",t0096630,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096630
-t0124894,Subspecies,t0096630,Urothemis signata signata,"",TRUE,"","","","",t0096630,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0124894
+t0124894,Subspecies,t0096630,Urothemis signata signata,native,TRUE,"","","","",t0096630,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0124894
 t0086413,Subspecies,t0096631,Ursus thibetanus formosanus,native,TRUE,I,EN,"","",t0096631,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086413
 t0096631,Species,t0017999,Ursus thibetanus,native,TRUE,I,EN,VU,輕度,t0096631,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0096631
 t0086418,Subspecies,t0096644,Viverricula indica pallida,native,TRUE,II,NT,"","",t0096644,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086418
@@ -1065,8 +1067,6 @@ t0086202,Subspecies,t0098719,Regulus regulus japonensis,native,TRUE,"","","","",
 t0098719,Species,t0015763,Regulus regulus,native,TRUE,"","",LC,"",t0098719,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098719
 t0032499,Subspecies,t0098737,Rhodeus ocellatus ocellatus,native,TRUE,"",LC,"","",t0098737,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0032499
 t0098737,Species,t0015860,Rhodeus ocellatus,native,TRUE,"",LC,DD,"",t0098737,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098737
-t0086211,Subspecies,t0098747,Rhyothemis regia regia,native,TRUE,"","","","",t0098747,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086211
-t0098747,Species,t0015909,Rhyothemis regia,native,TRUE,"","",LC,"",t0098747,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098747
 t0086212,Subspecies,t0098748,Rhyothemis variegata arria,native,TRUE,"","","","",t0098748,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086212
 t0098748,Species,t0015909,Rhyothemis variegata,native,TRUE,"","",LC,"",t0098748,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098748
 t0098753,Species,t0015932,Riparia chinensis,native,TRUE,"",LC,LC,"",t0098753,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098753

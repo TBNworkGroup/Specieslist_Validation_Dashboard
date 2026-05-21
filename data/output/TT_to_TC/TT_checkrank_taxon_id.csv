@@ -3091,7 +3091,6 @@ e0506be4-bf86-4d45-94d7-b35e1cf165d9,species,Plantae,"",Pteris longipinna,t00265
 b72699a5-ed75-425f-8722-519a0ae718c2,species,Plantae,"",Pteris perplexa,t0026519,accepted
 984eb53c-8def-49ef-87ad-37bb1b988229,species,Plantae,"",Pteris ryukyuensis,t0026521,accepted
 572e1f1b-5572-4fdc-98b4-9dc8be0525f0,species,Plantae,t0026505,Pteris semipinnata,t0026523,accepted
-465a76a8-060d-4ebd-8f46-ab6ecda9a711,species,Plantae,"",Pteris terminalis,t0059123,accepted
 3a539720-16d0-49c6-90f1-764956c635f0,species,Plantae,"",Pteris tripartita,t0026527,accepted
 f78fa870-9e64-4dc2-ab05-1be0db9716dc,species,Plantae,"",Pteris vittata,t0026528,accepted
 87e20227-3008-49cc-a128-6e3f3ea861d8,species,Plantae,"",Pteris wallichiana,t0026529,accepted
@@ -3640,7 +3639,7 @@ a5afb795-78bb-4f94-995b-bd585ae8e93e,species,Plantae,"",Podocarpus nakaii,t00270
 b6620af2-a023-43d3-95cb-483e6c7be476,species,Plantae,"",Podocarpus gracilior,t0075425,accepted
 58b1409e-1fba-4460-b04d-9b31bbb70a4c,species,Plantae,"",Podocarpus imbricatus,t0075426,accepted
 d50df288-7437-4abe-8233-092d2d460ce3,species,Plantae,"",Cunninghamia konishii,t0053200,accepted
-ebeaac7f-ae66-4840-bd80-01ac13ac7e0f,species,Plantae,"",Cunninghamia lanceolata,t0053201,deleted
+ebeaac7f-ae66-4840-bd80-01ac13ac7e0f,species,Plantae,"",Cunninghamia lanceolata,t0053201,accepted
 12aa667b-c42d-4c0b-84f3-bbe02311b01d,species,Plantae,"",Taiwania cryptomerioides,t0055549,accepted
 cf3869de-6502-466c-ae88-ed49b56d8946,species,Plantae,"",Metasequoia glyptostroboides,t0054449,accepted
 558fde45-d7cf-4acf-9168-60acde517d71,species,Plantae,"",Sequoia sempervirens,t0075894,accepted
@@ -6200,7 +6199,7 @@ d3fd8b28-ecb1-4f5d-bd55-4d26072f89d3,species,Plantae,"",Sesbania grandiflora,t00
 69a78afd-c3f3-4a36-ac86-2eb9b84c02c8,species,Plantae,"",Sesbania bispinosa,t0075896,accepted
 54ed6af6-92e1-4d3a-bb0e-8715c2a72e3b,species,Plantae,"",Sesbania javanica,t0075897,accepted
 649c1a32-e2d7-40ff-88f3-e55e30ade4f1,species,Plantae,"",Smithia ciliata,t0055379,accepted
-282e4681-4833-4aa2-8e7a-8d55dc6225cd,species,Plantae,"",Smithia sensitiva,t0055380,accepted
+282e4681-4833-4aa2-8e7a-8d55dc6225cd,species,Plantae,"",Smithia sensitiva,t0124914,accepted
 6b83588c-ce24-43d5-9c2a-e1f82dfe5dea,species,Plantae,"",Sophora flavescens,t0055404,accepted
 696490da-0d15-45fa-bf5b-ac0defc83edf,species,Plantae,"",Sophora japonica,t0075945,accepted
 5b4f33f4-c142-44eb-bbf6-602b3b9bdfef,species,Plantae,"",Stylosanthes guianensis,t0055480,accepted
@@ -7309,10 +7308,7 @@ d494cc19-29b1-40c4-9c7d-540349aaadec,species,Plantae,"",Firmiana simplex,t007396
 801f56d3-2df2-45d1-8b9f-de25060ed1e9,species,Plantae,"",Gossypium hirsutum,t0053865,accepted
 c45acee3-c240-452a-b1fb-96aaf2056548,species,Plantae,"",Gossypium arboreum,t0074154,accepted
 62967409-6504-4b80-876f-0ae49810632c,species,Plantae,"",Gossypium indicum,t0074156,accepted
-ab0580ab-e4d7-463e-b15f-2ad0037cc1fe,species,Plantae,"",Grewia biloba,t0053869,accepted
-0dd33f7b-9e0f-4374-a9fb-d2f6688a7885,species,Plantae,"",Grewia eriocarpa,t0053870,accepted
 64e9645e-e22e-4477-95b6-18d77f34994a,species,Plantae,"",Grewia piscatorum,t0053871,accepted
-af5c66b6-bdbe-46e8-b1b2-1b2236d0b0c4,species,Plantae,"",Grewia rhombifolia,t0053872,accepted
 e59500f2-4ad1-45f8-b9fa-7a92f4a2bf45,species,Plantae,"",Grewia abutilifolia,t0053868,accepted
 7fbc67c2-6f03-438b-8ca8-5c1a24f6d83b,species,Plantae,"",Grewia asiatica,t0074178,accepted
 d6ed9c37-dce0-436b-9684-a838aac2cd6d,species,Plantae,"",Helicteres augustifolia,t0057993,accepted
@@ -10862,7 +10858,6 @@ a3245dc7-6aeb-4160-bf7a-2fa2d2f95106,species,Plantae,"",Castanopsis tribuloides,
 331bbd3f-9f40-47f2-a653-b4c17860e34b,species,Plantae,"",Elatine triandra,t0104483,deleted
 331bbd3f-9f40-47f2-a653-b4c17860e34b,species,Plantae,"",Elatine triandra,t0105428,accepted
 e75777a1-ba51-43cb-857b-c3fafa85fd75,species,Plantae,"",Serjania mexicana,t0099247,accepted
-fcac0117-01f7-4b1f-a63f-50cfb2a9dd9f,species,Plantae,"",Grewia tiliifolia,t0053873,accepted
 15ef1b42-30fe-4f80-b30b-59031df61cff,species,Plantae,"",Ixora coccinea,t0100330,accepted
 9096f6eb-f17e-460c-a02f-4cacd594695f,species,Plantae,"",Aster turbinatus,t0052669,accepted
 6f795206-cd88-4cd3-bb85-fc9b780cdf37,species,Plantae,"",Cololejeunea haskarliana,t0073393,accepted
