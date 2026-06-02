@@ -1,10 +1,5 @@
 taxonUUID,taiCOLNameCode,taxonRank,kingdom,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,number_of_occurrence,TT_URL
 8b43dfc2-5105-4b46-8787-54967af187f1,"",superdomain,"",Cellular Organisms,"",原生 Native,"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/8b43dfc2-5105-4b46-8787-54967af187f1
-a4bf4963-5d24-4e02-9b11-b8a2ce74bfab,"",class,Animalia,Actinopterygii,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/a4bf4963-5d24-4e02-9b11-b8a2ce74bfab
-49e7c14b-438f-4952-ac66-363d498040e1,"",order,Animalia,Poecilostomatoida,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/49e7c14b-438f-4952-ac66-363d498040e1
-a72f3958-1906-42e7-a482-9422b64cc6ed,"",order,Animalia,Siphonophora,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/a72f3958-1906-42e7-a482-9422b64cc6ed
-f1074b32-b17c-4a10-b5c0-21717b28b7d4,"",family,Animalia,Archaeobalanidae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/f1074b32-b17c-4a10-b5c0-21717b28b7d4
-2d9c8b72-3c4d-489d-8ad7-99a5f6ff85b2,"",family,Animalia,Oxynaspididae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/2d9c8b72-3c4d-489d-8ad7-99a5f6ff85b2
 9692b028-8e29-476b-a5b2-37e24474b2fa,"",family,Animalia,Caracanthidae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/9692b028-8e29-476b-a5b2-37e24474b2fa
 9e136f9a-4948-4d37-b12b-36ac4bd2a77d,"",family,Animalia,Euphyllidae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/9e136f9a-4948-4d37-b12b-36ac4bd2a77d
 b6fddb91-e510-4307-979a-3cbc73d6a880,"",family,Animalia,Faviidae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/b6fddb91-e510-4307-979a-3cbc73d6a880
@@ -621,16 +616,13 @@ ad68e6a2-d941-4867-8771-d560611d9b03,"",family,Plantae,Pittosporaceae,"",原生 
 32f034bd-d884-4bea-bbd5-5528c45f1d80,"",family,Plantae,Myodocarpaceae,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/32f034bd-d884-4bea-bbd5-5528c45f1d80
 98ad17db-cdd2-47ab-9663-2e21ca170e6e,"",family,Plantae,Apiaceae,"",原生 Native,"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/98ad17db-cdd2-47ab-9663-2e21ca170e6e
 6327729e-dc18-4b3e-aa1e-81a91c17758a,"",family,Plantae,Typhaceae,"",原生 Native,"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/6327729e-dc18-4b3e-aa1e-81a91c17758a
-69e0b097-0a5c-429f-b94a-ec80390cc13f,"",phylum,Chromista,Oomycota,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/69e0b097-0a5c-429f-b94a-ec80390cc13f
 602bc697-4c11-43cf-aa0e-70acebd4c740,"",phylum,Chromista,Xanthophyta,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/602bc697-4c11-43cf-aa0e-70acebd4c740
 97ca4c09-f0f6-497c-b964-56845d4ecc7d,"",phylum,Chromista,Labyrinthulomycota,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/97ca4c09-f0f6-497c-b964-56845d4ecc7d
-8871622d-79fb-4cf3-81ce-17728fbec285,"",class,Chromista,Prymnesiophyceae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/8871622d-79fb-4cf3-81ce-17728fbec285
 05bc11b1-ca04-46f4-b394-e69aa382c9dd,"",class,Chromista,Chloromonadineae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/05bc11b1-ca04-46f4-b394-e69aa382c9dd
 507db7e8-13f7-4284-b6a3-d8041dbe86e9,"",class,Fungi,Zygomycetes,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/507db7e8-13f7-4284-b6a3-d8041dbe86e9
 7eca81d5-f32a-42dd-8f76-115aa6bec06d,"",class,Fungi,Hyphomycetes,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/7eca81d5-f32a-42dd-8f76-115aa6bec06d
 a4a56d3a-2941-4520-9366-e4294aa90d3e,"",class,Fungi,Spizellomtces,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/a4a56d3a-2941-4520-9366-e4294aa90d3e
 4bb492bd-b350-428a-8f51-2d7f33ff4ebc,"",class,Protozoa,Polyhymenophora,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/4bb492bd-b350-428a-8f51-2d7f33ff4ebc
-3c916043-7c8f-4635-a364-a4c013f3995d,"",class,Protozoa,Myxomycetes,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/3c916043-7c8f-4635-a364-a4c013f3995d
 dda23863-c926-4aee-9f19-e999052e6324,"",order,Plantae,Pyramimonadales,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/dda23863-c926-4aee-9f19-e999052e6324
 cb2dc40b-f346-4609-b484-1d5a2d84efda,"",order,Fungi,Aphyllophorales,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/cb2dc40b-f346-4609-b484-1d5a2d84efda
 8006e86d-9252-4afd-bf6e-46bcf9d14200,"",order,Fungi,Sclerodermatales,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/8006e86d-9252-4afd-bf6e-46bcf9d14200
@@ -640,7 +632,6 @@ bf180942-04ed-4416-8c03-0bca159d3ba6,"",order,Fungi,Ceratobasidiales,"","","",""
 63d4dce0-cc39-4f7d-b451-936c1d439b0f,"",genus,Plantae,Tetraselmis,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/63d4dce0-cc39-4f7d-b451-936c1d439b0f
 d3482b07-e2d4-4f23-a2c3-fc493e52de96,"",family,Plantae,Botryococcaceae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/d3482b07-e2d4-4f23-a2c3-fc493e52de96
 db1592e6-96a3-4004-96a2-187575473655,"",genus,Plantae,Halosphaera,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/db1592e6-96a3-4004-96a2-187575473655
-e732a0a3-33e2-450c-9dbd-7a2358852e9b,"",family,Fungi,Grammotheleaceae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/e732a0a3-33e2-450c-9dbd-7a2358852e9b
 b6ebab58-240b-4fd8-b930-22d53fb33075,"",family,Fungi,Heterosporium,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/b6ebab58-240b-4fd8-b930-22d53fb33075
 5726421d-704b-4fe0-b1fd-6251b35ecbdb,"",family,Protozoa,Alabaminidae,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/5726421d-704b-4fe0-b1fd-6251b35ecbdb
 c1681d98-1571-4cfb-a7d5-549353bf8fd2,"",family,Animalia,Cybaeidae,"",原生 Native,"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/c1681d98-1571-4cfb-a7d5-549353bf8fd2
@@ -694,7 +685,6 @@ f194eecd-8d8f-40f6-b764-38e579e67ca2,"",genus,Animalia,Asthenognathus,"","","","
 5dd79a54-e0c3-427b-bb1a-bd985e84999a,"",genus,Animalia,Ranilia,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/5dd79a54-e0c3-427b-bb1a-bd985e84999a
 b9d93dc6-8922-4cb2-96ef-2848a43f54e8,"",genus,Animalia,Lystmata,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/b9d93dc6-8922-4cb2-96ef-2848a43f54e8
 09aa4769-8bcf-4120-a196-08f04e69084d,"",genus,Animalia,Paracylopina,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/09aa4769-8bcf-4120-a196-08f04e69084d
-4d4dd13d-57ee-459d-81bd-407ba9f0928d,"",genus,Animalia,Totanus,"",原生 Native,"","","未評估（NE, Not Evaluated）","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/4d4dd13d-57ee-459d-81bd-407ba9f0928d
 4eeb1d83-39f4-4f27-a614-a618924a575a,"",genus,Animalia,Melophus,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/4eeb1d83-39f4-4f27-a614-a618924a575a
 346bcdcc-cb6a-4cb4-93e3-6a42c2851b35,"",genus,Animalia,Mesophoyx,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/346bcdcc-cb6a-4cb4-93e3-6a42c2851b35
 e4c6bf92-ad11-4dd6-bf13-c4f26c5fe347,"",genus,Animalia,Marchia,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/e4c6bf92-ad11-4dd6-bf13-c4f26c5fe347
@@ -709,7 +699,6 @@ b743a405-1ace-4c8f-bcbb-9289887bcd3e,"",genus,Animalia,Montastrea,"","","","",""
 0e05779a-f21d-43d9-9110-93912fa18c72,"",genus,Animalia,Pseudomenarus,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/0e05779a-f21d-43d9-9110-93912fa18c72
 2d36e5e6-c69c-4ab1-90e7-108e64745f4e,"",genus,Animalia,Atrachya,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/2d36e5e6-c69c-4ab1-90e7-108e64745f4e
 21e9a521-3876-4ebc-9702-e08806e2d743,"",genus,Animalia,Rondonia,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/21e9a521-3876-4ebc-9702-e08806e2d743
-c71e4c49-439f-44ff-a4b0-edf58dc4c83f,"",genus,Animalia,Priotyrranus,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/c71e4c49-439f-44ff-a4b0-edf58dc4c83f
 6165e681-fd62-4b8e-9fe2-0454f94db6b0,"",genus,Animalia,Coroebus,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/6165e681-fd62-4b8e-9fe2-0454f94db6b0
 5ea6c0f7-476b-45ce-9983-bfc6db2460c8,"",genus,Animalia,Ovalisia,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/5ea6c0f7-476b-45ce-9983-bfc6db2460c8
 d9ca8e3f-4601-42d9-884f-cb0a54343e64,"",genus,Animalia,Paraxonotha,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/d9ca8e3f-4601-42d9-884f-cb0a54343e64
@@ -737,7 +726,6 @@ a7a0f3ac-d316-4223-955b-acac7e7604cf,"",genus,Animalia,Pemia,"","","","","","",t
 5364f07d-5f1b-41f7-a01d-22185a9ab2b0,"",genus,Animalia,Encarsiella,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/5364f07d-5f1b-41f7-a01d-22185a9ab2b0
 1110264d-2c42-4cc4-b1bb-a9aa652eccef,"",genus,Animalia,Platycherius,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/1110264d-2c42-4cc4-b1bb-a9aa652eccef
 32e53a22-679b-4e71-a24c-a26d720dfe88,"",genus,Animalia,Morella,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/32e53a22-679b-4e71-a24c-a26d720dfe88
-78dd95bc-1847-465e-9451-a3aff3275875,"",genus,Animalia,Cutilia,"","","","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/78dd95bc-1847-465e-9451-a3aff3275875
 b3aada60-2d13-4608-b8d9-bd69aa9e978b,"",genus,Plantae,Lycopodium,"",原生 Native,"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/b3aada60-2d13-4608-b8d9-bd69aa9e978b
 e62c6509-bdbc-4bf3-b40f-7100d17a09d1,"",genus,Plantae,Lycopodiastrum,"",原生 Native,"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/e62c6509-bdbc-4bf3-b40f-7100d17a09d1
 48d7e4c4-4dbd-430b-be6e-b36b09fafe97,"",genus,Plantae,Lycopodiella,"",原生 Native,"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/48d7e4c4-4dbd-430b-be6e-b36b09fafe97

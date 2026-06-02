@@ -27,8 +27,10 @@ t0000648,Subclass,Archaeognatha,"Börner, 1904",TRUE,FALSE,FALSE,學名重複,ht
 t0000652,Subclass,Branchiura,"Thorell, 1864",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000652
 t0000694,Subclass,Squamata,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000694
 t0000707,Infraclass,Cestoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000707
+t0000770,Superorder,Pteriomorphia,"Beurlen, 1944",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000770
 t0001006,Order,Euglenida,"Stein, 1878",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001006
 t0001632,Order,Salviniales,Link,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001632
+t0001656,Order,Vetigastropoda,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001656
 t0001699,Order,Archaeognatha,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001699
 t0001757,Order,Cetacea,"Brisson, 1762",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0001757
 t0002064,Order,Pholidota,"Weber, 1904",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002064
@@ -135,7 +137,6 @@ t0014708,Genus,Pieris,"Schrank, 1801",TRUE,FALSE,FALSE,學名重複,https://taic
 t0014720,Genus,Pilophorus,"Hahn, 1826",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014720
 t0014775,Genus,Plagiorhynchus,"Lühe, 1911",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014775
 t0014793,Genus,Planococcus,"Ferris, 1950",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014793
-t0014978,Genus,Pollinia,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0014978
 t0015225,Genus,Prosopis,"Fabricius, 1804",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015225
 t0015272,Genus,Prunella,"Vieillot, 1816",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015272
 t0015566,Genus,Pteronemobius,"Jacobson, 1904",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0015566
@@ -171,6 +172,7 @@ t0021446,Genus,Lactarius,"Valenciennes, 1833",TRUE,FALSE,FALSE,學名重複,http
 t0021451,Genus,Laelia,"Stephens, 1828",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021451
 t0021822,Genus,Limnophila,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0021822
 t0022776,Genus,Microporus,"Uhler, 1872",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022776
+t0022805,Genus,Milesia,"Latreille, 1804",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022805
 t0022933,Genus,Monocera,"Wulp, 1898",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0022933
 t0023086,Genus,Acmella,Rich.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023086
 t0023119,Genus,Agathis,Salisb.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0023119
@@ -235,7 +237,6 @@ t0094638,Genus,Satyrium,Sw.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-h
 t0094931,Genus,Actinocyclus,"Ehrenberg, 1831",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0094931
 t0095372,Genus,Desmia,D.Don,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095372
 t0095393,Genus,Phymatodes,C.Presl,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095393
-t0095432,Genus,Pollinia,Spreng.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095432
 t0095446,Genus,Pontia,Bubani,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095446
 t0095456,Genus,Prosopis,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095456
 t0095533,Genus,Rostellaria,Nees,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0095533
@@ -310,6 +311,9 @@ t0124308,Species,Angelica dahurica,Benth. & Hook.,TRUE,FALSE,FALSE,學名重複,
 t0124328,Species,Angelica dahurica,Maxim.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124328
 t0124877,Genus,Penicillaria,Willd.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124877
 t0124915,Suborder,Polyphaga,"Emery, 1886",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124915
+t0124985,Genus,Milesia,F.B.White,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0124985
+t0125063,Subclass,Pteriomorphia,0,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0125063
+t0125067,Subclass,Vetigastropoda,0,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0125067
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
