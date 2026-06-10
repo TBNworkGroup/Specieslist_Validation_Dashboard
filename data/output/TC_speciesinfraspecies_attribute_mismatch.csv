@@ -929,6 +929,8 @@ t0086089,Subspecies,t0098409,Phaethon lepturus dorotheae,native,TRUE,"","","",""
 t0098409,Species,t0014472,Phaethon lepturus,native,TRUE,"","",LC,"",t0098409,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098409
 t0031780,Subspecies,t0098410,Phaethon rubricauda melanorhynchos,native,TRUE,"","","","",t0098410,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0031780
 t0098410,Species,t0014472,Phaethon rubricauda,native,TRUE,"","",LC,"",t0098410,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098410
+t0031783,Subspecies,t0098412,Phalacrocorax carbo sinensis,native,TRUE,"",NLC,"","",t0098412,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0031783
+t0098412,Species,t0014476,Phalacrocorax carbo,native,TRUE,"",NLC,LC,"",t0098412,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098412
 t0086094,Subspecies,t0098433,Phasianus colchicus formosanus,native,TRUE,II,NCR,"","",t0098433,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0086094
 t0086095,Subspecies,t0098433,Phasianus colchicus karpowi,invasive,TRUE,"","","","",t0098433,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0086095
 t0098433,Species,t0014499,Phasianus colchicus,native,TRUE,II,NCR,LC,"",t0098433,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0098433
