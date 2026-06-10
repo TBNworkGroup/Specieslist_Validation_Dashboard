@@ -38,6 +38,7 @@ a529536e-ad0b-4644-8f11-397d0b7d964e,species,Plantae,"",Calanthe hsinchuensis,t0
 992e387e-a308-4c05-b14d-e15954be3fef,species,Plantae,"",Musa paradisiaca,t0054514,accepted,Musa × paradisiaca,Species,Plantae
 01e10c83-3dee-4306-8c35-302f0de94717,species,Plantae,"",Musa sapientum,t0054512,accepted,Musa balbisiana,Species,Plantae
 01e10c83-3dee-4306-8c35-302f0de94717,species,Plantae,"",Musa sapientum,t0123862,accepted,Musa × sapientum,Species,Plantae
+15f93048-e0d1-4d81-9f12-85bd20b163ed,species,Plantae,"",Clematis parviloba,t0073294,accepted,Clematis parviloba,Species,
 7e7cc419-f730-47cb-b079-b264d49f2c7d,species,Plantae,"",Sedum uniflorum,t0055303,accepted,Sedum japonicum subsp. oryzifolium,Subspecies,Plantae
 7e7cc419-f730-47cb-b079-b264d49f2c7d,species,Plantae,"",Sedum uniflorum,t0105489,accepted,Sedum ryukyuense,Species,Plantae
 5afd6848-b37f-4da2-a649-58a4339966af,species,Plantae,"",Desmodium laxiflorum,t0053346,accepted,Sohmaea diffusa,Species,Plantae
@@ -109,7 +110,7 @@ ddb257c3-4838-4eeb-98a8-c267493d98e2,infraspecies,Plantae,"",Eleocharis congesta
 d61a8fdf-48b6-4696-b5ba-12d6843753c4,infraspecies,Plantae,"",Spodiopogon tainanensis hogoensis,t0055441,accepted,Spodiopogon tainanensis,Species,Plantae
 510aee5c-3b37-4569-91fd-76a093fb3d98,infraspecies,Plantae,"",Spodiopogon tainanensis takeoi,t0055441,accepted,Spodiopogon tainanensis,Species,Plantae
 2f4d4a4a-a1b9-4d13-8db3-a3952a2d4364,infraspecies,Plantae,"",Clematis henryi morii,t0086692,accepted,Clematis henryi var. morii,Variety,Plantae
-1aaecb7a-8ce6-4590-b276-80e0f69398b7,infraspecies,Plantae,"",Clematis parviloba bartlettii,t0053052,accepted,Clematis parviloba subsp. bartlettii,Subspecies,Plantae
+1aaecb7a-8ce6-4590-b276-80e0f69398b7,infraspecies,Plantae,"",Clematis parviloba bartlettii,t0053052,accepted,Clematis parviloba subsp. bartlettii,Subspecies,
 89c14b1f-d82b-4bcf-8d9b-de74b09dca49,infraspecies,Plantae,"",Buxus microphylla sinica,t0072950,accepted,Buxus liukiuensis,Species,Plantae
 89c14b1f-d82b-4bcf-8d9b-de74b09dca49,infraspecies,Plantae,"",Buxus microphylla sinica,t0084584,accepted,Buxus microphylla subsp. sinica,Subspecies,Plantae
 0f7a2123-7257-43ca-9026-36e84f5f6265,infraspecies,Plantae,"",Lotus corniculatus japonicus,t0085099,accepted,Lotus corniculatus var. japonicus,Variety,Plantae
