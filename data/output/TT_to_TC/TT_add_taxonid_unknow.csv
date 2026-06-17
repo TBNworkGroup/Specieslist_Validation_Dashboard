@@ -35,8 +35,6 @@ b8e1c850-271e-4538-8394-25139caca796,genus,Plantae,"",Miconia
 f19f9ffb-29d3-4332-9263-baabe3218462,genus,Plantae,"",Polanisia
 49785e64-0098-41f5-9214-fea35306c83a,genus,Plantae,"",Salsola
 ef1eb501-dc40-469c-9dec-53afae7fd1eb,genus,Plantae,"",Agapetes
-1a4f61f3-92bd-4649-8ee6-1bd74232f411,genus,Plantae,"",Boea
-59306550-5e40-4fba-a512-10c9b5f22297,genus,Plantae,"",Didymocarpus
 606803ef-282b-4c13-8602-714e0dc24e9c,genus,Plantae,"",Thymus
 0ced4b9a-b4e8-4176-a72c-3e1d399163f1,genus,Plantae,"",Synurus
 00050737-6553-4180-b540-3612d9afe252,genus,Plantae,"",Schizocodon
@@ -135,7 +133,6 @@ c68fed92-900b-4206-8fff-966d2b0afe29,infraspecies,Plantae,"",Hibiscus indicus in
 9164c378-ef51-4423-a166-1a979c73a97d,species,Plantae,"",Bidens alba
 fbaceca9-e772-4cfd-b2da-026b4906a116,species,Plantae,"",Rosa indica
 c1f17225-9bc3-43f3-9179-3aaa1d8c6ed9,species,Plantae,"",Echinochloa crus-pavonis
-98f411ba-e31b-445d-b343-51a64b14101b,genus,Plantae,"",Rhaphidolejeunea
 f4f7a53e-75cd-45b0-beb6-f4dac90811ee,species,Plantae,"",Blindia acuta
 534293e3-4d9b-42fb-93e5-8a09a36c62d6,species,Animalia,"",Podocnemis unifilis
 7460672f-399e-42ea-ba2c-c504df3366e0,genus,Plantae,"",Tussilago
@@ -156,6 +153,7 @@ a285c7a1-60da-474f-8da9-42ff732368b3,species,Plantae,"",Epipogium meridianum
 b8bf8509-0dc8-4042-a722-b0f0e44d9697,species,Animalia,"",Procyon lotor
 7e1d8f45-9534-4bc8-9419-bdaa915a06fa,infraspecies,Plantae,"",Hypodematium crenatum loyalii
 6b7820f3-181a-4413-815d-5f653d193cc7,genus,Plantae,"",Eriochrysis
+d881e02a-3576-4ee0-91aa-f45c60c0cbca,species,Animalia,"",Caridina gracilirostris
 15d36f27-fcf9-4a18-be65-f8e377dd5916,species,Plantae,"",Glochidion lanyuense
 122c289d-21c2-4c1a-bab4-9537ce88e3f4,infraspecies,Plantae,"",Fimbristylis dichotoma tikushiensis
 f6a84e81-b870-4990-9cc4-ed9ce8d06f97,infraspecies,Plantae,"",Fimbristylis dichotoma dichotoma
@@ -2160,7 +2158,6 @@ d08287cf-dd13-4b16-b78b-031dba880198,family,Fungi,"",Eurotiomycetes familia ince
 83a6d38e-97c9-44a5-908f-a33347324730,family,Animalia,"",Petauridae
 383f3c0c-6b40-4326-a8f2-47df1d3779db,genus,Animalia,"",Petaurus
 c10373f4-265a-48dd-9c00-9c9fdd23a51d,species,Animalia,"",Petaurus breviceps
-d881e02a-3576-4ee0-91aa-f45c60c0cbca,species,Animalia,"",Caridina gracilirostris
 7da5d720-ed69-4b70-80ed-7671d61e4f85,species,Plantae,"",Wrightia pubescens
 8f38b975-ce34-4f12-9026-07d1d90e5b7a,genus,Animalia,"",Euplectes
 d9458b74-f1be-4d0e-8077-c977030e3ea5,species,Animalia,"",Euplectes orix
