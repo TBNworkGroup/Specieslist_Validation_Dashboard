@@ -153,7 +153,10 @@ a285c7a1-60da-474f-8da9-42ff732368b3,species,Plantae,"",Epipogium meridianum
 b8bf8509-0dc8-4042-a722-b0f0e44d9697,species,Animalia,"",Procyon lotor
 7e1d8f45-9534-4bc8-9419-bdaa915a06fa,infraspecies,Plantae,"",Hypodematium crenatum loyalii
 6b7820f3-181a-4413-815d-5f653d193cc7,genus,Plantae,"",Eriochrysis
-d881e02a-3576-4ee0-91aa-f45c60c0cbca,species,Animalia,"",Caridina gracilirostris
+4807b51d-dcc1-46bb-b2ea-d8b9a66ae287,genus,Animalia,"",Leistes
+74b389a9-5768-485c-bf90-09a5ed774ad0,species,Animalia,"",Leistes superciliaris
+87622eaf-9bfd-4ac1-a045-2f2d9561d411,genus,Animalia,"",Sicalis
+8b3d288a-1c6d-4a53-9793-1f3c28095b5d,species,Animalia,"",Sicalis columbiana
 15d36f27-fcf9-4a18-be65-f8e377dd5916,species,Plantae,"",Glochidion lanyuense
 122c289d-21c2-4c1a-bab4-9537ce88e3f4,infraspecies,Plantae,"",Fimbristylis dichotoma tikushiensis
 f6a84e81-b870-4990-9cc4-ed9ce8d06f97,infraspecies,Plantae,"",Fimbristylis dichotoma dichotoma
@@ -166,7 +169,6 @@ bb8d63a5-fcd7-40c5-be68-2d7149fcf989,infraspecies,Plantae,"",Machilus obovatifol
 49f9f976-4fe6-4ff0-9114-f7c9af798664,species,Plantae,"",Begonia hohuanensis
 2d11ca8e-1e46-4259-b657-9005cd1b2359,genus,Plantae,"",Tashiroea
 8b43dfc2-5105-4b46-8787-54967af187f1,superdomain,"","",Cellular Organisms
-9e136f9a-4948-4d37-b12b-36ac4bd2a77d,family,Animalia,"",Euphyllidae
 b6fddb91-e510-4307-979a-3cbc73d6a880,family,Animalia,"",Faviidae
 9cb8e815-1653-431c-9a6f-88f548d511c6,family,Animalia,"",Agathiphylliidae
 4974f1b1-8c76-4da0-804e-76cb52d62f28,family,Animalia,"",Pectiniidae
@@ -2052,7 +2054,6 @@ b6257e28-9980-48cb-a910-77c12eb47b69,infraspecies,Plantae,"",Ludwigia glandulosa
 e36bb78c-0c56-402f-a9fa-4b94d9371d55,infraspecies,Plantae,"",Menziesia multiflora longicalyx
 27a64f78-79a7-4cae-a71d-bc27a58dd45d,species,Plantae,"",Pistacia vera
 9db7780e-da70-48a0-b9f7-2a0477561b53,species,Plantae,"",Philodendron hybridum
-9c721dd7-4b88-490d-838b-4e5f573d1d59,species,Plantae,"",Cyrtandra cumingii
 9b6f6d1c-a8a1-49d7-9b82-3db2d69ec0d7,species,Plantae,"",Dicliptera induta
 304e4550-4e58-4259-8eb4-d3a6813d4f25,species,Plantae,"",Parthenocissus semicordata
 f3cd11f9-98ca-49c3-949e-d00360230869,species,Plantae,"",Ludwigia polycarpa
@@ -2179,8 +2180,6 @@ a5935862-582d-4613-bb75-ced685072303,species,Animalia,"",Eclectus roratus
 e74e163c-ed0b-4267-ba67-6504901c45fa,species,Animalia,"",Geokichla dohertyi
 3c68165d-64e0-4bbc-abcb-a4efc5896034,species,Animalia,"",Geopelia cuneata
 3f3457bf-296d-4ce0-82cd-2dc112fa3b02,species,Animalia,"",Lamprotornis caudatus
-4807b51d-dcc1-46bb-b2ea-d8b9a66ae287,genus,Animalia,"",Leistes
-74b389a9-5768-485c-bf90-09a5ed774ad0,species,Animalia,"",Leistes superciliaris
 e8994324-2f7b-49c1-9c8e-43dd476d9033,genus,Animalia,"",Meleagris
 404f67b3-05ea-4bc3-91ef-0991c7689583,species,Animalia,"",Meleagris gallopavo
 49de3093-d632-4700-9366-83bc033be1fa,genus,Animalia,"",Myiopsitta
@@ -2199,8 +2198,6 @@ c8e63a90-eac2-4f16-844c-dfa66e8abeea,species,Animalia,"",Primolius auricollis
 6b954751-7b3e-43e8-a855-d3d098f01ffc,species,Animalia,"",Psittacula eupatria
 ffbfd34a-640d-485a-83d5-6da6cc031dad,genus,Animalia,"",Pyrrhocorax
 c9ee301c-8be3-4dde-8542-8aa54aae1742,species,Animalia,"",Pyrrhocorax pyrrhocorax
-87622eaf-9bfd-4ac1-a045-2f2d9561d411,genus,Animalia,"",Sicalis
-8b3d288a-1c6d-4a53-9793-1f3c28095b5d,species,Animalia,"",Sicalis columbiana
 54a5c8b3-778a-46e0-9b9c-7d36799b3c18,species,Animalia,"",Trichoglossus moluccanus
 df813c85-d964-4849-b506-d315679eb937,species,Animalia,"",Trichoglossus rubritorquis
 fb46b4e5-d2b4-43ba-a5db-f3cc22bf92b1,species,Animalia,"",Trochalopteron formosum

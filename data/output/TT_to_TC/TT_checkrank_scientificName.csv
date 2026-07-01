@@ -4,6 +4,7 @@ c1ca5281-fbc2-4a86-b9ca-b7174c013b56,order,Animalia,t0001914,Ibliformes,Iblomorp
 8134a025-b377-4d41-8da0-0f8c2448a247,family,Animalia,t0006090,Halonoproctidae	,Halonoproctidae,accepted
 95215eb9-7328-4aac-8d9e-ab38f6b496d2,family,Animalia,t0005928,Ereuniidae,Rhamphocottidae,accepted
 38202de0-af13-4a46-a50e-3c226e9fd48f,family,Animalia,t0004997,Ziphiidae,Hyperoodontidae,accepted
+9e136f9a-4948-4d37-b12b-36ac4bd2a77d,family,Animalia,t0005959,Euphyllidae,Euphylliidae,accepted
 f8b992b8-0ecd-412e-8a80-b287c00bbf64,family,Animalia,t0005563,Ceraphromnidae,Ceraphronidae,accepted
 cc013d70-4cb4-4a2c-b224-57476ce3a120,family,Animalia,t0004537,Pygotidae,Pyrgotidae,accepted
 c557d4b9-1fba-444b-a0a8-1a411de6c8e8,phylum,Fungi,t0000089,Zygomycota,Zoopagomycota,accepted
@@ -337,6 +338,7 @@ d5c65d0f-b72a-42d8-a942-0e9efddc97d7,species,Animalia,t0052337,Palionebris bacte
 51e5c171-4682-499f-ae59-c2ba93bb0d22,species,Animalia,t0049881,Atrophaneura horishanus,Atrophaneura horishana,accepted
 63bcf96c-0d15-4bc2-b69f-d24ebeaab394,species,Animalia,t0051186,Glyphipterix rekoae,Glyphipterix reikoae,accepted
 1f3f9d76-b7d5-4f35-b808-2c5c4f438aab,species,Animalia,t0050548,Dacrypohanes cyanastra,Dacryphanes cyanastra,accepted
+fc851ca1-0d8a-4212-a8d3-8bd9321eace2,species,Animalia,t0051294,Haplotinea subochraceella,Edosa subochraceella,accepted
 3ff05c47-c046-48e1-bee5-d786aec88eb1,species,Animalia,t0033527,Acia exsultans,Helionides exsultans,accepted
 0f748589-26a6-4fb4-80bd-4d9ad57c4d45,species,Animalia,t0028633,Bambusananus binotatus,Bambusananus lii,accepted
 965fd237-715c-4827-9ee5-1dd214ea2c14,species,Animalia,t0028634,Bicoloratum pingtungisis,Scaphoideus pingtungisis,accepted
@@ -351,11 +353,6 @@ bc5b7480-2e8a-42df-9e75-11ee2debfd42,species,Animalia,t0101911,Tettigella hoozan
 753d1a23-55e4-491d-ab17-e017e11c40bb,species,Animalia,t0047155,Tettigella pallidiola,Cicadella pallidiola,accepted
 655c0dc8-9d07-455b-abdc-028a00a12d33,species,Animalia,t0047156,Tettigella rubropunctata,Cicadella rubropunctata,accepted
 aa44d0ce-32e6-42b2-b4b4-b63248f2a0a8,species,Animalia,t0047157,Tettigella suisharyoensis,Cicadella suisharyoensis,accepted
-917d93eb-bf0d-409d-a695-2638e0dd5b74,species,Animalia,t0027070,Tettigonia hopponis,Anatkina hopponis,accepted
-fe22718c-e1c9-4a2c-9978-2b9eb908c56a,species,Animalia,t0027071,Tettigonia horishana,Anatkina horishana,accepted
-4ad2592f-600e-40c0-99cd-eaae17b31257,species,Animalia,t0027072,Tettigonia rinkihonis,Atkinsoniella rinkihonis,accepted
-7b260341-b280-4152-a749-c96c2ce1ff61,species,Animalia,t0027082,Tettigonia semiglauca,Kolla atramentaria,accepted
-3c66d8bf-d71f-4b5d-bb86-67b987af9517,species,Animalia,t0027078,Tettigonia subvirescens,Cofana subvirescens,accepted
 2e939325-a6cd-4a2a-becd-ee6cece2419b,species,Animalia,t0048305,Typhlocyba quadri,Typhlocyba quadriappendicula,accepted
 18ae7578-b95c-484a-94d1-89abd5607377,species,Animalia,t0028648,Zygina (Zygina) bisignatella,Empoascanara bisignatella,accepted
 da5a8bab-8e2d-40d7-a089-f568e10914ef,species,Animalia,t0072048,Apolygus fuhoshoensis,Apolygopsis fuhoshoensis,accepted
@@ -425,6 +422,9 @@ ef38ea03-ee02-4099-919f-2656fb32138d,species,Animalia,t0028210,Nacolus assamensi
 3e86ea50-bcd7-4973-a1cf-c5a0d7a28482,species,Animalia,t0036096,Platypleura kaempferi,Planopleura kaempferi,accepted
 9aa0f6f6-1bfa-4a9f-a415-16dd03b0fbad,species,Animalia,t0036097,Platypleura takasagona,Planopleura takasagona,accepted
 ef869254-4823-4e74-970d-784e3a9f3ac5,species,Animalia,t0099186,Epiclinata planata,Tituria planata,deleted
+d1c0ff02-adb1-4280-bddd-9bcacc9cd77d,species,Animalia,t0064370,Gelastyrella litaoensis,Thabena litaoensis,accepted
+cd7e938b-92ae-43d0-9e0c-9f52a4caf6fd,species,Animalia,t0032527,Ricania fumosa,Trigonrecava fumosa,accepted
+c4d8e432-544d-460a-86ca-615d29dab5b6,species,Animalia,t0037908,Ricania taeniata,Trigonrecava taeniata,accepted
 d784785a-ee47-4b59-86e1-d420279d1d94,species,Animalia,t0028638,Evacanthus formosanus,Onukiades formosanus,accepted
 894aadc7-15c2-49f6-b8fe-c8938bd2dba1,species,Animalia,t0028639,Onukia arisana,Paraonukia arisana,accepted
 d43e4e03-f8b0-4103-92ce-23841f9f46a9,species,Animalia,t0028640,Onukia flavifrons,Taperus flavifrons,accepted

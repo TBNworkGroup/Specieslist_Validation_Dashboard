@@ -12,7 +12,6 @@ t0000114,Phylum,Micrognathozoa,"",TRUE,FALSE,FALSE,學名重複,https://taicol.t
 t0000122,Phylum,Placozoa,"Grell, 1971",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000122
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000137
 t0000175,Subphylum,Anthozoa,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000175
-t0000191,Infraphylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000191
 t0000204,Superclass,Chondrichthyes,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000204
 t0000265,Class,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000265
 t0000466,Class,Anthozoa,"Ehrenberg, 1834",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0000466
@@ -47,7 +46,6 @@ t0002806,Genus,Limnophila,R.Br.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/
 t0002809,Genus,Scoparia,L.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002809
 t0002817,Genus,Lindernia,All.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002817
 t0002822,Genus,Thunbergia,Retz.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002822
-t0002878,Phylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002878
 t0002890,Class,Cestoda,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002890
 t0002891,Class,Chondrichthyes,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002891
 t0002914,Class,Euglenida,"",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0002914
@@ -319,12 +317,10 @@ t0125236,Subgenus,Duolandrevus,"Kirby, 1906",TRUE,TRUE,FALSE,學名重複,https:
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137
-t0000191,Infraphylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000191
 t0000204,Superclass,Chondrichthyes,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000204
 t0000265,Class,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000265
 t0000707,Infraclass,Cestoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000707
 t0001757,Order,Cetacea,"Brisson, 1762",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0001757
-t0002878,Phylum,Apicomplexa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002878
 t0002890,Class,Cestoda,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002890
 t0002891,Class,Chondrichthyes,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002891
 t0002920,Class,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0002920
