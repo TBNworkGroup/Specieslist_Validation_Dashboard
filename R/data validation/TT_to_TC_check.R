@@ -5,7 +5,7 @@ install.packages(usepackage[!(usepackage %in% installed.packages()[,1])])
 sapply(usepackage, library, character.only = TRUE)
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20260701"  # 舉例
+modified_date <- "20260702"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -74,6 +74,10 @@ TT_checkrank_taxon_id <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_sa
       "TT_kingdom"                 = "TC_kingdom"
     )
   )
+
+
+
+
 
 fwrite(TT_checkrank_taxon_id, "../../data/output/TT_to_TC/TT_checkrank_taxon_id.csv")
 # ------------------------------------------------------------------
@@ -248,29 +252,27 @@ TT_unknow <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_same$TT_taxonU
   .[!(.$TT_taxonUUID %in%  as.vector(TT_add_taxonid_multiple$TT_taxonUUID))]%>%
   .[!(.$TT_taxonUUID %in%  as.vector(TT_add_taxonid_miss$TT_taxonUUID))]
 
-TT_add_taxonid_unique <- fread("../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
-  filter(!taicol_taxon_id %in% "[]")
-
-
-
 
 data.table::fwrite(taicol_shape, "../../data/output/TT_to_TC/taicol_taxon_shape_summary.csv")
 data.table::fwrite(TT_add_taxonid_unique, "../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv")
 data.table::fwrite(TT_add_taxonid_multiple, "../../data/output/TT_to_TC/TT_add_taxonid_multiple_hit.csv")
-data.table::fwrite(TT_add_taxonid_miss, "../../data/output/TT_to_TC/TT_add_taxonid_miss.csv")
+#data.table::fwrite(TT_add_taxonid_miss, "../../data/output/TT_to_TC/TT_add_taxonid_miss.csv")
 
-fwrite(TT_unknow, "../../data/output/TT_to_TC/TT_unknow.csv")
+#fwrite(TT_unknow, "../../data/output/TT_to_TC/TT_unknow.csv")
 
 
+
+# ------------------------------------------------------------------
 TT_add_taxonid_unique <- fread("../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
   filter(taicol_taxon_id %in% "[]") %>% 
   select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName)
 
 TT_add_taxonid_multiple <- fread("../../data/output/TT_to_TC/TT_add_taxonid_multiple_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+  filter(taicol_taxon_id %in% "[]") %>%
   select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName) %>% 
   unique()
 
-TT_add_taxonid_miss <- fread("../../data/output/TT_to_TC/TT_add_taxonid_miss.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+TT_add_taxonid_miss <- TT_add_taxonid_miss %>% 
   select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName)
 
 TT_add_taxonid_final <- rbind(TT_add_taxonid_multiple, TT_add_taxonid_unique, TT_add_taxonid_miss)
