@@ -200,7 +200,7 @@ c774c810-b675-4f8b-ac6c-d2aa5a50b5a5,genus,Plantae,"",Emblica,t0095861,accepted
 6b3104df-95d1-40b6-a50a-3061b81d7148,genus,Plantae,"",Corymbia,t0025620,accepted
 5f07bb2d-89f3-4ac9-96f7-21ea52e8df2f,genus,Plantae,"",Calyptranthes,t0091928,accepted
 865c3edd-5ec4-4c2e-9aa8-849609025331,genus,Plantae,"",Myrtus,t0095665,accepted
-bba9a505-2921-41ed-8cc3-19e4be21f8b0,genus,Plantae,"",Pachycentria,t0095745,accepted
+bba9a505-2921-41ed-8cc3-19e4be21f8b0,genus,Plantae,"",Pachycentria,t0095745,deleted
 ab7a8280-bcfb-4f3a-a954-f35be637c39a,genus,Plantae,"",Leandra,t0094581,accepted
 17c94769-6b6e-49a8-9d9e-91a044cbf349,genus,Plantae,"",Rhexia,t0095513,accepted
 070d5ba7-0a93-46ee-9f41-89b686f31f32,genus,Plantae,"",Euscaphis,t0023827,accepted
@@ -1954,6 +1954,7 @@ b66f7a21-d651-45dd-8413-9a00271fa9f0,species,Plantae,"",Cimicifuga simplex,t0102
 ca2d8f9b-cd7f-42c7-9cff-c024aabcf2d0,species,Plantae,"",Clematis akoensis,t0053043,accepted
 cbc6589d-ce91-4567-82ee-3b857935d0f9,species,Plantae,"",Clematis chinensis,t0073293,accepted
 d721231f-ff1d-4835-a385-9903f859168d,species,Plantae,"",Clematis crassifolia,t0053044,accepted
+57880e1b-46c2-4427-b4c8-00e866f0ee03,species,Plantae,"",Clematis formosana,t0053045,accepted
 2b553cfd-7d46-489e-8547-4c0cc0907dd0,species,Plantae,"",Clematis gouriana,t0100757,accepted
 6d965d5a-9269-4121-9c91-d61a0dda1822,species,Plantae,"",Clematis henryi,t0053047,accepted
 509851c1-97b2-46b4-96da-f4a8a4e24380,species,Plantae,"",Clematis leschenaultiana,t0053049,accepted

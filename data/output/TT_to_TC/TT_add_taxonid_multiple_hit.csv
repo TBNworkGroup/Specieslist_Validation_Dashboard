@@ -20,6 +20,7 @@ c8d80afe-ff72-460d-a4ef-133fe87fbc72,genus,Plantae,"",Cyclodium,1,[],
 b87f882d-4789-4cb4-9fce-601ce42e8716,genus,Plantae,"",Phymatopteris,1,[],
 ff709517-7741-4881-948c-c69327f2faf6,genus,Plantae,"",Dendroconche,1,[],
 fa993e57-2274-4721-89b7-005d46999c07,genus,Plantae,"",Kaulinia,1,[],
+a28427f4-92af-4c95-b005-2140e8ee1763,genus,Plantae,"",Serpocaulon,1,[],
 87600c3e-218c-4465-9381-0bb9c1f54fe5,genus,Plantae,"",Gnetum,1,[],
 08bd844f-f5b2-46b6-be44-46f299594cdd,genus,Plantae,"",Phyllocladus,1,[],
 3d939812-53ce-4ee1-bb65-8be15bbc4d31,genus,Plantae,"",Anaxagorea,1,[],
@@ -55,6 +56,7 @@ ea2c9d89-5a1a-4324-8f1b-0c83040db1f9,genus,Plantae,"",Secamone,1,[],
 bd3a8c48-a43e-4056-bfb1-bf73c47c0e4e,genus,Plantae,"",Forsythia,1,[],
 606803ef-282b-4c13-8602-714e0dc24e9c,genus,Plantae,"",Thymus,1,[],
 e486773b-f59e-4939-942d-ce1bed220c29,genus,Plantae,"",Antennaria,1,[],
+81ecaccd-ae55-467e-bdf7-ddc2b17f192b,genus,Plantae,"",Packera,1,[],
 0ced4b9a-b4e8-4176-a72c-3e1d399163f1,genus,Plantae,"",Synurus,1,[],
 4246d3a0-24e5-4487-a0e4-ffc5cec0b8f7,genus,Plantae,"",Weigela,1,[],
 00050737-6553-4180-b540-3612d9afe252,genus,Plantae,"",Schizocodon,1,[],
@@ -172,6 +174,7 @@ bca3eef1-b604-44d8-af07-4d814f7a2485,species,Plantae,"",Paspalum commersonii,1,t
 bca3eef1-b604-44d8-af07-4d814f7a2485,species,Plantae,"",Paspalum commersonii,1,t0058700,misapplied
 80cdacd0-c306-42b4-855b-2b91703c85ad,species,Plantae,"",Dichanthelium sphaerocarpon,1,[],
 ac6d6cc4-bde8-432c-9feb-1c3f6a669e90,species,Plantae,"",Clematis japonica,1,[],
+ac6d6cc4-bde8-432c-9feb-1c3f6a669e90,species,Plantae,"",Clematis japonica,2,[],
 da23fd8e-8eb6-4799-86a6-be364d24eb37,species,Plantae,"",Kalanchoe ceratophylla,1,[],
 7e7cc419-f730-47cb-b079-b264d49f2c7d,species,Plantae,"",Sedum uniflorum,1,t0105489,not-accepted
 7e7cc419-f730-47cb-b079-b264d49f2c7d,species,Plantae,"",Sedum uniflorum,1,t0055303,misapplied
@@ -283,7 +286,6 @@ bd045ed4-c065-4e94-bd41-a603afb2acd6,infraspecies,Plantae,"",Athyrium oppositipi
 15c43675-dc4a-4c63-96e0-e3ee0f12909b,infraspecies,Plantae,"",Pinus massoniana massoniana,1,[],
 3cdaeaf0-c671-4edc-89b9-94aca3b0ab74,infraspecies,Plantae,"",Keteleeria davidiana formosana,1,t0058106,accepted
 3cdaeaf0-c671-4edc-89b9-94aca3b0ab74,infraspecies,Plantae,"",Keteleeria davidiana formosana,2,,
-fee54b55-a616-40b0-a320-10a2d2db81ec,infraspecies,Plantae,"",Litsea cubeba formosana,1,[],
 3c8d3dad-40c3-45bc-a27b-ca50186c6812,infraspecies,Plantae,"",Machilus obovatifolius taiwuensis,1,[],
 93422774-6a89-4c83-baf1-ce88f5ecac68,infraspecies,Plantae,"",Smilax bracteata verruculosa,1,t0055375,not-accepted
 93422774-6a89-4c83-baf1-ce88f5ecac68,infraspecies,Plantae,"",Smilax bracteata verruculosa,2,t0055375,accepted

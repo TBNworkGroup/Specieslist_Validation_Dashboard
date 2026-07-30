@@ -291,7 +291,6 @@ c5c5284f-7f94-4d68-82c0-c79ad8b1a027,species,Plantae,"",Saccharum sinense,1,t005
 3261bb47-f6fa-4384-97d9-d2b8ff534aa4,species,Plantae,"",Dinebra arabica,1,t0053396,not-accepted
 5170c387-aed7-4956-9cef-c00839b02c08,infraspecies,Plantae,"",Akebia trifoliata australis,1,t0033671,accepted
 37d75d37-d20f-43ac-b07d-8cd60a0130a5,species,Plantae,"",Cocculus sarmentosus,1,t0073343,not-accepted
-57880e1b-46c2-4427-b4c8-00e866f0ee03,species,Plantae,"",Clematis formosana,1,t0053045,accepted
 e04d9eee-abc0-4415-9c06-19c74e4caa1c,species,Plantae,"",Clematis austro-taiwanensis,1,t0053055,not-accepted
 c7b460d4-deac-4f9f-b957-9b9acf279bf2,species,Plantae,"",Coptis morii,1,t0053110,not-accepted
 2600824c-544e-426f-95c3-5ff9a24788b1,species,Plantae,"",Thalictrum urbainii,1,t0055585,not-accepted
@@ -599,6 +598,7 @@ c2f0cf3f-0fac-441b-8b90-06af4a4ae3f1,infraspecies,Plantae,"",Myristica elliptica
 fc731f17-1a55-4f81-9770-6916ec4173b8,infraspecies,Plantae,"",Litsea akoensis akoensis,1,t0086887,accepted
 bd59e769-6e3b-41ad-aa23-32e338be6230,infraspecies,Plantae,"",Litsea akoensis chitouchiaoensis,1,t0087381,accepted
 f4c05dc1-53f6-4961-89b3-4264c885172e,infraspecies,Plantae,"",Litsea akoensis sasakii,1,t0058465,accepted
+fee54b55-a616-40b0-a320-10a2d2db81ec,infraspecies,Plantae,"",Litsea cubeba formosana,1,t0125465,accepted
 978ff2a0-bf35-4c94-960a-e2c7e68a63d6,infraspecies,Plantae,"",Litsea elongata mushaensis,1,t0058466,accepted
 630a7375-e9d3-48a6-b119-d83c45304b0d,infraspecies,Plantae,"",Neolitsea aciculata variabillima,1,t0058618,accepted
 492cec6a-5d8d-4f5e-bc06-ab51e9b311a6,infraspecies,Plantae,"",Persea americana drymifolia,1,t0054753,not-accepted
