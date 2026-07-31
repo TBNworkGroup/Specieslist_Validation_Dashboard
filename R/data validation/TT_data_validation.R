@@ -743,10 +743,3 @@ for (i in 1:nrow(df_speciesinfraspecies_attribute_mismatch)) {
 df_speciesinfraspecies_attribute_mismatch$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_speciesinfraspecies_attribute_mismatch$taxonUUID)
 fwrite(df_speciesinfraspecies_attribute_mismatch, "../../data/output/TT_speciesinfraspecies_attribute_mismatch.csv")
 
-
-output <- TT_checkrank_taxon_id %>% 
-  filter(
-    TT_kingdom %in% "Animalia",
-    TT_taiCOLNameCode ==""
-  )
-fwrite(output, "../../data/output/output_An.csv")
