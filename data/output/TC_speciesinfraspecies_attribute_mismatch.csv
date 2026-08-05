@@ -1155,10 +1155,10 @@ t0057536,Subspecies,t0099758,Accipiter nisus nisosimilis,native,TRUE,II,"","",""
 t0099758,Species,t0009301,Accipiter nisus,native,TRUE,II,"",LC,"",t0099758,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099758
 t0057537,Subspecies,t0099759,Accipiter trivirgatus formosae,native,TRUE,II,NLC,"","",t0099759,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0057537
 t0085162,Subspecies,t0099759,Accipiter trivirgatus indicus,native,TRUE,II,NLC,"","",t0099759,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085162
-t0099759,Species,t0009301,Accipiter trivirgatus,native,TRUE,II,NLC,LC,"",t0099759,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099759
+t0099759,Species,t0009301,Accipiter trivirgatus,native,TRUE,II,NLC,LC,輕度,t0099759,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099759
 t0057538,Subspecies,t0099760,Accipiter virgatus fuscipectus,native,TRUE,II,NLC,"","",t0099760,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0057538
 t0085163,Subspecies,t0099760,Accipiter virgatus affinis,native,TRUE,II,NLC,"","",t0099760,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0085163
-t0099760,Species,t0009301,Accipiter virgatus,native,TRUE,II,NLC,LC,"",t0099760,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099760
+t0099760,Species,t0009301,Accipiter virgatus,native,TRUE,II,NLC,LC,輕度,t0099760,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0099760
 t0085170,Subspecies,t0099779,Acridotheres cristatellus cristatellus,native,TRUE,II,NLC,"","",t0099779,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0085170
 t0085171,Subspecies,t0099779,Acridotheres cristatellus formosanus,native,TRUE,II,NNT,"","",t0099779,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0085171
 t0099779,Species,t0009371,Acridotheres cristatellus,native,TRUE,II,NLC,LC,輕度,t0099779,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0099779

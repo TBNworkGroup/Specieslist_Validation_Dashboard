@@ -34,10 +34,43 @@ df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_dat
 # df_TCsplist <- rbind(df_TCsplist, df_TCsplist_notintaiwan)
 # 
 
+df_TT_select <- df_TTsplist %>%
+  select(
+    taxonUUID, taiCOLNameCode, taxonRank, kingdom, simplifiedScientificName, 
+  )
+
+
+TT_add_namecode <- df_TC_select[!(taxon_id %in% as.vector(df_TTsplist$taiCOLNameCode))]
+
+
+df_TT_withouttcnamecode <- df_TT_select %>%
+  filter(
+    taiCOLNameCode == ""
+  )
+
+
+df_TT_withouttcnamecode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_withouttcnamecode$taxonUUID)
+
+fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC/TT_withouttcnamecode.csv")
+
+
 
 df_TT_select <- df_TTsplist %>%
   select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, simplifiedScientificName) %>% 
   setnames(., c("taxonUUID", "taxonRank", "kingdom", "taiCOLNameCode", "simplifiedScientificName"), c("TT_taxonUUID", "TT_taxonRank", "TT_kingdom", "TT_taiCOLNameCode", "TT_simplifiedScientificName"))
+
+
+df_TT_withouttcnamecode <- df_TT_select %>%
+  filter(
+    TT_taiCOLNameCode == ""& TT_kingdom %in% "Animalia"
+  )
+
+
+df_TT_withouttcnamecode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_withouttcnamecode$TT_taxonUUID)
+
+fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC/TT_withouttcnamecode.csv")
+
+
 
 df_TC_select <- df_TCsplist %>% 
   select(taxon_id, rank, kingdom, simple_name, taxon_status)%>%

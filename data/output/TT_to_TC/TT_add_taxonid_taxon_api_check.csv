@@ -1,2 +1,31 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,taxon_id,taxon_status,simple_name,rank,kingdom
+a397ba47-c0ba-4732-911f-2cf58b7ba5db,family,Plantae,"",Ephedraceae,t0129524,accepted,Ephedraceae,Family,Plantae
+5a3d4217-6533-43f2-ade5-3062e995b2b8,family,Plantae,"",Erythroxylaceae,t0129680,accepted,Erythroxylaceae,Family,Plantae
+b0a17463-329a-4eb2-9a5e-ebee662cd6d1,family,Plantae,"",Gisekiaceae,t0130061,accepted,Gisekiaceae,Family,Plantae
+5b1cc231-235f-4ad4-8f6b-04b8fbfaea2a,family,Plantae,"",Escalloniaceae,t0129693,accepted,Escalloniaceae,Family,Plantae
+5b1978c6-88b3-431c-9c35-cc4fe41bbc44,genus,Plantae,"",Eupodium,t0129738,accepted,Eupodium,Genus,Plantae
+4436a40b-2a4e-42a2-b4c6-4c7c8b71efb7,genus,Plantae,"",Dracoglossum,t0129260,accepted,Dracoglossum,Genus,Plantae
+45e94534-c04f-4269-b302-8feed75912ea,genus,Plantae,"",Enterosora,t0129493,accepted,Enterosora,Genus,Plantae
+5ec6da35-c58a-4d61-b7ea-2b81a6fb743b,genus,Plantae,"",Ephedra,t0129516,accepted,Ephedra,Genus,Plantae
+224d0e5c-3e98-4a86-8fa0-a7c620d3f869,genus,Plantae,"",Diselma,t0129189,accepted,Diselma,Genus,Plantae
+00ac8003-640e-4565-8653-db16b8487fa4,genus,Plantae,"",Fitzroya,t0129855,accepted,Fitzroya,Genus,Plantae
+4b865160-aca9-4ac1-9cfa-db551861ea63,genus,Plantae,"",Enhalus,t0129482,accepted,Enhalus,Genus,Plantae
+97da6ab4-34a4-439b-b049-f0c3fc87c7a8,genus,Plantae,"",Fritillaria,t0129913,accepted,Fritillaria,Genus,Plantae
+a7b900e0-36f4-4641-9522-c5c31564d93c,genus,Plantae,"",Eriophorum,t0129638,accepted,Eriophorum,Genus,Plantae
+dd58ecdc-dc33-424a-8222-b53941354363,genus,Plantae,"",Glycyrrhiza,t0130098,accepted,Glycyrrhiza,Genus,Plantae
+2c35b870-c10b-4f69-b7af-878ea2008531,genus,Plantae,"",Exochorda,t0129779,accepted,Exochorda,Genus,Plantae
+fee7bd00-fb26-4f6e-b5a0-9d04eaf83464,genus,Plantae,"",Dorstenia,t0129244,accepted,Dorstenia,Genus,Plantae
+2a9e7c3b-ac71-4ccb-b284-f2b74d9c8ffc,genus,Plantae,"",Galphimia,t0129973,accepted,Galphimia,Genus,Plantae
+c36dc7fe-9128-40ee-a09f-6a70e28b79c7,genus,Plantae,"",Erysimum,t0129660,accepted,Erysimum,Genus,Plantae
+0166500a-88a6-432d-9007-0ff8c996c9ad,genus,Plantae,"",Eriogonum,t0129626,accepted,Eriogonum,Genus,Plantae
+b46a683e-3354-4eb4-b7c8-7ad1be0772c7,genus,Plantae,"",Erica,t0129574,accepted,Erica,Genus,Plantae
+d14c3e96-1e9d-46db-81d2-f7d992b67836,genus,Plantae,"",Dyschoriste,t0129339,accepted,Dyschoriste,Genus,Plantae
+dc51244a-4879-406a-9f48-b64e5ccaabaf,genus,Plantae,"",Elytraria,t0129449,accepted,Elytraria,Genus,Plantae
+8d8c7699-3851-47fe-9ff4-74013bb5da94,genus,Plantae,"",Glandularia,t0130063,accepted,Glandularia,Genus,Plantae
+c2a95241-27dc-48a8-ae73-d0f6ea8a49d2,genus,Plantae,"",Ericameria,t0129578,accepted,Ericameria,Genus,Plantae
+a3404235-1653-46e6-a984-5794bf683129,genus,Plantae,"",Eriophyllum,t0129641,accepted,Eriophyllum,Genus,Plantae
+c62148e1-44bc-41ff-9130-0ab52feecb61,genus,Plantae,"",Euthamia,t0129758,accepted,Euthamia,Genus,Plantae
+d86e744f-3d5a-4ade-9cf3-38192cfd4d7d,species,Plantae,"",Gaultheria leucocarpa,t0130004,accepted,Gaultheria leucocarpa,Species,Plantae
+5a6ee21f-202a-49d2-b621-52cf4da1108b,infraspecies,Plantae,"",Fritillaria verticillata thunbergii,t0129916,accepted,Fritillaria thunbergii,Species,Plantae
+bde26f46-baf0-41f6-9b77-ddca0b76abfc,species,Plantae,"",Grimmia longirostris,t0130180,accepted,Grimmia longirostris,Species,Plantae
 40a5d30b-a485-44ec-b111-63f019f4d3f7,species,Plantae,"",Maianthemum japonicum,t0055359,deleted,Smilacina japonica,Species,Plantae

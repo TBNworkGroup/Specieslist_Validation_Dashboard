@@ -5,7 +5,7 @@ install.packages(usepackage[!(usepackage %in% installed.packages()[,1])])
 sapply(usepackage, library, character.only = TRUE)
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20260702"  # 舉例
+modified_date <- "20260729"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)%>%
@@ -14,10 +14,34 @@ df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_dat
   )
 
 
+df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)%>%
+  filter(
+    kingdom %in% "Animalia"& taxon_status%in%"accepted"
+  )
+
+df_TT_select <- df_TTsplist %>%
+  select(
+    taxonUUID, taiCOLNameCode, taxonRank, kingdom, simplifiedScientificName, 
+  )
 
 
+df_TC_select <- df_TCsplist %>%
+  select(
+    taxon_id, rank,
+    simple_name, kingdom
+  )
+TT_add_namecode <- df_TC_select[!(taxon_id %in% as.vector(df_TTsplist$taiCOLNameCode))]
 
 
+df_TT_withouttcnamecode <- df_TT_select %>%
+  filter(
+    taiCOLNameCode == ""
+  )
+
+
+df_TT_withouttcnamecode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_withouttcnamecode$taxonUUID)
+
+fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC/TT_withouttcnamecode.csv")
 # ------------------------------------------------------------------
 # Part A: 重複學名比對（重複的 simplifiedScientificName）
 # ------------------------------------------------------------------

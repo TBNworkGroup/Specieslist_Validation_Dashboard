@@ -274,6 +274,7 @@ bbdbe369-019a-472d-b2f7-d7af869e49f9,genus,613a79a8-1e32-4194-a487-6a46ddf72a3d,
 d7f255c4-e0b0-47ed-92d1-bdd324b75a83,genus,2578c6fe-baf3-4d08-a010-d0f72d5bd930,Orthriophis,Animalia,Reptilia,23,https://taxatree.tbn.org.tw/taxa/d7f255c4-e0b0-47ed-92d1-bdd324b75a83
 c1fba892-9465-4b5c-8f4d-19b7ff406a91,genus,21f8924e-c0b9-4610-be49-26dcb6c74c63,Ramphotyphlops,Animalia,Reptilia,0,https://taxatree.tbn.org.tw/taxa/c1fba892-9465-4b5c-8f4d-19b7ff406a91
 063dafa6-71b8-49c3-89ac-7358fd695595,genus,ee964dcc-2f2f-40a5-9255-3ea96968d1f9,Manta,Animalia,Chondrichthyes,0,https://taxatree.tbn.org.tw/taxa/063dafa6-71b8-49c3-89ac-7358fd695595
+5ba82f2b-c606-40e3-ae77-03dbdc172cb3,genus,29f28f99-7329-4b93-a105-5c745d16c064,Eptesicus,Animalia,Mammalia,2,https://taxatree.tbn.org.tw/taxa/5ba82f2b-c606-40e3-ae77-03dbdc172cb3
 7737e46b-856a-48dc-8124-76b935f46e85,genus,e7d2f286-e7f1-49f7-a1b2-99f7c40a3a45,Pseudoamolops,Animalia,Amphibia,1,https://taxatree.tbn.org.tw/taxa/7737e46b-856a-48dc-8124-76b935f46e85
 ad249698-6162-4ec1-8ee5-991a62a47af0,genus,62974fac-d38a-4a49-b8b5-25086a78adea,Bathytormus,Animalia,Bivalvia,1,https://taxatree.tbn.org.tw/taxa/ad249698-6162-4ec1-8ee5-991a62a47af0
 ee16f6ad-7bf2-4219-86fa-7ff9192e5f69,genus,5a8d02db-34a8-40af-a80e-160034ef846d,Potiarca,Animalia,Bivalvia,0,https://taxatree.tbn.org.tw/taxa/ee16f6ad-7bf2-4219-86fa-7ff9192e5f69
@@ -291,7 +292,6 @@ a080a9e9-c17b-4d57-8fc7-d419e0fd6de9,genus,3c587331-c530-4440-8529-e8fdea503c42,
 149ccc24-97d7-4b84-9694-1ffc055a14de,genus,8642349f-1d07-4257-a5ba-a7d4c82400c8,Liotina,Animalia,Gastropoda,1,https://taxatree.tbn.org.tw/taxa/149ccc24-97d7-4b84-9694-1ffc055a14de
 f7babfd0-fa79-4d92-941f-ad1d598ac828,genus,46397751-1043-47ed-b195-c69cf61dbcea,Scolymia,Animalia,Hexacorallia,1,https://taxatree.tbn.org.tw/taxa/f7babfd0-fa79-4d92-941f-ad1d598ac828
 aa4db525-a5f4-4988-8515-1aaa73abd4d6,genus,46397751-1043-47ed-b195-c69cf61dbcea,Symphyllia,Animalia,Hexacorallia,0,https://taxatree.tbn.org.tw/taxa/aa4db525-a5f4-4988-8515-1aaa73abd4d6
-b82514b7-c546-4bb9-9355-6311fd668c99,genus,36667b9f-807e-4803-9866-e638c15cf207,Leptoseris,Animalia,Hexacorallia,0,https://taxatree.tbn.org.tw/taxa/b82514b7-c546-4bb9-9355-6311fd668c99
 1f298ccc-c52b-442d-8a6f-936b47b096b0,genus,be88ba59-a8c6-44d8-8397-29f45185e24e,Berbyce,Animalia,Octocorallia,0,https://taxatree.tbn.org.tw/taxa/1f298ccc-c52b-442d-8a6f-936b47b096b0
 ca178e30-5786-4a07-aa6d-265cd577907a,genus,e3cd69ac-e803-4286-8ee8-1c6eb5b5fde2,Alcyonium,Animalia,Octocorallia,0,https://taxatree.tbn.org.tw/taxa/ca178e30-5786-4a07-aa6d-265cd577907a
 87944f9b-2911-45fb-874e-5cec688bfe6f,genus,edacd0d9-0353-482c-8a4e-c4982730de6f,Cavernularia,Animalia,Octocorallia,10,https://taxatree.tbn.org.tw/taxa/87944f9b-2911-45fb-874e-5cec688bfe6f
@@ -412,7 +412,6 @@ cce83dd2-c171-45c8-a0e3-ef92f5ab23e0,genus,63e7e423-5ec0-4e95-af80-f47f87a6096f,
 759c2caf-ae9a-4df0-b06c-ba6844d2b61e,genus,8a26c205-4aff-4b3e-888c-2b06a7205df6,Chilasa,Animalia,Insecta,10,https://taxatree.tbn.org.tw/taxa/759c2caf-ae9a-4df0-b06c-ba6844d2b61e
 6ed2e8d0-8b05-42ec-a44e-a87a019245e6,genus,8a26c205-4aff-4b3e-888c-2b06a7205df6,Pazala,Animalia,Insecta,46,https://taxatree.tbn.org.tw/taxa/6ed2e8d0-8b05-42ec-a44e-a87a019245e6
 9cce21a9-354f-49e2-9780-5c4f8e7da8dd,genus,fd81aa93-b308-4c4f-b868-b12dc4b656d0,Neoblastobasis,Animalia,Insecta,2,https://taxatree.tbn.org.tw/taxa/9cce21a9-354f-49e2-9780-5c4f8e7da8dd
-ce3a1763-c978-4c59-9982-7c79f403a2e9,genus,29258d69-cbc8-4f66-8426-2c8ee350740f,Dacrypohanes,Animalia,Insecta,3,https://taxatree.tbn.org.tw/taxa/ce3a1763-c978-4c59-9982-7c79f403a2e9
 c95cbb1b-a790-449d-b7f9-5f18f87045e2,genus,29258d69-cbc8-4f66-8426-2c8ee350740f,Spatularia,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/c95cbb1b-a790-449d-b7f9-5f18f87045e2
 9a842553-029f-4320-b934-5dd7943673a0,genus,0f0ae753-c82b-43ee-a961-c6a802a4cb65,Chimaerosphecia,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/9a842553-029f-4320-b934-5dd7943673a0
 50038a86-b3ca-453a-9574-9c950b30574a,genus,0f0ae753-c82b-43ee-a961-c6a802a4cb65,Oligophlebiella,Animalia,Insecta,6,https://taxatree.tbn.org.tw/taxa/50038a86-b3ca-453a-9574-9c950b30574a
@@ -420,7 +419,6 @@ bc4f859c-af3d-4c62-a60c-8c24dcbe6d7c,genus,0f0ae753-c82b-43ee-a961-c6a802a4cb65,
 0dd8b4c3-8e8a-4a04-bcf0-3666e989cf2d,genus,a8a67989-0d4c-4e23-950b-e866ca26e3ec,Squamura,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/0dd8b4c3-8e8a-4a04-bcf0-3666e989cf2d
 fa240400-c653-43e6-bec6-dc3a95e86e5c,genus,c3080b68-aa50-4661-939b-68e1725d3a4e,Namatopogon,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/fa240400-c653-43e6-bec6-dc3a95e86e5c
 b76369fd-67eb-4193-af39-ba7f8099351a,genus,b1f2b5ed-f9f9-4a19-b836-f40f14911f6f,Tettigonia,Animalia,Insecta,13,https://taxatree.tbn.org.tw/taxa/b76369fd-67eb-4193-af39-ba7f8099351a
-0efec1a2-cbae-4ebc-95d8-ddf9346083ec,genus,2509b932-5708-401c-8ff1-abb7992a9f53,Eurystylomorpha,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/0efec1a2-cbae-4ebc-95d8-ddf9346083ec
 5d4939ef-f378-4811-8793-c5bc47fb2520,genus,4174feee-8ec5-48d8-b497-b86726b78be2,Epotiocerus,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/5d4939ef-f378-4811-8793-c5bc47fb2520
 fb60dbe2-a974-4e52-948c-f0a08c12ed12,genus,b239b895-85df-4a75-97a9-ff51f56ad6ce,Benna,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/fb60dbe2-a974-4e52-948c-f0a08c12ed12
 2c5af29d-b79d-4598-a1e9-e1dc17884ce1,genus,4389a34e-f5aa-417a-a00d-8641996fa5cf,Poeciloptera,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/2c5af29d-b79d-4598-a1e9-e1dc17884ce1
@@ -440,7 +438,6 @@ d55c3d74-0fe7-46d8-95bd-5c662e2f2ea4,genus,b7226c1d-2ff6-4bdf-83fb-6e13956802c7,
 a706b5cf-a693-4179-8a0f-c7c759d192b7,genus,9dc21538-68da-4c7d-93a3-be127ff02b73,Phoriniophylax,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/a706b5cf-a693-4179-8a0f-c7c759d192b7
 5b7319d8-f1ea-47b4-a071-3467d7606fc9,genus,9dc21538-68da-4c7d-93a3-be127ff02b73,Zenillinan,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/5b7319d8-f1ea-47b4-a071-3467d7606fc9
 8e989982-6128-4aad-b83a-9675b8abb4b7,genus,1ec10ff8-58d7-4f5f-b626-7c00cf611a30,Atissa,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/8e989982-6128-4aad-b83a-9675b8abb4b7
-32e53a22-679b-4e71-a24c-a26d720dfe88,genus,ddb9016c-7499-4cd9-919e-6b436529c410,Morellia,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/32e53a22-679b-4e71-a24c-a26d720dfe88
 324659c3-18ac-466d-a4c8-ed9d1f31bf80,genus,ddb9016c-7499-4cd9-919e-6b436529c410,Phania,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/324659c3-18ac-466d-a4c8-ed9d1f31bf80
 a5aa7238-9164-449d-a7aa-9fe1f8b7ac6a,genus,8c6e7384-7df6-4632-92ae-d01241027723,Hylimya,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/a5aa7238-9164-449d-a7aa-9fe1f8b7ac6a
 1911c009-05aa-410f-91da-d0690a866181,genus,602104c2-5779-45db-8532-579075e8f731,Hiroshia,Animalia,Insecta,0,https://taxatree.tbn.org.tw/taxa/1911c009-05aa-410f-91da-d0690a866181
