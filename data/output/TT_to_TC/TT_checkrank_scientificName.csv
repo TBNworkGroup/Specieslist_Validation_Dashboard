@@ -7,10 +7,6 @@ c1ca5281-fbc2-4a86-b9ca-b7174c013b56,order,Animalia,t0001914,Ibliformes,Iblomorp
 9e136f9a-4948-4d37-b12b-36ac4bd2a77d,family,Animalia,t0005959,Euphyllidae,Euphylliidae,accepted
 f8b992b8-0ecd-412e-8a80-b287c00bbf64,family,Animalia,t0005563,Ceraphromnidae,Ceraphronidae,accepted
 cc013d70-4cb4-4a2c-b224-57476ce3a120,family,Animalia,t0004537,Pygotidae,Pyrgotidae,accepted
-d419e737-9e98-443d-877f-f3d5e09b9cf3,subclass,Plantae,t0000562,Psilotidae,Ophioglossidae,accepted
-dc2848e6-48dd-47c5-a543-0e5325c6cf8a,family,Plantae,t0002323,Taccaceae,Dioscoreaceae,accepted
-4591e472-9f58-42c4-ba74-609157e53218,family,Fungi,t0003454,Ganodermataceae,Polyporaceae,accepted
-120c9e41-dfbf-4d38-85c0-7dd92b0cc2e4,genus,Fungi,t0008245,Physopella,Physoderma,accepted
 1f990f65-b360-43c9-ab2c-2e7ec9b1917d,genus,Animalia,t0012329,Cosell,Cosella,accepted
 75f0abd1-97b6-4543-a45b-ab224bb92c2d,genus,Animalia,t0014613,Phthacarus,Phthiracarus,accepted
 2e733415-0075-49ea-b5b1-1203b3d59efd,genus,Animalia,t0021530,Lariniaria,Larinia,accepted
@@ -37,40 +33,7 @@ d0e5d24d-1e18-45b0-90e9-6cc44cb2ed95,genus,Animalia,t0021822,Limnophlia,Limnophi
 20f10778-cd2c-46d9-b6d0-9003539c4ba3,genus,Animalia,t0016902,Stronglyophthalmyia,Strongylophthalmyia,accepted
 d760d979-4934-4979-a276-1df08f19aa5c,genus,Animalia,t0014786,Planaeschna,Aeschnophlebia,accepted
 a738f507-f451-4766-a343-e80e7c1a28f5,genus,Animalia,t0014983,Polycanthagyna,Indaeschna,accepted
-c3e6a6bd-29f0-476d-ac8c-9bc111cfa4e6,genus,Plantae,t0009032,Leptolepia,Dennstaedtia,accepted
-a22b4dfa-1623-4a3d-bc6b-3d10b8bb9c2a,genus,Plantae,t0009032,Oenotrichia,Dennstaedtia,accepted
-7992c968-a649-442d-90ca-a88e4aba5758,genus,Plantae,t0023077,Acanthephippium,Acanthophippium,accepted
-d6f16a2f-ccee-4f77-9148-ae151d07ab56,genus,Plantae,t0025573,× Brassocattleya,Brassavola × Cattleya,accepted
-66b33dc5-298d-4d97-a906-dfdf9c532ca9,genus,Plantae,t0002523,Campylandra,Rohdea,accepted
-d930584e-9040-4e5a-a6e8-2ba337312737,genus,Plantae,t0002629,Synostemon,Breynia,accepted
-1dacdd11-b3b5-477d-a888-221f94f2ce3f,genus,Plantae,t0002687,Cardiandra,Hydrangea,accepted
-6f1a6779-6e1e-4d01-ae0b-4cf09f4a59c6,genus,Plantae,t0002687,Pileostegia,Hydrangea,accepted
-983644c4-941f-4c3b-be84-7df623ea80c9,genus,Plantae,t0002687,Schizophragma,Hydrangea,accepted
-f6861ff4-e330-4b5a-88ee-8c41fcd68377,genus,Plantae,t0002688,Benthamidia,Cornus,accepted
-4e1684d6-43f7-403f-a704-3112173a774b,genus,Plantae,t0002696,Glaux,Lysimachia,accepted
-a619041e-da1e-4666-8c74-e5829bd8bbff,genus,Plantae,t0002696,Trientalis,Lysimachia,accepted
-6f10ae9a-570e-4505-b4cb-b3c09922c5eb,genus,Plantae,t0002746,Serissa,Buchozia,accepted
-817c567f-a8ff-473f-9a3c-01ab56d0af81,genus,Plantae,t0002519,Tylophora,Vincetoxicum,accepted
-1c890cc6-ef75-47df-b528-83314d9ead69,genus,Plantae,t0002837,Mimulus,Erythranthe,accepted
-0e5cd5a7-7744-4835-93a9-96db6854e7a6,genus,Plantae,t0023988,Hemistepta,Hemisteptia,accepted
-f54e2b4a-1897-4c41-b9e2-4298cd621fe3,species,Fungi,t0042577,Phanerochaete angustocystidiata,Phanerochaetella angustocystidiata,accepted
-b94444c1-baf6-42e8-91b2-8772247a3cd3,species,Fungi,t0042671,Phlebiopsis himalayensis,Phaeophlebiopsis himalayensis,accepted
-ba8c2698-ce35-46cd-b3f6-8d43bb01a491,species,Fungi,t0042598,Phanerochaete intertexta,Efibula intertexta,accepted
-e4a970e7-c33c-45d3-b688-621cd5d99cb6,species,Fungi,t0042599,Phanerochaete leptoderma,Phanerochaetella leptoderma,accepted
-caf662c7-6d6f-4467-8b20-8f7403a51b46,species,Fungi,t0042602,Phanerochaete odontoidea,Hydnophanerochaete odontoidea,accepted
-109575fe-81c0-43a6-9c92-61b8925f78e3,species,Fungi,t0042605,Phanerochaete rubescens,Rhizochaete borneensis,accepted
-6c192ceb-2d16-4037-aad8-6afba8425b7c,species,Fungi,t0042610,Phanerochaete subglobosa,Luteochaete subglobosa,accepted
-c57aa4c5-4bbe-48c6-b76d-f03c49245e49,species,Fungi,t0042614,Phanerochaete tropica,Efibula tropica,accepted
-46e9ae1c-f3f0-4b26-8002-1ff549acd636,species,Fungi,t0044616,Uredo coreana,Milesina coreana,accepted
-47b7072e-9074-435f-9eec-38bf54e855dd,species,Fungi,t0044617,Uredo cryptogrammes,Hyalopsora cryptogrammes,accepted
-57b78637-827d-4019-83a4-403a7b6df5e5,species,Fungi,t0044651,Uredo morrisonensis,Milesina morrisonensis,accepted
-eca3e851-a749-4a69-87f2-73c430da3692,species,Fungi,t0044652,Uredo niitakensis,Milesina niitakensis,accepted
-db065f55-03c9-4258-9a41-d7da2054bfee,species,Fungi,t0033567,Entrophospora kentinensis,Acaulospora kentinensis,accepted
-0475d075-6dc2-4be2-8596-929941facf28,species,Fungi,t0043044,Bahusaganda toruloides,Polyschema toruloides,accepted
 977c87fe-ff08-4ef1-aeda-f33e8c9207b1,species,Animalia,t0038354,Scaphidium shrakii,Scaphidium shirakii,accepted
-deec8490-0777-4853-8069-1b0fd60169e3,species,Fungi,t0044216,Sterigmatobotrys uniseptata,Sterigmatobotrys uniseptatus,accepted
-1c2f85d2-84dc-4755-9d2b-31fb7db89a27,genus,Protozoa,t0006612,Diplotheca,Volkanus,accepted
-b1269202-8884-4ffb-b998-af0435067efe,genus,Protozoa,t0006645,Gallitellia,Neogallitellia,accepted
 86949f33-6aed-4d1c-93d8-3ea9417ee01d,genus,Animalia,t0026180,Ozptila,Ozyptila,accepted
 a5d8d265-2ff1-4f61-8522-ee9f6bf61257,species,Animalia,t0079448,Cosell falsus,Cosella falsus,accepted
 22cd7622-2a65-4084-a72c-87ecac96315a,species,Animalia,t0079449,Cosell kadsuriae,Cosella kadsuriae,accepted
@@ -492,92 +455,6 @@ e3ed8bbe-d736-4b6f-875b-715acaaeb5d4,species,Animalia,t0082920,Panorpa nudiramus
 74eb3a1d-03c0-41f8-9fe4-35aee9647908,species,Animalia,t0032874,Sinophasma truncatum,Micadina truncatum,accepted
 7b636e63-86f3-48ce-8c39-3439ab552623,species,Animalia,t0098885,Sinophasma hoenei,Micadina hoenei,accepted
 39bff950-e5d7-4720-93e3-9af42e241688,species,Animalia,t0039227,Sipyloidea okunii,Otraleus okunii,accepted
-15486798-df1f-4da1-8470-5d838603edbc,species,Plantae,t0087768,Odontosoria ×intermedia,Odontosoria × intermedia,accepted
-33094dc8-d85a-4874-9b10-42048a61969e,species,Plantae,t0087769,Odontosoria ×yaeyamensis,Odontosoria × yaeyamensis,accepted
-8c0a8b2a-1963-4115-8179-3274e6c4c0c0,species,Plantae,t0026560,Adiantum ×meishanianum,Adiantum × meishanianum,accepted
-44727e0d-0a56-45a9-94cd-3bb4a8d01d4f,species,Plantae,t0026926,Asplenium ×shikokianum,Asplenium × shikokianum,accepted
-244119ce-1bb4-4384-8918-7ae352ff64e9,species,Plantae,t0102147,Athyrium ×pseudocryptogrammoides,Athyrium × pseudocryptogrammoides,accepted
-46940008-580c-4c4e-b85b-6df6dcbc082d,species,Plantae,t0026699,Dryopteris toyamae,Dryopteris × toyamae,accepted
-32eda556-2861-46fe-b17b-c3473e823731,species,Plantae,t0026707,Dryopteris ×subreflexipinna,Dryopteris × subreflexipinna,accepted
-5dc3ee17-cb3b-4cbf-b0a6-5c36d4019863,species,Plantae,t0026618,Bolbitis ×laxireticulata,Bolbitis × laxireticulata,accepted
-dfbb3555-7ed0-4dbc-86ad-9250b7cc711f,species,Plantae,t0026752,Nephrolepis ×copelandii,Nephrolepis × copelandii,accepted
-a62bf0fc-dda1-4057-8a2c-b75609b9cd30,species,Plantae,t0026753,Nephrolepis ×hipocrepicis,Nephrolepis × hippocrepicis,accepted
-b9b2d2d5-4817-4858-bef3-956ca6bbf7c9,species,Plantae,t0026754,Nephrolepis ×pseudobiserrata,Nephrolepis × pseudobiserrata,accepted
-91b364a5-96f3-40f7-9bf2-f50591d32772,species,Plantae,t0026844,Leptochilus ×shintenensis,Leptochilus × shintenensis,accepted
-b6620af2-a023-43d3-95cb-483e6c7be476,species,Plantae,t0075425,Podocarpus gracilior,Afrocarpus gracilior,accepted
-3c6af59b-64d3-47bd-83ef-2de3c5ad5619,species,Plantae,t0055606,Thuja orientalis,Platycladus orientalis,accepted
-a50b7b1b-0349-4969-bb38-630e9738848d,species,Plantae,t0074588,Lilium formolongo,Lilium × formolongo,accepted
-f2a6428a-2512-4e17-8e64-516f20a9d140,species,Plantae,t0073081,Cattleya bowringiana,Guarianthe bowringiana,accepted
-9708f7e8-c601-4a00-af99-f95fd376182f,species,Plantae,t0053536,Epidendrum obrienianum,Epidendrum × obrienianum,accepted
-ae8b077d-ac42-493f-a55e-0e1fc033630f,species,Plantae,t0074262,Hemipilia alpestroides,Hemipilia × alpestroides,accepted
-b4b0ee77-9171-41e7-b494-46df1c39af61,species,Plantae,t0053820,Gladiolus ×gandavensis,Gladiolus × gandavensis,accepted
-00d732ff-6163-49e7-bc60-5793308806cf,species,Plantae,t0033713,Alpinia ×ilanensis,Alpinia × ilanensis,accepted
-9c8a6945-d080-4314-b105-82036d7669de,species,Plantae,t0052567,Alpinia ×kusshakuensis,Alpinia × kusshakuensis,accepted
-2f583908-9d57-44ec-beac-94de116eae80,species,Plantae,t0052568,Alpinia ×mesanthera,Alpinia × mesanthera,accepted
-e44d7bd0-23a8-4def-9167-966170a71787,species,Plantae,t0052571,Alpinia ×tonrokuensis,Alpinia × tonrokuensis,accepted
-4cbc5416-01d9-436d-a7a2-0fc23b19aac1,species,Plantae,t0040354,Bauhinia blakeana,Bauhinia × blakeana,accepted
-b1b699f2-1331-475b-b834-38c4f707f946,species,Plantae,t0073058,Cassia auriculata,Senna auriculata,accepted
-0fcac39c-57a7-458c-84cd-f2c26c91fc84,species,Plantae,t0058712,Pellionia radicans,Elatostema radicans,accepted
-79fc32d1-7b58-4750-9312-a38b9d7a2726,species,Plantae,t0055128,Rourea minor,Santaloides minor,accepted
-d5e3880a-3161-458b-948c-5137e693482e,species,Plantae,t0055026,Combretum indicum,Quisqualis indica,accepted
-a9c92fef-aef7-432e-9716-f11094d17908,species,Plantae,t0055225,Sapindus mukorossii,Sapindus mukorossi,accepted
-9c8294d7-ed7c-46c2-b03a-cdbb00b64136,species,Plantae,t0061017,Arabis pendula,Catolobus pendulus,accepted
-3888d1de-0b0d-43f8-8b6b-a10568422764,species,Plantae,t0075741,Saponaria vaccaria,Gypsophila vaccaria,accepted
-2be3799a-51c7-41f9-a449-5061c8856d4f,species,Plantae,t0053838,Gomphostemma callicarpoides,Gomphostemma chinense,accepted
-c4ae3863-45dd-45ef-a20a-484dbb868e94,species,Plantae,t0075135,Paulownia ×taiwaniana,Paulownia × taiwaniana,accepted
-7b7ca25b-80a8-489a-81f5-c31b214af98d,species,Plantae,t0054157,Pterocypsela ×mansuensis,Pterocypsela × mansuensis,accepted
-dfd26c36-8e95-4ae6-a1f2-3d2f95a9ef8a,species,Chromista,t0059255,Achnanthes delicatula,Pseudoplanothidium delicatulum,accepted
-ebaf6dc9-155b-4903-ba96-37adb0d7b47c,species,Chromista,t0059260,Achnanthes linearis,Achnanthidium lineare,accepted
-f44fc401-ca96-4335-8e74-19288ae24138,species,Chromista,t0060757,Tropidoneis lepidoptera,Plagiotropis lepidoptera,deleted
-d8f7c634-593d-4893-bf22-4a9a143e212d,species,Chromista,t0059679,Dictyota divaricata,Dictyota implexa,accepted
-513b00bf-0575-4381-be58-904684260fe3,species,Chromista,t0058274,Spatoglossum pacificum,Dictyopteris pacifica,accepted
-048d2641-7ac9-4702-a2db-3d23552c17ac,species,Chromista,t0060649,Zonaria stipitata,Spatoglossum stipitatum,accepted
-148d1539-5f42-408b-957c-6c8a9862be2a,species,Fungi,t0035790,Ganoderma lingzhi,Ganoderma sichuanense,accepted
-0e8347b8-e077-4242-8313-96e9c2f468ea,species,Fungi,t0040928,Hjortstamia laxa,Phlebiopsis laxa,accepted
-28c061be-725d-4b99-a74d-da5d246c6aa0,species,Fungi,t0034717,Ceriporia lacerata,Irpex laceratus,accepted
-c8a94496-fb2a-407b-9b67-a6c7d1854ffe,species,Fungi,t0035521,Duportella miranda,Peniophora miranda,accepted
-e1fffcdb-de5e-4b72-9940-7ef402e3bf7a,species,Fungi,t0035520,Duportella kuehneroides,Peniophora kuehneroides,accepted
-e2e856f7-cf92-41e5-8a85-06715b83de20,species,Fungi,t0035523,Duportella tristiculoides,Peniophora tristiculoides,accepted
-a1ab349a-3725-460d-9501-0926a71c672b,species,Fungi,t0043922,Sclerotium cinnamomi,Grovesinia moricola,accepted
-b877f345-b928-491f-8a8a-1f98ebcfde9b,species,Fungi,t0041132,Inonotus flavidus,Cylindrosporus flavidus,accepted
-59df120a-82e2-49d9-b700-c1ea9632c13d,species,Fungi,t0041133,Inonotus fushanus,Inonotus fushanianus,accepted
-7a28fd92-3e05-4b8c-a547-37201999bd46,species,Fungi,t0041134,Inonotus iodinus,Hymenochaete iodina,accepted
-c7f1bbbc-3a3b-44f6-ada2-fa6371d45a13,species,Fungi,t0041136,Inonotus radiatus,Mensularia radiata,accepted
-81cbbdbb-8446-4fea-ae00-041db35c2ee3,species,Fungi,t0042627,Phellinus gilvus,Fuscoporia gilva,accepted
-d96f660d-4070-468d-ab3e-30a71068f45d,species,Fungi,t0041000,Hyphodontia dimorpha,Scopuloides dimorpha,accepted
-f91ce346-90a5-4b40-bbb4-ea36e7a90fd5,species,Fungi,t0041021,Hyphodontia taiwaniana,Xylodon taiwanianus,accepted
-ebac71a6-0448-407b-9f30-2b9b2bdc552a,species,Fungi,t0040998,Hyphodontia capitatocystidiata,Lyomyces capitatocystidiatus,accepted
-80ab96c5-ae2b-408b-9ef5-b0d90dec8d5f,species,Fungi,t0041003,Hyphodontia flavipora,Xylodon flaviporus,accepted
-580c7ca9-7abe-4853-a115-2ea748195f67,species,Fungi,t0041004,Hyphodontia heterocystidiata,Xylodon heterocystidiatus,accepted
-126fa450-013d-4ad4-98c7-eb1599f5e218,species,Fungi,t0041012,Hyphodontia septocystidiata,Xylodon septocystidiatus,accepted
-6bc902ba-738d-4659-960f-27ae593840f7,species,Fungi,t0040996,Hyphodontia anmashanensis,Xylodon anmashanensis,accepted
-1d98f6c8-b872-4a60-b403-c7cee86905cc,species,Fungi,t0041001,Hyphodontia echinata,Xylodon echinatus,accepted
-1de5eda3-5d09-42ed-b4e5-d51f6923e701,species,Fungi,t0041005,Hyphodontia microfasciculata,Lyomyces microfasciculatus,accepted
-89fb2ea8-7d92-461b-b749-195d5a097e71,species,Fungi,t0041016,Hyphodontia subclavata,Xylodon subclavatus,accepted
-3179f840-d5e0-4def-8ac0-20ae5bd390bb,species,Fungi,t0041022,Hyphodontia tenuissima,Lyomyces tenuissimus,accepted
-a4979424-b67d-4e0b-99b8-ca9b9942b1ad,species,Fungi,t0041771,Microbotryum emodense,Microbotryum emodensis,accepted
-e60f1e05-b621-40c8-9305-6ff2f75a36d1,species,Fungi,t0044378,Thielavia terricola,Pseudothielavia terricola,accepted
-5e069113-b5bf-45ba-991c-571c618f4b2e,species,Fungi,t0044363,Thelebolus stercorus,Thelebolus stercoreus,accepted
-1c0b4f79-bf85-49b0-afa4-2425f4e954e4,species,Fungi,t0042360,Penicillium assiutense,Talaromyces assiutensis,accepted
-e6c4cecb-4b99-4747-8a23-52a304de914b,species,Fungi,t0042374,Penicillium dangeardii,Talaromyces flavus,accepted
-04b530c0-3032-450a-b85d-449388996bde,species,Fungi,t0042379,Penicillium erythromellis,Talaromyces erythromellis,accepted
-e85f3be8-99de-4af9-8e8a-57789ccbc40c,species,Fungi,t0042390,Penicillium islandicum,Talaromyces islandicus,accepted
-ea1a67b4-2715-445a-a91b-4c69f025e6aa,species,Fungi,t0042397,Penicillium marneffei,Talaromyces marneffei,accepted
-23a7aa54-c521-4936-9061-beba20360c73,species,Fungi,t0042400,Penicillium minioluteum,Talaromyces minioluteus,accepted
-0f1cef0e-aa39-4c0a-b1ce-853c52794ce0,species,Fungi,t0042407,Penicillium pinophilum,Talaromyces pinophilus,accepted
-a60eeb81-d65d-40a7-9044-6bd2abf68243,species,Fungi,t0042409,Penicillium purpurogenum,Talaromyces purpureogenus,accepted
-22656a35-a82f-496c-b1bb-e94332e374a6,species,Fungi,t0042413,Penicillium rugulosum,Talaromyces rugulosus,accepted
-2362d418-bee5-4532-9447-e4aba603003d,species,Fungi,t0042422,Penicillium unicum,Talaromyces unicus,accepted
-f4415da0-46e0-4ef9-82da-296666132e4b,species,Fungi,t0042423,Penicillium variabile,Talaromyces variabilis,accepted
-0effb29b-6372-4157-b7a3-b47ba59765f2,species,Fungi,t0042365,Penicillium calidicanium,Talaromyces calidicanius,accepted
-5d4583fd-5c04-4975-9ece-2376c72987d7,species,Fungi,t0042358,Penicillium albobiverticillium,Talaromyces albobiverticillius,accepted
-5098992c-5965-494c-835a-7ba49790dcf3,species,Protozoa,t0045237,Diplotheca costata,Volkanus costatus,accepted
-a9b0a2ba-f2c8-4b31-953e-1993c3b6f25c,species,Protozoa,t0045723,Platypleura cercophora,Thomsenella cercophora,accepted
-a65e627c-01d1-41f9-917d-4115b3d8840b,species,Protozoa,t0045724,Platypleura infundibuliformis,Thomsenella infundibuliformis,accepted
-d06ed91d-8b09-4590-92ac-5b084e6c66da,species,Protozoa,t0045321,Gallitellia vivans,Neogallitellia vivans,accepted
-c1672052-04f7-4912-a720-66808efd60de,species,Protozoa,t0045779,Quadrula symmetrica,Quadrulella symmetrica,accepted
-5b525069-1a18-437b-b4b2-5ee69552d08f,species,Protozoa,t0045820,Sigmoidella bacomensis,Sigmoidella bakomensis,accepted
-593830e5-010c-4d1a-a7cf-cac593eadce5,species,Protozoa,t0045294,Euglena saguinea,Euglena sanguinea,accepted
 235ad000-f455-4c03-9044-92890c03225e,species,Animalia,t0032019,Plexippoides guangxi,Epeus guangxi,accepted
 a0b2e60d-1acf-4b61-acbc-dcb2434bd114,species,Animalia,t0078425,Chrysso lingchuanensis,Meotipa lingchuanensis,accepted
 ef26fc6f-1ac6-48d2-97b6-d5cb6c9598a7,species,Animalia,t0078422,Chrysso bimaculata,Megama bimaculata,accepted
@@ -587,16 +464,7 @@ be1b0714-c349-4a5f-a263-1c93570cb819,species,Animalia,t0082677,Ozptila nongae,Oz
 0ad67ca9-33e3-48e9-a059-eae5fc80f501,species,Animalia,t0076307,Bathyphantes tongluensis,Wuliphantes tongluensis,accepted
 7b675d44-5433-4df3-b30a-4567eb668853,species,Animalia,t0081240,Neolinyphia nigripectoris,Ketambea nigripectoris,accepted
 ca718211-ab90-4a06-8a63-c3943e1896ea,species,Animalia,t0062213,Ebrechtella forcipata,Ebelingia forcipata,accepted
-2ed56247-87ac-4629-a306-a6259e878b3f,species,Bacteria,t0089287,Oscillatoria subtilissima,Jaaginema subtilissimum,accepted
-b076c81f-0dbd-4396-93fe-bec78efa993a,species,Plantae,t0058369,Tetrastrum heterocanthum,Tetrastrum heteracanthum,accepted
-86b9f737-2e20-406d-9916-99bb571f48b7,species,Plantae,t0074124,Glossadelphus lingulatus,Phyllodon lingulatus,accepted
 ec3ab158-60ac-439a-9954-ff55ef5b6fc1,species,Animalia,t0081921,Obrium yuejunae,Obrium yueyunae,accepted
-12bc084f-29e9-4bdc-a3dd-6ccf1d0ed71d,species,Plantae,t0040357,Begonia ×buimontana,Begonia × buimontana,accepted
-a4cc4655-4246-46d5-80f2-04ad9df08040,species,Plantae,t0072826,Begonia ×chungii,Begonia × chungii,accepted
-3a002432-99fc-46fe-aad3-a851eb0bbdf8,species,Plantae,t0074647,Ludwigia ×taiwanensis,Ludwigia × taiwanensis,accepted
-fea61d06-9da8-4f2b-b454-ae5556be295f,species,Plantae,t0026481,Osmolindsaea ×yakushimensis,Osmolindsaea japonica × Osmolindsaea odorata,accepted
-31ab74bd-0e14-4d3c-afdd-65dd28b94c34,family,Fungi,t0003295,Acrodictyaceae 	,Acrodictyaceae,accepted
-b7268b71-85b9-4996-b26f-e2309a592474,genus,Plantae,t0002795,Tournefortia,Heliotropium,accepted
 485d2995-9adb-42cf-b3cd-d95918509017,species,Animalia,t0096799,Drupa ricina,Sistrum ricinus,accepted
 1cc3b16c-5a5c-4213-a214-4c5073be663b,genus,Animalia,t0092379,Falcileptoneata,Falcileptoneta,accepted
 7028d6f8-37d1-4ac4-a76c-15e75f029bf7,species,Animalia,t0097875,Cusiala boarmoides,Cusiala boarmioides,accepted
