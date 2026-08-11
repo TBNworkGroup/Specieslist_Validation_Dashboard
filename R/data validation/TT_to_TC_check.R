@@ -5,7 +5,7 @@ install.packages(usepackage[!(usepackage %in% installed.packages()[,1])])
 sapply(usepackage, library, character.only = TRUE)
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20260729"  # 舉例
+modified_date <- "20260805"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -40,7 +40,6 @@ df_TT_select <- df_TTsplist %>%
   )
 
 
-TT_add_namecode <- df_TC_select[!(taxon_id %in% as.vector(df_TTsplist$taiCOLNameCode))]
 
 
 df_TT_withouttcnamecode <- df_TT_select %>%
@@ -77,6 +76,7 @@ df_TC_select <- df_TCsplist %>%
   setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status")) %>% 
   .[, TC_rank := tolower(TC_rank)]
 
+TT_add_namecode <- df_TC_select[!(TC_taxon_id %in% as.vector(df_TTsplist$taiCOLNameCode))]
 
 # ------------------------------------------------------------------
 # Part A: TT與TC，taxon_id、simplifiedScientificName、rank、kindgdom完全一致的分類群
@@ -99,6 +99,7 @@ fwrite(TT_TC_all_same, "../../data/output/TT_to_TC/TT_nochange.csv")
 # ------------------------------------------------------------------
 
 TT_checkrank_taxon_id <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_same$TT_taxonUUID))]%>%
+  filter(TT_kingdom %in% "Animalia") |> 
   inner_join(
     df_TC_select,
     by = c(
@@ -118,7 +119,8 @@ fwrite(TT_checkrank_taxon_id, "../../data/output/TT_to_TC/TT_checkrank_taxon_id.
 # ------------------------------------------------------------------
 
 TT_checkrank_scientificName <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_same$TT_taxonUUID))]%>%
-  .[!(.$TT_taxonUUID %in%  as.vector(TT_checkrank_taxon_id$TT_taxonUUID))] %>% 
+  .[!(.$TT_taxonUUID %in%  as.vector(TT_checkrank_taxon_id$TT_taxonUUID))] %>%
+  filter(TT_kingdom %in% "Animalia") |> 
   inner_join(
     df_TC_select,
     by = c(

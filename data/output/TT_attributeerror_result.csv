@@ -1014,7 +1014,7 @@ d3805ba0-183f-49df-8383-7ac128394e5d,"",genus,Plantae,Cistanthe,"",外來栽培 
 0c92d684-5f4a-43e8-a6b5-e13df610346e,"",genus,Plantae,Montia,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/0c92d684-5f4a-43e8-a6b5-e13df610346e
 462093fe-5a5c-4081-816e-0534961d19bc,"",genus,Plantae,Phemeranthus,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/462093fe-5a5c-4081-816e-0534961d19bc
 02c374b9-e5da-4282-b519-bd9983eb269a,"",genus,Plantae,Talinopsis,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/02c374b9-e5da-4282-b519-bd9983eb269a
-c37e76d9-afad-4c34-830f-736fb830f039,"",genus,Plantae,Hylocereus,"",外來歸化 Naturalized (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/c37e76d9-afad-4c34-830f-736fb830f039
+c37e76d9-afad-4c34-830f-736fb830f039,"",genus,Plantae,Hylocereus,"",外來歸化 Naturalized (non-native),"","未評估（NE, Not Evaluated）","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/c37e76d9-afad-4c34-830f-736fb830f039
 40f55c90-e7ae-4b9f-b950-103d4f328bf0,"",genus,Plantae,Consolea,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/40f55c90-e7ae-4b9f-b950-103d4f328bf0
 bbdba14e-ecd2-4a38-b640-f20cdf3c2f8d,"",genus,Plantae,Cylindropuntia,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/bbdba14e-ecd2-4a38-b640-f20cdf3c2f8d
 07bd53a5-b9a1-4b21-bc15-45e43a4dfd15,"",genus,Plantae,Grusonia,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/07bd53a5-b9a1-4b21-bc15-45e43a4dfd15
@@ -4700,7 +4700,7 @@ b307573c-a440-4c4f-81a8-644573b5b81e,"",species,Plantae,Portulaca oleracea,"",�
 7443fa5e-8a40-4226-8eb8-832eb9fd4249,"",species,Plantae,Cereus repandus,"",外來歸化 Naturalized (non-native),"",不適用,"","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/7443fa5e-8a40-4226-8eb8-832eb9fd4249
 87110e85-11c9-4ac2-a660-99e4a8ea11c9,"",species,Plantae,Cereus pitahaya,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/87110e85-11c9-4ac2-a660-99e4a8ea11c9
 4361bd72-b292-4de0-bf11-2653b4526e5a,"",species,Plantae,Epiphyllum oxypetalum,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/4361bd72-b292-4de0-bf11-2653b4526e5a
-af29f1de-3312-4bfc-861c-0e6114c559e2,"",species,Plantae,Hylocereus undatus,"",外來歸化 Naturalized (non-native),"",不適用,"","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/af29f1de-3312-4bfc-861c-0e6114c559e2
+af29f1de-3312-4bfc-861c-0e6114c559e2,"",species,Plantae,Selenicereus undatus,"",外來歸化 Naturalized (non-native),"",不適用,"","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/af29f1de-3312-4bfc-861c-0e6114c559e2
 dade23f2-e547-4258-92fe-147c32ebf1c2,"",species,Plantae,Opuntia elatior,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/dade23f2-e547-4258-92fe-147c32ebf1c2
 1fa3b279-0be9-4c01-b793-f25161147048,"",species,Plantae,Opuntia erinacea,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/1fa3b279-0be9-4c01-b793-f25161147048
 9ad2ed88-50ad-4044-b4ae-3dbb9eeb4a06,"",species,Plantae,Opuntia microdasys,"",外來栽培 Cultivated (non-native),"","","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/9ad2ed88-50ad-4044-b4ae-3dbb9eeb4a06
@@ -8049,6 +8049,8 @@ a45250ed-1447-4747-9d44-879919a28ecf,"",species,Plantae,Aconitum kusnezoffii,"",
 7738fca7-79ac-41a9-bf65-5121d0d793bb,"",species,Plantae,Phalaenopsis ×ambotrana,"",原生 Native,"",不適用,"","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/7738fca7-79ac-41a9-bf65-5121d0d793bb
 e2a76ee0-ef4f-4555-9444-7dc3deb666b0,"",infraspecies,Plantae,Phalaenopsis ×ambotrana Gleneyrie,"",原生 Native,"",不適用,"","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/e2a76ee0-ef4f-4555-9444-7dc3deb666b0
 438ae3ca-c265-4e89-b225-797daf830f75,"",infraspecies,Plantae,Phalaenopsis ×ambotrana Fort Caroline Orchids,"",原生 Native,"",不適用,"","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/438ae3ca-c265-4e89-b225-797daf830f75
+00c43fd5-d8f2-498d-84e7-816ec7c221b8,"",species,Plantae,Selenicereus monacanthus,"",原生 Native,"",不適用,"","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/00c43fd5-d8f2-498d-84e7-816ec7c221b8
+a6d85235-609a-4dbc-8357-19e95cc79e6d,"",species,Plantae,Selenicereus megalanthus,"",原生 Native,"","未評估（NE, Not Evaluated）","","",taiCOLNameCode空白,,https://taxatree.tbn.org.tw/taxa/a6d85235-609a-4dbc-8357-19e95cc79e6d
 61b6c7e0-2450-4a97-ab7f-2fce0b23ad4d,t0101893,species,Animalia,Pycnoscelus indicus,"","","","","","",種與種下原生性空白,,https://taxatree.tbn.org.tw/taxa/61b6c7e0-2450-4a97-ab7f-2fce0b23ad4d
 552edab2-2f4c-41c8-b75e-63b6906efa0e,t0122887,species,Animalia,Daphnephila urnicola,"","","","","","",種與種下原生性空白,,https://taxatree.tbn.org.tw/taxa/552edab2-2f4c-41c8-b75e-63b6906efa0e
 a17f92e7-5fdf-435b-9fd0-8b2d20ff2a0b,t0101341,species,Animalia,Atkinsoniella alternata,"","","","","","",種與種下原生性空白,,https://taxatree.tbn.org.tw/taxa/a17f92e7-5fdf-435b-9fd0-8b2d20ff2a0b

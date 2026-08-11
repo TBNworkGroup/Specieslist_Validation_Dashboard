@@ -1,6 +1,7 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,TC_simple_name,TC_taxon_status
 c1ca5281-fbc2-4a86-b9ca-b7174c013b56,order,Animalia,t0001914,Ibliformes,Iblomorpha,accepted
 7598d2d0-e427-486a-b775-21fdec16afb5,order,Animalia,t0001930,Lampridiformes,Lampriformes,accepted
+a72f3958-1906-42e7-a482-9422b64cc6ed,order,Animalia,t0003087,Siphonophorae,Siphonophora,deleted
 8134a025-b377-4d41-8da0-0f8c2448a247,family,Animalia,t0006090,Halonoproctidae	,Halonoproctidae,accepted
 95215eb9-7328-4aac-8d9e-ab38f6b496d2,family,Animalia,t0005928,Ereuniidae,Rhamphocottidae,accepted
 38202de0-af13-4a46-a50e-3c226e9fd48f,family,Animalia,t0004997,Ziphiidae,Hyperoodontidae,accepted

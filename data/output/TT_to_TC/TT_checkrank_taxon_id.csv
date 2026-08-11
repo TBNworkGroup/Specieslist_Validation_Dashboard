@@ -1,5 +1,4 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,TC_taxon_id,TC_taxon_status
-a72f3958-1906-42e7-a482-9422b64cc6ed,order,Animalia,t0003087,Siphonophorae,t0002153,accepted
 4807b51d-dcc1-46bb-b2ea-d8b9a66ae287,genus,Animalia,"",Leistes,t0125426,accepted
 74b389a9-5768-485c-bf90-09a5ed774ad0,species,Animalia,"",Leistes superciliaris,t0125427,accepted
 87622eaf-9bfd-4ac1-a045-2f2d9561d411,genus,Animalia,"",Sicalis,t0125428,accepted
