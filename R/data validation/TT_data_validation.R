@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20260805"  # 舉例
+modified_date <- "20260811"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -140,7 +140,7 @@ for (i in 1:nrow(df_duplicates_reasoned)) {
   
   while(TRUE) {
     tryCatch({
-      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20", df_duplicates_reasoned$taxonUUID[i]))
+      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v26/occurrence?taxonUUID=%s&limit=20", df_duplicates_reasoned$taxonUUID[i]))
       break
     }, error = function(e) {
       message("Error occurred: ", e)
@@ -328,7 +328,7 @@ for (i in 1:nrow(df_errors)) {
   
   while(TRUE) {
     tryCatch({
-      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20", df_errors$taxonUUID[i]))
+      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v26/occurrence?taxonUUID=%s&limit=20", df_errors$taxonUUID[i]))
       break
     }, error = function(e) {
       message("Error occurred: ", e)
@@ -454,7 +454,7 @@ df_TT_attribute_error <- rbind(df_TT_withouttcnamecode, df_TT_undertaxon, df_TT_
 #     while(TRUE) {
 #       tryCatch({
 #         TBN_result <- fromJSON(sprintf(
-#           "https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20",
+#           "https://www.tbn.org.tw/api/v26/occurrence?taxonUUID=%s&limit=20",
 #           df_TT_attribute_error$taxonUUID[i]
 #         ))
 #         break
@@ -510,7 +510,7 @@ for (i in 1:nrow(df_TT_without_species)) {
   
   while(TRUE) {
     tryCatch({
-      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20", df_TT_without_species$taxonUUID[i]))
+      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v26/occurrence?taxonUUID=%s&limit=20", df_TT_without_species$taxonUUID[i]))
       break
     }, error = function(e) {
       message("Error occurred: ", e)
@@ -610,7 +610,7 @@ for (i in 1:nrow(df_TT_nomenclaturalCode)) {
   
   while(TRUE) {
     tryCatch({
-      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20", df_TT_nomenclaturalCode$taxonUUID[i]))
+      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v26/occurrence?taxonUUID=%s&limit=20", df_TT_nomenclaturalCode$taxonUUID[i]))
       break
     }, error = function(e) {
       message("Error occurred: ", e)
@@ -716,7 +716,7 @@ for (i in 1:nrow(df_speciesinfraspecies_attribute_mismatch)) {
   
   while(TRUE) {
     tryCatch({
-      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v25/occurrence?taxonUUID=%s&limit=20", df_speciesinfraspecies_attribute_mismatch$taxonUUID[i]))
+      TBN_result <- fromJSON(sprintf("https://www.tbn.org.tw/api/v26/occurrence?taxonUUID=%s&limit=20", df_speciesinfraspecies_attribute_mismatch$taxonUUID[i]))
       break
     }, error = function(e) {
       message("Error occurred: ", e)

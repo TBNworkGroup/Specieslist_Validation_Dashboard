@@ -5,7 +5,7 @@ install.packages(usepackage[!(usepackage %in% installed.packages()[,1])])
 sapply(usepackage, library, character.only = TRUE)
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20260805"  # 舉例
+modified_date <- "20260811"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -74,7 +74,8 @@ fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC/TT_withouttcnamecode
 df_TC_select <- df_TCsplist %>% 
   select(taxon_id, rank, kingdom, simple_name, taxon_status)%>%
   setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status")) %>% 
-  .[, TC_rank := tolower(TC_rank)]
+  .[, TC_rank := tolower(TC_rank)]%>%
+  filter(TC_kingdom %in% "Animalia")
 
 TT_add_namecode <- df_TC_select[!(TC_taxon_id %in% as.vector(df_TTsplist$taiCOLNameCode))]
 
@@ -95,10 +96,77 @@ TT_TC_all_same <- df_TT_select %>%
 fwrite(TT_TC_all_same, "../../data/output/TT_to_TC/TT_nochange.csv")
 
 # ------------------------------------------------------------------
-# Part B: TT與TC，simplifiedScientificName、rank、kindgdom完全一致的分類群
+# Part A-B: TT與TC，taxon_id、simplifiedScientificName、rank、kindgdom完全一致的分類群
+# ------------------------------------------------------------------
+
+df_TC_selectvers2 <- df_TCsplist %>% 
+  select(taxon_id, rank, kingdom, simple_name, taxon_status)%>%
+  setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status")) %>% 
+  .[, TC_rank := tolower(TC_rank)]%>%
+  filter(TC_kingdom %in% "Animalia")
+
+df_TT_selectvers2 <- df_TTsplist %>%
+  select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, simplifiedScientificName) %>% 
+  setnames(., c("taxonUUID", "taxonRank", "kingdom", "taiCOLNameCode", "simplifiedScientificName"), c("TT_taxonUUID", "TT_taxonRank", "TT_kingdom", "TT_taiCOLNameCode", "TT_simplifiedScientificName"))%>%
+  filter(TT_kingdom %in% "Animalia")
+
+
+TT_TC_all_samevers2 <- df_TT_selectvers2 %>%
+  inner_join(
+    df_TC_selectvers2,
+    by = c(
+      "TT_simplifiedScientificName" = "TC_simple_name",
+      "TT_taiCOLNameCode"          = "TC_taxon_id"
+    )
+  )
+
+fwrite(TT_TC_all_samevers2, "../../data/output/TT_to_TC/TT_nameidsame.csv")
+
+TT_checkrank_scientificNamevers2 <- df_TT_selectvers2[!(TT_taxonUUID %in% as.vector(TT_TC_all_samevers2$TT_taxonUUID))] |> 
+  inner_join(
+    df_TC_select,
+    by = c(
+      "TT_taiCOLNameCode"          = "TC_taxon_id"
+    )
+  )
+
+fwrite(TT_checkrank_scientificNamevers2, "../../data/output/TT_to_TC/TT_idsame.csv")
+
+TT_checkrank_taxon_idvers2 <- df_TT_selectvers2[!(TT_taxonUUID %in% as.vector(TT_TC_all_samevers2$TT_taxonUUID))]%>%
+  .[!(.$TT_taxonUUID %in%  as.vector(TT_checkrank_scientificNamevers2$TT_taxonUUID))] %>%
+  inner_join(
+    df_TC_select,
+    by = c(
+      "TT_simplifiedScientificName" = "TC_simple_name"
+    )
+  )
+fwrite(TT_checkrank_taxon_idvers2, "../../data/output/TT_to_TC/TT_namesame.csv")
+
+# ------------------------------------------------------------------
+# Part B: TT與TC，TT_taiCOLNameCode、rank、kindgdom完全一致的分類群
+# ------------------------------------------------------------------
+
+TT_checkrank_scientificName <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_same$TT_taxonUUID))] |> 
+  filter(TT_kingdom %in% "Animalia") |> 
+  inner_join(
+    df_TC_select,
+    by = c(
+      "TT_taxonRank"               = "TC_rank",
+      "TT_kingdom"                 = "TC_kingdom",
+      "TT_taiCOLNameCode"          = "TC_taxon_id"
+    )
+  )
+
+fwrite(TT_checkrank_scientificName, "../../data/output/TT_to_TC/TT_checkrank_scientificName.csv")
+
+
+
+# ------------------------------------------------------------------
+# Part C: TT與TC，simplifiedScientificName、rank、kindgdom完全一致的分類群
 # ------------------------------------------------------------------
 
 TT_checkrank_taxon_id <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_same$TT_taxonUUID))]%>%
+  .[!(.$TT_taxonUUID %in%  as.vector(TT_checkrank_scientificName$TT_taxonUUID))] %>%
   filter(TT_kingdom %in% "Animalia") |> 
   inner_join(
     df_TC_select,
