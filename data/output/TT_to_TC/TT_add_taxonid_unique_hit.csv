@@ -79,6 +79,8 @@ dda23863-c926-4aee-9f19-e999052e6324,order,Plantae,"",Pyramimonadales,1,t0001624
 d3482b07-e2d4-4f23-a2c3-fc493e52de96,family,Plantae,"",Botryococcaceae,1,t0005021,accepted
 db1592e6-96a3-4004-96a2-187575473655,genus,Plantae,"",Halosphaera,1,t0025701,accepted
 b6ebab58-240b-4fd8-b930-22d53fb33075,family,Fungi,"",Heterosporium,1,t0094479,accepted
+f6aea42e-f8a5-482b-89aa-57bab7b3b3c7,family,Animalia,"",Phonognathidae,1,t0136374,not-accepted
+aab869af-3661-47da-bf86-86f2a9220067,family,Animalia,"",Urocteidae,1,t0004191,not-accepted
 6b7b23fb-0fbd-464e-a83d-b1b1b8aceb43,class,Plantae,"",Trebouxiophyceae,1,t0000461,accepted
 83e18e56-c269-4560-bd38-fc4d5791c775,order,Plantae,"",Chlorellales,1,t0001537,accepted
 35c2f033-7a05-4cf9-adbf-0c9690e9bdd3,family,Plantae,"",Chlorellaceae,1,t0005038,accepted
@@ -113,6 +115,11 @@ c465fde5-a88f-40fe-ab32-7b6e8c5d5e36,family,Plantae,"",Mesotaeniaceae,1,t0005116
 d69051d7-3627-4f71-8305-c9b537b5f4a1,family,Plantae,"",Ulotrichaceae,1,t0005185,accepted
 01a4e2d9-7fee-4153-abf4-2cfdea62f5a5,order,Plantae,"",Cladophorales,1,t0001540,accepted
 7022349b-51ce-4c50-8eca-322622d0e364,family,Plantae,"",Cladophoraceae,1,t0005040,accepted
+ff2ea52c-1d12-413f-8472-d3e347364221,genus,Animalia,"",Takachihoa,1,t0015639,not-accepted
+72bb4713-6919-47ab-99a3-ab280038b6c2,genus,Animalia,"",Pseudotriaeris,1,t0018261,not-accepted
+02531bda-5ccf-4287-9b3d-51f0980929bf,genus,Animalia,"",Pakawops,1,t0016383,not-accepted
+4eeb1d83-39f4-4f27-a614-a618924a575a,genus,Animalia,"",Melophus,1,t0019151,not-accepted
+aa4db525-a5f4-4988-8515-1aaa73abd4d6,genus,Animalia,"",Symphyllia,1,t0021950,not-accepted
 a996cb46-ab83-4825-96ed-5cb03f7d3681,genus,Plantae,"",Danaea,1,t0128806,accepted
 5b1978c6-88b3-431c-9c35-cc4fe41bbc44,genus,Plantae,"",Eupodium,1,t0129738,accepted
 cdc78087-245a-4c7b-a4a2-c7986e55cffb,genus,Plantae,"",Christensenia,1,t0128069,accepted
@@ -1018,7 +1025,7 @@ ca6b658e-6817-4230-a3bd-97ec63a5b4a2,species,Plantae,"",Torreya grandis,1,t01356
 6915767b-9550-42e4-a9e1-9c97ebf84c5a,species,Plantae,"",Nymphaea mexicana,1,t0074969,accepted
 b4064a00-be07-4553-b2b4-03537f72af73,species,Plantae,"",Nymphaea odorata,1,t0074970,accepted
 b132feca-59c6-49df-8a51-c6e56c1cb934,species,Plantae,"",Nymphaea rubra,1,t0054594,accepted
-30c1ff04-9201-42fe-a3e1-241162bd01ac,species,Plantae,"",Nuphar pumila,1,t0054592,accepted
+30c1ff04-9201-42fe-a3e1-241162bd01ac,species,Plantae,"",Nuphar pumila,1,t0103277,accepted
 92d7a356-670c-41a7-8396-6ce54a01209a,species,Plantae,"",Victoria cruziana,1,t0069785,accepted
 04607f6f-10a6-4b06-9b11-363d8d5a8dd7,species,Plantae,"",Kadsura japonica,1,t0054137,accepted
 ba45b621-bba2-42c5-bff3-a1096de56ac1,species,Plantae,"",Kadsura philippinensis,1,t0054139,accepted
@@ -1034,8 +1041,10 @@ c924b4fd-cbe0-4a3b-adcd-a8684829082f,species,Plantae,"",Peperomia caperata,1,t00
 fde9e5a3-478e-4dfe-8c97-cc772d005295,species,Plantae,"",Peperomia sandersii,1,t0054744,accepted
 79c54f6e-45b6-49f4-8bc1-1770872305c9,species,Plantae,"",Peperomia verticillata,1,t0075181,accepted
 2da1e789-4d99-42fc-8398-3d4094110dd8,species,Plantae,"",Piper betle,1,t0054844,accepted
+ede25c2c-9848-4504-8372-a846921abc9a,species,Plantae,"",Piper interruptum,1,t0075324,accepted
 50a9d18c-3514-4a81-bac1-087e2c5757d2,species,Plantae,"",Piper kawakamii,1,t0054846,accepted
 31d30a9d-803f-4bcb-bfc9-00d33fb7093b,species,Plantae,"",Piper kwashoense,1,t0054847,accepted
+ade8df92-b7c8-4253-a3ad-8f834f32ef99,species,Plantae,"",Piper philippinum,1,t0054847,misapplied
 2170fdda-2909-4e75-a016-445762321b0b,species,Plantae,"",Piper taiwanense,1,t0054850,accepted
 c424e322-7472-40ef-a4c6-0f8c616a7acf,species,Plantae,"",Piper umbellatum,1,t0054851,accepted
 40279b72-2f09-433f-bb8e-583f4d1d3763,species,Plantae,"",Piper cubeba,1,t0075323,accepted
@@ -2130,7 +2139,6 @@ a3ec5858-53b4-4afc-9307-71f6ece844ba,species,Plantae,"",Leersia hexandra,1,t0054
 028a75ba-883f-42b8-9abe-3b62af424f8e,species,Plantae,"",Melica onoei,1,t0054429,accepted
 7eec7bf7-0171-4f9f-8a53-02fd327c263c,species,Plantae,"",Melocanna baccifera,1,t0054437,accepted
 94359126-3094-43c7-bf48-9bb6a1dfcd88,species,Plantae,"",Microstegium dilatatum,1,t0054456,accepted
-2acbdc41-ef54-40c3-baca-eb2cc287a2b7,species,Plantae,"",Microstegium eucnemis,1,t0054457,accepted
 808d39f7-28df-49a6-866d-637814bcfa86,species,Plantae,"",Microstegium fauriei,1,t0054459,accepted
 9d86b429-5cbb-44ba-8553-95454515aa80,species,Plantae,"",Microstegium glaberrimum,1,t0054460,accepted
 b1ebcf8c-3659-4588-9baf-b24af3698265,species,Plantae,"",Microstegium glabratum,1,t0058545,accepted
@@ -2774,7 +2782,7 @@ be098a09-7214-4ed0-b35b-8d900e220a6a,species,Plantae,"",Quercus morii,1,t0055016
 7dc2969a-37cb-4827-84ad-a2a3f107f6fb,species,Plantae,"",Quercus phillyrioides,1,t0075568,accepted
 73c4eddf-c02e-4d7c-815a-7b43b1f55995,species,Plantae,"",Quercus suber,1,t0055022,accepted
 4d34dbf8-d9e9-4c08-826d-0127555422ba,species,Plantae,"",Quercus tarokoensis,1,t0055023,accepted
-1147f0ea-9424-4443-af59-436f0d194c43,species,Plantae,"",Quercus tatakaensis,1,t0055024,accepted
+1147f0ea-9424-4443-af59-436f0d194c43,species,Plantae,"",Quercus tatakaensis,1,t0055024,not-accepted
 02607181-0262-4525-bef7-a2ef0ffcc5ed,species,Plantae,"",Myrica adenophora,1,t0054522,accepted
 bccac195-03e4-448b-bef0-616460bc1575,species,Plantae,"",Carya illinoinensis,1,t0073055,accepted
 93a936bf-4bed-414e-9267-543dbd9c3318,species,Plantae,"",Carya pecan,1,t0073056,accepted
@@ -4231,6 +4239,7 @@ ed68c24f-1590-43dd-9b6c-f3059a9f214b,species,Plantae,"",Ageratina adenophora,1,t
 43c6b016-1a79-416a-bc80-f0eaf28051af,species,Plantae,"",Ambrosia psilostachya,1,t0040143,accepted
 7077a8e6-3f8f-41f4-885b-fbd856ae7f68,species,Plantae,"",Ambrosia trifida,1,t0052581,accepted
 74585e57-7c0a-4fe6-bb02-11b651e195ed,species,Plantae,"",Ambrosia scoparia,1,t0060928,not-accepted
+41fdacdf-9d12-4548-a433-44589cffd48b,species,Plantae,"",Nidorella aegyptiaca,1,t0058856,not-accepted
 e2444289-67bd-44b5-9a6c-82f54ce37d96,species,Plantae,"",Erigeron bonariensis,1,t0053106,not-accepted
 afc1f6d0-2ff3-4f40-8e97-c86b7d1f64fc,species,Plantae,"",Erigeron canadensis,1,t0053107,not-accepted
 6fccdaea-2563-4a41-8ff4-8921ba703aa2,species,Plantae,"",Eschenbachia japonica,1,t0053109,not-accepted
@@ -4495,8 +4504,8 @@ fc0f4bd5-d995-49c9-959c-a30956867338,infraspecies,Plantae,"",Podocarpus macrophy
 70adf9f8-2f17-43ee-bc04-7ca2143e88a7,infraspecies,Plantae,"",Juniperus chinensis chinensis,1,t0087606,accepted
 4eef4412-363d-4772-812b-245c4bff04cf,infraspecies,Plantae,"",Cephalotaxus harringtonii wilsoniana,1,t0052928,not-accepted
 c2f0cf3f-0fac-441b-8b90-06af4a4ae3f1,infraspecies,Plantae,"",Myristica elliptica simiarum,1,t0086904,accepted
-7e23ead7-79db-4ca8-a4a6-339ae36f0236,infraspecies,Plantae,"",Michelia compressa formosana,1,t0086525,not-accepted
-4ff0398f-8e01-4dea-88e8-bfec2c511818,infraspecies,Plantae,"",Michelia compressa lanyuensis,1,t0058497,not-accepted
+7e23ead7-79db-4ca8-a4a6-339ae36f0236,infraspecies,Plantae,"",Michelia compressa formosana,1,t0086525,accepted
+4ff0398f-8e01-4dea-88e8-bfec2c511818,infraspecies,Plantae,"",Michelia compressa lanyuensis,1,t0058497,accepted
 fc731f17-1a55-4f81-9770-6916ec4173b8,infraspecies,Plantae,"",Litsea akoensis akoensis,1,t0086887,accepted
 bd59e769-6e3b-41ad-aa23-32e338be6230,infraspecies,Plantae,"",Litsea akoensis chitouchiaoensis,1,t0087381,accepted
 f4c05dc1-53f6-4961-89b3-4264c885172e,infraspecies,Plantae,"",Litsea akoensis sasakii,1,t0058465,accepted
@@ -4672,13 +4681,12 @@ f2b69e53-3600-441a-9670-22d62a215a87,infraspecies,Plantae,"",Sanguisorba officin
 e5575017-d7ec-4191-91ae-38ebbb8ac2e3,infraspecies,Plantae,"",Berchemia racemosa magna,1,t0072855,not-accepted
 d89a2041-08b1-4cd7-bb4d-3eebc8df23e6,infraspecies,Plantae,"",Rhamnus chingshuiensis tashanensis,1,t0087389,accepted
 8de7e755-2b99-46a0-be05-764b4a100ef1,infraspecies,Plantae,"",Sageretia thea taiwaniana,1,t0058178,accepted
-b9d3982c-c5e2-444b-8698-48cfb46e03a8,infraspecies,Plantae,"",Ficus aurantiaca parvifolia,1,t0046292,not-accepted
+b9d3982c-c5e2-444b-8698-48cfb46e03a8,infraspecies,Plantae,"",Ficus aurantiaca parvifolia,1,t0046292,accepted
 44dc8709-69a2-4974-9276-9ea6e877e519,infraspecies,Plantae,"",Ficus cumingii terminalifolia,1,t0046295,accepted
 8caaf0ad-5cb3-492b-9044-6fab7f206ef3,infraspecies,Plantae,"",Ficus microcarpa fuyuensis,1,t0087372,accepted
 5f40a449-b9f4-45bc-b7cc-07612b298e9e,infraspecies,Plantae,"",Ficus microcarpa oluangpiensis,1,t0087373,accepted
 437349b9-703d-4c28-82f7-5de8d861ebc0,infraspecies,Plantae,"",Ficus microcarpa pusillifolia,1,t0087374,accepted
 095d54af-1777-4a8d-aa68-fca2cef40f89,infraspecies,Plantae,"",Ficus pumila pumila,1,t0086814,accepted
-dd69a02c-358e-4150-b575-7d944948ae8a,infraspecies,Plantae,"",Ficus sarmentosa nipponica,1,t0046315,accepted
 db740478-f94f-4a51-a04a-bb3342604df7,infraspecies,Plantae,"",Ficus tannoensis rhombifolia,1,t0087645,accepted
 ba611e1a-e604-41dc-bdf9-ba86345db843,infraspecies,Plantae,"",Ficus variegata garciae,1,t0046321,accepted
 f80f23a1-bcd0-434a-bece-1b93ef1e6871,infraspecies,Plantae,"",Ficus pandurata angustifolia,1,t0073959,not-accepted
@@ -4761,7 +4769,6 @@ f21393b3-263c-4edc-a40f-0639b0c98e71,infraspecies,Plantae,"",Stellaria media mic
 5767ea61-6283-4ee4-bb13-13859ce6c02f,infraspecies,Plantae,"",Stellaria monosperma japonica,1,t0052932,accepted
 ac1c6eb6-1f6f-47be-8f98-1651489e737f,infraspecies,Plantae,"",Stellaria monosperma taiwaniana,1,t0052932,not-accepted
 3a326225-275c-4a11-b614-212554c0e428,infraspecies,Plantae,"",Achyranthes aspera indica,1,t0033575,accepted
-68016ae9-f35f-4acc-b04b-38e72296403a,infraspecies,Plantae,"",Chenopodium acuminatum virgatum,1,t0084589,accepted
 759a3405-5c4d-478e-8df8-cab3929d62ce,infraspecies,Plantae,"",Chenopodium album centrorubrum,1,t0052963,not-accepted
 d31aa512-b679-4301-8411-300bc005c0af,infraspecies,Plantae,"",Schizophragma integrifolium fauriei,1,t0058035,not-accepted
 ef9b78d1-2011-4fe8-9512-79c793087cea,infraspecies,Plantae,"",Benthamidia japonica chinensis,1,t0085095,not-accepted
@@ -4883,7 +4890,7 @@ e065895d-80f3-4b17-bae0-101f199c5603,species,Plantae,"",Daphniphyllum pentandrum
 08929496-35eb-4f18-a439-15767202f7de,species,Plantae,"",Hymenophyllum punctisorum,1,t0105397,accepted
 931f09dd-02a1-4e15-835a-137eaaa62c2c,species,Plantae,"",Dryopteris transmorrisonensis,1,t0026700,accepted
 7dbee0a3-5c8e-40ba-8248-9ec264c8d2a9,species,Plantae,"",Sladenia celastrifolia,1,t0134940,accepted
-a80e5528-9554-4e6d-95e5-0d628fbde960,infraspecies,Plantae,"",Juniperus chinensis taiwanensis,1,t0058103,not-accepted
+a80e5528-9554-4e6d-95e5-0d628fbde960,infraspecies,Plantae,"",Juniperus chinensis taiwanensis,1,t0058103,accepted
 8fe4d0b8-eba8-410a-835a-ea5f9f803e30,infraspecies,Bacteria,"",Microcystis aeruginosa aeruginosa,1,t0091527,accepted
 e7c9d75b-7797-4b5a-a0e4-0f1101d681a7,species,Plantae,"",Pandorina morum,1,t0075078,accepted
 4f99b9ca-bc7b-462d-8418-fd2d055f4b59,species,Plantae,"",Pediastrum integrum,1,t0075141,accepted
@@ -5426,6 +5433,7 @@ c8a5dd4d-5d71-4518-b2a4-bea7c6841acd,species,Plantae,"",Ludwigia ravenii,1,t0131
 02b777e9-2f83-453f-8531-7429202dd4c5,species,Plantae,"",Juniperus tsukusiensis,1,t0106925,accepted
 90fd5354-2ff5-4f51-b993-fb12741a016a,species,Plantae,"",Lycopodium sitchense,1,t0129127,not-accepted
 ab1b2946-e4a0-4e3b-a48a-a3798fb66464,species,Plantae,"",Striga crispata,1,t0076043,accepted
+ad4a8f2c-9cbf-4170-9a6d-66c8dacd57d4,infraspecies,Animalia,"",Mustela putorius furo,1,t0136373,accepted
 7df2e296-5b6c-4fdd-8644-3bd74ab6f71c,species,Plantae,"",Pteris minor,1,t0059122,accepted
 c4e87a67-c77b-4379-9ebc-c69147faf12a,infraspecies,Plantae,"",Dryopteris wallichiana pachyphylla,1,t0057292,accepted
 a663aadb-e685-4b80-907a-50d35e3ac052,genus,Plantae,"",Ismene,1,t0092668,accepted
@@ -5466,6 +5474,7 @@ b91b2e61-4741-47bd-a7ab-a3251d73b1bc,genus,Plantae,"",Cassine,1,t0095196,accepte
 4679022a-3d7f-42f6-9bf0-3c9631f7e310,class,Plantae,"",Pyramimonadophyceae,1,t0000455,accepted
 a568eb6a-079d-40d0-bf05-6b04401158ad,infraspecies,Plantae,"",Chamaecrista nictitans patellaria glabrata,1,t0086675,not-accepted
 7da5d720-ed69-4b70-80ed-7671d61e4f85,species,Plantae,"",Wrightia pubescens,1,t0136155,accepted
+aafb6332-190b-4cc6-ab49-27acef3386b4,species,Animalia,"",Ara chloropterus,1,t0122139,not-accepted
 9bd0f7a0-166b-4c04-91d4-44bc997ae3e8,phylum,Podiata,"",Basidiomycota,1,t0000086,accepted
 254dde54-da79-4530-b968-6e003eb136cc,phylum,Podiata,"",Ascomycota,1,t0000085,accepted
 5fa8a405-9fe4-4eed-a07c-21f2ef8f1411,genus,Plantae,"",Mitragyna,1,t0132066,accepted
@@ -5624,3 +5633,7 @@ a45250ed-1447-4747-9d44-879919a28ecf,species,Plantae,"",Aconitum kusnezoffii,1,t
 1c77b8b6-50e0-48b8-ac52-668d25122b0e,species,Plantae,"",Stegnogramma pozoi,1,t0102211,not-accepted
 0c5faa70-5256-4a70-a90c-828e9b9bfa7b,species,Plantae,"",Vexillabium integrum,1,t0058642,not-accepted
 2af99f83-3cdd-4e98-90f9-c84bf4047111,genus,Plantae,"",Nauclea,1,t0095674,accepted
+d2f4d6a2-a98d-4729-b0ca-c04963ae6d5a,species,Plantae,"",Anaphalis nagasawae,1,t0040159,accepted
+633d7fe9-39c6-4adc-a7b2-df3f2472d672,infraspecies,Plantae,"",Anaphalis nagasawae nagasawae,1,t0124489,accepted
+4f2f52b9-9dc5-4aa5-a8f1-30ed24c50676,infraspecies,Plantae,"",Anaphalis nagasawae niitakayamensis,1,t0124451,accepted
+906e5afa-e0f2-4d9e-bb6d-032e1b3e9d0e,species,Plantae,"",Carex odontostoma,1,t0052822,not-accepted

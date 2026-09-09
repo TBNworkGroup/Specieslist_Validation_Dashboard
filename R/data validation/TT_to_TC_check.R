@@ -36,7 +36,7 @@ df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_dat
 
 df_TT_select <- df_TTsplist %>%
   select(
-    taxonUUID, taiCOLNameCode, taxonRank, kingdom, simplifiedScientificName, 
+    taxonUUID, taiCOLNameCode, taxonRank, kingdom, simplifiedScientificName
   )
 
 
@@ -72,8 +72,8 @@ fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC/TT_withouttcnamecode
 
 
 df_TC_select <- df_TCsplist %>% 
-  select(taxon_id, rank, kingdom, simple_name, taxon_status)%>%
-  setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status")) %>% 
+  select(taxon_id, rank, kingdom, simple_name, taxon_status, is_in_taiwan)%>%
+  setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status", "is_in_taiwan"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status", "TC_is_in_taiwan")) %>% 
   .[, TC_rank := tolower(TC_rank)]%>%
   filter(TC_kingdom %in% "Animalia")
 
@@ -100,8 +100,8 @@ fwrite(TT_TC_all_same, "../../data/output/TT_to_TC/TT_nochange.csv")
 # ------------------------------------------------------------------
 
 df_TC_selectvers2 <- df_TCsplist %>% 
-  select(taxon_id, rank, kingdom, simple_name, taxon_status)%>%
-  setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status")) %>% 
+  select(taxon_id, rank, kingdom, simple_name, taxon_status, is_in_taiwan)%>%
+  setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status", "is_in_taiwan"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status", "TC_is_in_taiwan")) %>% 
   .[, TC_rank := tolower(TC_rank)]%>%
   filter(TC_kingdom %in% "Animalia")
 

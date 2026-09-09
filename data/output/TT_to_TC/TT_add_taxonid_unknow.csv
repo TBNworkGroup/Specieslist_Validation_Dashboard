@@ -1,4 +1,5 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName
+91a11221-683c-46f0-af67-40377b2ebfc1,genus,Plantae,"",Phylloglossum
 cc33c5b8-c1d5-49aa-81f9-167874e747a1,genus,Plantae,"",Syngramma
 7e18b850-0fef-4dc1-aceb-84c8a9bbce93,genus,Plantae,"",Cassebeera
 01970f1e-52b5-45aa-8e52-0b4ffecdddd9,genus,Plantae,"",Notholaena
@@ -18,6 +19,7 @@ fa993e57-2274-4721-89b7-005d46999c07,genus,Plantae,"",Kaulinia
 ca130359-3939-460c-ba8c-11fee8fd205b,genus,Plantae,"",Peramium
 ed3e041b-045b-49b0-aafd-59ffd9d747d2,genus,Plantae,"",Evrardia
 3956c309-51ee-47d3-b74c-9e23b17968d4,genus,Plantae,"",Heterozeuxine
+20259ca6-3d5d-4fcc-9609-d8f22e5588e7,genus,Plantae,"",Daemonorops
 99827110-ac74-40e2-aca7-11cd5b2b02cc,genus,Plantae,"",Banksia
 9e61bd4b-ee4a-44b2-9153-543980bee768,genus,Plantae,"",Embothrium
 8ca59b08-28df-4e43-8a38-e5dedfc67a9e,genus,Plantae,"",Lythrum
@@ -93,7 +95,6 @@ a1f2f674-9b44-4226-bbc6-7e83f698a34e,species,Plantae,"",Benthamidia japonica
 726dde5a-bfeb-4122-8cb9-70f238c13be9,species,Plantae,"",Lycopersicon lycopersicum
 1fe1eb9d-f02e-4bc9-958d-6cd41ae0b57f,species,Plantae,"",Justicia ciliata
 676ee9bf-845b-4c13-a8bd-b5f03f44ec24,species,Plantae,"",Scutellaria javanica
-41fdacdf-9d12-4548-a433-44589cffd48b,species,Plantae,"",Nidorella aegyptiaca
 385cf856-ce13-42f8-8263-04dbd3636b63,species,Plantae,"",Eschenbachia leucantha
 474c0af4-a776-4eeb-865f-7ce918ee469d,species,Plantae,"",Ixeris japonica
 50d90673-a0ec-4ea5-b4a7-b4f9d4f188da,species,Plantae,"",Paraprenanthes melanantha
@@ -122,14 +123,15 @@ d34505ed-c44e-4b91-9508-eabf77aa7181,infraspecies,Plantae,"",Glycine max max
 b9425193-185d-419a-b069-e8f38f3dbaf5,infraspecies,Plantae,"",Pueraria phaseoloides javanica
 36f34af2-771b-480c-a8ee-5cf72c929d94,infraspecies,Plantae,"",Tephrosia purpurea glabra
 0aeb22ab-4b64-4881-af24-180a7e78dfbb,infraspecies,Plantae,"",Rhaphiolepis indica impressivena
+f2081c23-bcdf-4dcd-b494-4280c6908547,infraspecies,Plantae,"",Citrus nobilis sunki
 c68fed92-900b-4206-8fff-966d2b0afe29,infraspecies,Plantae,"",Hibiscus indicus integrilobus
 898999d1-60d0-451b-9974-c8ac9653d828,infraspecies,Plantae,"",Mitrastemon yamamotoi kanehirae
 00c9644a-8ff4-492c-a74d-6bcfc5f5cefa,species,Plantae,"",Neanotis kwangtungensis
 69faf29c-90ab-4d24-b035-bf3d47029b92,infraspecies,Plantae,"",Veronicastrum axillare simadae
+92f83302-a2f2-4d93-b7f4-54c0896cf9e5,infraspecies,Plantae,"",Lycopus lucidus formosanus
 9164c378-ef51-4423-a166-1a979c73a97d,species,Plantae,"",Bidens alba
 c1f17225-9bc3-43f3-9179-3aaa1d8c6ed9,species,Plantae,"",Echinochloa crus-pavonis
 f4f7a53e-75cd-45b0-beb6-f4dac90811ee,species,Plantae,"",Blindia acuta
-534293e3-4d9b-42fb-93e5-8a09a36c62d6,species,Animalia,"",Podocnemis unifilis
 8dde94e5-cee0-426a-bbf8-bee0288a77e9,infraspecies,Plantae,"",Carex japonica subtransversa
 3a19bf15-7699-4e71-9d1a-a3d38efce030,infraspecies,Plantae,"",Bothriochloa bladhii bladhii
 69c1b7de-8e55-42c2-8004-f3c2888d13c5,infraspecies,Plantae,"",Symplocos sonoharae formosana
@@ -144,11 +146,8 @@ ada9443f-e339-4a1b-8f56-74da348cd55a,infraspecies,Plantae,"",Hemipilia takasagom
 a285c7a1-60da-474f-8da9-42ff732368b3,species,Plantae,"",Epipogium meridianum
 5178421c-7e36-4645-a52c-64d3373c52b4,infraspecies,Plantae,"",Polygonatum arisanense arisanense
 38ac1453-8f04-4fe6-99a1-02b2ded6b9d2,infraspecies,Plantae,"",Polygonatum arisanense formosanum
-b8bf8509-0dc8-4042-a722-b0f0e44d9697,species,Animalia,"",Procyon lotor
 7e1d8f45-9534-4bc8-9419-bdaa915a06fa,infraspecies,Plantae,"",Hypodematium crenatum loyalii
 6b7820f3-181a-4413-815d-5f653d193cc7,genus,Plantae,"",Eriochrysis
-ffbfd34a-640d-485a-83d5-6da6cc031dad,genus,Animalia,"",Pyrrhocorax
-c9ee301c-8be3-4dde-8542-8aa54aae1742,species,Animalia,"",Pyrrhocorax pyrrhocorax
 15d36f27-fcf9-4a18-be65-f8e377dd5916,species,Plantae,"",Glochidion lanyuense
 122c289d-21c2-4c1a-bab4-9537ce88e3f4,infraspecies,Plantae,"",Fimbristylis dichotoma tikushiensis
 f6a84e81-b870-4990-9cc4-ed9ce8d06f97,infraspecies,Plantae,"",Fimbristylis dichotoma dichotoma
@@ -159,11 +158,13 @@ d2f09a9a-5397-422d-875e-1f22a49e0154,infraspecies,Plantae,"",Cheirostylis tortil
 bb8d63a5-fcd7-40c5-be68-2d7149fcf989,infraspecies,Plantae,"",Machilus obovatifolius obovatifolius
 8647e30d-c757-4af6-8502-288b315074f1,infraspecies,Plantae,"",Camphora officinarum officinarum
 439ad63d-8454-4d3d-bc54-5f108a60c844,species,Plantae,"",Equisetum hyemale
+bbdf6171-8732-4e07-b8ef-d176d24fccba,species,Plantae,"",Kalanchoe serrata
 49f9f976-4fe6-4ff0-9114-f7c9af798664,species,Plantae,"",Begonia hohuanensis
 2d11ca8e-1e46-4259-b657-9005cd1b2359,genus,Plantae,"",Tashiroea
 f29636b7-8e0b-472f-bbd5-8f2e6ca14281,genus,Plantae,"",Glyptopetalum
 fe626ee4-059d-47aa-a4d3-579a27865a74,species,Plantae,"",Begonia kuofangii
 5547ec58-ddc6-4051-8688-dccccc969117,species,Plantae,"",Angelica japonica
+64dc65ff-8302-4afd-92d4-539351ca73a0,infraspecies,Plantae,"",Carex breviculmis leucochlora
 8b43dfc2-5105-4b46-8787-54967af187f1,superdomain,"","",Cellular Organisms
 ccd11454-a14f-4ba4-81d9-b135e1ff7ba7,kingdom,Postgaardia,"",Postgaardia
 d08f6498-abca-4c04-893e-a6e7856d6199,kingdom,Glycomonada,"",Glycomonada
@@ -351,25 +352,6 @@ bf180942-04ed-4416-8c03-0bca159d3ba6,order,Fungi,"",Ceratobasidiales
 3d0b0ab5-0db1-4c64-86a2-021b9debe2b3,order,Fungi,"",Lycoperdales
 37975121-02a6-4e14-acc0-b05eeffeffdb,order,Fungi,"",Halosphaeriales
 5726421d-704b-4fe0-b1fd-6251b35ecbdb,family,Protozoa,"",Alabaminidae
-c1681d98-1571-4cfb-a7d5-549353bf8fd2,family,Animalia,"",Cybaeidae
-f6aea42e-f8a5-482b-89aa-57bab7b3b3c7,family,Animalia,"",Phonognathidae
-2fd599e9-f181-4634-b8b5-af5bed833d09,family,Animalia,"",Prodidomidae
-aab869af-3661-47da-bf86-86f2a9220067,family,Animalia,"",Urocteidae
-ff2ea52c-1d12-413f-8472-d3e347364221,genus,Animalia,"",Takachihoa
-72bb4713-6919-47ab-99a3-ab280038b6c2,genus,Animalia,"",Pseudotriaeris
-2fa10be7-79c4-4c25-8ad6-e6b3c2f5fdea,genus,Animalia,"",Itatsina
-02531bda-5ccf-4287-9b3d-51f0980929bf,genus,Animalia,"",Pakawops
-f2f9c643-a583-4918-b0ff-5a2bc348b314,genus,Animalia,"",Perisesarma
-f194eecd-8d8f-40f6-b764-38e579e67ca2,genus,Animalia,"",Asthenognathus
-5dd79a54-e0c3-427b-bb1a-bd985e84999a,genus,Animalia,"",Ranilia
-4eeb1d83-39f4-4f27-a614-a618924a575a,genus,Animalia,"",Melophus
-f7babfd0-fa79-4d92-941f-ad1d598ac828,genus,Animalia,"",Scolymia
-aa4db525-a5f4-4988-8515-1aaa73abd4d6,genus,Animalia,"",Symphyllia
-2d36e5e6-c69c-4ab1-90e7-108e64745f4e,genus,Animalia,"",Atrachya
-21e9a521-3876-4ebc-9702-e08806e2d743,genus,Animalia,"",Rondonia
-5ea6c0f7-476b-45ce-9983-bfc6db2460c8,genus,Animalia,"",Ovalisia
-d0d240cb-b1d8-4fed-9eec-b34ba74525b0,genus,Animalia,"",Genusa
-91a11221-683c-46f0-af67-40377b2ebfc1,genus,Plantae,"",Phylloglossum
 4040ff5b-144e-4ac8-8cae-9a1fc8eeccf0,genus,Plantae,"",Tmesipteris
 1879b21d-2229-482c-b0f8-08829b495c1d,genus,Plantae,"",Cheiroglossa
 4f08aa13-ed93-470b-99aa-f647caedacb8,genus,Plantae,"",Mankyua
@@ -555,7 +537,6 @@ fa5190fb-2f76-4bb9-979f-79590e3a6096,genus,Plantae,"",Urceolina
 6eef6ed6-cec7-495c-8127-732a588b9a52,genus,Plantae,"",Galanthus
 d9d7bc47-e145-4ccf-b1f6-80d8adf0e9e7,genus,Plantae,"",Nerine
 17e293fa-8bc0-455b-bbaf-fc7013ebc73a,genus,Plantae,"",Attalea
-20259ca6-3d5d-4fcc-9609-d8f22e5588e7,genus,Plantae,"",Daemonorops
 8cc58c57-dfd2-4670-92ca-bfff9f5d3ecc,genus,Plantae,"",Metroxylon
 2409bae8-65b8-490a-8b5a-1542e1768bb2,genus,Plantae,"",Phytelephas
 fba5aa0a-973b-4d26-88ab-b5b918ab629f,genus,Plantae,"",Rhaphidophyllum
@@ -957,18 +938,6 @@ ab43fe31-d74b-4bdd-8242-ebd9263e32ab,genus,Protozoa,"",Amphymenium
 78870659-d488-4599-b8e6-a3f98276f091,genus,Protozoa,"",Tristephanium
 ab1b5e85-40f8-4d98-aa9e-4e4a70a16786,genus,Protozoa,"",Zoogloea
 b1e2debd-6f50-4cbc-9b1c-702be05585e3,genus,Protozoa,"",Urostyla
-5de8bd5a-3f3f-4a19-9f48-6a5bf5127ac4,genus,Animalia,"",Cicurina
-c94faa63-e076-4cfa-8eee-a6395e31a359,genus,Animalia,"",Lepthyphantes
-03cb1ec3-8b54-4876-b755-05406c0e2ab8,species,Animalia,"",Carrhotus viduus
-f46df285-149a-4f13-93d5-a70ada0dcc7f,genus,Animalia,"",Parazygiella
-b171dc05-c8fd-4e82-b141-7f117bc01272,genus,Animalia,"",Pharta
-705455ce-00b6-44c2-9039-97d22a0521e8,genus,Animalia,"",Borboropactus
-6b0ee843-5e1f-4c91-91d1-269bdb508f67,genus,Animalia,"",Epidius
-b8e781e8-5c7a-4d5b-8ae1-334aa265135c,genus,Animalia,"",Strigoplus
-ee4f511e-e133-4be6-b226-c3e6aa97f3ec,genus,Animalia,"",Phaeacius
-64e5a6a3-8851-4e01-872a-228d109ef76b,genus,Animalia,"",Pseudicius
-9b46e617-4d01-4ffd-9fe1-6a15711d772b,genus,Animalia,"",Simaetha
-6293efc7-f08e-45b4-818c-225d7ef8d470,genus,Animalia,"",Trachelas
 fa561dd6-3909-42f3-9bc2-e4444c64c707,species,Animalia,"",Amphiesma sp.
 c4a10c3b-1a8f-4faf-b55d-3a59c15929dc,species,Plantae,"",Angiopteris ×itoi
 b5be57f3-76c5-42be-ab5b-20410903e3d5,species,Plantae,"",Lindsaea ×heterophylla
@@ -1301,7 +1270,6 @@ ae13245a-1d93-4355-bee5-ada21ce6171a,infraspecies,Plantae,"",Citrus maxima mitsu
 07812c38-9c02-4d49-a537-bd4eb2352921,infraspecies,Plantae,"",Citrus maxima santoyu
 1b1da9c3-4d04-4e90-96dc-6b8abb4cf1e3,infraspecies,Plantae,"",Citrus maxima soyu
 456e9bab-a5ea-43f1-b128-b386a9e036b5,infraspecies,Plantae,"",Citrus maxima uyoyu
-f2081c23-bcdf-4dcd-b494-4280c6908547,infraspecies,Plantae,"",Citrus nobilis sunki
 d5857015-979e-41b7-8595-6c48823ab077,infraspecies,Plantae,"",Citrus sinensis brasiliensis
 39539d02-06d1-431b-84e9-f01d0c3f4550,infraspecies,Plantae,"",Citrus tankan hairi
 d35660a4-d6b2-427f-b7c8-a0f09882bd8b,infraspecies,Plantae,"",Citrus tankan koshotankan
@@ -1359,7 +1327,6 @@ e3766bdc-cbc8-41dd-82ac-d99f81f7308c,infraspecies,Plantae,"",Pseuderanthemum car
 01b7fed1-e1f2-4bb9-810a-26e34ae92fdf,infraspecies,Plantae,"",Salvia viridis horminum
 f3567673-a12f-4041-8755-747c4ea7f9fa,infraspecies,Plantae,"",Callicarpa formosana albiflora
 01cb0b90-25c6-478f-9011-962987591af9,infraspecies,Plantae,"",Leonurus sibiricus albiflorus
-92f83302-a2f2-4d93-b7f4-54c0896cf9e5,infraspecies,Plantae,"",Lycopus lucidus formosanus
 f011e43a-2eaf-4b51-a9f2-523ed4f60cb6,infraspecies,Plantae,"",Mentha arvensis vulgaris
 922d6727-7e2f-4e56-aa59-4a4d92e201ab,infraspecies,Plantae,"",Codonopsis convolvulacea forrestii
 780657f8-f3e2-49b4-b186-fae9288783f6,infraspecies,Plantae,"",Codonopsis pilosula tangshen
@@ -1670,8 +1637,6 @@ fee015c2-42f9-4f83-b5ca-bc40cb3e6475,species,Plantae,"",Jamesoniella autumnalis
 9f308913-1a30-4a57-9083-a8ec619ff038,species,Plantae,"",Jamesoniella nipponica
 45ed3374-f200-4575-91fa-f76fb90958e8,species,Plantae,"",Elaeocarpus hainanensis
 cfd8dfc9-0101-4371-ba39-8e749f5e9a99,family,Chromista,"",Coccolithophyceae familia incertae sedis
-719a16e9-f32e-4b87-a097-1419d5ad8483,genus,Animalia,"",Centrochelys
-060c8136-2fe0-4478-8f68-c2d1a85b413d,species,Animalia,"",Centrochelys sulcata
 09e90618-f886-41a6-ba61-2cb9b57bd50b,genus,Fungi,"",Dendriscosticta
 9aaea9a4-924e-46db-8ff3-221b3007b150,species,Fungi,"",Dendriscosticta phyllidiata
 4bb172c2-9a5b-4e87-a946-a821662075f9,subkingdom,Podiata,"",Opisthokonta
@@ -1706,18 +1671,7 @@ f3cd11f9-98ca-49c3-949e-d00360230869,species,Plantae,"",Ludwigia polycarpa
 f14f3b89-82ab-4e6b-a0db-5db546f669a0,species,Plantae,"",Lycopodium nikoense
 04df8609-322d-49eb-964b-c9ee7a1cbb42,species,Plantae,"",Lycopodium alticola
 b8df93db-b834-4642-aeda-f83324d78d4b,species,Plantae,"",Lycopodium sabinifolium
-acddc1c1-a831-4a77-9a00-afc0563f0eeb,family,Animalia,"",Erinaceidae
-d54c2752-1c95-4d66-bbe1-2651d60b4076,genus,Animalia,"",Atelerix
-f74027db-c09c-4b80-9e77-899963012aea,genus,Animalia,"",Tropidoclonion
-2d8e7d95-6403-4490-9ddc-4444557f3b28,species,Animalia,"",Tropidoclonion lineatum
-e891dcd1-c1f7-4ae2-b08f-9d349583f8ae,genus,Animalia,"",Alle
-1693137d-a211-4743-b37f-8bc43ebbe2e1,species,Animalia,"",Alle alle
-ade52c8a-ed3a-4ea2-9829-ae725d377255,species,Animalia,"",Pyrrhura molinae
 1ad38a59-ff03-42f5-a001-26d8cfdf335f,suborder,Animalia,"",Lacertilia
-291cedc4-013d-4937-806f-1e1a40fd6fca,suborder,Animalia,"",Yangochiroptera
-8d778e7d-8fba-4004-a930-16410467724c,suborder,Animalia,"",Yinpterochiroptera
-1733bbe3-48a8-433e-9bb0-688d14e943a8,species,Animalia,"",Mustela putorius
-ad4a8f2c-9cbf-4170-9a6d-66c8dacd57d4,infraspecies,Animalia,"",Mustela putorius furo
 4b284a25-26df-4dc1-8cdf-cf806a8617c7,species,Plantae,"",Calanthe kibanakirishima
 221701bc-522f-437d-962d-faeec575181f,species,Plantae,"",Platanus ×hispanica
 8055e4ae-9b76-463b-820b-0d56226d8b5b,species,Plantae,"",Camellia ×williamsii
@@ -1742,11 +1696,8 @@ e55f402e-7cf3-4708-89bb-6d75d8a69f2d,class,Chromista,"",Haptophyta classis incer
 2859cd83-587d-4290-a67b-71ce98eef282,class,Chromista,"",Bacillariophyta classis incertae sedis
 2c96c00c-3a33-4cf7-b2cf-c07b30adb17e,order,Chromista,"",Bacillariophyta ordo incertae sedis
 c1a84612-680b-413b-b1a9-f565310c291b,family,Chromista,"",Haptophyta familia incertae sedis
-7acefabd-e6c5-4382-93f2-ef3bb0adfa04,genus,Animalia,"",Cybaeus
 2e157381-e962-47ba-8c09-327b963415d3,order,Chromista,"",Bacillariophyceae ordo incertae sedis
 7be62d0a-af51-433f-b67c-97dfe982240d,family,Chromista,"",Bacillariophyceae familia incertae sedis
-102f66f6-7bdd-4057-ae8c-a097c134390d,family,Animalia,"",Procyonidae
-cbd2d7e7-d44c-4ba1-805f-eb0f16441b4d,genus,Animalia,"",Procyon
 4a97ad3b-e896-4451-a023-f1faf8bbf5fd,family,Fungi,"",Hermatomycetacea
 5785e3f8-63d2-482f-97bf-6a1094315a8f,genus,Plantae,"",Tetracera
 ac18870f-8fa2-472c-b8b0-611861967a11,species,Plantae,"",Tetracera sarmentosa
@@ -1788,50 +1739,6 @@ edc5c7e3-878e-4acf-a1ec-8c02c0ec87ba,family,Fungi,"",Diaporthales familia incert
 1a795110-483e-452d-8c7e-558b56a56289,family,Protozoa,"",Odontostomatida familia incertae sedis
 f9901a66-1eb2-4bcf-a027-18c0272614db,order,Fungi,"",Eurotiomycetes ordo incertae sedis
 d08287cf-dd13-4b16-b78b-031dba880198,family,Fungi,"",Eurotiomycetes familia incertae sedis
-83a6d38e-97c9-44a5-908f-a33347324730,family,Animalia,"",Petauridae
-383f3c0c-6b40-4326-a8f2-47df1d3779db,genus,Animalia,"",Petaurus
-c10373f4-265a-48dd-9c00-9c9fdd23a51d,species,Animalia,"",Petaurus breviceps
-8f38b975-ce34-4f12-9026-07d1d90e5b7a,genus,Animalia,"",Euplectes
-d9458b74-f1be-4d0e-8077-c977030e3ea5,species,Animalia,"",Euplectes orix
-a52434ab-692e-448e-836a-14e8be55520f,species,Animalia,"",Machlolophus spilonotus
-7b8af3a7-4be8-4169-836a-152ee2d5183b,species,Animalia,"",Amandava subflava
-3e7a03fb-17d5-40b3-8606-176bf4e1fb2e,species,Animalia,"",Agapornis personatus
-aafb6332-190b-4cc6-ab49-27acef3386b4,species,Animalia,"",Ara chloropterus
-d70ff556-a979-4ab5-ac6b-3d7e63c80500,genus,Animalia,"",Callonetta
-606ec845-ddff-4d26-9328-f98262379fe3,species,Animalia,"",Callonetta leucophrys
-9f436600-6456-4262-84b7-90ce760b00f7,family,Animalia,"",Chloropseidae
-9c0f14d5-ff72-4e4c-9c82-809667299ee6,species,Animalia,"",Crithagra citrinipectus
-becfc705-8db1-42dc-b6cb-e6d2633ad6cd,genus,Animalia,"",Dacelo
-7099f442-8a53-4a2d-8931-ffbe3c84fd04,species,Animalia,"",Dacelo novaeguineae
-7bfc652d-5ba2-460e-af0f-814beeba48df,species,Animalia,"",Chloropsis cochinchinensis
-88109162-83db-4b4b-af8e-22792fbb4871,genus,Animalia,"",Diopsittaca
-ad201582-e7a7-4fd9-a0ed-c221a73c4b3d,species,Animalia,"",Diopsittaca nobilis
-fb3b13dd-8624-4db7-9ca1-2c9cb4f83355,genus,Animalia,"",Eclectus
-a5935862-582d-4613-bb75-ced685072303,species,Animalia,"",Eclectus roratus
-e74e163c-ed0b-4267-ba67-6504901c45fa,species,Animalia,"",Geokichla dohertyi
-3c68165d-64e0-4bbc-abcb-a4efc5896034,species,Animalia,"",Geopelia cuneata
-3f3457bf-296d-4ce0-82cd-2dc112fa3b02,species,Animalia,"",Lamprotornis caudatus
-e8994324-2f7b-49c1-9c8e-43dd476d9033,genus,Animalia,"",Meleagris
-404f67b3-05ea-4bc3-91ef-0991c7689583,species,Animalia,"",Meleagris gallopavo
-49de3093-d632-4700-9366-83bc033be1fa,genus,Animalia,"",Myiopsitta
-959dcb70-5972-4529-866b-cc978cad8045,species,Animalia,"",Myiopsitta monachus
-b63e2041-4bd7-4b71-a668-0a4069c044f6,family,Animalia,"",Numididae
-ea44b831-25fd-4155-8602-fe98cc506c81,genus,Animalia,"",Numida
-e709d5b2-c640-4667-9fb8-60666b1ee392,species,Animalia,"",Numida meleagris
-c2cecd50-1308-44b9-b2c3-1642ff6457f4,genus,Animalia,"",Parabuteo
-9183b1fe-1421-422a-9fb0-c39fdd68d1b9,species,Animalia,"",Parabuteo unicinctus
-af33d0b9-46a7-4906-ab03-92dfe27e3619,species,Animalia,"",Paroaria gularis
-d23a3d9c-afd8-4445-84d0-b4c9f1ab11b5,species,Animalia,"",Ploceus jacksoni
-f6548d21-5627-4147-8e4c-84df9cdf06da,species,Animalia,"",Poicephalus senegalus
-c8e63a90-eac2-4f16-844c-dfa66e8abeea,species,Animalia,"",Primolius auricollis
-6cab629c-9118-4a46-91a5-70cebb210609,genus,Animalia,"",Psittacara
-2a2a5e09-0cc1-4ea0-8876-d3a1add0bbbd,species,Animalia,"",Psittacara erythrogenys
-6b954751-7b3e-43e8-a855-d3d098f01ffc,species,Animalia,"",Psittacula eupatria
-54a5c8b3-778a-46e0-9b9c-7d36799b3c18,species,Animalia,"",Trichoglossus moluccanus
-df813c85-d964-4849-b506-d315679eb937,species,Animalia,"",Trichoglossus rubritorquis
-fb46b4e5-d2b4-43ba-a5db-f3cc22bf92b1,species,Animalia,"",Trochalopteron formosum
-ca04b9ad-203b-49a4-9ff4-25a903752d32,species,Animalia,"",Vidua chalybeata
-236baa19-37c4-41b9-8761-dc2e29ec67f5,species,Animalia,"",Vidua obtusa
 b26cd335-4e3c-4dd6-b06d-41f16f44473f,subkingdom,Plantae,"",Rhodobiotina
 1c69ce3c-2843-40e1-8645-87ef85dbd256,subkingdom,Plantae,"",Glaucobiotina
 9a5dce40-034b-4d6c-b38b-e300d7a85737,superphylum,Plantae,"",Mesostigmatophytes
@@ -1956,14 +1863,8 @@ c99c12de-169e-403c-8093-878565c80490,species,Plantae,"",Cardiopteris moluccana
 7023a518-94b8-4187-9a44-51057d8f3e87,species,Plantae,"",Arabis shengkuangshanensis
 4a869b14-ea02-4c23-8b39-1fc9b4e23bb5,species,Plantae,"",Urceolina amazonica
 b70bee0e-29ae-40c8-9d52-139e642481b5,species,Plantae,"",Aristolochia fangchi
-47011ba1-a5ba-4aa0-937e-caf42b93cc20,species,Animalia,"",Euplectes afer
-97a584e6-1689-45ee-a654-5dc2624f3143,genus,Animalia,"",Stizoptera
-8d3b0f6d-7b24-4e98-bd0c-dc51897a7587,species,Animalia,"",Stizoptera bichenovii
-58b25f68-0a3d-43a8-a3f0-1e1125dcfa45,genus,Animalia,"",Graptemys
-e6ed5b5d-64c0-41f6-b7d9-2142899acee4,species,Animalia,"",Graptemys ouachitensis
 3eb87435-dd2d-43f2-9405-f99a5ed92d3c,species,Plantae,"",Ania hongkongensis
 8c100a1d-4592-4b0b-a0dc-371459a6ae1c,species,Plantae,"",Dendrobium lindleyi
-bbdf6171-8732-4e07-b8ef-d176d24fccba,species,Plantae,"",Kalanchoe serrata
 335c860b-2aee-4ad8-8c5d-d49b73c2ddfb,infraspecies,Plantae,"",Mucuna gigantea gigantea
 21c0aa63-ddf0-4b29-8db4-f16b5556b83c,species,Plantae,"",Mucuna bennettii
 02cf592d-0396-42fd-885c-3937fe4e449e,species,Plantae,"",Mucuna birdwoodiana
@@ -2024,3 +1925,6 @@ e2a76ee0-ef4f-4555-9444-7dc3deb666b0,infraspecies,Plantae,"",Phalaenopsis ×ambo
 438ae3ca-c265-4e89-b225-797daf830f75,infraspecies,Plantae,"",Phalaenopsis ×ambotrana Fort Caroline Orchids
 00c43fd5-d8f2-498d-84e7-816ec7c221b8,species,Plantae,"",Selenicereus monacanthus
 a6d85235-609a-4dbc-8357-19e95cc79e6d,species,Plantae,"",Selenicereus megalanthus
+3018b0d6-8ddf-4f06-86be-7353d30a030b,species,Plantae,"",Spiridens reinwardti
+4923ce2d-9fba-45d9-94cb-6474888b794b,infraspecies,Plantae,"",Carex breviculmis breviculmis
+3252490e-04b9-4c01-b929-cb908aca782e,species,Plantae,"",Euphorbia dioeca
