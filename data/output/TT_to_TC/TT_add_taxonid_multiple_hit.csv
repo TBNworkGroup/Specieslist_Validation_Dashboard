@@ -1,7 +1,6 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,hit_index,taicol_taxon_id,taicol_status
 914b45f6-870c-4066-883c-0a83d4da6b8b,phylum,Plantae,"",Chlorophyta,1,t0000093,accepted
 914b45f6-870c-4066-883c-0a83d4da6b8b,phylum,Plantae,"",Chlorophyta,2,t0000026,accepted
-91a11221-683c-46f0-af67-40377b2ebfc1,genus,Plantae,"",Phylloglossum,1,[],
 87fe9b9d-8291-4f3c-8b27-480d2edad7c1,genus,Plantae,"",Culcita,1,t0012509,accepted
 87fe9b9d-8291-4f3c-8b27-480d2edad7c1,genus,Plantae,"",Culcita,2,,
 cc33c5b8-c1d5-49aa-81f9-167874e747a1,genus,Plantae,"",Syngramma,1,[],
@@ -21,6 +20,7 @@ ff709517-7741-4881-948c-c69327f2faf6,genus,Plantae,"",Dendroconche,1,[],
 fa993e57-2274-4721-89b7-005d46999c07,genus,Plantae,"",Kaulinia,1,[],
 7cf0e37a-3916-42c5-b7cd-afd65f421200,genus,Plantae,"",Ocotea,1,[],
 589fb5b0-466c-4fd7-90f6-aa34574869a2,genus,Plantae,"",Orontium,1,[],
+4147133f-4367-4b81-ae31-85b882155403,genus,Plantae,"",Salacistis,1,[],
 bacd5364-8080-4ee1-94a6-ac8760490824,genus,Plantae,"",Maxillaria,1,t0095591,accepted
 bacd5364-8080-4ee1-94a6-ac8760490824,genus,Plantae,"",Maxillaria,2,t0092895,accepted
 4fb88b54-7a27-43fd-8c08-01c8b739c21f,genus,Plantae,"",Platyclinis,1,[],
@@ -36,6 +36,7 @@ ed3e041b-045b-49b0-aafd-59ffd9d747d2,genus,Plantae,"",Evrardia,1,[],
 9e61bd4b-ee4a-44b2-9153-543980bee768,genus,Plantae,"",Embothrium,1,[],
 8ca59b08-28df-4e43-8a38-e5dedfc67a9e,genus,Plantae,"",Lythrum,1,[],
 5228c1da-8576-4b9a-800d-0f5be9a33159,genus,Plantae,"",Peplis,1,[],
+264d88ed-55db-4780-bc5d-a2fd47f65c23,genus,Plantae,"",Dissotis,1,[],
 b8e1c850-271e-4538-8394-25139caca796,genus,Plantae,"",Miconia,1,[],
 0690f065-57ca-4177-a7e7-aa0ed2240a53,genus,Plantae,"",Trichilia,1,[],
 3976c1c6-6439-4fe2-b3ec-0c40dcf548dd,genus,Plantae,"",Dombeya,1,,
@@ -46,6 +47,7 @@ f19f9ffb-29d3-4332-9263-baabe3218462,genus,Plantae,"",Polanisia,1,[],
 eb69c9d4-8061-4ddc-a375-20eb8bea59dc,genus,Plantae,"",Gordonia,1,t0002704,accepted
 eb69c9d4-8061-4ddc-a375-20eb8bea59dc,genus,Plantae,"",Gordonia,2,t0088182,accepted
 36a43a3a-a52f-4b59-bab8-4706d1b74cdb,genus,Plantae,"",Pulmonaria,1,[],
+056fa34f-315a-42df-a1b2-80fb2b927621,genus,Plantae,"",Pseudoconyza,1,[],
 00050737-6553-4180-b540-3612d9afe252,genus,Plantae,"",Schizocodon,1,[],
 06a393a8-984e-4c0d-a846-a4b21bdee2c0,genus,Fungi,"",Asterocalyx,1,t0007086,not-accepted
 06a393a8-984e-4c0d-a846-a4b21bdee2c0,genus,Fungi,"",Asterocalyx,2,t0007086,misapplied
@@ -56,8 +58,8 @@ cb98fe64-7a6d-44f8-af2f-5b4851efeb58,genus,Protozoa,"",Balladyna,2,t0006537,acce
 77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,"",Enteropogon,1,t0023774,accepted
 77492479-c45b-46d6-a0d3-796e32b00be7,genus,Fungi,"",Enteropogon,2,t0006625,accepted
 76b8b24c-ce88-45fb-8834-49559db3c385,species,Plantae,"",Huperzia serrata,1,t0105986,accepted
-76b8b24c-ce88-45fb-8834-49559db3c385,species,Plantae,"",Huperzia serrata,1,t0026336,misapplied
 76b8b24c-ce88-45fb-8834-49559db3c385,species,Plantae,"",Huperzia serrata,1,t0058031,misapplied
+76b8b24c-ce88-45fb-8834-49559db3c385,species,Plantae,"",Huperzia serrata,1,t0026336,misapplied
 cdb0b1bc-fa1d-407c-8e49-a4d46b6a3baa,species,Plantae,"",Selaginella involvens,1,t0026321,accepted
 cdb0b1bc-fa1d-407c-8e49-a4d46b6a3baa,species,Plantae,"",Selaginella involvens,1,t0026329,misapplied
 f2abf239-7bc8-4dc6-89d0-93719da698d9,species,Plantae,"",Selaginella flabellata,1,t0026318,not-accepted
@@ -67,8 +69,8 @@ f307679e-e3d2-453a-b437-47ba05e9c85b,species,Plantae,"",Selaginella philippina,1
 e0fce883-ea56-4d4f-b4ab-510dbdae68c5,species,Plantae,"",Selaginella plana,1,t0102742,accepted
 e0fce883-ea56-4d4f-b4ab-510dbdae68c5,species,Plantae,"",Selaginella plana,1,t0026318,misapplied
 b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,1,t0102743,accepted
-b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,1,t0026318,misapplied
 b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,1,t0075866,misapplied
+b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,1,t0026318,misapplied
 f31fd497-ee37-4533-abfa-8ed564afd255,species,Plantae,"",Selaginella atroviridis,1,t0102744,accepted
 f31fd497-ee37-4533-abfa-8ed564afd255,species,Plantae,"",Selaginella atroviridis,1,t0075866,misapplied
 f31fd497-ee37-4533-abfa-8ed564afd255,species,Plantae,"",Selaginella atroviridis,1,t0084628,misapplied
@@ -88,8 +90,8 @@ b1070148-e6b2-45a8-85e3-cd7ee7956d11,species,Plantae,"",Hymenophyllum paniculifl
 b1070148-e6b2-45a8-85e3-cd7ee7956d11,species,Plantae,"",Hymenophyllum paniculiflorum,1,t0046137,misapplied
 1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,1,t0095923,accepted
 1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,1,t0046136,misapplied
-1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,1,t0046137,misapplied
 1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,1,t0105397,misapplied
+1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,1,t0046137,misapplied
 1ac73fde-feda-4cf2-a7cc-4b5f7b300b30,species,Plantae,"",Hymenophyllum polyanthos,1,t0026394,misapplied
 13cba25e-992f-49df-a2e9-7eca1e124dcc,species,Plantae,"",Hymenophyllum taiwanense,1,t0026399,accepted
 13cba25e-992f-49df-a2e9-7eca1e124dcc,species,Plantae,"",Hymenophyllum taiwanense,1,t0026384,misapplied
@@ -211,8 +213,6 @@ a12f9467-8fd5-4d32-b438-133b91f81feb,species,Plantae,"",Polystichum obliquum,1,t
 7150f106-595e-4bb7-88c5-680f648e36d3,species,Plantae,"",Lomariopsis spectabilis,1,t0103631,accepted
 7150f106-595e-4bb7-88c5-680f648e36d3,species,Plantae,"",Lomariopsis spectabilis,1,t0026748,misapplied
 62d3d63d-7263-4ed0-b8ff-34aaa5ea1e89,species,Plantae,"",Nephrolepis exaltata,1,[],
-f8cfd7cf-7909-4687-b4cd-158e2a62deed,species,Plantae,"",Davallia divaricata,1,t0026778,accepted
-f8cfd7cf-7909-4687-b4cd-158e2a62deed,species,Plantae,"",Davallia divaricata,1,t0103459,misapplied
 8b1f84c8-e4b6-4eed-b82c-86ac62335639,species,Plantae,"",Loxogramme remotefrondigera,1,t0026788,accepted
 8b1f84c8-e4b6-4eed-b82c-86ac62335639,species,Plantae,"",Loxogramme remotefrondigera,2,t0026788,not-accepted
 68252d40-a40e-45a7-ae3f-3c6b24f840b3,species,Plantae,"",Selliguea taeniata,1,t0102180,accepted
@@ -225,7 +225,7 @@ c1b9f09c-454c-4d76-aa04-7acc6d837da9,species,Plantae,"",Selliguea rhynchophylla,
 847683d4-10f3-41c1-9dab-ddcff19c92dc,species,Plantae,"",Lepisorus megasorus,1,t0026819,misapplied
 dec9c18e-3403-40e1-be85-5ee6c4b760d5,species,Plantae,"",Lepisorus obscurevenulosus,1,t0026829,accepted
 dec9c18e-3403-40e1-be85-5ee6c4b760d5,species,Plantae,"",Lepisorus obscurevenulosus,2,t0124012,accepted
-e2ecb9d5-6b3a-4530-a6a5-a421c2ccf726,species,Plantae,"",Tricholepidium buergerianum,1,t0102723,not-accepted
+e2ecb9d5-6b3a-4530-a6a5-a421c2ccf726,species,Plantae,"",Tricholepidium buergerianum,1,t0102723,accepted
 e2ecb9d5-6b3a-4530-a6a5-a421c2ccf726,species,Plantae,"",Tricholepidium buergerianum,1,t0026820,misapplied
 045cac42-d9a1-4ea4-ac03-de93c1061ddc,species,Plantae,"",Grammitis fenicis,1,t0102729,accepted
 045cac42-d9a1-4ea4-ac03-de93c1061ddc,species,Plantae,"",Grammitis fenicis,1,t0026864,misapplied
@@ -356,6 +356,10 @@ c74fe3f4-7ae2-4085-a2ac-cc7632320770,species,Plantae,"",Liparis petiolata,1,t005
 6608b88c-3c2a-4adc-95ae-3524aefbcdaf,species,Plantae,"",Oberonia falcata,1,t0054601,misapplied
 6608b88c-3c2a-4adc-95ae-3524aefbcdaf,species,Plantae,"",Oberonia falcata,1,t0103278,misapplied
 366f9dec-4b49-4284-96df-04d0500f7d0c,species,Plantae,"",Oberonia anthropophora,1,[],
+9fedf381-4c6b-409d-940e-cfa0cf813edd,species,Plantae,"",Odontochilus integrus,1,t0058642,accepted
+9fedf381-4c6b-409d-940e-cfa0cf813edd,species,Plantae,"",Odontochilus integrus,2,,
+1d68fd6c-2230-45e4-a93a-52bc094c5a24,species,Plantae,"",Odontochilus yakushimensis,1,t0074979,accepted
+1d68fd6c-2230-45e4-a93a-52bc094c5a24,species,Plantae,"",Odontochilus yakushimensis,2,,
 761cf6dc-3bc9-40bc-89d0-8e567479cfc1,species,Plantae,"",Oreorchis patens,1,t0054639,accepted
 761cf6dc-3bc9-40bc-89d0-8e567479cfc1,species,Plantae,"",Oreorchis patens,1,t0054636,misapplied
 6536ee66-c8e6-4f36-9ede-58f91ad70c77,species,Plantae,"",Phalaenopsis amabilis,1,[],
@@ -556,6 +560,7 @@ bbbf8bb8-d99d-443f-b966-9d2081ee9081,species,Plantae,"",Quercus stenophylloides,
 bbbf8bb8-d99d-443f-b966-9d2081ee9081,species,Plantae,"",Quercus stenophylloides,1,t0055019,misapplied
 2ef0450f-02af-44ff-9b61-86238ca6eea2,species,Plantae,"",Luffa cylindrica,1,t0123917,accepted
 2ef0450f-02af-44ff-9b61-86238ca6eea2,species,Plantae,"",Luffa cylindrica,1,t0074650,misapplied
+b9a28870-e9b9-42a0-8423-b877ccad1c7b,species,Plantae,"",Melothria indica,1,[],
 f00d0bca-0163-436f-b576-bf81f22675f4,species,Plantae,"",Celastrus patentiflorus,1,[],
 6dfc0a8c-7f4d-4099-82ac-853127fd89c6,species,Plantae,"",Euonymus chinensis,1,t0053877,not-accepted
 6dfc0a8c-7f4d-4099-82ac-853127fd89c6,species,Plantae,"",Euonymus chinensis,2,,
@@ -984,7 +989,11 @@ f6a84e81-b870-4990-9cc4-ed9ce8d06f97,infraspecies,Plantae,"",Fimbristylis dichot
 0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,1,t0058456,not-accepted
 0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,1,t0054273,misapplied
 7015477a-feef-4204-828e-9e39ff7984e8,species,Plantae,"",Erythroxylum coca,1,[],
+7b96e52b-ff8a-485a-b372-1f213cbedf9d,genus,Plantae,"",Heterocentron,1,[],
+7b5285bb-9498-4c2a-8a99-328db125a260,genus,Plantae,"",Heterotis,1,[],
 4e00cc8c-aa44-4298-9ba9-0e2088328eea,species,Plantae,"",Cymbidium × oblancifolium,1,[],
+b8fc1500-cd08-434a-a000-146df51fdc44,species,Plantae,"",Heterocentron elegans,1,[],
+dafa5a3a-f0c5-44ba-b956-e7188ec42dbc,species,Plantae,"",Heterotis rotundifolia,1,[],
 d2f09a9a-5397-422d-875e-1f22a49e0154,infraspecies,Plantae,"",Cheirostylis tortilacinia tortilacinia,1,[],
 544f3e5d-29db-43ae-92e3-7bef7fb030f1,infraspecies,Plantae,"",Cheirostylis tortilacinia wutaiensis,1,[],
 bb8d63a5-fcd7-40c5-be68-2d7149fcf989,infraspecies,Plantae,"",Machilus obovatifolius obovatifolius,1,[],
