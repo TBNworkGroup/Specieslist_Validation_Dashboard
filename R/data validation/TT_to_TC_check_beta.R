@@ -8,7 +8,7 @@ sapply(usepackage, library, character.only = TRUE)
 modified_date <- "20260916"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
-df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
+df_TTsplist <- fread(sprintf("../../data/input/TT/test_version/TTsplist_test_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
 
 df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
 
@@ -48,9 +48,9 @@ df_TT_withouttcnamecode <- df_TT_select %>%
   )
 
 
-df_TT_withouttcnamecode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_withouttcnamecode$taxonUUID)
+df_TT_withouttcnamecode$TT_URL <- sprintf("https://vvtaxatree.tbn.org.tw/taxa/%s", df_TT_withouttcnamecode$taxonUUID)
 
-fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC/TT_withouttcnamecode.csv")
+fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC_beta/compare/TT_withouttcnamecode.csv")
 
 
 
@@ -65,9 +65,9 @@ df_TT_withouttcnamecode <- df_TT_select %>%
   )
 
 
-df_TT_withouttcnamecode$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_withouttcnamecode$TT_taxonUUID)
+df_TT_withouttcnamecode$TT_URL <- sprintf("https://vvtaxatree.tbn.org.tw/taxa/%s", df_TT_withouttcnamecode$TT_taxonUUID)
 
-fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC/TT_withouttcnamecode.csv")
+fwrite(df_TT_withouttcnamecode, "../../data/output/TT_to_TC_beta/compare/TT_withouttcnamecode.csv")
 
 
 
@@ -93,7 +93,7 @@ TT_TC_all_same <- df_TT_select %>%
     )
   )
 
-fwrite(TT_TC_all_same, "../../data/output/TT_to_TC/TT_nochange.csv")
+fwrite(TT_TC_all_same, "../../data/output/TT_to_TC_beta/compare/TT_nochange.csv")
 
 # ------------------------------------------------------------------
 # Part A-B: TT與TC，taxon_id、simplifiedScientificName、rank、kindgdom完全一致的分類群
@@ -120,7 +120,7 @@ TT_TC_all_samevers2 <- df_TT_selectvers2 %>%
     )
   )
 
-fwrite(TT_TC_all_samevers2, "../../data/output/TT_to_TC/TT_nameidsame.csv")
+fwrite(TT_TC_all_samevers2, "../../data/output/TT_to_TC_beta/compare/TT_nameidsame.csv")
 
 TT_checkrank_scientificNamevers2 <- df_TT_selectvers2[!(TT_taxonUUID %in% as.vector(TT_TC_all_samevers2$TT_taxonUUID))] |> 
   inner_join(
@@ -130,7 +130,7 @@ TT_checkrank_scientificNamevers2 <- df_TT_selectvers2[!(TT_taxonUUID %in% as.vec
     )
   )
 
-fwrite(TT_checkrank_scientificNamevers2, "../../data/output/TT_to_TC/TT_idsame.csv")
+fwrite(TT_checkrank_scientificNamevers2, "../../data/output/TT_to_TC_beta/compare/TT_idsame.csv")
 
 TT_checkrank_taxon_idvers2 <- df_TT_selectvers2[!(TT_taxonUUID %in% as.vector(TT_TC_all_samevers2$TT_taxonUUID))]%>%
   .[!(.$TT_taxonUUID %in%  as.vector(TT_checkrank_scientificNamevers2$TT_taxonUUID))] %>%
@@ -140,7 +140,7 @@ TT_checkrank_taxon_idvers2 <- df_TT_selectvers2[!(TT_taxonUUID %in% as.vector(TT
       "TT_simplifiedScientificName" = "TC_simple_name"
     )
   )
-fwrite(TT_checkrank_taxon_idvers2, "../../data/output/TT_to_TC/TT_namesame.csv")
+fwrite(TT_checkrank_taxon_idvers2, "../../data/output/TT_to_TC_beta/compare/TT_namesame.csv")
 
 # ------------------------------------------------------------------
 # Part B: TT與TC，TT_taiCOLNameCode、rank、kindgdom完全一致的分類群
@@ -157,7 +157,7 @@ TT_checkrank_scientificName <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_
     )
   )
 
-fwrite(TT_checkrank_scientificName, "../../data/output/TT_to_TC/TT_checkrank_scientificName.csv")
+fwrite(TT_checkrank_scientificName, "../../data/output/TT_to_TC_beta/compare/TT_checkrank_scientificName.csv")
 
 
 
@@ -181,7 +181,7 @@ TT_checkrank_taxon_id <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_sa
 
 
 
-fwrite(TT_checkrank_taxon_id, "../../data/output/TT_to_TC/TT_checkrank_taxon_id.csv")
+fwrite(TT_checkrank_taxon_id, "../../data/output/TT_to_TC_beta/compare/TT_checkrank_taxon_id.csv")
 # ------------------------------------------------------------------
 # Part C: TT與TC，simplifiedScientificName、rank、kindgdom完全一致的分類群
 # ------------------------------------------------------------------
@@ -198,7 +198,7 @@ TT_checkrank_scientificName <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_
     )
   )
 
-fwrite(TT_checkrank_scientificName, "../../data/output/TT_to_TC/TT_checkrank_scientificName.csv")
+fwrite(TT_checkrank_scientificName, "../../data/output/TT_to_TC_beta/compare/TT_checkrank_scientificName.csv")
 # ------------------------------------------------------------------
 # Part D: TT已經是非接受名的分類群
 # ------------------------------------------------------------------
@@ -356,9 +356,9 @@ TT_unknow <- df_TT_select[!(TT_taxonUUID %in% as.vector(TT_TC_all_same$TT_taxonU
   .[!(.$TT_taxonUUID %in%  as.vector(TT_add_taxonid_miss$TT_taxonUUID))]
 
 
-data.table::fwrite(taicol_shape, "../../data/output/TT_to_TC/taicol_taxon_shape_summary.csv")
-data.table::fwrite(TT_add_taxonid_unique, "../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv")
-data.table::fwrite(TT_add_taxonid_multiple, "../../data/output/TT_to_TC/TT_add_taxonid_multiple_hit.csv")
+data.table::fwrite(taicol_shape, "../../data/output/TT_to_TC_beta/compare/taicol_taxon_shape_summary.csv")
+data.table::fwrite(TT_add_taxonid_unique, "../../data/output/TT_to_TC_beta/compare/TT_add_taxonid_unique_hit.csv")
+data.table::fwrite(TT_add_taxonid_multiple, "../../data/output/TT_to_TC_beta/compare/TT_add_taxonid_multiple_hit.csv")
 #data.table::fwrite(TT_add_taxonid_miss, "../../data/output/TT_to_TC/TT_add_taxonid_miss.csv")
 
 #fwrite(TT_unknow, "../../data/output/TT_to_TC/TT_unknow.csv")
@@ -366,11 +366,11 @@ data.table::fwrite(TT_add_taxonid_multiple, "../../data/output/TT_to_TC/TT_add_t
 
 
 # ------------------------------------------------------------------
-TT_add_taxonid_unique <- fread("../../data/output/TT_to_TC/TT_add_taxonid_unique_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+TT_add_taxonid_unique <- fread("../../data/output/TT_to_TC_beta/compare/TT_add_taxonid_unique_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
   filter(taicol_taxon_id %in% "[]") %>% 
   select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName)
 
-TT_add_taxonid_multiple <- fread("../../data/output/TT_to_TC/TT_add_taxonid_multiple_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+TT_add_taxonid_multiple <- fread("../../data/output/TT_to_TC_beta/compare/TT_add_taxonid_multiple_hit.csv", sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
   filter(taicol_taxon_id %in% "[]") %>%
   select(TT_taxonUUID, TT_taxonRank, TT_kingdom, TT_taiCOLNameCode, TT_simplifiedScientificName) %>% 
   unique()
@@ -426,7 +426,7 @@ with_progress({
   }
 })
 TT_add_taxonid_taxon_api <- rbindlist(result_dt_list, fill = TRUE)
-fwrite(TT_add_taxonid_taxon_api, "../../data/output/TT_to_TC/TT_add_taxonid_taxon_api_check.csv")
+fwrite(TT_add_taxonid_taxon_api, "../../data/output/TT_to_TC_beta/compare/TT_add_taxonid_taxon_api_check.csv")
 
 TT_add_taxonid_unknow <- TT_add_taxonid_final[!(TT_taxonUUID %in% as.vector(TT_add_taxonid_taxon_api$TT_taxonUUID))]
-fwrite(TT_add_taxonid_unknow, "../../data/output/TT_to_TC/TT_add_taxonid_unknow.csv")
+fwrite(TT_add_taxonid_unknow, "../../data/output/TT_to_TC_beta/compare/TT_add_taxonid_unknow.csv")
