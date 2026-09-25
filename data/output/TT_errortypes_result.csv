@@ -1,4 +1,5 @@
 taxonUUID,taxonRank,kingdom,simplifiedScientificName,specificEpithet,subspecies,variety,form,cultigen,authorship,subspeciesAuthorship,varietyAuthorship,formAuthorship,errortypes,TT_URL,number_of_occurrence
+43fd292b-d3e7-4311-9540-5326b3627890,class,Plantae,Incertae classis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/43fd292b-d3e7-4311-9540-5326b3627890,1
 7470927c-8a21-4678-817d-d36bf1b95559,genus,Plantae,× Ascocenda,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/7470927c-8a21-4678-817d-d36bf1b95559,0
 da0101e9-de59-4995-ae66-0b82fd9d74b0,genus,Plantae,× Brassidium,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/da0101e9-de59-4995-ae66-0b82fd9d74b0,0
 d6f16a2f-ccee-4f77-9148-ae151d07ab56,genus,Plantae,× Brassocattleya,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/d6f16a2f-ccee-4f77-9148-ae151d07ab56,0
@@ -13,25 +14,39 @@ a6484789-5787-48ba-851a-233ac536ee2a,genus,Plantae,× Vandachostylis,,,,,,,,,,�
 df8c669c-cfa7-441c-a364-571c601c9037,genus,Plantae,× Vandaenopsis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/df8c669c-cfa7-441c-a364-571c601c9037,0
 18e1a9b1-137d-4826-956e-5c19d1baf556,genus,Plantae,× Vandanthe,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/18e1a9b1-137d-4826-956e-5c19d1baf556,0
 d9cc5769-e6f7-491f-b76a-b633f29637db,genus,Plantae,× Phalandopsis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/d9cc5769-e6f7-491f-b76a-b633f29637db,0
-fa561dd6-3909-42f3-9bc2-e4444c64c707,species,Animalia,,sp.,,,,,,,,,錯誤符號與括號前後空格,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707,11
-d4462017-0b38-4b00-9bd5-5505d8668eac,species,Animalia,,sinensis formosae × Pycnonotus taivanus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac,1859
-a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,Animalia,,canorus × Garrulax taewanus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,556
-43fd292b-d3e7-4311-9540-5326b3627890,class,Plantae,Incertae classis,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/43fd292b-d3e7-4311-9540-5326b3627890,1
-1df45c6e-9b6f-499c-8cfb-ad7524f49469,order,Plantae,Incertae ordo,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/1df45c6e-9b6f-499c-8cfb-ad7524f49469,1
-ae9f7e22-26cd-4e30-a788-e380bdabcbb0,family,Plantae,Incertae familia,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/ae9f7e22-26cd-4e30-a788-e380bdabcbb0,1
 1027baf9-badd-47c6-807b-b45fec382348,genus,Plantae,× Rhaphiobotrya,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/1027baf9-badd-47c6-807b-b45fec382348,0
+66eca753-5f9a-48c7-b908-199722e9998d,species,Animalia,,Kayashimai,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/66eca753-5f9a-48c7-b908-199722e9998d,1
 e7fcc177-ddde-4e80-8519-e09dd930bb17,species,Animalia,,fuscoguttatus × Epinephelus lanceolatus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/e7fcc177-ddde-4e80-8519-e09dd930bb17,10
+a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,species,Animalia,,canorus × Garrulax taewanus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/a50fc7b8-0829-48ab-ad5f-2f6eda2f9379,556
+e26461dc-0c39-47cd-9916-88d998263aae,species,Animalia,,atrogularis × Turdus ruficollis,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/e26461dc-0c39-47cd-9916-88d998263aae,2
+4527a4e4-f185-4874-accc-14026d37300e,species,Animalia,,eunomus × Turdus naumanni,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/4527a4e4-f185-4874-accc-14026d37300e,11
+d4462017-0b38-4b00-9bd5-5505d8668eac,species,Animalia,,sinensis formosae × Pycnonotus taivanus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/d4462017-0b38-4b00-9bd5-5505d8668eac,1859
+f70e12da-481c-4b20-9195-06a221800789,species,Animalia,,bergii × Thalasseus bernsteini,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/f70e12da-481c-4b20-9195-06a221800789,0
 d9b11d30-0c58-4f5d-b894-81050b1a110d,species,Animalia,,platyrhynchos × Anas zonorhyncha,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/d9b11d30-0c58-4f5d-b894-81050b1a110d,166
 4434dd52-ae65-483d-9a96-b980f528d42c,species,Animalia,,anser × Anser cygnoides,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/4434dd52-ae65-483d-9a96-b980f528d42c,107
 a02c7882-bc86-456d-bfd3-807215ae54ee,species,Animalia,,fuligula × Aythya marila,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/a02c7882-bc86-456d-bfd3-807215ae54ee,8
 5d947327-9213-40e4-a0ae-1553675dbffd,species,Animalia,,nyroca × Aythya baeri,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/5d947327-9213-40e4-a0ae-1553675dbffd,20
 baeb660b-b9e1-46fc-8cd5-7c931d92f5d3,species,Animalia,,nyroca × Aythya fuligula,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/baeb660b-b9e1-46fc-8cd5-7c931d92f5d3,1
 ad333b7e-3695-4b54-b126-9f585a698ddb,species,Animalia,,moschata × Anas platyrhynchos,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/ad333b7e-3695-4b54-b126-9f585a698ddb,214
-aa8e1560-a3d3-4ef8-9a4f-5b249356374c,species,Animalia,,penelope × Mareca americana,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/aa8e1560-a3d3-4ef8-9a4f-5b249356374c,216
+6a0bd750-3793-403c-abba-57fb49246e85,infraspecies,Animalia,,Botaurus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/6a0bd750-3793-403c-abba-57fb49246e85,12
+480cdaf0-aa28-44f4-b906-780e9aa7a52d,infraspecies,Animalia,,Streptopelia,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/480cdaf0-aa28-44f4-b906-780e9aa7a52d,9399
 7d829265-d00f-4386-a4b4-0748f7c7012f,species,Animalia,,nycticorax × Nycticorax caledonicus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/7d829265-d00f-4386-a4b4-0748f7c7012f,2
 2c16ea40-6145-4fd1-ad95-e23c3bc996a3,species,Animalia,,leucorodia × Platalea minor,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/2c16ea40-6145-4fd1-ad95-e23c3bc996a3,21
+fa561dd6-3909-42f3-9bc2-e4444c64c707,species,Animalia,,sp.,,,,,,,,,錯誤符號與括號前後空格,https://taxatree.tbn.org.tw/taxa/fa561dd6-3909-42f3-9bc2-e4444c64c707,11
+8e92e329-637d-4b0c-b1e3-9122d7ab9463,species,Animalia,,(Helicorbis),,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/8e92e329-637d-4b0c-b1e3-9122d7ab9463,0
 fbb610de-e522-4025-8e9b-3a77e70bb3cd,species,Animalia,,clypeata × Mareca strepera,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/fbb610de-e522-4025-8e9b-3a77e70bb3cd,6
 ad62fe48-a0f2-4f21-8f00-48b6434d0dcb,species,Animalia,,discors × Spatula clypeata,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/ad62fe48-a0f2-4f21-8f00-48b6434d0dcb,5
-f70e12da-481c-4b20-9195-06a221800789,species,Animalia,,bergii × Thalasseus bernsteini,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/f70e12da-481c-4b20-9195-06a221800789,0
-e26461dc-0c39-47cd-9916-88d998263aae,species,Animalia,,atrogularis × Turdus ruficollis,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/e26461dc-0c39-47cd-9916-88d998263aae,2
-4527a4e4-f185-4874-accc-14026d37300e,species,Animalia,,eunomus × Turdus naumanni,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/4527a4e4-f185-4874-accc-14026d37300e,11
+faaa7f62-a740-40c3-abb7-aa4c65f7eef1,infraspecies,Animalia,,Anthicus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/faaa7f62-a740-40c3-abb7-aa4c65f7eef1,0
+85dad353-5fc4-41e4-bd74-30635f0695ff,infraspecies,Animalia,,Daimio,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/85dad353-5fc4-41e4-bd74-30635f0695ff,836
+5a5bcc8a-04da-4f90-9735-563bd9d30ec2,infraspecies,Animalia,,Cosmoscarta,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/5a5bcc8a-04da-4f90-9735-563bd9d30ec2,0
+07e5d6ee-cf0d-4048-933e-16a986180662,species,Animalia,,(Elephantomyia),,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/07e5d6ee-cf0d-4048-933e-16a986180662,1
+8ce908ab-06eb-4702-b2d8-bfc6c1685c71,species,Animalia,,(Elephantomyia),,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/8ce908ab-06eb-4702-b2d8-bfc6c1685c71,1
+985d1296-4d74-4da5-b45c-f87030fc997b,infraspecies,Plantae,,Limnophila,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/985d1296-4d74-4da5-b45c-f87030fc997b,0
+aa8e1560-a3d3-4ef8-9a4f-5b249356374c,species,Animalia,,penelope × Mareca americana,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/aa8e1560-a3d3-4ef8-9a4f-5b249356374c,216
+1df45c6e-9b6f-499c-8cfb-ad7524f49469,order,Plantae,Incertae ordo,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/1df45c6e-9b6f-499c-8cfb-ad7524f49469,1
+ae9f7e22-26cd-4e30-a788-e380bdabcbb0,family,Plantae,Incertae familia,,,,,,,,,,高階層欄位出現多詞格式,https://taxatree.tbn.org.tw/taxa/ae9f7e22-26cd-4e30-a788-e380bdabcbb0,1
+ee0c66fd-cf31-469d-a940-b0c735f3b6c2,infraspecies,Animalia,,Anarhynchus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/ee0c66fd-cf31-469d-a940-b0c735f3b6c2,1352
+74eded14-8860-4fde-8b93-dff81f34bb7c,infraspecies,Animalia,,Anarhynchus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/74eded14-8860-4fde-8b93-dff81f34bb7c,743
+9f357184-4816-4254-bdef-e267f4436c17,infraspecies,Animalia,,Priotyrannus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/9f357184-4816-4254-bdef-e267f4436c17,42
+284a8745-887d-4c46-87bc-b70215cec60b,infraspecies,Animalia,,Priotyrannus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/284a8745-887d-4c46-87bc-b70215cec60b,0
+c7e5ba9a-a9e4-419d-a51f-7f9366bcec83,infraspecies,Animalia,,Anarhynchus,,,,,,,,,大小寫錯誤,https://taxatree.tbn.org.tw/taxa/c7e5ba9a-a9e4-419d-a51f-7f9366bcec83,64

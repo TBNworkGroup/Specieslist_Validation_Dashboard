@@ -63,9 +63,9 @@ t0058341,Subspecies,Tadehagi triquetrum subsp. pseudotriquetrum,錯誤符號與�
 t0058487,Subspecies,Macrocoma tenue subsp. sullivantii,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058487
 t0058533,Subspecies,Meteorium subpolytrichum subsp. horikawa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058533
 t0058847,Subspecies,Codonopsis javanica subsp. japonica,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058847
-t0058863,Subspecies,Coriaria japonica subsp. intermedia,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058863
 t0058911,Subspecies,Cyperus sesquiflorus subsp. cylindricus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058911
 t0058912,Subspecies,Cyperus imbricatus subsp. elongatus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058912
+t0058967,Subspecies,Persicaria attenuata subsp. pulchra,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058967
 t0058992,Subspecies,Phyllachora dolichogena subsp. phaseolina,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058992
 t0059004,Subspecies,Pilea aquarum subsp. brevicornuta,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0059004
 t0059092,Subspecies,Portulaca pilosa subsp. pilosa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0059092
@@ -120,7 +120,6 @@ t0084627,Subspecies,Selaginella doederleinii subsp. doederleinii,錯誤符號與
 t0084628,Subspecies,Selaginella doederleinii subsp. trachyphylla,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084628
 t0084629,Subspecies,Sematophyllum subhumile subsp. japonicum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084629
 t0084630,Subspecies,Sida javensis subsp. expilosa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084630
-t0084631,Subspecies,Sida rhombifolia subsp. insularis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084631
 t0084632,Subspecies,Sinskea flammea subsp. ochracea,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084632
 t0084633,Subspecies,Skimmia japonica subsp. distincte-venulosa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084633
 t0084634,Subspecies,Sorghum bicolor subsp. arundinaceum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0084634
@@ -155,6 +154,7 @@ t0086520,Subspecies,Usnea baileyi subsp. septentrionalis,錯誤符號與括號�
 t0086521,Subspecies,Usnea confusa subsp. pygmoidea,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0086521
 t0086522,Subspecies,Usnea confusa subsp. subconfusa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0086522
 t0086523,Subspecies,Usnea pangiana subsp. hondoensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0086523
+t0086587,Subspecies,Acer buergerianum subsp. formosanum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0086587
 t0087609,Subspecies,Adiantum capillus-veneris subsp. lanyuanum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0087609
 t0088586,Subspecies,Salmonella choleraesuis subsp. choleraesuis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0088586
 t0088763,Subspecies,Lactobacillus delbrueckii subsp. bulgaricus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0088763
@@ -188,7 +188,6 @@ t0101196,Subspecies,Crepidomanes minutum subsp. minutum,錯誤符號與括號前
 t0102094,Subspecies,Cyperus malaccensis subsp. malaccensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0102094
 t0102096,Subspecies,Grona heterocarpa subsp. heterocarpa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0102096
 t0102103,Subspecies,Hylodesmum podocarpum subsp. podocarpum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0102103
-t0102132,Subspecies,Sida rhombifolia subsp. rhombifolia,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0102132
 t0102192,Subspecies,Pteris cretica subsp. cretica,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0102192
 t0102665,Subspecies,Entada phaseoloides subsp. phaseoloides,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0102665
 t0103196,Subspecies,Wisteria frutescens subsp. macrostachya,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0103196
@@ -264,6 +263,7 @@ t0127558,Subspecies,Carduus collinus subsp. collinus,錯誤符號與括號前後
 t0127573,Subspecies,Carex atrofusca subsp. minor,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0127573
 t0127645,Subspecies,Carex harlandii subsp. harlandii,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0127645
 t0127667,Subspecies,Carex laeta subsp. laeta,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0127667
+t0127675,Subspecies,Carex breviculmis subsp. leucochlora,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0127675
 t0127749,Subspecies,Carex rhizina subsp. rhizina,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0127749
 t0127768,Subspecies,Carex stenophylla subsp. stenophylloides,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0127768
 t0127801,Subspecies,Carex wahuensis subsp. sakonis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0127801
@@ -420,3 +420,17 @@ t0136070,Subspecies,Viola langsdorfii subsp. sachalinensis,錯誤符號與括號
 t0136112,Subspecies,Walsura trifoliolata subsp. trifoliolata,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136112
 t0136487,Subspecies,Quercus engleriana subsp. engleriana,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136487
 t0136498,Subspecies,Quercus engleriana subsp. marlipoensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136498
+t0136521,Subspecies,Meliosma simplicifolia subsp. rigida,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136521
+t0136524,Subspecies,Rumex dentatus subsp. nipponicus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136524
+t0136532,Subspecies,Cladium jamaicense subsp. chinense,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136532
+t0136533,Subspecies,Carex breviculmis subsp. fibrillosa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136533
+t0136540,Subspecies,Meliosma pinnata subsp. arnottiana,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136540
+t0136544,Subspecies,Smilax discotis subsp. concolor,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136544
+t0136551,Subspecies,Smilax menispermoidea subsp. randaiensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136551
+t0136604,Subspecies,Helwingia japonica subsp. formosana,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136604
+t0136624,Subspecies,Deschampsia cespitosa subsp. orientalis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136624
+t0136646,Subspecies,Peristylus gracilis subsp. insularis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136646
+t0136647,Subspecies,Carex nubigena subsp. pseudoarenicola,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136647
+t0136669,Subspecies,Glycine max subsp. max,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136669
+t0136699,Subspecies,Pieris japonica subsp. japonica,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136699
+t0136700,Subspecies,Pieris japonica subsp. koidzumiana,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136700

@@ -34,12 +34,47 @@ df_TCsplist <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_dat
 # df_TCsplist <- rbind(df_TCsplist, df_TCsplist_notintaiwan)
 # 
 
+# ------------------------------------------------------------------
+# Part A-1: TT與TCdeleted 分類群，taxon_id、simplifiedScientificName、rank、kindgdom完全一致的分類群
+# ------------------------------------------------------------------
+
+
+
 df_TT_select <- df_TTsplist %>%
-  select(
-    taxonUUID, taiCOLNameCode, taxonRank, kingdom, simplifiedScientificName
+  select(taxonUUID, taxonRank, kingdom, taiCOLNameCode, simplifiedScientificName) %>% 
+  setnames(., c("taxonUUID", "taxonRank", "kingdom", "taiCOLNameCode", "simplifiedScientificName"), c("TT_taxonUUID", "TT_taxonRank", "TT_kingdom", "TT_taiCOLNameCode", "TT_simplifiedScientificName")) %>%
+  filter(
+    TT_kingdom %in% "Animalia"
+  )
+
+df_TC_deleted <- df_TCsplist %>% 
+  select(taxon_id, rank, kingdom, simple_name, taxon_status, is_in_taiwan, new_taxon_id)%>%
+  setnames(., c("taxon_id", "simple_name", "rank", "kingdom", "taxon_status", "is_in_taiwan", "new_taxon_id"), c("TC_taxon_id", "TC_simple_name", "TC_rank", "TC_kingdom", "TC_taxon_status", "TC_is_in_taiwan", "TC_new_taxon_id")) %>% 
+  .[, TC_rank := tolower(TC_rank)]%>%
+  filter(TC_kingdom %in% "Animalia"& TC_taxon_status %in% "deleted")
+
+df_TT_TCdeleted <- df_TT_select %>%
+  inner_join(
+    df_TC_deleted,
+    by = c(
+      "TT_simplifiedScientificName" = "TC_simple_name",
+      "TT_taiCOLNameCode"          = "TC_taxon_id"
+    )
   )
 
 
+
+
+
+df_TT_TCdeleted$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_TCdeleted$TT_taxonUUID)
+
+fwrite(df_TT_TCdeleted, "../../data/output/TT_to_TC/df_TT_TCdeleted.csv")
+
+
+
+# ------------------------------------------------------------------
+# Part A-2: TT動物界，taxon_id空白的分類群
+# ------------------------------------------------------------------
 
 
 df_TT_withouttcnamecode <- df_TT_select %>%
