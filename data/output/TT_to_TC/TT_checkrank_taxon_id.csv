@@ -5,6 +5,8 @@ TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificNa
 c198e721-573e-4551-b5f8-0c1f89eb51b6,genus,Animalia,"",Panthera,t0091712,accepted,TRUE
 ee3aa6e0-e276-4a70-993d-b118cff258e0,genus,Animalia,"",Helarctos,t0107162,accepted,FALSE
 f6e5eb70-cb8c-46d2-af39-1604970ecc97,genus,Animalia,"",Vulpes,t0107147,accepted,FALSE
+7c1589e6-feed-4b2d-9ad6-cf7335675adf,species,Animalia,t0085629,Eobia curticornis,t0096879,deleted,TRUE
+1fe6f9cd-ab2a-4ec9-983d-a41b1add356c,species,Animalia,t0029677,Hexafrenum maculifer,t0103314,deleted,TRUE
 2795de51-afc8-4145-9792-91b47a996f3a,species,Animalia,"",Ovis aries,t0107386,accepted,FALSE
 de68e296-4017-4e86-8975-6b921cdf2f39,species,Animalia,"",Helarctos malayanus,t0121859,accepted,FALSE
 6068734b-980b-45e7-a8da-cfd8674b3921,species,Animalia,"",Vulpes vulpes,t0123664,accepted,FALSE

@@ -209,6 +209,7 @@ t0026255,Genus,Serpula,"Linnaeus, 1758",TRUE,FALSE,FALSE,學名重複,https://ta
 t0026312,Subgenus,Zeugodacus,"Hendel, 1927",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0026312
 t0029211,Species,Ficus variegata,"Röding, 1798",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0029211
 t0046167,Species,Hemigraphis reptans,(G.Forst.) T.Anderson ex Hemsl.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0046167
+t0047493,Species,Tipula taiwanica,"(Alexander, 1923)",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0047493
 t0054642,Species,Ormosia formosana,Kaneh.,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0054642
 t0082442,Species,Ormosia formosana,"Edwards, 1921",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0082442
 t0088182,Genus,Gordonia,(ex Tsukamura 1971.0) Stackebrandt et al. 1989,TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0088182
@@ -313,6 +314,7 @@ t0125067,Subclass,Vetigastropoda,0,TRUE,FALSE,FALSE,學名重複,https://taicol.
 t0125236,Subgenus,Duolandrevus,"Kirby, 1906",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0125236
 t0134737,Infraclass,Scolecida,"",TRUE,TRUE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0134737
 t0136393,Genus,Hiatula,"Modeer, 1793",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0136393
+t0136713,Species,Tipula taiwanica,"Starkevich & Young, 2023",TRUE,FALSE,FALSE,學名重複,https://taicol.tw/zh-hant/taxon/t0136713
 t0000060,Phylum,Nitrospira,Garrity & Holt 2001,TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000060
 t0000080,Phylum,Heliozoa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000080
 t0000137,Subphylum,Lobosa,"",TRUE,TRUE,FALSE,學名加命名者重複,https://taicol.tw/zh-hant/taxon/t0000137

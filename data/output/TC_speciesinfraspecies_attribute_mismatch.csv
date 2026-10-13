@@ -894,8 +894,6 @@ t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,NVU,LC,輕度,t009818
 t0086019,Subspecies,t0098180,Oriolus chinensis diffusus,native,TRUE,II,NVU,"","",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086019
 t0086020,Subspecies,t0098180,Oriolus chinensis maculatus,cultured,TRUE,"","","","",t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086020
 t0098180,Species,t0013573,Oriolus chinensis,native,TRUE,II,NVU,LC,輕度,t0098180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098180
-t0086021,Subspecies,t0098181,Oriolus traillii ardens,native,TRUE,II,NLC,"","",t0098181,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0086021
-t0098181,Species,t0013573,Oriolus traillii,native,TRUE,II,NLC,LC,輕度,t0098181,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0098181
 t0086025,Subspecies,t0098196,Orthetrum pruinosum clelia,native,TRUE,"",NEN,"","",t0098196,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086025
 t0086026,Subspecies,t0098196,Orthetrum pruinosum neglectum,native,TRUE,"",NLC,"","",t0098196,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0086026
 t0098196,Species,t0013607,Orthetrum pruinosum,native,TRUE,"",NLC,"","",t0098196,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0098196
@@ -1374,3 +1372,5 @@ t0136261,Species,t0022550,Merops orientalis,native,TRUE,"","",LC,"",t0136261,IUC
 t0136262,Subspecies,t0136261,Merops orientalis ferrugeiceps,native,TRUE,"","","","",t0136261,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0136262
 t0136350,Species,t0023034,Mustela putorius,cultured,TRUE,"","",LC,"",t0136350,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0136350
 t0136373,Subspecies,t0136350,Mustela putorius furo,cultured,TRUE,"","","","",t0136350,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0136373
+t0136755,Species,t0023781,Epilobium ciliatum,naturalized,TRUE,"","",LC,"",t0136755,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0136755
+t0136756,Subspecies,t0136755,Epilobium ciliatum subsp. ciliatum,naturalized,TRUE,"","","","",t0136755,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0136756

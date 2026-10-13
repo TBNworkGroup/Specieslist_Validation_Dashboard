@@ -885,7 +885,6 @@ t0125187,Subspecies,Elaphurus davidianus predavidianus,"",TRUE,"","","","","",�
 t0125190,Subspecies,Elaphurus davidianus menziesianus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0125190
 t0125198,Species,Pavo miejue,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0125198
 t0125264,Species,Almunisna quadratosa,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0125264
-t0125362,Species,Macrosiagon bifasciata,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0125362
 t0125363,Species,Erichsonius huisunensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0125363
 t0125398,Species,Velutinomiris taiwanicus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0125398
 t0125406,Species,Wickerhamomyces sinyiensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0125406
@@ -1032,6 +1031,12 @@ t0136693,Species,Berginus orientalis,"",TRUE,"","","","","",種與種下原生�
 t0136702,Species,Teratura cincta,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136702
 t0136703,Species,Xiphidiopsis autumnalis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136703
 t0136711,Species,Tipulodina taiwanica,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136711
+t0136712,Species,Tipula parvapiculata,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136712
+t0136714,Species,Dicranomyia alticola,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136714
+t0136715,Species,Geranomyia septemnotata,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136715
+t0136729,Species,Pristaulacus karinulus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136729
+t0136735,Species,Synhoria maxillosa,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136735
+t0136738,Species,Zonitomorpha davidis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136738
 t0001858,Order,Falconiformes,"",TRUE,II,"","",I/II/III/NC,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0001858
 t0002098,Order,Primates,"",TRUE,II,"","",I/II/NC,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0002098
 t0002186,Order,Strigiformes,"",TRUE,II,"","",I/II/NC,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0002186
@@ -1198,7 +1203,7 @@ t0085962,Subspecies,Neofelis nebulosa brachyura,native,TRUE,I,RE,"","","",敏感
 t0085970,Subspecies,Ninox japonica japonica,native,TRUE,II,NLC,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0085970
 t0085974,Subspecies,Nisaetus nipalensis nipalensis,native,TRUE,I,NVU,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0085974
 t0086019,Subspecies,Oriolus chinensis diffusus,native,TRUE,II,NVU,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0086019
-t0086021,Subspecies,Oriolus traillii ardens,native,TRUE,II,NLC,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0086021
+t0086021,Species,Oriolus ardens,native,TRUE,II,NLC,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0086021
 t0086030,Subspecies,Otus elegans botelensis,native,TRUE,II,NNT,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0086030
 t0086031,Subspecies,Otus lettia erythrocampe,native,TRUE,II,NLC,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0086031
 t0086032,Subspecies,Otus lettia glabripes,native,TRUE,II,NLC,"","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0086032
