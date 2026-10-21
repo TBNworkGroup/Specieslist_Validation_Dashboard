@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20260916"  # 舉例
+modified_date <- "20261021"  # 舉例
 
 
 # 先抓第一頁
@@ -21,7 +21,7 @@ if (total %% 300 == 0) {
   pg <- pg - 1
 }
 sequence <- seq(300, pg * 300, by = 300)
-
+i=87000
 # loop 從第二頁開始
 for (i in sequence) {
   splist <- fromJSON(sprintf("https://api.taicol.tw/v2/taxon?&limit=300&offset=%d", i))
@@ -38,7 +38,19 @@ for (i in sequence) {
 # )
 
 
-fwrite(df_TCsplist, sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date))
+df_export <- copy(as.data.table(df_TCsplist))
+
+df_export[, higher_taxa := vapply(
+  higher_taxa,
+  function(x) {
+    paste(x$simple_name, collapse = "|")
+  },
+  character(1)
+)]
+
+
+
+fwrite(df_export, sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date))
 
 
 

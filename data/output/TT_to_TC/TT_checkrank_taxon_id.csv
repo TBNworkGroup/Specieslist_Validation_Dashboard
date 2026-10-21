@@ -7,9 +7,12 @@ ee3aa6e0-e276-4a70-993d-b118cff258e0,genus,Animalia,"",Helarctos,t0107162,accept
 f6e5eb70-cb8c-46d2-af39-1604970ecc97,genus,Animalia,"",Vulpes,t0107147,accepted,FALSE
 7c1589e6-feed-4b2d-9ad6-cf7335675adf,species,Animalia,t0085629,Eobia curticornis,t0096879,deleted,TRUE
 1fe6f9cd-ab2a-4ec9-983d-a41b1add356c,species,Animalia,t0029677,Hexafrenum maculifer,t0103314,deleted,TRUE
+7c28ca48-33ba-4c6f-8696-7d9e28004a6f,species,Animalia,t0086415,Velarifictorus ornatus,t0096638,deleted,TRUE
 2795de51-afc8-4145-9792-91b47a996f3a,species,Animalia,"",Ovis aries,t0107386,accepted,FALSE
+911e3b0f-cbd0-4d95-9509-eb2e063de7ea,species,Animalia,t0085439,Anarhynchus mongolus,t0097638,accepted,TRUE
+4172b6a1-fcf4-4c9c-80fb-204afd9b225b,species,Animalia,t0086410,Nodularia douglasiae,t0096619,deleted,TRUE
 de68e296-4017-4e86-8975-6b921cdf2f39,species,Animalia,"",Helarctos malayanus,t0121859,accepted,FALSE
 6068734b-980b-45e7-a8da-cfd8674b3921,species,Animalia,"",Vulpes vulpes,t0123664,accepted,FALSE
 80ee2f37-ca69-4cda-94c2-0c6b8b5ebf04,species,Animalia,"",Panthera pardus,t0097046,accepted,TRUE
 ae00bc13-6d1c-4fc7-a9ee-cb4554472885,species,Animalia,"",Panthera tigris,t0121842,accepted,FALSE
-911e3b0f-cbd0-4d95-9509-eb2e063de7ea,species,Animalia,t0085439,Anarhynchus mongolus,t0097638,accepted,TRUE
+4b4cd66f-90ff-48c1-b0ef-12b1c856a02d,species,Animalia,t0086410,Nodularia douglasiae,t0096619,deleted,TRUE

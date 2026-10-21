@@ -4,8 +4,12 @@ TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificNa
 c198e721-573e-4551-b5f8-0c1f89eb51b6,genus,Animalia,"",Panthera,t0091712,genus,Animalia,accepted,TRUE
 ee3aa6e0-e276-4a70-993d-b118cff258e0,genus,Animalia,"",Helarctos,t0107162,genus,Animalia,accepted,FALSE
 f6e5eb70-cb8c-46d2-af39-1604970ecc97,genus,Animalia,"",Vulpes,t0107147,genus,Animalia,accepted,FALSE
+7c28ca48-33ba-4c6f-8696-7d9e28004a6f,species,Animalia,t0086415,Velarifictorus ornatus,t0096638,species,Animalia,deleted,TRUE
+e76585d5-5643-49dc-876a-b95699e6fd54,infraspecies,Animalia,t0086418,Viverricula indica pallida,t0105763,subspecies,Animalia,deleted,TRUE
 2795de51-afc8-4145-9792-91b47a996f3a,species,Animalia,"",Ovis aries,t0107386,species,Animalia,accepted,FALSE
+4172b6a1-fcf4-4c9c-80fb-204afd9b225b,species,Animalia,t0086410,Nodularia douglasiae,t0096619,species,Animalia,deleted,TRUE
 de68e296-4017-4e86-8975-6b921cdf2f39,species,Animalia,"",Helarctos malayanus,t0121859,species,Animalia,accepted,FALSE
 6068734b-980b-45e7-a8da-cfd8674b3921,species,Animalia,"",Vulpes vulpes,t0123664,species,Animalia,accepted,FALSE
 80ee2f37-ca69-4cda-94c2-0c6b8b5ebf04,species,Animalia,"",Panthera pardus,t0097046,species,Animalia,accepted,TRUE
 ae00bc13-6d1c-4fc7-a9ee-cb4554472885,species,Animalia,"",Panthera tigris,t0121842,species,Animalia,accepted,FALSE
+4b4cd66f-90ff-48c1-b0ef-12b1c856a02d,species,Animalia,t0086410,Nodularia douglasiae,t0096619,species,Animalia,deleted,TRUE
