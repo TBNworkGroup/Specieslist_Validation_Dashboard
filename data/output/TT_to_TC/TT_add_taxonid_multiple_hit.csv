@@ -810,6 +810,7 @@ e7b545b2-96f4-460f-b031-18474401359b,species,Plantae,"",Scutellaria indica,1,t00
 0c77e2f5-60b9-4187-9df3-86a01a31d034,species,Plantae,"",Callicarpa oshimensis,2,,
 0acce266-9872-4a2a-942f-81fdb626b2eb,species,Plantae,"",Clerodendrum paniculatum,1,t0101518,accepted
 0acce266-9872-4a2a-942f-81fdb626b2eb,species,Plantae,"",Clerodendrum paniculatum,1,t0073297,misapplied
+c65011d6-675e-4043-968c-accd3f83cae6,species,Plantae,"",Salvia chingshuishanensis,1,[],
 83b7b958-0d8f-4a9b-a2b7-9ca747101119,species,Plantae,"",Clinopodium gracile,1,t0058836,accepted
 83b7b958-0d8f-4a9b-a2b7-9ca747101119,species,Plantae,"",Clinopodium gracile,2,t0058836,not-accepted
 ffdf32f0-43d2-40ab-839a-90bd83aea180,species,Plantae,"",Clinopodium laxiflorum,1,t0053073,accepted
@@ -966,6 +967,7 @@ a068c3c2-e0fc-4cf6-b0df-fa1680c05b2a,infraspecies,Plantae,"",Gentiana flavomacul
 132fc435-a6ed-487a-b301-ebae1ec52c94,infraspecies,Plantae,"",Heliotropium procumbens depressum,2,t0074255,not-accepted
 73309fb6-51df-46b7-8ce5-db0ba89d891a,infraspecies,Plantae,"",Rhynchotechum discolor incisum,1,t0086978,accepted
 73309fb6-51df-46b7-8ce5-db0ba89d891a,infraspecies,Plantae,"",Rhynchotechum discolor incisum,2,t0086978,not-accepted
+73309fb6-51df-46b7-8ce5-db0ba89d891a,infraspecies,Plantae,"",Rhynchotechum discolor incisum,3,,
 92f83302-a2f2-4d93-b7f4-54c0896cf9e5,infraspecies,Plantae,"",Lycopus lucidus formosanus,1,[],
 90227064-1a8a-4d76-88a5-86c144d689d8,infraspecies,Plantae,"",Mentha arvensis piperascens,1,t0084606,not-accepted
 90227064-1a8a-4d76-88a5-86c144d689d8,infraspecies,Plantae,"",Mentha arvensis piperascens,2,t0084606,accepted
