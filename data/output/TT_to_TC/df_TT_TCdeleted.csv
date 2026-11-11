@@ -1,11 +1,55 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,TC_rank,TC_kingdom,TC_taxon_status,TC_is_in_taiwan,TC_new_taxon_id,TT_URL
 a4bf4963-5d24-4e02-9b11-b8a2ce74bfab,class,Animalia,t0002887,Actinopterygii,class,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/a4bf4963-5d24-4e02-9b11-b8a2ce74bfab
+2acef9af-41e3-4c23-99cb-797e43ddb55c,order,Animalia,t0003090,Stomiiformes,order,Animalia,deleted,TRUE,t0002183,https://taxatree.tbn.org.tw/taxa/2acef9af-41e3-4c23-99cb-797e43ddb55c
+30e4355e-8837-4e46-8d71-f9b93a73e72f,family,Animalia,t0006045,Gnathophyllidae,family,Animalia,deleted,TRUE,t0004262,https://taxatree.tbn.org.tw/taxa/30e4355e-8837-4e46-8d71-f9b93a73e72f
+d7ae9bec-bc23-436e-ba55-9695e8fa3ad5,family,Animalia,t0006183,Hymenoceridae,family,Animalia,deleted,FALSE,t0004262,https://taxatree.tbn.org.tw/taxa/d7ae9bec-bc23-436e-ba55-9695e8fa3ad5
 4d4dd13d-57ee-459d-81bd-407ba9f0928d,genus,Animalia,t0093924,Totanus,genus,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/4d4dd13d-57ee-459d-81bd-407ba9f0928d
 c9dcd09c-d838-47b2-aa5d-9f92cf0caa4e,genus,Animalia,t0012773,Nass,genus,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/c9dcd09c-d838-47b2-aa5d-9f92cf0caa4e
 b3a65aa6-d2ec-4d40-b93d-50278931db53,genus,Animalia,t0020890,Hybrdolinus,genus,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/b3a65aa6-d2ec-4d40-b93d-50278931db53
+142513a9-8d8b-4714-b2b5-5c485049bb8b,genus,Animalia,t0093473,Psammodius,genus,Animalia,deleted,TRUE,t0015283,https://taxatree.tbn.org.tw/taxa/142513a9-8d8b-4714-b2b5-5c485049bb8b
+bc4f859c-af3d-4c62-a60c-8c24dcbe6d7c,genus,Animalia,t0014189,Parenthrenella,genus,Animalia,deleted,TRUE,t0014060,https://taxatree.tbn.org.tw/taxa/bc4f859c-af3d-4c62-a60c-8c24dcbe6d7c
+5c0c3507-242e-4a44-b896-70e3a5d13859,genus,Animalia,t0013152,Nipponphis,genus,Animalia,deleted,TRUE,t0013131,https://taxatree.tbn.org.tw/taxa/5c0c3507-242e-4a44-b896-70e3a5d13859
+b4250cca-b6fa-43a1-9d4c-d3ba9990edbd,species,Animalia,t0061254,Demodex folliculorum,species,Animalia,deleted,TRUE,t0061247,https://taxatree.tbn.org.tw/taxa/b4250cca-b6fa-43a1-9d4c-d3ba9990edbd
 dba8ef60-49c8-4707-a6f6-792dd04a9d14,species,Animalia,t0071102,Amblyomma microplus,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/dba8ef60-49c8-4707-a6f6-792dd04a9d14
+6f48e6af-c923-42a9-b22e-c2cd18fcb8f8,species,Animalia,t0036656,Prionocrangon paucispina,species,Animalia,deleted,TRUE,t0036655,https://taxatree.tbn.org.tw/taxa/6f48e6af-c923-42a9-b22e-c2cd18fcb8f8
 d91ef0a8-2e23-40e9-8044-412a6959ad0a,species,Animalia,t0099208,Totanus murrayi,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/d91ef0a8-2e23-40e9-8044-412a6959ad0a
 d891ac88-920a-44d4-a510-800a66aa01b0,species,Animalia,t0099209,Totanus scaphus,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/d891ac88-920a-44d4-a510-800a66aa01b0
 e3783794-425a-454e-b32e-e3f6d0995dcb,species,Animalia,t0099210,Totanus sinicus,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/e3783794-425a-454e-b32e-e3f6d0995dcb
 2ef4f990-b653-44ee-b391-0e5c5b55e6dc,species,Animalia,t0099206,Totanus derjugini,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/2ef4f990-b653-44ee-b391-0e5c5b55e6dc
 9e7b74f0-5540-4473-91a6-6be4430675aa,species,Animalia,t0099207,Totanus dextrilobatus,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/9e7b74f0-5540-4473-91a6-6be4430675aa
+4a9a75b8-0a55-4c92-ad81-216224d2fbfb,species,Animalia,t0067410,Limiscala billeeanum,species,Animalia,deleted,TRUE,t0062944,https://taxatree.tbn.org.tw/taxa/4a9a75b8-0a55-4c92-ad81-216224d2fbfb
+4a723390-8e42-4f7e-b36f-a3ca20e2f925,species,Animalia,t0083533,Parviscala paumotense,species,Animalia,deleted,TRUE,t0062962,https://taxatree.tbn.org.tw/taxa/4a723390-8e42-4f7e-b36f-a3ca20e2f925
+df09dba9-3769-4bd0-b684-806f9a9eef8d,species,Animalia,t0083845,Perotrochus hirasei,species,Animalia,deleted,TRUE,t0062698,https://taxatree.tbn.org.tw/taxa/df09dba9-3769-4bd0-b684-806f9a9eef8d
+0e47c779-2adb-48c3-9874-005992148e71,species,Animalia,t0083846,Perotrochus salmiana,species,Animalia,deleted,TRUE,t0062700,https://taxatree.tbn.org.tw/taxa/0e47c779-2adb-48c3-9874-005992148e71
+a0c34c8a-d41a-44a8-82b0-4c9c1b33d9ae,species,Animalia,t0076699,Brachionus diversicornis,species,Animalia,deleted,TRUE,t0038473,https://taxatree.tbn.org.tw/taxa/a0c34c8a-d41a-44a8-82b0-4c9c1b33d9ae
+15230936-9896-4522-9aca-c445f1ae5f01,species,Animalia,t0084327,Phymatosternus babai,species,Animalia,deleted,TRUE,t0036056,https://taxatree.tbn.org.tw/taxa/15230936-9896-4522-9aca-c445f1ae5f01
+0995b295-9a87-4bf5-9d67-01a6d798a072,species,Animalia,t0096982,Eupithecia likiangi,species,Animalia,deleted,TRUE,t0096951,https://taxatree.tbn.org.tw/taxa/0995b295-9a87-4bf5-9d67-01a6d798a072
+57c6011f-7c27-4a92-a772-dcfde2928c90,species,Animalia,t0098325,Paranthrenella formosicola,species,Animalia,deleted,TRUE,t0052461,https://taxatree.tbn.org.tw/taxa/57c6011f-7c27-4a92-a772-dcfde2928c90
+0297b264-d994-469c-bd9d-040da4fb57e4,species,Animalia,t0099913,Alcimocoris japonensis,species,Animalia,deleted,TRUE,t0070742,https://taxatree.tbn.org.tw/taxa/0297b264-d994-469c-bd9d-040da4fb57e4
+40ef7954-4059-4256-9076-3f67d5b1a519,species,Animalia,t0038632,Scotiphara scotii,species,Animalia,deleted,TRUE,t0038630,https://taxatree.tbn.org.tw/taxa/40ef7954-4059-4256-9076-3f67d5b1a519
+42d52155-0160-4fa7-9e90-373d783201eb,species,Animalia,t0081693,Nipponphis machili,species,Animalia,deleted,TRUE,t0031161,https://taxatree.tbn.org.tw/taxa/42d52155-0160-4fa7-9e90-373d783201eb
+188a0660-2a84-42e6-855e-3ff4a903f12b,species,Animalia,t0076357,Beleses formosana,species,Animalia,deleted,TRUE,t0069890,https://taxatree.tbn.org.tw/taxa/188a0660-2a84-42e6-855e-3ff4a903f12b
+c9d4a3a0-f070-46f5-93ad-1a8ccaebdd18,species,Animalia,t0081408,Neostromboceros leucopoda,species,Animalia,deleted,TRUE,t0037150,https://taxatree.tbn.org.tw/taxa/c9d4a3a0-f070-46f5-93ad-1a8ccaebdd18
+0eec5ac2-0743-4d77-aa76-38feb74565a8,species,Animalia,t0081542,Nesoselandria flavipes,species,Animalia,deleted,TRUE,t0081417,https://taxatree.tbn.org.tw/taxa/0eec5ac2-0743-4d77-aa76-38feb74565a8
+a455f0f3-6b16-45c0-b979-72c41ba48124,species,Animalia,t0081544,Nesoselandria horni,species,Animalia,deleted,TRUE,t0081419,https://taxatree.tbn.org.tw/taxa/a455f0f3-6b16-45c0-b979-72c41ba48124
+6622cb82-1122-42db-a70d-bb990db28e2f,species,Animalia,t0081545,Nesoselandria leucopoda,species,Animalia,deleted,TRUE,t0081420,https://taxatree.tbn.org.tw/taxa/6622cb82-1122-42db-a70d-bb990db28e2f
+4f3b0b0b-4951-4f17-bc5f-b205b03d2187,species,Animalia,t0081547,Nesoselandria taiwana,species,Animalia,deleted,TRUE,t0081422,https://taxatree.tbn.org.tw/taxa/4f3b0b0b-4951-4f17-bc5f-b205b03d2187
+db43adc1-4c9d-4cde-9650-79e6adacddb9,species,Animalia,t0081548,Nesoselandria xanthopoda,species,Animalia,deleted,TRUE,t0081423,https://taxatree.tbn.org.tw/taxa/db43adc1-4c9d-4cde-9650-79e6adacddb9
+49531d4b-452f-4779-b56e-fa4d8e8cd135,species,Animalia,t0081550,Nesotaxonus flavescens,species,Animalia,deleted,TRUE,t0076358,https://taxatree.tbn.org.tw/taxa/49531d4b-452f-4779-b56e-fa4d8e8cd135
+0f33439d-34a4-47fd-abb7-f62ece2b408d,species,Animalia,t0083365,Parasiobla formosana,species,Animalia,deleted,TRUE,t0061145,https://taxatree.tbn.org.tw/taxa/0f33439d-34a4-47fd-abb7-f62ece2b408d
+c83059cd-482a-4ba2-a556-f33bb1ac70ce,species,Animalia,t0099090,Tenthredopsis insularis,species,Animalia,deleted,TRUE,t0086334,https://taxatree.tbn.org.tw/taxa/c83059cd-482a-4ba2-a556-f33bb1ac70ce
+dfc600b7-d36f-4d51-94cd-27f0deb8c39d,species,Animalia,t0071103,Amblyopone bruni,species,Animalia,deleted,TRUE,t0039907,https://taxatree.tbn.org.tw/taxa/dfc600b7-d36f-4d51-94cd-27f0deb8c39d
+67c2570c-5bfc-4a99-ad44-564e76aede36,species,Animalia,t0071105,Amblyopone silvestrii,species,Animalia,deleted,TRUE,t0039910,https://taxatree.tbn.org.tw/taxa/67c2570c-5bfc-4a99-ad44-564e76aede36
+85be0aba-a073-40cf-923a-52f310870388,species,Animalia,t0082514,Orussus brunneus,species,Animalia,deleted,TRUE,t0082513,https://taxatree.tbn.org.tw/taxa/85be0aba-a073-40cf-923a-52f310870388
+e783048c-d778-49a9-9379-2ba463626b3a,species,Animalia,t0061940,Dolophilodes obrussa,species,Animalia,deleted,TRUE,t0061935,https://taxatree.tbn.org.tw/taxa/e783048c-d778-49a9-9379-2ba463626b3a
+851c9395-c116-49bc-8560-ef9889fd7337,species,Animalia,t0036447,Polyplectropus inaequalis,species,Animalia,deleted,TRUE,t0036396,https://taxatree.tbn.org.tw/taxa/851c9395-c116-49bc-8560-ef9889fd7337
+3f7a043a-1eab-488c-a709-2fbc9d6a751d,infraspecies,Animalia,t0086341,Tetraclita japonica formosana,subspecies,Animalia,deleted,TRUE,t0047056,https://taxatree.tbn.org.tw/taxa/3f7a043a-1eab-488c-a709-2fbc9d6a751d
+68f28c71-c941-41cc-aa8d-e24b92a24f3e,infraspecies,Animalia,t0086093,Phalium glabratum bulla,subspecies,Animalia,deleted,TRUE,t0038722,https://taxatree.tbn.org.tw/taxa/68f28c71-c941-41cc-aa8d-e24b92a24f3e
+96ddebea-09da-445c-95ce-ab291cc1d49e,infraspecies,Animalia,t0084654,Amesia sanguiflua viriditincta,subspecies,Animalia,deleted,TRUE,t0057634,https://taxatree.tbn.org.tw/taxa/96ddebea-09da-445c-95ce-ab291cc1d49e
+fc118995-fad0-423c-b11e-b54964d35370,infraspecies,Animalia,t0086335,Tenthredopsis insularis insularis,subspecies,Animalia,deleted,TRUE,t0086334,https://taxatree.tbn.org.tw/taxa/fc118995-fad0-423c-b11e-b54964d35370
+40af87b9-e766-4360-8c85-61b146517638,infraspecies,Animalia,t0085457,Chrysosoma ignobile platypum,subspecies,Animalia,deleted,TRUE,t0078407,https://taxatree.tbn.org.tw/taxa/40af87b9-e766-4360-8c85-61b146517638
+38298ba1-5b0b-419e-b1a5-30852c40da85,species,Animalia,t0069097,Metadynoneme tanensis,species,Animalia,deleted,TRUE,t0027928,https://taxatree.tbn.org.tw/taxa/38298ba1-5b0b-419e-b1a5-30852c40da85
+aed82ffa-1f71-4f59-91be-0e47b572e5bf,infraspecies,Animalia,t0101074,Eupithecia likiangi pedisequa,subspecies,Animalia,deleted,TRUE,t0084779,https://taxatree.tbn.org.tw/taxa/aed82ffa-1f71-4f59-91be-0e47b572e5bf
+ebaa4c1c-06bc-4320-828c-dab9c6594df7,species,Animalia,t0098620,Pselliophora laneipes,species,Animalia,deleted,TRUE,t0079753,https://taxatree.tbn.org.tw/taxa/ebaa4c1c-06bc-4320-828c-dab9c6594df7
+aa205d4e-3a56-4736-bd50-2b23d17d094a,infraspecies,Animalia,t0101087,Boloria palina yangi,subspecies,Animalia,deleted,TRUE,t0084690,https://taxatree.tbn.org.tw/taxa/aa205d4e-3a56-4736-bd50-2b23d17d094a
+485d2995-9adb-42cf-b3cd-d95918509017,species,Animalia,t0096799,Sistrum ricinus,species,Animalia,deleted,TRUE,t0062122,https://taxatree.tbn.org.tw/taxa/485d2995-9adb-42cf-b3cd-d95918509017

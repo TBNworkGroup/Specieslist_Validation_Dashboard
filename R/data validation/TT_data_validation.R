@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20261021"  # 舉例
+modified_date <- "20261028"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -443,7 +443,21 @@ df_TT_animalia <- df_TT_attribute %>%
 df_TT_animalia$reason <- "原生性等於外來栽培or外來歸化的動物"
 
 
-df_TT_attribute_error <- rbind(df_TT_withouttcnamecode, df_TT_undertaxon, df_TT_redlist, df_TT_protected, df_TT_IUCN, df_TT_invasive, df_TT_animalia)
+
+# (2) 讀取檔案 & 篩選欄位
+df_TC_taxondeleted <- fread(sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE) %>% 
+  filter(taxon_status%in%"deleted") |> 
+  select(taxon_id, taxon_status)
+
+df_TT_taxoniddeleted <- df_TT_attribute %>%
+  filter(
+    taiCOLNameCode %in% as.vector(df_TC_taxondeleted$taxon_id)
+  )
+
+df_TT_taxoniddeleted$reason <- "TC taxon_id已刪除"
+
+
+df_TT_attribute_error <- rbind(df_TT_taxoniddeleted, df_TT_withouttcnamecode, df_TT_undertaxon, df_TT_redlist, df_TT_protected, df_TT_IUCN, df_TT_invasive, df_TT_animalia)
 # ✅ 在這裡加判斷：完全包住 for 迴圈
 
 

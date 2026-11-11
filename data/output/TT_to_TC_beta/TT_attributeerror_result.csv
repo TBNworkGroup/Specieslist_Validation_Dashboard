@@ -1,8 +1,17 @@
 taxonUUID,taiCOLNameCode,taxonRank,kingdom,simplifiedScientificName,endemism,nativeness,protectedStatusTW,categoryRedlistTW,categoryIUCN,sensitiveCategory,reason,number_of_occurrence,TT_URL
 a4bf4963-5d24-4e02-9b11-b8a2ce74bfab,t0002887,class,Animalia,Actinopterygii,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/a4bf4963-5d24-4e02-9b11-b8a2ce74bfab
+30e4355e-8837-4e46-8d71-f9b93a73e72f,t0006045,family,Animalia,Gnathophyllidae,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/30e4355e-8837-4e46-8d71-f9b93a73e72f
+d7ae9bec-bc23-436e-ba55-9695e8fa3ad5,t0006183,family,Animalia,Hymenoceridae,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/d7ae9bec-bc23-436e-ba55-9695e8fa3ad5
+05c264e4-b6c8-4d45-9c86-86c9645eb10b,t0095086,genus,Animalia,Aristaeus,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/05c264e4-b6c8-4d45-9c86-86c9645eb10b
+034b8d74-65a4-4f6c-908f-f5ead82f31d3,t0092618,genus,Animalia,Hylaeocarcinus,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/034b8d74-65a4-4f6c-908f-f5ead82f31d3
+eb7f7a8e-244e-42d9-b2b3-486619682b8f,t0093260,genus,Animalia,Pelocarcinus,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/eb7f7a8e-244e-42d9-b2b3-486619682b8f
 4d4dd13d-57ee-459d-81bd-407ba9f0928d,t0093924,genus,Animalia,Totanus,"",原生 Native,"","","未評估（NE, Not Evaluated）","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/4d4dd13d-57ee-459d-81bd-407ba9f0928d
+de9c441d-d708-45ba-a73c-f1b67604bd05,t0107045,genus,Animalia,Tetronarce,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/de9c441d-d708-45ba-a73c-f1b67604bd05
 c9dcd09c-d838-47b2-aa5d-9f92cf0caa4e,t0012773,genus,Animalia,Nass,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/c9dcd09c-d838-47b2-aa5d-9f92cf0caa4e
 b3a65aa6-d2ec-4d40-b93d-50278931db53,t0020890,genus,Animalia,Hybrdolinus,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/b3a65aa6-d2ec-4d40-b93d-50278931db53
+142513a9-8d8b-4714-b2b5-5c485049bb8b,t0093473,genus,Animalia,Psammodius,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/142513a9-8d8b-4714-b2b5-5c485049bb8b
+bc4f859c-af3d-4c62-a60c-8c24dcbe6d7c,t0014189,genus,Animalia,Parenthrenella,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/bc4f859c-af3d-4c62-a60c-8c24dcbe6d7c
+5c0c3507-242e-4a44-b896-70e3a5d13859,t0013152,genus,Animalia,Nipponphis,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/5c0c3507-242e-4a44-b896-70e3a5d13859
 7387bf0f-83aa-40c5-b06a-cfffb748c0b7,t0025631,genus,Plantae,Cynorkis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/7387bf0f-83aa-40c5-b06a-cfffb748c0b7
 5155fd28-f5a0-45f7-96f6-d1687b83dfbd,t0024479,genus,Plantae,Pellionia,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/5155fd28-f5a0-45f7-96f6-d1687b83dfbd
 28839ee4-916b-4c83-b37d-fb98920f814f,t0025672,genus,Plantae,Euphoria,"",外來歸化 Naturalized (non-native),"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/28839ee4-916b-4c83-b37d-fb98920f814f
@@ -17,18 +26,57 @@ e732a0a3-33e2-450c-9dbd-7a2358852e9b,t0003469,family,Podiata,Grammotheleaceae,""
 edb83e5c-202b-464b-8bf8-cd096c91508f,t0088777,species,Bacteria,Trichodesmium erythraeum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/edb83e5c-202b-464b-8bf8-cd096c91508f
 dad2c38f-bcd9-4126-bde3-574f5dc6b89d,t0089328,species,Bacteria,Komvophoron constrictum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/dad2c38f-bcd9-4126-bde3-574f5dc6b89d
 7466a425-42e9-4ea4-ab98-6ba7dc0dfcb8,t0042611,species,Podiata,Phanerochaete subodontoidea,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/7466a425-42e9-4ea4-ab98-6ba7dc0dfcb8
+8a8db94e-4757-48ed-9933-e404b729c4bb,t0043678,species,Podiata,Rhinocladiella schulzeri,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/8a8db94e-4757-48ed-9933-e404b729c4bb
+b4250cca-b6fa-43a1-9d4c-d3ba9990edbd,t0061254,species,Animalia,Demodex folliculorum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/b4250cca-b6fa-43a1-9d4c-d3ba9990edbd
 dba8ef60-49c8-4707-a6f6-792dd04a9d14,t0071102,species,Animalia,Amblyomma microplus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/dba8ef60-49c8-4707-a6f6-792dd04a9d14
+6f48e6af-c923-42a9-b22e-c2cd18fcb8f8,t0036656,species,Animalia,Prionocrangon paucispina,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6f48e6af-c923-42a9-b22e-c2cd18fcb8f8
 d91ef0a8-2e23-40e9-8044-412a6959ad0a,t0099208,species,Animalia,Totanus murrayi,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/d91ef0a8-2e23-40e9-8044-412a6959ad0a
 d891ac88-920a-44d4-a510-800a66aa01b0,t0099209,species,Animalia,Totanus scaphus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/d891ac88-920a-44d4-a510-800a66aa01b0
 e3783794-425a-454e-b32e-e3f6d0995dcb,t0099210,species,Animalia,Totanus sinicus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/e3783794-425a-454e-b32e-e3f6d0995dcb
 2ef4f990-b653-44ee-b391-0e5c5b55e6dc,t0099206,species,Animalia,Totanus derjugini,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/2ef4f990-b653-44ee-b391-0e5c5b55e6dc
 9e7b74f0-5540-4473-91a6-6be4430675aa,t0099207,species,Animalia,Totanus dextrilobatus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/9e7b74f0-5540-4473-91a6-6be4430675aa
+6cf614a6-e2a2-4bb8-91c5-fd375ef9297f,t0126167,species,Animalia,Antennarius commerson,"","","","","暫無危機（LC, Least Concern）","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6cf614a6-e2a2-4bb8-91c5-fd375ef9297f
+9b3d69be-5d3f-4cc6-a458-c2e5c5a7b6a4,t0123706,species,Animalia,Numenius rufescens,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/9b3d69be-5d3f-4cc6-a458-c2e5c5a7b6a4
+9c6574e5-f0c5-43da-9a80-df74ba20620b,t0125438,species,Animalia,Cacatua goffini,"",外來 Non-native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/9c6574e5-f0c5-43da-9a80-df74ba20620b
+4a9a75b8-0a55-4c92-ad81-216224d2fbfb,t0067410,species,Animalia,Limiscala billeeanum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/4a9a75b8-0a55-4c92-ad81-216224d2fbfb
+4a723390-8e42-4f7e-b36f-a3ca20e2f925,t0083533,species,Animalia,Parviscala paumotense,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/4a723390-8e42-4f7e-b36f-a3ca20e2f925
+df09dba9-3769-4bd0-b684-806f9a9eef8d,t0083845,species,Animalia,Perotrochus hirasei,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/df09dba9-3769-4bd0-b684-806f9a9eef8d
+0e47c779-2adb-48c3-9874-005992148e71,t0083846,species,Animalia,Perotrochus salmiana,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/0e47c779-2adb-48c3-9874-005992148e71
+a0c34c8a-d41a-44a8-82b0-4c9c1b33d9ae,t0076699,species,Animalia,Brachionus diversicornis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/a0c34c8a-d41a-44a8-82b0-4c9c1b33d9ae
 0722a32d-04c8-4a81-ab8b-bf65f5ff8413,t0136500,species,Animalia,Trichophya kurosawai,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/0722a32d-04c8-4a81-ab8b-bf65f5ff8413
 eb6d709c-ce42-47e0-892a-ea4571d6b919,t0098836,species,Animalia,Scymnus nubilus,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/eb6d709c-ce42-47e0-892a-ea4571d6b919
+15230936-9896-4522-9aca-c445f1ae5f01,t0084327,species,Animalia,Phymatosternus babai,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/15230936-9896-4522-9aca-c445f1ae5f01
 6d7c0a32-3890-44d4-b4fe-f82e3553e9de,t0105757,species,Animalia,Macroilleis hauseri,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6d7c0a32-3890-44d4-b4fe-f82e3553e9de
+03fabfdc-d819-475f-8c4d-5c552932efc4,t0099988,species,Animalia,Anomala linwenhsini,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/03fabfdc-d819-475f-8c4d-5c552932efc4
 b91366e8-8d5f-482e-b5fc-b178cc7a48b1,t0105413,species,Animalia,Cyclommatus asahinai,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/b91366e8-8d5f-482e-b5fc-b178cc7a48b1
+0995b295-9a87-4bf5-9d67-01a6d798a072,t0096982,species,Animalia,Eupithecia likiangi,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/0995b295-9a87-4bf5-9d67-01a6d798a072
+2b580435-4665-454a-b016-20c47aa49283,t0107540,species,Animalia,Daimio tethys,"",原生 Native,"","暫無危機（LC, Least Concern）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/2b580435-4665-454a-b016-20c47aa49283
+57c6011f-7c27-4a92-a772-dcfde2928c90,t0098325,species,Animalia,Paranthrenella formosicola,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/57c6011f-7c27-4a92-a772-dcfde2928c90
+0297b264-d994-469c-bd9d-040da4fb57e4,t0099913,species,Animalia,Alcimocoris japonensis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/0297b264-d994-469c-bd9d-040da4fb57e4
+40ef7954-4059-4256-9076-3f67d5b1a519,t0038632,species,Animalia,Scotiphara scotii,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/40ef7954-4059-4256-9076-3f67d5b1a519
+42d52155-0160-4fa7-9e90-373d783201eb,t0081693,species,Animalia,Nipponphis machili,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/42d52155-0160-4fa7-9e90-373d783201eb
+188a0660-2a84-42e6-855e-3ff4a903f12b,t0076357,species,Animalia,Beleses formosana,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/188a0660-2a84-42e6-855e-3ff4a903f12b
+c9d4a3a0-f070-46f5-93ad-1a8ccaebdd18,t0081408,species,Animalia,Neostromboceros leucopoda,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/c9d4a3a0-f070-46f5-93ad-1a8ccaebdd18
+0eec5ac2-0743-4d77-aa76-38feb74565a8,t0081542,species,Animalia,Nesoselandria flavipes,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/0eec5ac2-0743-4d77-aa76-38feb74565a8
+a455f0f3-6b16-45c0-b979-72c41ba48124,t0081544,species,Animalia,Nesoselandria horni,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/a455f0f3-6b16-45c0-b979-72c41ba48124
+6622cb82-1122-42db-a70d-bb990db28e2f,t0081545,species,Animalia,Nesoselandria leucopoda,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6622cb82-1122-42db-a70d-bb990db28e2f
+4f3b0b0b-4951-4f17-bc5f-b205b03d2187,t0081547,species,Animalia,Nesoselandria taiwana,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/4f3b0b0b-4951-4f17-bc5f-b205b03d2187
+db43adc1-4c9d-4cde-9650-79e6adacddb9,t0081548,species,Animalia,Nesoselandria xanthopoda,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/db43adc1-4c9d-4cde-9650-79e6adacddb9
+49531d4b-452f-4779-b56e-fa4d8e8cd135,t0081550,species,Animalia,Nesotaxonus flavescens,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/49531d4b-452f-4779-b56e-fa4d8e8cd135
+0f33439d-34a4-47fd-abb7-f62ece2b408d,t0083365,species,Animalia,Parasiobla formosana,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/0f33439d-34a4-47fd-abb7-f62ece2b408d
+c83059cd-482a-4ba2-a556-f33bb1ac70ce,t0099090,species,Animalia,Tenthredopsis insularis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/c83059cd-482a-4ba2-a556-f33bb1ac70ce
+dfc600b7-d36f-4d51-94cd-27f0deb8c39d,t0071103,species,Animalia,Amblyopone bruni,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/dfc600b7-d36f-4d51-94cd-27f0deb8c39d
+67c2570c-5bfc-4a99-ad44-564e76aede36,t0071105,species,Animalia,Amblyopone silvestrii,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/67c2570c-5bfc-4a99-ad44-564e76aede36
+85be0aba-a073-40cf-923a-52f310870388,t0082514,species,Animalia,Orussus brunneus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/85be0aba-a073-40cf-923a-52f310870388
+e783048c-d778-49a9-9379-2ba463626b3a,t0061940,species,Animalia,Dolophilodes obrussa,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/e783048c-d778-49a9-9379-2ba463626b3a
+851c9395-c116-49bc-8560-ef9889fd7337,t0036447,species,Animalia,Polyplectropus inaequalis,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/851c9395-c116-49bc-8560-ef9889fd7337
+b174a62b-031c-4512-b127-19f9be9c7673,t0069620,species,Plantae,Themeda japonica,"",外來歸化 Naturalized (non-native),"",不適用,"","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/b174a62b-031c-4512-b127-19f9be9c7673
 d47343c8-5ada-4a48-9069-481a1df1f434,t0102324,species,Plantae,Tetrastigma dentatum,台灣特有,原生 Native,"","暫無危機（LC, Least Concern）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/d47343c8-5ada-4a48-9069-481a1df1f434
+d46c6c1b-f9e8-4d83-954d-a4b63a1dec0b,t0069796,species,Plantae,Vitis bryoniaefolia,"",外來栽培 Cultivated (non-native),"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/d46c6c1b-f9e8-4d83-954d-a4b63a1dec0b
 282e4681-4833-4aa2-8e7a-8d55dc6225cd,t0105387,species,Plantae,Smithia yehii,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/282e4681-4833-4aa2-8e7a-8d55dc6225cd
+c6ed1d00-87d9-43be-a901-7e9eba1a8f76,t0075689,species,Plantae,Rosa bracteata,"",原生 Native,"","易危（VU, Vulnerable）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/c6ed1d00-87d9-43be-a901-7e9eba1a8f76
+48f2bd51-2cb2-49f2-a218-0a48f6fe7877,t0123870,species,Plantae,Citrus grandis,"",外來栽培 Cultivated (non-native),"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/48f2bd51-2cb2-49f2-a218-0a48f6fe7877
+b0723190-559d-45c1-a1a5-2634014b2105,t0054498,species,Plantae,Morinda umbellata,"",原生 Native,"","暫無危機（LC, Least Concern）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/b0723190-559d-45c1-a1a5-2634014b2105
 f9c26696-f721-4523-bf07-79b6f84d45d1,t0053020,species,Plantae,Cirsium japonicum,"",原生 Native,"","暫無危機（LC, Least Concern）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/f9c26696-f721-4523-bf07-79b6f84d45d1
 87809267-c6bc-419d-88b9-87fc987529a0,t0060659,species,Chromista,Diploneis elliptica,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/87809267-c6bc-419d-88b9-87fc987529a0
 6a8ff363-89c3-4a01-a230-86560df75642,t0060663,species,Chromista,Navicula lanceolata,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6a8ff363-89c3-4a01-a230-86560df75642
@@ -40,12 +88,18 @@ a7f3f1f5-62f6-4ecb-bf60-ab0a199cc63b,t0060664,species,Chromista,Neidium binode,"
 1ce8a782-1d49-4c7c-a8b2-a2881ea5e4aa,t0104447,species,Chromista,Actinoptychus undulatus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/1ce8a782-1d49-4c7c-a8b2-a2881ea5e4aa
 ad34d686-6e2a-4c88-9640-a21178eb9eea,t0060670,species,Chromista,Biddulphia dubia,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/ad34d686-6e2a-4c88-9640-a21178eb9eea
 bdd1f759-181d-4f88-baa6-be77f88cebfd,t0100485,species,Chromista,Stellarima microtrias,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/bdd1f759-181d-4f88-baa6-be77f88cebfd
+ef406772-bde0-4f53-9277-543442d71320,t0043031,species,Podiata,Polyporus arcularius,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/ef406772-bde0-4f53-9277-543442d71320
 10f37638-1335-4410-a5c5-8a025953e37e,t0042444,species,Podiata,Peniophora taiwanensis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/10f37638-1335-4410-a5c5-8a025953e37e
 578aed84-add5-46c6-a500-7fad898da5ff,t0035087,species,Podiata,Collybia albuminosa,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/578aed84-add5-46c6-a500-7fad898da5ff
 7663ec95-2578-46dc-b89d-81077dc22c8e,t0043899,species,Podiata,Schizopora flavipora,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/7663ec95-2578-46dc-b89d-81077dc22c8e
 6f813b67-c4f3-4eb7-a19a-527cb324090f,t0041780,species,Podiata,Micrococcus yunnanensis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6f813b67-c4f3-4eb7-a19a-527cb324090f
 eaa92a82-44d5-46ba-9030-acb70a03a137,t0103453,species,Fungi,Basidiobolus haptosporus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/eaa92a82-44d5-46ba-9030-acb70a03a137
 34e333fb-92b7-4ce1-90fc-708ade60b21e,t0034271,species,Fungi,Basidiobolus ranarum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/34e333fb-92b7-4ce1-90fc-708ade60b21e
+ed7ce38f-9970-457c-a8b9-c9ea4832ac93,t0035384,species,Podiata,Dendryphion broussonetiae,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/ed7ce38f-9970-457c-a8b9-c9ea4832ac93
+a8360278-9ea1-42b3-a647-2dfb9fc7f6e5,t0099347,species,Podiata,Annulohypoxylon microdiscum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/a8360278-9ea1-42b3-a647-2dfb9fc7f6e5
+444bef19-6fea-4c69-a016-740a8b8dd5d0,t0099348,species,Podiata,Annulohypoxylon pouceanum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/444bef19-6fea-4c69-a016-740a8b8dd5d0
+6b3a3ecc-ed21-4b91-ba7b-6aec7119fc3a,t0035363,species,Podiata,Dasyscyphus leucophaeus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6b3a3ecc-ed21-4b91-ba7b-6aec7119fc3a
+aa233ae2-3850-44d0-b778-a60545e2dc9d,t0042542,species,Podiata,Phaeophyscia endococcinea,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/aa233ae2-3850-44d0-b778-a60545e2dc9d
 2b15f047-b5cd-4e26-a844-65990f341403,t0044316,species,Podiata,Talaromyces assiutensis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/2b15f047-b5cd-4e26-a844-65990f341403
 67063e87-68d9-46e1-8c46-89752e44319e,t0044320,species,Podiata,Talaromyces flavus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/67063e87-68d9-46e1-8c46-89752e44319e
 55e4af08-ca41-47ad-a8b8-3c0909581b89,t0044331,species,Podiata,Talaromyces unicus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/55e4af08-ca41-47ad-a8b8-3c0909581b89
@@ -72,18 +126,39 @@ cbb0b8bb-81a9-4eaf-b0c8-522226087b62,t0089848,species,Bacteria,Oscillatoria gran
 99351f92-bd5b-42d6-9fe1-1e82cb8d79a6,t0089864,species,Bacteria,Oscillatoria willei,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/99351f92-bd5b-42d6-9fe1-1e82cb8d79a6
 630c8a73-9a9f-4e56-b7c1-57e8738d4933,t0090066,species,Bacteria,Phormidium tortuosum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/630c8a73-9a9f-4e56-b7c1-57e8738d4933
 9bb486cd-ab87-4564-a718-b7ff957fa72e,t0090076,species,Bacteria,Planktolyngbya limnetica,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/9bb486cd-ab87-4564-a718-b7ff957fa72e
+3f7a043a-1eab-488c-a709-2fbc9d6a751d,t0086341,infraspecies,Animalia,Tetraclita japonica formosana,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/3f7a043a-1eab-488c-a709-2fbc9d6a751d
+02441dd5-5af0-4b9f-adf1-27872916dc4a,t0123702,infraspecies,Animalia,Spilopelia chinensis formosa,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/02441dd5-5af0-4b9f-adf1-27872916dc4a
+68f28c71-c941-41cc-aa8d-e24b92a24f3e,t0086093,infraspecies,Animalia,Phalium glabratum bulla,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/68f28c71-c941-41cc-aa8d-e24b92a24f3e
+96ddebea-09da-445c-95ce-ab291cc1d49e,t0084654,infraspecies,Animalia,Amesia sanguiflua viriditincta,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/96ddebea-09da-445c-95ce-ab291cc1d49e
+fc118995-fad0-423c-b11e-b54964d35370,t0086335,infraspecies,Animalia,Tenthredopsis insularis insularis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/fc118995-fad0-423c-b11e-b54964d35370
+40af87b9-e766-4360-8c85-61b146517638,t0085457,infraspecies,Animalia,Chrysosoma ignobile platypum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/40af87b9-e766-4360-8c85-61b146517638
 6e990001-4d32-48f2-9e42-39403295d14c,t0086784,infraspecies,Plantae,Digitaria radicosa radicosa,"",原生 Native,"","暫無危機（LC, Least Concern）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6e990001-4d32-48f2-9e42-39403295d14c
 02596424-09cb-42db-8693-e85fe9d69f72,t0086783,infraspecies,Plantae,Digitaria radicosa hirsuta,"",原生 Native,"","暫無危機（LC, Least Concern）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/02596424-09cb-42db-8693-e85fe9d69f72
 4b3787f7-1c2a-40ae-b72f-b64fd33c1380,t0087069,infraspecies,Plantae,Taxillus lonicerifolius lonicerifolius,台灣特有,原生 Native,"","暫無危機（LC, Least Concern）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/4b3787f7-1c2a-40ae-b72f-b64fd33c1380
 e750a90a-8219-449f-be4d-8817c7a72bc5,t0101136,infraspecies,Chromista,Fallacia forcipata densestriata,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/e750a90a-8219-449f-be4d-8817c7a72bc5
 990b7ce5-708c-45bd-aa68-86a596e3ed6f,t0087268,infraspecies,Chromista,Tryblionella marginulata didyma,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/990b7ce5-708c-45bd-aa68-86a596e3ed6f
+73c81a4d-7927-4526-88e9-1ccdc7c30fda,t0101150,infraspecies,Podiata,Cetrariopsis pallescens citrina,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/73c81a4d-7927-4526-88e9-1ccdc7c30fda
+71b0e0bf-b5fd-402f-8e06-297b2398ff0b,t0101125,infraspecies,Podiata,Cladonia rangiferina grisea,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/71b0e0bf-b5fd-402f-8e06-297b2398ff0b
 65be379d-4cea-4a6a-82e0-2efc2c163e5f,t0101164,infraspecies,Podiata,Aspergillus flavus microsporus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/65be379d-4cea-4a6a-82e0-2efc2c163e5f
 af969c5a-eec2-4ad7-aca8-e6fe31d47592,t0101090,infraspecies,Protozoa,Candeina nitida nitida,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/af969c5a-eec2-4ad7-aca8-e6fe31d47592
 3d9639c4-7284-4007-98ed-23a0e816583c,t0087748,infraspecies,Protozoa,Ceratium pulchellum ipulchellum,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/3d9639c4-7284-4007-98ed-23a0e816583c
 81f3e26a-4f63-47ea-90a4-d6ad68570d02,t0075276,species,Plantae,Phyllodon lingulatus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/81f3e26a-4f63-47ea-90a4-d6ad68570d02
+38298ba1-5b0b-419e-b1a5-30852c40da85,t0069097,species,Animalia,Metadynoneme tanensis,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/38298ba1-5b0b-419e-b1a5-30852c40da85
+aed82ffa-1f71-4f59-91be-0e47b572e5bf,t0101074,infraspecies,Animalia,Eupithecia likiangi pedisequa,台灣特有,原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/aed82ffa-1f71-4f59-91be-0e47b572e5bf
+1b820259-885e-4a2e-9af5-3febe0f5bf2c,t0124467,infraspecies,Animalia,Clelea simplicior formosana,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/1b820259-885e-4a2e-9af5-3febe0f5bf2c
 7666e269-fb54-4273-ae3c-bcc2a1a723c7,t0101129,infraspecies,Chromista,Navicula virdula avenacea,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/7666e269-fb54-4273-ae3c-bcc2a1a723c7
 9cf5ffcf-b559-40b0-aaad-413746d71d94,t0044793,species,Podiata,Vaginatispora fuckelii,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/9cf5ffcf-b559-40b0-aaad-413746d71d94
+4441be98-8262-45bc-b1f5-e384e76336ba,t0125375,species,Animalia,Turrilatirus craticulatus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/4441be98-8262-45bc-b1f5-e384e76336ba
+ebaa4c1c-06bc-4320-828c-dab9c6594df7,t0098620,species,Animalia,Pselliophora laneipes,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/ebaa4c1c-06bc-4320-828c-dab9c6594df7
 6165569c-1f33-425e-9808-e99a0ca51f4e,t0099305,species,Plantae,Aidia canthioides,"",原生 Native,"","","",輕度,TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/6165569c-1f33-425e-9808-e99a0ca51f4e
+aa205d4e-3a56-4736-bd50-2b23d17d094a,t0101087,infraspecies,Animalia,Boloria palina yangi,台灣特有,原生 Native,"","資料缺乏（DD, Data Deficient）","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/aa205d4e-3a56-4736-bd50-2b23d17d094a
+485d2995-9adb-42cf-b3cd-d95918509017,t0096799,species,Animalia,Sistrum ricinus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/485d2995-9adb-42cf-b3cd-d95918509017
+1fd7a20c-055c-4f18-8c6e-d47278f63585,t0122842,species,Animalia,Kisaura obrussa,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/1fd7a20c-055c-4f18-8c6e-d47278f63585
+2acef9af-41e3-4c23-99cb-797e43ddb55c,t0003090,order,Animalia,Stomiiformes,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/2acef9af-41e3-4c23-99cb-797e43ddb55c
+bd492190-ce63-4838-bde6-c086b5c07d5e,t0097128,species,Animalia,Globopilumnus globosus,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/bd492190-ce63-4838-bde6-c086b5c07d5e
+8d6a4abb-e2f7-4991-b6aa-4d9742d7ceaf,t0099038,species,Animalia,Syrichtus maculatus,"","","","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/8d6a4abb-e2f7-4991-b6aa-4d9742d7ceaf
+8535ed78-217b-4ee2-b252-d65f0d4c1105,t0106677,species,Animalia,Tetronarce tokionis,"",原生 Native,"","","暫無危機（LC, Least Concern）","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/8535ed78-217b-4ee2-b252-d65f0d4c1105
+4ccf6f92-741d-4e78-86a2-b01d8c669474,t0125331,species,Animalia,Arakawania granulata,"",原生 Native,"","","","",TC taxon_id已刪除,,https://vvtaxatree.tbn.org.tw/taxa/4ccf6f92-741d-4e78-86a2-b01d8c669474
 8b43dfc2-5105-4b46-8787-54967af187f1,"",superdomain,"",Cellular Organisms,"",原生 Native,"","","","",taiCOLNameCode空白,,https://vvtaxatree.tbn.org.tw/taxa/8b43dfc2-5105-4b46-8787-54967af187f1
 c81c2d9d-6ab5-461f-ba33-48c46fd7a98f,"",domain,"",Bacteria,"",原生 Native,"","","","",taiCOLNameCode空白,,https://vvtaxatree.tbn.org.tw/taxa/c81c2d9d-6ab5-461f-ba33-48c46fd7a98f
 ccd11454-a14f-4ba4-81d9-b135e1ff7ba7,"",kingdom,Postgaardia,Postgaardia,"","","","","","",taiCOLNameCode空白,,https://vvtaxatree.tbn.org.tw/taxa/ccd11454-a14f-4ba4-81d9-b135e1ff7ba7
