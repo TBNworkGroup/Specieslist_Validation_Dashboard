@@ -1,0 +1,25 @@
+taxonUUID,taxonRank,kingdom,simplifiedScientificName,parentUUID,parent_taxonRank,parent_name
+03519181-616a-4f5b-87dd-36be6d1d7228,infraspecies,Animalia,Horornis concolor,9f5ff4c6-f240-4af1-8de9-cdd455863145,genus,Horornis
+6a0bd750-3793-403c-abba-57fb49246e85,infraspecies,Animalia,Botaurus flavicollis,98604e49-8e03-4630-89ee-899c05547243,genus,Botaurus
+480cdaf0-aa28-44f4-b906-780e9aa7a52d,infraspecies,Animalia,Streptopelia chinensis,0b577285-3a93-4c9b-a3a8-2fd59117472a,genus,Streptopelia
+863ed427-99f8-4381-b58c-d4e835c1df07,infraspecies,Animalia,Taenioptynx pardalotum,d9af3a6e-c6e5-4300-b6ba-5cc2d32f074e,genus,Taenioptynx
+faaa7f62-a740-40c3-abb7-aa4c65f7eef1,infraspecies,Animalia,Anthicus quisguilius,a80da9b3-87a2-4ce3-881b-322d1b05870a,genus,Anthicus
+85dad353-5fc4-41e4-bd74-30635f0695ff,infraspecies,Animalia,Daimio moori,8bfa7d34-b2ce-43b4-ad86-328fe3852973,genus,Daimio
+5a5bcc8a-04da-4f90-9735-563bd9d30ec2,infraspecies,Animalia,Cosmoscarta ratonis,e327baf9-d525-4f5c-aa06-fa5d55031f94,genus,Cosmoscarta
+612dcd10-3e43-4f06-97f5-c462e854cfd5,infraspecies,Animalia,Aeschnophlebia risi,d760d979-4934-4979-a276-1df08f19aa5c,genus,Aeschnophlebia
+985d1296-4d74-4da5-b45c-f87030fc997b,infraspecies,Plantae,Limnophila parallela,1b413a63-2715-49f1-85be-0c50f68eff3e,genus,Limnophila
+f2b08997-01c7-40b7-a4a4-7a626c9b86e4,infraspecies,Animalia,Ginebis argenteonitens argenteonitens tosana,224b8f2b-3d37-4782-b181-1243c2b9b16a,infraspecies,Ginebis argenteonitens argenteonitens
+f4ef3563-b2c3-4f1c-8fe5-1644845a56e2,infraspecies,Fungi,Rhizopus microsporus chinensis rugosporus,66157c6d-01fd-44ad-b9ea-9e0a93cf13f7,infraspecies,Rhizopus microsporus chinensis
+a6d64ac6-344a-45e8-bdb6-d42dc18d1a94,infraspecies,Fungi,Rhizopus microsporus oligosporus glaher,62ea342d-5d7e-439b-b970-162cdae94918,infraspecies,Rhizopus microsporus oligosporus
+ee0c66fd-cf31-469d-a940-b0c735f3b6c2,infraspecies,Animalia,Anarhynchus alexandrinus,cbb05dbf-d4c3-4239-a11a-acba3d38d044,genus,Anarhynchus
+74eded14-8860-4fde-8b93-dff81f34bb7c,infraspecies,Animalia,Anarhynchus leschenaultii,cbb05dbf-d4c3-4239-a11a-acba3d38d044,genus,Anarhynchus
+9f357184-4816-4254-bdef-e267f4436c17,infraspecies,Animalia,Priotyrannus closteroides,56a6fb89-8187-4d53-aade-6a321bf32636,genus,Priotyrannus
+284a8745-887d-4c46-87bc-b70215cec60b,infraspecies,Animalia,Priotyrannus lutauensis,56a6fb89-8187-4d53-aade-6a321bf32636,genus,Priotyrannus
+c7e5ba9a-a9e4-419d-a51f-7f9366bcec83,infraspecies,Animalia,Anarhynchus nihonensis,cbb05dbf-d4c3-4239-a11a-acba3d38d044,genus,Anarhynchus
+83d5702a-0f7d-44cb-bb4b-0363432d7683,infraspecies,Animalia,Tachyspiza fuscipectus,a41ff406-62fc-42b3-b05f-036ca645735e,genus,Tachyspiza
+ff09956d-ea7a-4568-980f-7c0d7f5b6f0a,infraspecies,Animalia,Tachyspiza affinis,a41ff406-62fc-42b3-b05f-036ca645735e,genus,Tachyspiza
+1f7663d2-62ae-49d2-ad7d-758ff643c641,infraspecies,Animalia,Paradoxornis bulomachus,0f6ecd6c-ee60-4ca1-a7d1-c238993f1c8c,genus,Paradoxornis
+fea1180f-5663-4500-95bd-c8e8530e1038,infraspecies,Animalia,Astur fujiyamae,68b44f37-5704-4451-8c10-025d130bb776,genus,Astur
+8b793d63-11b9-47e2-b5bd-6fb62571ca19,infraspecies,Animalia,Lophospiza formosae,27e51bb6-294d-481d-9eac-7e93eb0feb57,genus,Lophospiza
+6b2f477b-2331-40c0-87c2-e97d606daf03,infraspecies,Animalia,Lophospiza indica,27e51bb6-294d-481d-9eac-7e93eb0feb57,genus,Lophospiza
+3aea498c-a638-4e2b-99f8-ea9077952794,infraspecies,Animalia,Macropisthodon rudis,58f1f5b4-ed0f-4943-a41e-aec83eeae994,genus,Macropisthodon

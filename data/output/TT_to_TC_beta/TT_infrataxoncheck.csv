@@ -1,0 +1,7 @@
+taxonUUID,taxonRank,kingdom,simplifiedScientificName,parentUUID,parent_taxonRank,parent_name
+5a5bcc8a-04da-4f90-9735-563bd9d30ec2,infraspecies,Animalia,Cosmoscarta ratonis,e327baf9-d525-4f5c-aa06-fa5d55031f94,genus,Cosmoscarta
+f4ef3563-b2c3-4f1c-8fe5-1644845a56e2,infraspecies,Fungi,Rhizopus microsporus chinensis rugosporus,66157c6d-01fd-44ad-b9ea-9e0a93cf13f7,infraspecies,Rhizopus microsporus chinensis
+a6d64ac6-344a-45e8-bdb6-d42dc18d1a94,infraspecies,Fungi,Rhizopus microsporus oligosporus glaher,62ea342d-5d7e-439b-b970-162cdae94918,infraspecies,Rhizopus microsporus oligosporus
+9f357184-4816-4254-bdef-e267f4436c17,infraspecies,Animalia,Priotyrannus closteroides,56a6fb89-8187-4d53-aade-6a321bf32636,genus,Priotyrannus
+284a8745-887d-4c46-87bc-b70215cec60b,infraspecies,Animalia,Priotyrannus lutauensis,56a6fb89-8187-4d53-aade-6a321bf32636,genus,Priotyrannus
+60ccde88-9ed7-4a44-bfc5-91fd6f0433e1,infraspecies,Animalia,Taenia saginata asiatica var. engleriana,e5eae701-1509-4388-bc40-922895b740a8,infraspecies,Taenia saginata asiatica
