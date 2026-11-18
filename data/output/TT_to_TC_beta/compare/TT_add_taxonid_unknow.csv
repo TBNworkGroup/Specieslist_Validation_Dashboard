@@ -56,9 +56,8 @@ c0b2749e-52eb-43a3-b9d5-90e5e641042f,species,Plantae,"",Aletris foliata
 df72f0b0-c661-4ccc-9953-3a868e2833dd,species,Plantae,"",Smilax glaucophylla
 d7a9364a-7a2d-46fe-96b8-20c4418c2b4c,species,Plantae,"",Fritillaria verticillata
 c37ec6e5-b851-4eb2-ae1f-d70faef4adb0,species,Plantae,"",Bletilla striata
+a6be8aec-07c8-463f-a53c-6d4f7522f40c,species,Plantae,"",Calanthe alismatifolia
 f5640a89-9490-403b-813f-dd4092537bc0,species,Plantae,"",Cymbidium eburneum
-a285c7a1-60da-474f-8da9-42ff732368b3,species,Plantae,"",Epipogium meridianum
-4e00cc8c-aa44-4298-9ba9-0e2088328eea,species,Plantae,"",Cymbidium × oblancifolium
 42d21336-ef4b-4177-b689-2a9ca67c15cd,species,Plantae,"",Nervilia punctata
 366f9dec-4b49-4284-96df-04d0500f7d0c,species,Plantae,"",Oberonia anthropophora
 6536ee66-c8e6-4f36-9ede-58f91ad70c77,species,Plantae,"",Phalaenopsis amabilis
@@ -116,11 +115,8 @@ bd045ed4-c065-4e94-bd41-a603afb2acd6,infraspecies,Plantae,"",Athyrium oppositipi
 7e1d8f45-9534-4bc8-9419-bdaa915a06fa,infraspecies,Plantae,"",Hypodematium crenatum loyalii
 bb8d63a5-fcd7-40c5-be68-2d7149fcf989,infraspecies,Plantae,"",Machilus obovatifolius obovatifolius
 8647e30d-c757-4af6-8502-288b315074f1,infraspecies,Plantae,"",Camphora officinarum officinarum
-ce85e6b5-7895-4322-ab6f-5c8c5dfd69c7,infraspecies,Plantae,"",Cheirostylis tortilacinia rubrifolia
 110eabc8-70be-4e78-b060-903ab4246090,infraspecies,Plantae,"",Oberonia insularis rotunda
-61f569fb-5aa5-4157-ad66-f5a1c7af2e9d,infraspecies,Plantae,"",Odontochilus brevistylis candidus
 d2f09a9a-5397-422d-875e-1f22a49e0154,infraspecies,Plantae,"",Cheirostylis tortilacinia tortilacinia
-544f3e5d-29db-43ae-92e3-7bef7fb030f1,infraspecies,Plantae,"",Cheirostylis tortilacinia wutaiensis
 8dde94e5-cee0-426a-bbf8-bee0288a77e9,infraspecies,Plantae,"",Carex japonica subtransversa
 d88e0b39-5532-4786-af9f-d8751dca6556,infraspecies,Plantae,"",Thalictrum urbainii urbainii
 6023952b-c32e-437d-bed9-91450f6f3e83,infraspecies,Plantae,"",Campylotropis macrocarpa hupehensis
@@ -1065,13 +1061,9 @@ e672f748-5b60-4edf-98cf-d4e30af6d29b,species,Plantae,"",Arisaema concinnum
 abb1a224-ac7d-4977-b986-75c1e21fe101,species,Plantae,"",Syngonium angustatum
 ce8118f4-aaf3-4041-8e8c-390a44491d92,species,Plantae,"",Pandanus amaryllifolius
 fa21f072-c361-4895-b03e-649b9539b4dd,species,Plantae,"",Smilax binchuanensis
-a6be8aec-07c8-463f-a53c-6d4f7522f40c,species,Plantae,"",Calanthe alismatifolia
-4b284a25-26df-4dc1-8cdf-cf806a8617c7,species,Plantae,"",Calanthe kibanakirishima
-3eb87435-dd2d-43f2-9405-f99a5ed92d3c,species,Plantae,"",Ania hongkongensis
 c9759364-d349-4918-808f-157c942618c1,species,Plantae,"",Cymbidium hookeriarum
 8c100a1d-4592-4b0b-a0dc-371459a6ae1c,species,Plantae,"",Dendrobium lindleyi
 6043c163-9ad4-4544-acd6-53b2f3cc113a,species,Plantae,"",Odontochilus drymoglossifoliu
-942633e7-45f1-4ce5-a8b6-f16e7e2b4574,species,Plantae,"",Oreorchis wumaniae
 7738fca7-79ac-41a9-bf65-5121d0d793bb,species,Plantae,"",Phalaenopsis ×ambotrana
 44f652d1-36ad-414e-9c7c-a4daee60d033,species,Plantae,"",× Ascocenda hybrida
 1cc76b93-6ae6-4ee3-b880-c490e9b8e6c8,species,Plantae,"",Vanda hybrida
@@ -1330,7 +1322,6 @@ acea36e0-5062-42b6-be5a-f794091271db,infraspecies,Plantae,"",Lilium lancifolium 
 502f9f52-1074-4406-956b-9b7bb0b6c780,infraspecies,Plantae,"",Cattleya labiata trianaei
 d21aec44-4dff-43ea-9340-8119a1efa3da,infraspecies,Plantae,"",Cattleya labiata warneri
 eddba5af-8256-4aec-b520-292722b218c7,infraspecies,Plantae,"",Cattleya labiata warscewiczii
-7951b521-7df5-4eed-b310-cd92f4725727,infraspecies,Plantae,"",Cremastra appendiculata variabilis
 319568e7-e512-45c2-934d-1f962148be8e,infraspecies,Plantae,"",Cymbidium ensifolium ensifolium
 3596407f-22c2-43d2-b163-e207a2b9d575,infraspecies,Plantae,"",Cymbidium sinense albo-jucundissimum
 27ef80b6-3204-4dac-9f7e-5cf19fa9d20e,infraspecies,Plantae,"",Goodyera foliosa foliosa

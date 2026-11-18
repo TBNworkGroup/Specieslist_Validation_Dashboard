@@ -1,6 +1,8 @@
 taxon_id,rank,simple_name,reason,TC_URL
 t0009100,Genus,× Chrinephrium,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0009100
 t0009100,Genus,× Chrinephrium,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0009100
+t0024452,Genus,× Papilionanthe,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0024452
+t0024452,Genus,× Papilionanthe,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0024452
 t0025573,Genus,Brassavola × Cattleya,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025573
 t0025573,Genus,Brassavola × Cattleya,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0025573
 t0025574,Genus,× Brassolaelia,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0025574
@@ -34,6 +36,7 @@ t0054213,Subspecies,Leptochloa fusca subsp. fascicularis,錯誤符號與括號�
 t0054214,Subspecies,Leptochloa fusca subsp. uninervia,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0054214
 t0054302,Subspecies,Lobelia alsinoides subsp. hancei,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0054302
 t0054422,Subspecies,Melaleuca cajuputi subsp. cumingiana,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0054422
+t0054871,Subspecies,Platanthera mandarinorum subsp. pachyglossa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0054871
 t0055045,Subspecies,Raphanus raphanistrum subsp. sativus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0055045
 t0055100,Subspecies,Rhynchospora rugosa subsp. brownii,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0055100
 t0055171,Subspecies,Rumex dentatus subsp. nipponicus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0055171
@@ -63,12 +66,14 @@ t0058273,Subspecies,Sorghum bicolor subsp. bicolor,錯誤符號與括號前後�
 t0058341,Subspecies,Tadehagi triquetrum subsp. pseudotriquetrum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058341
 t0058487,Subspecies,Macrocoma tenue subsp. sullivantii,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058487
 t0058533,Subspecies,Meteorium subpolytrichum subsp. horikawa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058533
+t0058641,Subspecies,Odontochilus tortus subsp. tashiroi,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058641
 t0058847,Subspecies,Codonopsis javanica subsp. japonica,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058847
 t0058911,Subspecies,Cyperus sesquiflorus subsp. cylindricus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058911
 t0058912,Subspecies,Cyperus imbricatus subsp. elongatus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058912
 t0058967,Subspecies,Persicaria attenuata subsp. pulchra,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058967
 t0058992,Subspecies,Phyllachora dolichogena subsp. phaseolina,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0058992
 t0059004,Subspecies,Pilea aquarum subsp. brevicornuta,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0059004
+t0059086,Subspecies,Pomatocalpa undulatum subsp. acuminatum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0059086
 t0059092,Subspecies,Portulaca pilosa subsp. pilosa,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0059092
 t0059119,Subspecies,Pteridium aquilinum subsp. japonicum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0059119
 t0059120,Subspecies,Pteridium aquilinum subsp. wightianum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0059120
@@ -415,3 +420,6 @@ t0136700,Subspecies,Pieris japonica subsp. koidzumiana,錯誤符號與括號前�
 t0136756,Subspecies,Epilobium ciliatum subsp. ciliatum,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136756
 t0136891,Subspecies,Streptococcus mitis subsp. mitis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136891
 t0136892,Subspecies,Streptococcus mitis subsp. hohhotensis,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0136892
+t0137056,Subspecies,Odontochilus brevistylis subsp. candidus,錯誤符號與括號前後空格,https://taicol.tw/zh-hant/taxon/t0137056
+t0137088,Genus,× Papilisia,高階層欄位出現多詞格式,https://taicol.tw/zh-hant/taxon/t0137088
+t0137088,Genus,× Papilisia,大小寫錯誤,https://taicol.tw/zh-hant/taxon/t0137088

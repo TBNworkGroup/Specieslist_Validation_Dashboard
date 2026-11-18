@@ -191,6 +191,7 @@ t0075263,Species,Philonotis social,"",TRUE,"","","","","",種與種下原生性�
 t0075282,Species,Pilea aquarum,"",TRUE,"",NLC,"","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0075282
 t0075387,Species,Plagiothecium cavifolium,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0075387
 t0075441,Species,Polygonatum odoratum,"",TRUE,"",NLC,"","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0075441
+t0075451,Species,Pomatocalpa undulatum,"",TRUE,"","","",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0075451
 t0075461,Species,Porella gracillima,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0075461
 t0075559,Species,Quadricoccus laevis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0075559
 t0075565,Species,Quercus glandulifera,"",TRUE,"",NEN,"","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0075565
@@ -236,6 +237,7 @@ t0100335,Species,Jatropha gossypiifolia,"",TRUE,"","",LC,"","",種與種下原�
 t0100341,Species,Juncus prismatocarpus,"",TRUE,"","",LC,"","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0100341
 t0100538,Species,Liriope muscari,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0100538
 t0100805,Species,Cypripedium reginae,"",TRUE,"","",LC,II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0100805
+t0100856,Species,Platanthera mandarinorum,"",TRUE,"","","",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0100856
 t0100967,Species,Rumex dentatus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0100967
 t0101352,Species,Tartessus malayus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0101352
 t0101539,Species,Rubus tephrodes,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0101539
@@ -800,7 +802,6 @@ t0124423,Species,Yunohamella mneon,"",TRUE,"","","","","",種與種下原生性�
 t0124630,Species,Cyclina japonica,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0124630
 t0124636,Species,Mappia ovata,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0124636
 t0124637,Species,Nasturtium montanum,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0124637
-t0124683,Species,Eulophia cernua,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0124683
 t0124876,Species,Callicarpa tomentosa,"",TRUE,"","",LC,"","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0124876
 t0124879,Species,Pestalotiopsis adusta,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0124879
 t0124880,Species,Neopestalotiopsis asiatica,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0124880
@@ -889,6 +890,7 @@ t0127066,Species,Berchemia kulingensis,"",TRUE,"","","","","",種與種下原生
 t0127633,Species,Carex gibba,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0127633
 t0127675,Subspecies,Carex breviculmis subsp. leucochlora,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0127675
 t0127919,Species,Cerastium arvense,"",TRUE,"","",LC,"","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0127919
+t0128885,Species,Dendrobium aphyllum,"",TRUE,"","",LC,II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0128885
 t0129193,Species,Disporopsis aspersa,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0129193
 t0134518,Species,Sarcococca hookeriana,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0134518
 t0134697,Species,Schoepfia chinensis,"",TRUE,"","",LC,"","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0134697
@@ -910,7 +912,6 @@ t0136534,Species,Neyraudia reynaudiana,"",TRUE,"","","","","",種與種下原生
 t0136535,Species,Bruguiera gymnorrhiza,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136535
 t0136537,Species,Rhomboda abbreviata,"",TRUE,"","","",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136537
 t0136544,Subspecies,Smilax discotis subsp. concolor,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136544
-t0136546,Species,Scaevola sericea,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136546
 t0136551,Subspecies,Smilax menispermoidea subsp. randaiensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136551
 t0136553,Species,Aglaia elaeagnoidea,"",TRUE,"","",LC,"","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136553
 t0136554,Species,Acacia merrillii,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0136554
@@ -1000,6 +1001,61 @@ t0136996,Species,Thrissina adelae,"",TRUE,"","","","","",種與種下原生性�
 t0137013,Species,Hymenodon sericeus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137013
 t0137018,Species,Zehneria bodinieri,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137018
 t0137019,Species,Zehneria repanda,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137019
+t0137056,Subspecies,Odontochilus brevistylis subsp. candidus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137056
+t0137095,Species,Anoectochilus roxburghii,"",TRUE,"","","",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137095
+t0137099,Species,Bulbophyllum linearibractium,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137099
+t0137100,Species,Cheirostylis monteiroi,"",TRUE,"","","",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137100
+t0137102,Species,Cymbidium × oblancifolium,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137102
+t0137103,Species,Epipactis fascicularis,"",TRUE,"","","",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137103
+t0137104,Species,Epipogium aphyllum,"",TRUE,"",NNT,"",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137104
+t0137105,Species,Epipogium × meridianum,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137105
+t0137106,Species,Gastrochilus ciliaris,"",TRUE,"",NNT,"",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137106
+t0137107,Species,Goodyera × tanakae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137107
+t0137108,Species,Habenaria × furcata,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137108
+t0137109,Species,Habenaria × tsaiana,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137109
+t0137110,Species,Liparis amabilis,"",TRUE,"",NCR,"",II,輕度,種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137110
+t0137111,Species,Luisia tristis,"",TRUE,"","","",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137111
+t0137112,Species,Taeniophyllum chitouensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137112
+t0137113,Species,Zeuxine affinis,"",TRUE,"",NLC,"",II,"",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137113
+t0137136,Species,Efibula taiwanensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137136
+t0137137,Species,Efibula hainanensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137137
+t0137138,Species,Rhizochaete nakasoneae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137138
+t0137147,Species,Streptobacillus moniliformis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137147
+t0137148,Species,Neodictyosporium macarangae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137148
+t0137149,Species,Neoanthostomella fici,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137149
+t0137150,Species,Gilmaniella bambusae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137150
+t0137151,Species,Cercophora fici,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137151
+t0137152,Species,Neophyllachora fici,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137152
+t0137153,Species,Ophioceras ficinum,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137153
+t0137154,Species,Ophioceras chiangdaoense,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137154
+t0137155,Species,Stachybotrys aloicola,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137155
+t0137156,Species,Sirastachys pandanicola,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137156
+t0137157,Species,Sirastachys castanedae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137157
+t0137158,Species,Memnoniella mori,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137158
+t0137159,Species,Memnoniella alishanensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137159
+t0137160,Species,Memnoniella celtidis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137160
+t0137161,Species,Dimorphiseta acuta,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137161
+t0137162,Species,Dematiocladium celtidicola,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137162
+t0137163,Species,Colletotrichum fici-septicae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137163
+t0137164,Species,Colletotrichum fici,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137164
+t0137165,Species,Colletotrichum celtidis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137165
+t0137166,Species,Coniella quercicola,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137166
+t0137167,Species,Coniella fici,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137167
+t0137168,Species,Diaporthosporella macarangae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137168
+t0137169,Species,Diaporthe pseudophoenicicola,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137169
+t0137170,Species,Diaporthe millettiae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137170
+t0137171,Species,Diaporthe limonicola,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137171
+t0137172,Species,Diaporthe fici-septicae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137172
+t0137173,Species,Diaporthe celtidis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137173
+t0137174,Species,Pseudoneottiospora cannabacearum,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137174
+t0137175,Species,Dinemasporium parastrigosum,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137175
+t0137176,Species,Fomitiporia bannaensis,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137176
+t0137177,Species,Fomitiporia punctata,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137177
+t0137178,Species,Fomitiporia subtropica,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137178
+t0137179,Species,Fomitiporia torreyae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137179
+t0137182,Species,Haploporus alabamae,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137182
+t0137183,Species,Haploporus thindii,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137183
+t0137184,Species,Aleurodiscus formosanus,"",TRUE,"","","","","",種與種下原生性空白,https://taicol.tw/zh-hant/taxon/t0137184
 t0001858,Order,Falconiformes,"",TRUE,II,"","",I/II/III/NC,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0001858
 t0002098,Order,Primates,"",TRUE,II,"","",I/II/NC,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0002098
 t0002186,Order,Strigiformes,"",TRUE,II,"","",I/II/NC,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0002186
@@ -1193,7 +1249,6 @@ t0086375,Subspecies,Treron formosae medioximus,native,TRUE,II,NVU,"","","",敏�
 t0096039,Species,Lentipes kaaea,native,TRUE,III,DD,LC,"","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0096039
 t0097046,Species,Panthera pardus,native,TRUE,I,"",VU,I,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0097046
 t0097059,Species,Fregata andrewsi,native,TRUE,I,,VU,I,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0097059
-t0098149,Species,Oncorhynchus masou,native,TRUE,I,NNT,LC,"","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0098149
 t0098204,Species,Elaphe taeniura,native,TRUE,III,NLC,VU,"","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0098204
 t0100085,Species,Aquila chrysaetos,native,TRUE,II,"",LC,II,"",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0100085
 t0100982,Subspecies,Sousa chinensis taiwanensis,native,TRUE,I,"","","","",敏感狀態=無的保育類or國內紅皮書VU以上or國際IUCN VU以上的原生種,https://taicol.tw/zh-hant/taxon/t0100982

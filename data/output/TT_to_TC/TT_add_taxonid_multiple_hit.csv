@@ -90,6 +90,7 @@ f307679e-e3d2-453a-b437-47ba05e9c85b,species,Plantae,"",Selaginella philippina,1
 f307679e-e3d2-453a-b437-47ba05e9c85b,species,Plantae,"",Selaginella philippina,1,t0026318,misapplied
 e0fce883-ea56-4d4f-b4ab-510dbdae68c5,species,Plantae,"",Selaginella plana,1,t0102742,accepted
 e0fce883-ea56-4d4f-b4ab-510dbdae68c5,species,Plantae,"",Selaginella plana,1,t0026318,misapplied
+43743f9c-a6a4-4c57-9448-c42db9df6c19,species,Plantae,"",Lycopodium alpinum,1,[],
 b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,1,t0102743,accepted
 b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,1,t0075866,misapplied
 b125a54b-c3e2-491a-bf55-467625906461,species,Plantae,"",Selaginella springiana,1,t0026318,misapplied
@@ -106,8 +107,6 @@ e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,"",Selaginella circinalis,1
 e4ea5b20-a54d-4306-a708-d96fc432a99b,species,Plantae,"",Selaginella circinalis,2,t0103619,not-accepted
 ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,"",Selaginella circinalis,1,t0103619,not-accepted
 ce8c5fa8-0847-4b8d-a927-69a1bb65c276,species,Plantae,"",Selaginella circinalis,2,t0103619,not-accepted
-43743f9c-a6a4-4c57-9448-c42db9df6c19,species,Plantae,"",Lycopodium alpinum,1,[],
-439ad63d-8454-4d3d-bc54-5f108a60c844,species,Plantae,"",Equisetum hyemale,1,[],
 96da2e70-e303-470b-a26d-c1e6137cf21f,species,Plantae,"",Hymenophyllum javanicum,1,t0026388,accepted
 96da2e70-e303-470b-a26d-c1e6137cf21f,species,Plantae,"",Hymenophyllum javanicum,1,t0026380,misapplied
 b1070148-e6b2-45a8-85e3-cd7ee7956d11,species,Plantae,"",Hymenophyllum paniculiflorum,1,t0026394,accepted
@@ -123,6 +122,7 @@ b657481f-6cbc-45f4-a21b-542afb741da9,species,Plantae,"",Didymoglossum motleyi,1,
 b657481f-6cbc-45f4-a21b-542afb741da9,species,Plantae,"",Didymoglossum motleyi,1,t0026419,misapplied
 993017b5-420c-4ec1-a6a0-544a6f5e966b,species,Plantae,"",Crepidomanes minutum,1,t0026414,accepted
 993017b5-420c-4ec1-a6a0-544a6f5e966b,species,Plantae,"",Crepidomanes minutum,1,t0026413,misapplied
+439ad63d-8454-4d3d-bc54-5f108a60c844,species,Plantae,"",Equisetum hyemale,1,[],
 846f9dab-0a71-4375-a8a8-6443a6bc8fe6,species,Plantae,"",Azolla filiculoides,1,t0102194,accepted
 846f9dab-0a71-4375-a8a8-6443a6bc8fe6,species,Plantae,"",Azolla filiculoides,1,t0102659,misapplied
 02eac940-1cc4-43d2-9295-10f3a6d6cb0c,species,Plantae,"",Azolla caroliniana,1,t0026443,accepted
@@ -148,14 +148,14 @@ c336638d-e30e-449f-9f62-4c515ccc96ed,species,Plantae,"",Paesia radula,1,t0026608
 5627b2fb-9a44-4b84-af25-663ded9984a1,species,Plantae,"",Pteris amoena,1,t0026526,misapplied
 7e94ffd7-71c9-4a46-87ce-23a8c74ff914,species,Plantae,"",Pteris aspericaulis,1,t0102191,accepted
 7e94ffd7-71c9-4a46-87ce-23a8c74ff914,species,Plantae,"",Pteris aspericaulis,1,t0026522,misapplied
+8b73e8db-36c2-4ab1-8e8a-0f063e85d206,species,Plantae,"",Pteridium aquilinum,1,t0100907,accepted
+8b73e8db-36c2-4ab1-8e8a-0f063e85d206,species,Plantae,"",Pteridium aquilinum,1,t0059119,misapplied
 c2cab46f-4b6e-4c9e-a36e-5e3b059a6a82,species,Plantae,"",Pteris setulosocostulata,1,t0026524,accepted
 c2cab46f-4b6e-4c9e-a36e-5e3b059a6a82,species,Plantae,"",Pteris setulosocostulata,2,t0026524,not-accepted
 465a76a8-060d-4ebd-8f46-ab6ecda9a711,species,Plantae,"",Pteris terminalis,1,t0059123,not-accepted
 465a76a8-060d-4ebd-8f46-ab6ecda9a711,species,Plantae,"",Pteris terminalis,1,t0086536,misapplied
 6c8f6f86-2794-4edf-bfc3-6689fc827e05,species,Plantae,"",Pteris wulaiensis,1,t0026530,accepted
 6c8f6f86-2794-4edf-bfc3-6689fc827e05,species,Plantae,"",Pteris wulaiensis,2,,
-8b73e8db-36c2-4ab1-8e8a-0f063e85d206,species,Plantae,"",Pteridium aquilinum,1,t0100907,accepted
-8b73e8db-36c2-4ab1-8e8a-0f063e85d206,species,Plantae,"",Pteridium aquilinum,1,t0059119,misapplied
 f6bc34ab-d0de-4c44-9491-9311bbd52419,species,Plantae,"",Mildella henryi,1,t0026535,not-accepted
 f6bc34ab-d0de-4c44-9491-9311bbd52419,species,Plantae,"",Mildella henryi,2,t0026535,not-accepted
 0beeba17-79c1-45d3-a068-ca854108b660,species,Plantae,"",Gymnocarpium remotipinnatum,1,[],
@@ -165,6 +165,8 @@ f6bc34ab-d0de-4c44-9491-9311bbd52419,species,Plantae,"",Mildella henryi,2,t00265
 09db3227-20b7-456f-bbc6-04b20591c032,species,Plantae,"",Hymenasplenium obscurum,1,t0026935,misapplied
 efdcbe6b-a76e-4c4b-94a4-32feafb99a99,species,Plantae,"",Asplenium adiantumnigrum,1,t0026890,accepted
 efdcbe6b-a76e-4c4b-94a4-32feafb99a99,species,Plantae,"",Asplenium adiantumnigrum,2,t0026890,not-accepted
+6b15bf67-61f7-41d6-b549-2c87087da568,species,Plantae,"",Pteris pellucida,1,t0026518,not-accepted
+6b15bf67-61f7-41d6-b549-2c87087da568,species,Plantae,"",Pteris pellucida,1,t0026508,misapplied
 e791f972-fe3d-4bd6-9f51-1616b5b80162,species,Plantae,"",Asplenium australasicum,1,t0099384,accepted
 e791f972-fe3d-4bd6-9f51-1616b5b80162,species,Plantae,"",Asplenium australasicum,1,t0026914,misapplied
 5d896102-10a3-4584-9562-a3f19c116a44,species,Plantae,"",Asplenium laciniatum,1,t0102140,accepted
@@ -180,8 +182,6 @@ b101fd7b-b834-4a40-84f9-29aca6deb1db,species,Plantae,"",Asplenium scolopendrium,
 b101fd7b-b834-4a40-84f9-29aca6deb1db,species,Plantae,"",Asplenium scolopendrium,1,t0040292,misapplied
 0abdcb67-ef92-475f-b3d7-0c86b1c08d44,species,Plantae,"",Asplenium serricula,1,t0102143,accepted
 0abdcb67-ef92-475f-b3d7-0c86b1c08d44,species,Plantae,"",Asplenium serricula,1,t0026902,misapplied
-6b15bf67-61f7-41d6-b549-2c87087da568,species,Plantae,"",Pteris pellucida,1,t0026518,not-accepted
-6b15bf67-61f7-41d6-b549-2c87087da568,species,Plantae,"",Pteris pellucida,1,t0026508,misapplied
 9bf46969-bfd6-4ea0-8cc3-6e2eddb283f6,species,Plantae,"",Asplenium tenuifolium,1,t0026920,accepted
 9bf46969-bfd6-4ea0-8cc3-6e2eddb283f6,species,Plantae,"",Asplenium tenuifolium,2,t0026920,not-accepted
 05a1612c-751b-4200-bdbb-c3ec56d2e587,species,Plantae,"",Cyclosorus subpubescens,1,t0102203,accepted
@@ -196,12 +196,12 @@ b101fd7b-b834-4a40-84f9-29aca6deb1db,species,Plantae,"",Asplenium scolopendrium,
 46cb9b4b-bd69-4e4e-97fa-493045090a0d,species,Plantae,"",Pronephrium asperum,1,t0026972,misapplied
 ca2dea26-da38-4c53-b95d-058f8468e1da,species,Plantae,"",Pronephrium cuspidatum,1,t0102209,accepted
 ca2dea26-da38-4c53-b95d-058f8468e1da,species,Plantae,"",Pronephrium cuspidatum,1,t0026976,misapplied
-f25f1970-d005-496e-8c12-031dceb9e6ae,species,Plantae,"",Athyrium anisopterum,1,t0052675,accepted
-f25f1970-d005-496e-8c12-031dceb9e6ae,species,Plantae,"",Athyrium anisopterum,2,t0026990,accepted
 35e3eec5-9bea-46dd-a5c0-2d5a5b21c2a6,species,Plantae,"",Asplenium cuneatum,1,t0102808,accepted
 35e3eec5-9bea-46dd-a5c0-2d5a5b21c2a6,species,Plantae,"",Asplenium cuneatum,1,t0026895,misapplied
 35e3eec5-9bea-46dd-a5c0-2d5a5b21c2a6,species,Plantae,"",Asplenium cuneatum,1,t0026909,misapplied
 35e3eec5-9bea-46dd-a5c0-2d5a5b21c2a6,species,Plantae,"",Asplenium cuneatum,1,t0026916,misapplied
+f25f1970-d005-496e-8c12-031dceb9e6ae,species,Plantae,"",Athyrium anisopterum,1,t0052675,accepted
+f25f1970-d005-496e-8c12-031dceb9e6ae,species,Plantae,"",Athyrium anisopterum,2,t0026990,accepted
 833e7825-38f9-4a16-a64f-0c1d8102e802,species,Plantae,"",Athyrium iseanum,1,t0040309,accepted
 833e7825-38f9-4a16-a64f-0c1d8102e802,species,Plantae,"",Athyrium iseanum,1,t0086576,misapplied
 c9bcc282-a744-496f-97a2-2798e3a0612e,species,Plantae,"",Athyrium fragile,1,t0102807,accepted
@@ -218,11 +218,11 @@ e9070153-85bc-4eb1-951e-a3d29b353b9a,species,Plantae,"",Athyrium kuratae,1,t0026
 947de550-6c9d-4709-a752-88531ccdacd2,species,Plantae,"",Deparia allantodioides,1,t0027018,misapplied
 74e44a54-1f95-4832-9fed-2da85165cc2d,species,Plantae,"",Deparia longipes,1,t0102149,accepted
 74e44a54-1f95-4832-9fed-2da85165cc2d,species,Plantae,"",Deparia longipes,1,t0027016,misapplied
-009043e3-d0dd-444e-8451-8d0063d29323,species,Plantae,"",Hypodematium crenatum,1,t0026609,accepted
-009043e3-d0dd-444e-8451-8d0063d29323,species,Plantae,"",Hypodematium crenatum,1,t0058063,misapplied
 5fc7bdf1-9249-4d76-80ab-5adec25e8416,species,Plantae,"",Athyrium japonicum,1,t0102846,accepted
 5fc7bdf1-9249-4d76-80ab-5adec25e8416,species,Plantae,"",Athyrium japonicum,1,t0100553,misapplied
 92cb8500-d788-4116-a831-e049bcfd5dc5,species,Plantae,"",Deparia pycnosora,1,[],
+009043e3-d0dd-444e-8451-8d0063d29323,species,Plantae,"",Hypodematium crenatum,1,t0026609,accepted
+009043e3-d0dd-444e-8451-8d0063d29323,species,Plantae,"",Hypodematium crenatum,1,t0058063,misapplied
 0c604423-4c89-4356-b21d-4d3e12763546,species,Plantae,"",Cyrtomium hookerianum,1,t0103627,accepted
 0c604423-4c89-4356-b21d-4d3e12763546,species,Plantae,"",Cyrtomium hookerianum,1,t0026723,misapplied
 89a4bfde-006e-4793-a872-314744e9f0eb,species,Plantae,"",Dryopteris austriaca,1,t0102671,accepted
@@ -290,15 +290,15 @@ cc4afb7b-600a-4413-bdc4-4af59ed0f7bc,species,Plantae,"",Aristolochia kaempferi,1
 cc4afb7b-600a-4413-bdc4-4af59ed0f7bc,species,Plantae,"",Aristolochia kaempferi,1,t0040253,misapplied
 c6d844cd-195b-459a-bc30-be15f7202190,species,Plantae,"",Asarum hypogynum,1,t0040282,accepted
 c6d844cd-195b-459a-bc30-be15f7202190,species,Plantae,"",Asarum hypogynum,1,t0040283,misapplied
+ab0d487b-9ca6-4a86-8352-772f15e1bd47,species,Plantae,"",Aristolochia shimadae,1,t0061042,not-accepted
+ab0d487b-9ca6-4a86-8352-772f15e1bd47,species,Plantae,"",Aristolochia shimadae,1,t0125463,misapplied
+80cc097f-310d-4bf3-aafe-372e2ca668d6,species,Plantae,"",Aristolochia liukiuensis,1,t0105572,not-accepted
+80cc097f-310d-4bf3-aafe-372e2ca668d6,species,Plantae,"",Aristolochia liukiuensis,1,t0040253,misapplied
 6789f575-941a-4d44-9116-c341d942a0cb,species,Plantae,"",Cinnamomum insularimontanum,1,t0053005,not-accepted
 6789f575-941a-4d44-9116-c341d942a0cb,species,Plantae,"",Cinnamomum insularimontanum,2,t0053005,accepted
 8ab885f5-942c-4fb4-aa2a-d5b02c226e1b,species,Plantae,"",Cinnamomum cassia,1,t0101569,not-accepted
 8ab885f5-942c-4fb4-aa2a-d5b02c226e1b,species,Plantae,"",Cinnamomum cassia,1,t0053004,misapplied
 8ab885f5-942c-4fb4-aa2a-d5b02c226e1b,species,Plantae,"",Cinnamomum cassia,2,t0123938,accepted
-ab0d487b-9ca6-4a86-8352-772f15e1bd47,species,Plantae,"",Aristolochia shimadae,1,t0061042,not-accepted
-ab0d487b-9ca6-4a86-8352-772f15e1bd47,species,Plantae,"",Aristolochia shimadae,1,t0125463,misapplied
-80cc097f-310d-4bf3-aafe-372e2ca668d6,species,Plantae,"",Aristolochia liukiuensis,1,t0105572,not-accepted
-80cc097f-310d-4bf3-aafe-372e2ca668d6,species,Plantae,"",Aristolochia liukiuensis,1,t0040253,misapplied
 4752e4f3-45e9-4f07-96fd-95e15e041bd5,species,Plantae,"",Litsea elongata,1,t0074610,accepted
 4752e4f3-45e9-4f07-96fd-95e15e041bd5,species,Plantae,"",Litsea elongata,1,t0058466,misapplied
 da39d4aa-2f81-4cec-9ba5-47a1114cf5cb,species,Plantae,"",Machilus japonicus,1,[],
@@ -324,116 +324,132 @@ c0b2749e-52eb-43a3-b9d5-90e5e641042f,species,Plantae,"",Aletris foliata,1,[],
 22d3912b-e6eb-4a5a-9dd8-e268043256fc,species,Plantae,"",Smilax seisuiensis,1,t0058264,not-accepted
 22d3912b-e6eb-4a5a-9dd8-e268043256fc,species,Plantae,"",Smilax seisuiensis,2,t0058264,accepted
 df72f0b0-c661-4ccc-9953-3a868e2833dd,species,Plantae,"",Smilax glaucophylla,1,[],
+9fa4ab7e-b788-469e-8926-f575c9e42872,species,Plantae,"",Pandanus tectorius,1,t0100648,accepted
+9fa4ab7e-b788-469e-8926-f575c9e42872,species,Plantae,"",Pandanus tectorius,1,t0058682,misapplied
 06790136-4f2d-435d-8321-ba95fdaf2022,species,Plantae,"",Lilium longiflorum,1,t0074590,accepted
 06790136-4f2d-435d-8321-ba95fdaf2022,species,Plantae,"",Lilium longiflorum,1,t0086546,misapplied
 ec58d469-8a82-4541-9503-b52250aef333,species,Plantae,"",Tricyrtis formosana,1,t0058450,accepted
 ec58d469-8a82-4541-9503-b52250aef333,species,Plantae,"",Tricyrtis formosana,2,,
 d7a9364a-7a2d-46fe-96b8-20c4418c2b4c,species,Plantae,"",Fritillaria verticillata,1,[],
-9fa4ab7e-b788-469e-8926-f575c9e42872,species,Plantae,"",Pandanus tectorius,1,t0100648,accepted
-9fa4ab7e-b788-469e-8926-f575c9e42872,species,Plantae,"",Pandanus tectorius,1,t0058682,misapplied
 0601bd38-0e32-40b7-905c-ede739a7694d,species,Plantae,"",Appendicula reflexa,1,t0040210,accepted
 0601bd38-0e32-40b7-905c-ede739a7694d,species,Plantae,"",Appendicula reflexa,1,t0106561,misapplied
 c37ec6e5-b851-4eb2-ae1f-d70faef4adb0,species,Plantae,"",Bletilla striata,1,[],
 e6d9bcba-6cb9-41df-82f5-952aaadf1c64,species,Plantae,"",Brachycorythis helferi,1,t0103327,accepted
 e6d9bcba-6cb9-41df-82f5-952aaadf1c64,species,Plantae,"",Brachycorythis helferi,1,t0040428,misapplied
-45fbed9c-3328-49f4-bc64-bbfbd8d94ce2,species,Plantae,"",Bulbophyllum albociliatum,1,t0040493,not-accepted
-45fbed9c-3328-49f4-bc64-bbfbd8d94ce2,species,Plantae,"",Bulbophyllum albociliatum,2,t0040493,accepted
+45fbed9c-3328-49f4-bc64-bbfbd8d94ce2,species,Plantae,"",Bulbophyllum albociliatum,1,t0040493,accepted
+45fbed9c-3328-49f4-bc64-bbfbd8d94ce2,species,Plantae,"",Bulbophyllum albociliatum,2,t0040493,not-accepted
 45fbed9c-3328-49f4-bc64-bbfbd8d94ce2,species,Plantae,"",Bulbophyllum albociliatum,3,,
 3b6cd76e-f658-4cc7-9625-ba0aeaa8d576,species,Plantae,"",Bulbophyllum electrinum,1,t0099462,accepted
 3b6cd76e-f658-4cc7-9625-ba0aeaa8d576,species,Plantae,"",Bulbophyllum electrinum,1,t0040497,misapplied
 2b05ab46-36b1-4a15-b266-8569a7cf213f,species,Plantae,"",Bulbophyllum remotifolium,1,t0033500,not-accepted
 2b05ab46-36b1-4a15-b266-8569a7cf213f,species,Plantae,"",Bulbophyllum remotifolium,1,t0040502,misapplied
 2b05ab46-36b1-4a15-b266-8569a7cf213f,species,Plantae,"",Bulbophyllum remotifolium,2,t0033500,not-accepted
+2b05ab46-36b1-4a15-b266-8569a7cf213f,species,Plantae,"",Bulbophyllum remotifolium,3,,
+a6be8aec-07c8-463f-a53c-6d4f7522f40c,species,Plantae,"",Calanthe alismatifolia,1,[],
 f98ea44f-7a41-4cd9-9f59-f1bdbbc84c0a,species,Plantae,"",Calanthe clavata,1,t0040543,accepted
-f98ea44f-7a41-4cd9-9f59-f1bdbbc84c0a,species,Plantae,"",Calanthe clavata,1,t0106336,misapplied
+f98ea44f-7a41-4cd9-9f59-f1bdbbc84c0a,species,Plantae,"",Calanthe clavata,1,t0058309,misapplied
 a529536e-ad0b-4644-8f11-397d0b7d964e,species,Plantae,"",Calanthe hsinchuensis,1,t0040537,accepted
 a529536e-ad0b-4644-8f11-397d0b7d964e,species,Plantae,"",Calanthe hsinchuensis,2,,
+1f259af0-7d91-4d6d-8a2d-e2f2f815be9e,species,Plantae,"",Anoectochilus roxburghii,1,t0137095,accepted
+1f259af0-7d91-4d6d-8a2d-e2f2f815be9e,species,Plantae,"",Anoectochilus roxburghii,1,t0052597,misapplied
 258b704e-ace1-48b7-8e2d-6f4e52c0c553,species,Plantae,"",Cephalantheropsis longipes,1,t0052926,not-accepted
 258b704e-ace1-48b7-8e2d-6f4e52c0c553,species,Plantae,"",Cephalantheropsis longipes,1,t0058747,misapplied
 63589fd1-3971-4821-9e65-8588b15b79c5,species,Plantae,"",Cheirostylis chinensis,1,t0052954,accepted
 63589fd1-3971-4821-9e65-8588b15b79c5,species,Plantae,"",Cheirostylis chinensis,1,t0052957,misapplied
+c2d63ead-61f5-44f3-ac53-7aa506f133d9,species,Plantae,"",Corybas taliensis,1,t0053125,accepted
+c2d63ead-61f5-44f3-ac53-7aa506f133d9,species,Plantae,"",Corybas taliensis,1,t0053121,misapplied
 8f75d901-6c69-4c1b-9cdd-0e82885228ab,species,Plantae,"",Corybas taiwanensis,1,t0105692,accepted
 8f75d901-6c69-4c1b-9cdd-0e82885228ab,species,Plantae,"",Corybas taiwanensis,1,t0053123,misapplied
+ebbc6bb4-8b1e-44ae-afb8-027ba455eeeb,species,Plantae,"",Crepidium roohutuense,1,t0073543,not-accepted
+ebbc6bb4-8b1e-44ae-afb8-027ba455eeeb,species,Plantae,"",Crepidium roohutuense,2,,
+ebbc6bb4-8b1e-44ae-afb8-027ba455eeeb,species,Plantae,"",Crepidium roohutuense,3,,
 88a194cf-b829-460f-8bbe-39f4dcd8182c,species,Plantae,"",Cymbidium goeringii,1,t0053231,accepted
 88a194cf-b829-460f-8bbe-39f4dcd8182c,species,Plantae,"",Cymbidium goeringii,1,t0058902,misapplied
 f5640a89-9490-403b-813f-dd4092537bc0,species,Plantae,"",Cymbidium eburneum,1,[],
 24faa3f9-e32a-4f1d-8390-804865e81521,species,Plantae,"",Dendrobium moniliforme,1,t0053325,accepted
 24faa3f9-e32a-4f1d-8390-804865e81521,species,Plantae,"",Dendrobium moniliforme,1,t0053322,misapplied
-a285c7a1-60da-474f-8da9-42ff732368b3,species,Plantae,"",Epipogium meridianum,1,[],
-4e00cc8c-aa44-4298-9ba9-0e2088328eea,species,Plantae,"",Cymbidium × oblancifolium,1,[],
+d9db12c0-0c9f-40ed-9aa6-b9fde1adb31b,species,Plantae,"",Epipogium aphyllum,1,t0137104,accepted
+d9db12c0-0c9f-40ed-9aa6-b9fde1adb31b,species,Plantae,"",Epipogium aphyllum,1,t0053545,misapplied
+f0299b98-c5f7-4343-b101-4009f6e53ca3,species,Plantae,"",Eulophia bicallosa,1,t0137053,accepted
+f0299b98-c5f7-4343-b101-4009f6e53ca3,species,Plantae,"",Eulophia bicallosa,1,t0053617,misapplied
+1a357afb-286c-4129-8b52-338b4d32721a,species,Plantae,"",Gastrochilus ciliaris,1,t0137106,accepted
+1a357afb-286c-4129-8b52-338b4d32721a,species,Plantae,"",Gastrochilus ciliaris,1,t0053770,misapplied
 bc386a65-b579-4ed7-9d27-7b03bb0cc567,species,Plantae,"",Gastrochilus rantabunensis,1,t0053775,accepted
 bc386a65-b579-4ed7-9d27-7b03bb0cc567,species,Plantae,"",Gastrochilus rantabunensis,2,t0053775,not-accepted
 b7fdb2ca-57bf-4a69-9bcb-3edd8fc6a397,species,Plantae,"",Gastrodia nipponica,1,t0057924,accepted
 b7fdb2ca-57bf-4a69-9bcb-3edd8fc6a397,species,Plantae,"",Gastrodia nipponica,1,t0053790,misapplied
 c50691d1-09ff-4405-a72a-e3a9c18321bb,species,Plantae,"",Goodyera recurva,1,t0136643,accepted
 c50691d1-09ff-4405-a72a-e3a9c18321bb,species,Plantae,"",Goodyera recurva,1,t0053855,misapplied
-466073f2-0dd9-4ea5-9c07-80d0ef6219f3,species,Plantae,"",Goodyera schlechtendaliana,1,t0053852,accepted
+466073f2-0dd9-4ea5-9c07-80d0ef6219f3,species,Plantae,"",Goodyera schlechtendaliana,1,t0102045,accepted
+466073f2-0dd9-4ea5-9c07-80d0ef6219f3,species,Plantae,"",Goodyera schlechtendaliana,1,t0053852,misapplied
 466073f2-0dd9-4ea5-9c07-80d0ef6219f3,species,Plantae,"",Goodyera schlechtendaliana,1,t0053847,misapplied
-466073f2-0dd9-4ea5-9c07-80d0ef6219f3,species,Plantae,"",Goodyera schlechtendaliana,1,t0074153,misapplied
 b682f993-c80a-4bf4-95ab-e463da5ef8a1,species,Plantae,"",Goodyera yamiana,1,t0053862,accepted
 b682f993-c80a-4bf4-95ab-e463da5ef8a1,species,Plantae,"",Goodyera yamiana,1,t0053853,misapplied
 c69cd2f7-ad7b-4c86-b2e4-f5112be1bed0,species,Plantae,"",Habenaria crassilabia,1,t0136644,accepted
 c69cd2f7-ad7b-4c86-b2e4-f5112be1bed0,species,Plantae,"",Habenaria crassilabia,1,t0053887,misapplied
+a285c7a1-60da-474f-8da9-42ff732368b3,species,Plantae,"",Epipogium meridianum,1,,
+a285c7a1-60da-474f-8da9-42ff732368b3,species,Plantae,"",Epipogium meridianum,2,t0137105,accepted
+47f44048-8135-4f02-aa32-ad53ab9a9c14,species,Plantae,"",Habenaria tsaiana,1,t0053892,accepted
+47f44048-8135-4f02-aa32-ad53ab9a9c14,species,Plantae,"",Habenaria tsaiana,2,t0137109,accepted
 593f7c14-4de1-4acb-a71a-0db2a1305e85,species,Plantae,"",Hemipilia takasagomontana,1,t0059087,not-accepted
 593f7c14-4de1-4acb-a71a-0db2a1305e85,species,Plantae,"",Hemipilia takasagomontana,2,t0059087,not-accepted
 f34c8c1a-edbd-42de-9ecf-207e6f61e719,species,Plantae,"",Hetaeria oblongifolia,1,t0105691,accepted
 f34c8c1a-edbd-42de-9ecf-207e6f61e719,species,Plantae,"",Hetaeria oblongifolia,1,t0053924,misapplied
-288fb7e9-9f8f-4a54-b83b-35c1e99d7731,species,Plantae,"",Lecanorchis cerina,1,t0054186,accepted
+288fb7e9-9f8f-4a54-b83b-35c1e99d7731,species,Plantae,"",Lecanorchis cerina,1,t0054186,not-accepted
 288fb7e9-9f8f-4a54-b83b-35c1e99d7731,species,Plantae,"",Lecanorchis cerina,1,t0058132,misapplied
-2f0a6ac2-5f4f-4608-95fc-f8095c246096,species,Plantae,"",Lecanorchis japonica,1,t0101581,accepted
-2f0a6ac2-5f4f-4608-95fc-f8095c246096,species,Plantae,"",Lecanorchis japonica,1,t0054186,misapplied
+2f0a6ac2-5f4f-4608-95fc-f8095c246096,species,Plantae,"",Lecanorchis japonica,1,t0054186,accepted
 2f0a6ac2-5f4f-4608-95fc-f8095c246096,species,Plantae,"",Lecanorchis japonica,1,t0058132,misapplied
 2f317a55-2891-4032-9a16-17f27eb8c05b,species,Plantae,"",Lecanorchis nigricans,1,t0103359,accepted
+2f317a55-2891-4032-9a16-17f27eb8c05b,species,Plantae,"",Lecanorchis nigricans,1,t0058132,misapplied
 2f317a55-2891-4032-9a16-17f27eb8c05b,species,Plantae,"",Lecanorchis nigricans,1,t0058130,misapplied
 2f317a55-2891-4032-9a16-17f27eb8c05b,species,Plantae,"",Lecanorchis nigricans,1,t0054185,misapplied
-2f317a55-2891-4032-9a16-17f27eb8c05b,species,Plantae,"",Lecanorchis nigricans,1,t0058132,misapplied
-900c0aaf-6aee-4be3-9652-cd39dec347e8,species,Plantae,"",Lecanorchis suginoana,1,t0074506,accepted
-900c0aaf-6aee-4be3-9652-cd39dec347e8,species,Plantae,"",Lecanorchis suginoana,2,t0074506,not-accepted
-c5aa5899-8fe3-4f89-ba3a-9da91907dff4,species,Plantae,"",Liparis amabilis,1,t0105694,accepted
+900c0aaf-6aee-4be3-9652-cd39dec347e8,species,Plantae,"",Lecanorchis suginoana,1,t0074506,not-accepted
+900c0aaf-6aee-4be3-9652-cd39dec347e8,species,Plantae,"",Lecanorchis suginoana,2,t0074506,accepted
+c5aa5899-8fe3-4f89-ba3a-9da91907dff4,species,Plantae,"",Liparis amabilis,1,t0137110,accepted
 c5aa5899-8fe3-4f89-ba3a-9da91907dff4,species,Plantae,"",Liparis amabilis,1,t0054256,misapplied
 32826eb4-4535-4faf-a62e-819ff51089dd,species,Plantae,"",Liparis nervosa,1,t0054270,accepted
 32826eb4-4535-4faf-a62e-819ff51089dd,species,Plantae,"",Liparis nervosa,1,t0054263,misapplied
 c74fe3f4-7ae2-4085-a2ac-cc7632320770,species,Plantae,"",Liparis petiolata,1,t0131429,accepted
-c74fe3f4-7ae2-4085-a2ac-cc7632320770,species,Plantae,"",Liparis petiolata,1,t0054273,misapplied
+c74fe3f4-7ae2-4085-a2ac-cc7632320770,species,Plantae,"",Liparis petiolata,1,t0054256,misapplied
 13ae486a-4735-42c2-82b1-0d1345712d51,species,Plantae,"",Luisia teres,1,t0054339,accepted
 13ae486a-4735-42c2-82b1-0d1345712d51,species,Plantae,"",Luisia teres,2,,
+0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,1,t0058456,not-accepted
+0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,1,t0054256,misapplied
 42d21336-ef4b-4177-b689-2a9ca67c15cd,species,Plantae,"",Nervilia punctata,1,[],
-6608b88c-3c2a-4adc-95ae-3524aefbcdaf,species,Plantae,"",Oberonia falcata,1,t0054601,misapplied
-6608b88c-3c2a-4adc-95ae-3524aefbcdaf,species,Plantae,"",Oberonia falcata,1,t0103278,misapplied
 366f9dec-4b49-4284-96df-04d0500f7d0c,species,Plantae,"",Oberonia anthropophora,1,[],
 9fedf381-4c6b-409d-940e-cfa0cf813edd,species,Plantae,"",Odontochilus integrus,1,t0058642,accepted
 9fedf381-4c6b-409d-940e-cfa0cf813edd,species,Plantae,"",Odontochilus integrus,2,t0058642,not-accepted
-0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,1,t0058456,not-accepted
-0a6afdf1-0289-4a4a-83ab-97cf9830a2e9,species,Plantae,"",Liparis auriculata,1,t0054273,misapplied
-1d68fd6c-2230-45e4-a93a-52bc094c5a24,species,Plantae,"",Odontochilus yakushimensis,1,t0074979,accepted
-1d68fd6c-2230-45e4-a93a-52bc094c5a24,species,Plantae,"",Odontochilus yakushimensis,2,t0074979,not-accepted
+1d68fd6c-2230-45e4-a93a-52bc094c5a24,species,Plantae,"",Odontochilus yakushimensis,1,t0049286,accepted
+1d68fd6c-2230-45e4-a93a-52bc094c5a24,species,Plantae,"",Odontochilus yakushimensis,2,t0049286,not-accepted
 761cf6dc-3bc9-40bc-89d0-8e567479cfc1,species,Plantae,"",Oreorchis patens,1,t0054639,accepted
 761cf6dc-3bc9-40bc-89d0-8e567479cfc1,species,Plantae,"",Oreorchis patens,1,t0054636,misapplied
+7779f698-1012-4c85-87f8-df8e8dde9912,species,Plantae,"",Papilionanthe pseudotaiwaniana,1,t0075113,not-accepted
+7779f698-1012-4c85-87f8-df8e8dde9912,species,Plantae,"",Papilionanthe pseudotaiwaniana,2,t0075113,not-accepted
 6536ee66-c8e6-4f36-9ede-58f91ad70c77,species,Plantae,"",Phalaenopsis amabilis,1,[],
 87f6c3a8-1902-4428-9bb7-0411661ab92a,species,Plantae,"",Tainia laxiflora,1,[],
 56385b80-92e0-4fd2-a69e-35f6c7be586c,species,Plantae,"",Thrixspermum laurisilvaticum,1,t0055600,not-accepted
 56385b80-92e0-4fd2-a69e-35f6c7be586c,species,Plantae,"",Thrixspermum laurisilvaticum,2,t0055600,not-accepted
 56385b80-92e0-4fd2-a69e-35f6c7be586c,species,Plantae,"",Thrixspermum laurisilvaticum,3,t0055600,not-accepted
 56385b80-92e0-4fd2-a69e-35f6c7be586c,species,Plantae,"",Thrixspermum laurisilvaticum,4,t0055600,not-accepted
-2a1b4915-24de-4912-889b-8adef6d793dd,species,Plantae,"",Tropidia nipponica,1,t0055688,accepted
-2a1b4915-24de-4912-889b-8adef6d793dd,species,Plantae,"",Tropidia nipponica,1,t0069707,misapplied
+2a1b4915-24de-4912-889b-8adef6d793dd,species,Plantae,"",Tropidia nipponica,1,t0137052,accepted
+2a1b4915-24de-4912-889b-8adef6d793dd,species,Plantae,"",Tropidia nipponica,1,t0055688,misapplied
 92aaa97d-d3c2-4ca6-8ea0-a509ee6466df,species,Plantae,"",Vanilla griffithii,1,t0099693,accepted
 92aaa97d-d3c2-4ca6-8ea0-a509ee6466df,species,Plantae,"",Vanilla griffithii,1,t0049256,misapplied
 97a48eb2-065b-42a7-8be8-1eb1a88e0755,species,Plantae,"",Vrydagzynea albida,1,[],
-1c7d1919-d1f4-4a3f-b5de-0260f24d628d,species,Plantae,"",Zeuxine affinis,1,t0106973,accepted
+1c7d1919-d1f4-4a3f-b5de-0260f24d628d,species,Plantae,"",Zeuxine affinis,1,t0137113,accepted
 1c7d1919-d1f4-4a3f-b5de-0260f24d628d,species,Plantae,"",Zeuxine affinis,1,t0049383,misapplied
 3d0f75c2-d133-4869-8e04-63f408c2b0a8,species,Plantae,"",Zeuxine gracilis,1,[],
 7e7a8935-49ac-48fd-b9cc-3f793c0dee94,species,Plantae,"",Tulotis ussuriensis,1,[],
-424f2cef-9f11-457f-b159-b60d50aebed2,species,Plantae,"",Vexillabium yakushimense,1,t0074979,not-accepted
+424f2cef-9f11-457f-b159-b60d50aebed2,species,Plantae,"",Vexillabium yakushimense,1,t0049286,not-accepted
 424f2cef-9f11-457f-b159-b60d50aebed2,species,Plantae,"",Vexillabium yakushimense,1,t0058642,misapplied
 9ea9c7a3-143a-4043-94b8-56cdfc6ca5a9,species,Plantae,"",Aspidistra elatior,1,[],
 cf684298-6583-499e-8b8f-e908d94e0789,species,Plantae,"",Rohdea japonica,1,[],
-29934af5-bfdd-46d8-8418-ad66b326540c,species,Plantae,"",Aspidistra attenuata,1,t0061063,accepted
-29934af5-bfdd-46d8-8418-ad66b326540c,species,Plantae,"",Aspidistra attenuata,1,t0102658,misapplied
 04f104cd-3ae2-4119-a23d-4e01bc4c6543,species,Plantae,"",Heteropolygonatum altelobatum,1,t0058007,not-accepted
 04f104cd-3ae2-4119-a23d-4e01bc4c6543,species,Plantae,"",Heteropolygonatum altelobatum,2,t0058007,accepted
-670ca2fa-547c-4d6c-86ef-cfa342e3231d,species,Plantae,"",Ophiopogon japonicus,1,t0054627,misapplied
 670ca2fa-547c-4d6c-86ef-cfa342e3231d,species,Plantae,"",Ophiopogon japonicus,1,t0054626,misapplied
+670ca2fa-547c-4d6c-86ef-cfa342e3231d,species,Plantae,"",Ophiopogon japonicus,1,t0054627,misapplied
+29934af5-bfdd-46d8-8418-ad66b326540c,species,Plantae,"",Aspidistra attenuata,1,t0061063,accepted
+29934af5-bfdd-46d8-8418-ad66b326540c,species,Plantae,"",Aspidistra attenuata,1,t0102658,misapplied
 8939d1c0-13c1-409a-b3b9-64b0712f2347,species,Plantae,"",Haworthia fasciata,1,[],
 020bc564-eb3a-466a-88bd-fdf3bf014664,species,Plantae,"",Belosynapsis ciliata,1,t0040367,accepted
 020bc564-eb3a-466a-88bd-fdf3bf014664,species,Plantae,"",Belosynapsis ciliata,1,t0040368,misapplied
@@ -470,27 +486,27 @@ ff69ef51-5616-4d26-91de-8d175a1245e4,species,Plantae,"",Cyperus sulcinux,1,t0099
 6510c020-897c-481b-ab65-94f5bee107e5,species,Plantae,"",Fimbristylis ferruginea,1,t0057375,misapplied
 4b3f7d74-0cb9-466f-997a-24116c30808d,species,Plantae,"",Scleria terrestris,1,t0055272,accepted
 4b3f7d74-0cb9-466f-997a-24116c30808d,species,Plantae,"",Scleria terrestris,1,t0055268,misapplied
+3da4756a-a16e-4693-aaca-f4b9f9593e47,species,Plantae,"",Fimbristylis miliacea,1,t0053706,not-accepted
+3da4756a-a16e-4693-aaca-f4b9f9593e47,species,Plantae,"",Fimbristylis miliacea,1,t0053702,misapplied
 00aa91ab-7721-43ad-b1dc-8d14efdfe336,species,Plantae,"",Arundinella pubescens,1,t0101568,accepted
 00aa91ab-7721-43ad-b1dc-8d14efdfe336,species,Plantae,"",Arundinella pubescens,1,t0105384,misapplied
 420275c6-fe21-4f19-9bcb-63777c169064,species,Plantae,"",Bambusa edulis,1,t0058996,not-accepted
 420275c6-fe21-4f19-9bcb-63777c169064,species,Plantae,"",Bambusa edulis,2,t0040332,not-accepted
-3da4756a-a16e-4693-aaca-f4b9f9593e47,species,Plantae,"",Fimbristylis miliacea,1,t0053706,not-accepted
-3da4756a-a16e-4693-aaca-f4b9f9593e47,species,Plantae,"",Fimbristylis miliacea,1,t0053702,misapplied
 18cf7e9b-1ffd-46fc-a77b-af87b4387cec,species,Plantae,"",Dichanthium annulatum,1,t0123838,accepted
 18cf7e9b-1ffd-46fc-a77b-af87b4387cec,species,Plantae,"",Dichanthium annulatum,1,t0053368,misapplied
 b0401321-3721-48bf-a6bd-1bc699324835,species,Plantae,"",Digitaria magna,1,t0053388,not-accepted
 b0401321-3721-48bf-a6bd-1bc699324835,species,Plantae,"",Digitaria magna,2,t0053388,not-accepted
 6e775603-5f2a-44bc-a929-c99d47b513da,species,Plantae,"",Elymus formosanus,1,t0033650,not-accepted
 6e775603-5f2a-44bc-a929-c99d47b513da,species,Plantae,"",Elymus formosanus,2,,
-c1f17225-9bc3-43f3-9179-3aaa1d8c6ed9,species,Plantae,"",Echinochloa crus-pavonis,1,[],
 90fd08a6-9452-4b92-98bd-4c44dc100a40,species,Plantae,"",Ischaemum muticum,1,t0054092,accepted
 90fd08a6-9452-4b92-98bd-4c44dc100a40,species,Plantae,"",Ischaemum muticum,2,,
+c1f17225-9bc3-43f3-9179-3aaa1d8c6ed9,species,Plantae,"",Echinochloa crus-pavonis,1,[],
 2acbdc41-ef54-40c3-baca-eb2cc287a2b7,species,Plantae,"",Microstegium eucnemis,1,t0054457,accepted
 2acbdc41-ef54-40c3-baca-eb2cc287a2b7,species,Plantae,"",Microstegium eucnemis,1,t0136387,misapplied
-1fa9e584-d52e-431d-8290-42e3a3ae30f4,species,Plantae,"",Saccharum rufipilum,1,t0135774,not-accepted
-1fa9e584-d52e-431d-8290-42e3a3ae30f4,species,Plantae,"",Saccharum rufipilum,2,,
 bca3eef1-b604-44d8-af07-4d814f7a2485,species,Plantae,"",Paspalum commersonii,1,t0054716,not-accepted
 bca3eef1-b604-44d8-af07-4d814f7a2485,species,Plantae,"",Paspalum commersonii,1,t0058700,misapplied
+1fa9e584-d52e-431d-8290-42e3a3ae30f4,species,Plantae,"",Saccharum rufipilum,1,t0135774,not-accepted
+1fa9e584-d52e-431d-8290-42e3a3ae30f4,species,Plantae,"",Saccharum rufipilum,2,,
 bdff5946-81b3-4a1e-a185-e72c101d06b1,species,Plantae,"",Rottboellia exaltata,1,t0055127,not-accepted
 bdff5946-81b3-4a1e-a185-e72c101d06b1,species,Plantae,"",Rottboellia exaltata,2,t0103584,not-accepted
 cbc6589d-ce91-4567-82ee-3b857935d0f9,species,Plantae,"",Clematis chinensis,1,t0073293,accepted
@@ -504,18 +520,17 @@ ac6d6cc4-bde8-432c-9feb-1c3f6a669e90,species,Plantae,"",Clematis japonica,2,t012
 da23fd8e-8eb6-4799-86a6-be364d24eb37,species,Plantae,"",Kalanchoe ceratophylla,1,[],
 5190ca2d-180c-4209-8e9a-b6c7c3d1368f,species,Plantae,"",Sedum actinocarpum,1,t0055286,accepted
 5190ca2d-180c-4209-8e9a-b6c7c3d1368f,species,Plantae,"",Sedum actinocarpum,1,t0055300,misapplied
-bbdf6171-8732-4e07-b8ef-d176d24fccba,species,Plantae,"",Kalanchoe serrata,1,[],
 b9c3907b-2d93-4b79-a3d4-6c219cbdddf0,species,Plantae,"",Sedum drymarioides,1,t0055289,accepted
 b9c3907b-2d93-4b79-a3d4-6c219cbdddf0,species,Plantae,"",Sedum drymarioides,1,t0055301,misapplied
 00f2dd38-c2a9-4d00-980b-53c48986bcfb,species,Plantae,"",Sedum erythrospermum,1,t0055291,accepted
-00f2dd38-c2a9-4d00-980b-53c48986bcfb,species,Plantae,"",Sedum erythrospermum,1,t0103462,misapplied
 00f2dd38-c2a9-4d00-980b-53c48986bcfb,species,Plantae,"",Sedum erythrospermum,1,t0105423,misapplied
+00f2dd38-c2a9-4d00-980b-53c48986bcfb,species,Plantae,"",Sedum erythrospermum,1,t0103462,misapplied
 57079fa8-8042-4809-91c9-232e90a4c64b,species,Plantae,"",Sedum formosanum,1,t0055292,accepted
 57079fa8-8042-4809-91c9-232e90a4c64b,species,Plantae,"",Sedum formosanum,1,t0123888,misapplied
 c7a544d9-82dc-41e7-b611-5bc96698bca6,species,Plantae,"",Sedum microsepalum,1,t0055295,accepted
+c7a544d9-82dc-41e7-b611-5bc96698bca6,species,Plantae,"",Sedum microsepalum,1,t0075863,misapplied
 c7a544d9-82dc-41e7-b611-5bc96698bca6,species,Plantae,"",Sedum microsepalum,1,t0055298,misapplied
 c7a544d9-82dc-41e7-b611-5bc96698bca6,species,Plantae,"",Sedum microsepalum,1,t0075864,misapplied
-c7a544d9-82dc-41e7-b611-5bc96698bca6,species,Plantae,"",Sedum microsepalum,1,t0075863,misapplied
 db2e525d-74e7-4c68-bfa1-977de2560bb2,species,Plantae,"",Sedum morrisonense,1,t0055296,accepted
 db2e525d-74e7-4c68-bfa1-977de2560bb2,species,Plantae,"",Sedum morrisonense,1,t0055288,misapplied
 d3df3ce4-3436-44a2-bb06-94ea85f3c5ec,species,Plantae,"",Sedum nokoense,1,t0055297,accepted
@@ -529,10 +544,11 @@ d3df3ce4-3436-44a2-bb06-94ea85f3c5ec,species,Plantae,"",Sedum nokoense,1,t010367
 c0cc0299-7d20-415b-9cd6-f6231453800b,species,Plantae,"",Causonis maritima,1,[],
 9ac05bc2-36f9-412f-bd28-4b2f6c262e24,species,Plantae,"",Parthenocissus tricuspidata,1,t0132787,accepted
 9ac05bc2-36f9-412f-bd28-4b2f6c262e24,species,Plantae,"",Parthenocissus tricuspidata,1,t0054704,misapplied
-5d139382-c062-433a-8e19-d896578b3b64,species,Plantae,"",Vitis heyneana,1,[],
+bbdf6171-8732-4e07-b8ef-d176d24fccba,species,Plantae,"",Kalanchoe serrata,1,[],
 2e933744-35bc-42ce-9241-d6d74f4d8f45,species,Plantae,"",Acacia mollisima,1,t0060778,accepted
 2e933744-35bc-42ce-9241-d6d74f4d8f45,species,Plantae,"",Acacia mollisima,1,t0106893,misapplied
 a8dc2ad8-8e01-48b0-984e-b0997c4fd7e6,species,Plantae,"",Campylotropis macrocarpa,1,[],
+5d139382-c062-433a-8e19-d896578b3b64,species,Plantae,"",Vitis heyneana,1,[],
 5afd6848-b37f-4da2-a649-58a4339966af,species,Plantae,"",Desmodium laxiflorum,1,t0053351,not-accepted
 5afd6848-b37f-4da2-a649-58a4339966af,species,Plantae,"",Desmodium laxiflorum,1,t0053346,misapplied
 5afd6848-b37f-4da2-a649-58a4339966af,species,Plantae,"",Desmodium laxiflorum,1,t0103177,misapplied
@@ -544,10 +560,10 @@ a8dc2ad8-8e01-48b0-984e-b0997c4fd7e6,species,Plantae,"",Campylotropis macrocarpa
 63941a37-4630-4b54-af7d-341036cea1b5,species,Plantae,"",Entada phaseoloides,1,t0046112,misapplied
 286c7712-732a-4c8d-803c-065923a5217b,species,Plantae,"",Indigofera trifoliata,1,t0054051,accepted
 286c7712-732a-4c8d-803c-065923a5217b,species,Plantae,"",Indigofera trifoliata,1,t0054041,misapplied
-49e1543a-b205-4172-9b2a-037c2bbecb8f,species,Plantae,"",Ormosia formosana,1,t0054642,accepted
-49e1543a-b205-4172-9b2a-037c2bbecb8f,species,Plantae,"",Ormosia formosana,2,t0082442,accepted
 5c068210-dcf0-458d-8823-02ca44443136,species,Plantae,"",Indigofera spicata,1,t0105697,accepted
 5c068210-dcf0-458d-8823-02ca44443136,species,Plantae,"",Indigofera spicata,1,t0054047,misapplied
+49e1543a-b205-4172-9b2a-037c2bbecb8f,species,Plantae,"",Ormosia formosana,1,t0054642,accepted
+49e1543a-b205-4172-9b2a-037c2bbecb8f,species,Plantae,"",Ormosia formosana,2,t0082442,accepted
 b9d68818-3ae3-4f1d-a587-1c13a4ee81b3,species,Plantae,"",Pueraria lobata,1,t0059136,not-accepted
 b9d68818-3ae3-4f1d-a587-1c13a4ee81b3,species,Plantae,"",Pueraria lobata,1,t0084621,misapplied
 ab15e21e-597b-45db-9011-257ab107c7c5,species,Plantae,"",Osteomeles anthyllidifolia,1,t0054665,not-accepted
@@ -578,6 +594,8 @@ d2cb1a57-c4ba-4db8-8876-aebcb44dc023,species,Plantae,"",Rubus rufus,1,t0055155,a
 d2cb1a57-c4ba-4db8-8876-aebcb44dc023,species,Plantae,"",Rubus rufus,1,t0055134,misapplied
 eb346562-9ca8-4f54-92ae-802af4c8b9ec,species,Plantae,"",Rubus sumatranus,1,t0055156,accepted
 eb346562-9ca8-4f54-92ae-802af4c8b9ec,species,Plantae,"",Rubus sumatranus,1,t0055140,misapplied
+fbaceca9-e772-4cfd-b2da-026b4906a116,species,Plantae,"",Rosa indica,1,t0134251,accepted
+fbaceca9-e772-4cfd-b2da-026b4906a116,species,Plantae,"",Rosa indica,1,t0055113,misapplied
 6963bf88-8652-4292-a234-70ec78cbb003,species,Plantae,"",Rubus tephrodes,1,t0101539,accepted
 6963bf88-8652-4292-a234-70ec78cbb003,species,Plantae,"",Rubus tephrodes,1,t0103426,misapplied
 3949d6cd-6262-43a8-91ce-fc15098e612c,species,Plantae,"",Spiraea prunifolia,1,t0075959,accepted
@@ -586,8 +604,6 @@ e1423f21-a701-45fe-b5ad-240679e84b52,species,Plantae,"",Spiraea japonica,1,t0100
 e1423f21-a701-45fe-b5ad-240679e84b52,species,Plantae,"",Spiraea japonica,1,t0055432,misapplied
 949f7bb5-01a0-47d7-af1a-58e9c4740beb,species,Plantae,"",Elaeagnus thunbergii,1,t0053490,accepted
 949f7bb5-01a0-47d7-af1a-58e9c4740beb,species,Plantae,"",Elaeagnus thunbergii,1,t0053485,misapplied
-fbaceca9-e772-4cfd-b2da-026b4906a116,species,Plantae,"",Rosa indica,1,t0134251,accepted
-fbaceca9-e772-4cfd-b2da-026b4906a116,species,Plantae,"",Rosa indica,1,t0055113,misapplied
 5dc0cf90-7097-4144-baa9-06755812063d,species,Plantae,"",Elaeagnus pungens,1,t0123625,accepted
 5dc0cf90-7097-4144-baa9-06755812063d,species,Plantae,"",Elaeagnus pungens,1,t0053482,misapplied
 fcca812f-bbc3-45d5-8ee7-5a6fc4994f2c,species,Plantae,"",Berchemia racemosa,1,t0072855,not-accepted
@@ -601,40 +617,40 @@ dac9d5c3-c345-45d0-884a-a6283872866b,species,Plantae,"",Trema tomentosum,1,[],
 2e5d17a9-8c76-4a58-8401-8dd269b83190,species,Plantae,"",Artocarpus incisus,1,t0040269,misapplied
 c42cdce0-acb2-4205-8c1c-55a67cf31e81,species,Plantae,"",Fatoua pilosa,1,t0046289,accepted
 c42cdce0-acb2-4205-8c1c-55a67cf31e81,species,Plantae,"",Fatoua pilosa,1,t0046290,misapplied
-29353622-c717-4439-82e6-6deb9a04d85b,species,Plantae,"",Ficus subpisocarpa,1,t0106932,accepted
-29353622-c717-4439-82e6-6deb9a04d85b,species,Plantae,"",Ficus subpisocarpa,1,t0046317,misapplied
 e962e0aa-058d-4efb-b0f3-340ee0b9f414,species,Plantae,"",Pellionia scabra,1,t0054734,not-accepted
 e962e0aa-058d-4efb-b0f3-340ee0b9f414,species,Plantae,"",Pellionia scabra,1,t0099569,misapplied
 392d2df6-1cfd-4441-a42b-62948c3dc7c6,species,Plantae,"",Pilea melastomoides,1,t0054827,accepted
 392d2df6-1cfd-4441-a42b-62948c3dc7c6,species,Plantae,"",Pilea melastomoides,1,t0057311,misapplied
 e1a0a672-9a52-4983-8357-9fed635f9346,species,Plantae,"",Pilea pumila,1,t0054830,not-accepted
 e1a0a672-9a52-4983-8357-9fed635f9346,species,Plantae,"",Pilea pumila,2,t0054830,accepted
-4e8baec2-7a2e-4d98-959a-e65c2e01db72,species,Plantae,"",Castanopsis purpurella,1,[],
+29353622-c717-4439-82e6-6deb9a04d85b,species,Plantae,"",Ficus subpisocarpa,1,t0106932,accepted
+29353622-c717-4439-82e6-6deb9a04d85b,species,Plantae,"",Ficus subpisocarpa,1,t0046317,misapplied
 f66900ee-621d-4ea2-b3aa-69504829e701,species,Plantae,"",Quercus glauca,1,t0075566,accepted
 f66900ee-621d-4ea2-b3aa-69504829e701,species,Plantae,"",Quercus glauca,1,t0059153,misapplied
 408d15b9-efcc-4882-9f30-251326fa63b8,species,Plantae,"",Quercus repandifolia,1,t0059153,accepted
 408d15b9-efcc-4882-9f30-251326fa63b8,species,Plantae,"",Quercus repandifolia,1,t0075566,misapplied
 bbbf8bb8-d99d-443f-b966-9d2081ee9081,species,Plantae,"",Quercus stenophylloides,1,t0102122,accepted
 bbbf8bb8-d99d-443f-b966-9d2081ee9081,species,Plantae,"",Quercus stenophylloides,1,t0055019,misapplied
+4e8baec2-7a2e-4d98-959a-e65c2e01db72,species,Plantae,"",Castanopsis purpurella,1,[],
 7c2aa463-0f60-4bc5-acc3-ce03ce497d0b,species,Plantae,"",Zehneria mucronata,1,t0049379,accepted
 7c2aa463-0f60-4bc5-acc3-ce03ce497d0b,species,Plantae,"",Zehneria mucronata,1,t0101537,misapplied
+49f9f976-4fe6-4ff0-9114-f7c9af798664,species,Plantae,"",Begonia hohuanensis,1,[],
+fe626ee4-059d-47aa-a4d3-579a27865a74,species,Plantae,"",Begonia kuofangii,1,[],
 f00d0bca-0163-436f-b576-bf81f22675f4,species,Plantae,"",Celastrus patentiflorus,1,[],
 6dfc0a8c-7f4d-4099-82ac-853127fd89c6,species,Plantae,"",Euonymus chinensis,1,t0053877,not-accepted
 6dfc0a8c-7f4d-4099-82ac-853127fd89c6,species,Plantae,"",Euonymus chinensis,2,,
-c851fd68-2468-4476-b4fa-4369bcd95216,species,Plantae,"",Euonymus fortunei,1,t0053625,accepted
-c851fd68-2468-4476-b4fa-4369bcd95216,species,Plantae,"",Euonymus fortunei,1,t0053630,misapplied
-49f9f976-4fe6-4ff0-9114-f7c9af798664,species,Plantae,"",Begonia hohuanensis,1,[],
-fe626ee4-059d-47aa-a4d3-579a27865a74,species,Plantae,"",Begonia kuofangii,1,[],
 efa043c2-4682-44e6-9dcb-fe4db129d9e4,species,Plantae,"",Elaeocarpus japonicus,1,t0053495,accepted
 efa043c2-4682-44e6-9dcb-fe4db129d9e4,species,Plantae,"",Elaeocarpus japonicus,1,t0053493,misapplied
-13a322ad-8cc5-40a5-9446-55316ae4a9df,species,Plantae,"",Viola formosana,1,t0049317,accepted
-13a322ad-8cc5-40a5-9446-55316ae4a9df,species,Plantae,"",Viola formosana,1,t0087109,misapplied
 3246daa7-3c51-4dd2-a15b-04453e04dfb9,species,Plantae,"",Rhizophora mucronata,1,t0136749,accepted
 3246daa7-3c51-4dd2-a15b-04453e04dfb9,species,Plantae,"",Rhizophora mucronata,1,t0055067,misapplied
+c851fd68-2468-4476-b4fa-4369bcd95216,species,Plantae,"",Euonymus fortunei,1,t0053625,accepted
+c851fd68-2468-4476-b4fa-4369bcd95216,species,Plantae,"",Euonymus fortunei,1,t0053630,misapplied
 96ded8e7-4af4-4d9e-acc5-e1c9eb8b3574,species,Plantae,"",Kandelia candel,1,t0106927,accepted
 96ded8e7-4af4-4d9e-acc5-e1c9eb8b3574,species,Plantae,"",Kandelia candel,1,t0054147,misapplied
 331bbd3f-9f40-47f2-a653-b4c17860e34b,species,Plantae,"",Elatine triandra,1,t0105428,accepted
 331bbd3f-9f40-47f2-a653-b4c17860e34b,species,Plantae,"",Elatine triandra,1,t0055126,misapplied
+13a322ad-8cc5-40a5-9446-55316ae4a9df,species,Plantae,"",Viola formosana,1,t0049317,accepted
+13a322ad-8cc5-40a5-9446-55316ae4a9df,species,Plantae,"",Viola formosana,1,t0087109,misapplied
 78c43b57-5fb8-4666-9abc-7417ef671e8f,species,Plantae,"",Euphorbia formosana,1,t0053639,accepted
 78c43b57-5fb8-4666-9abc-7417ef671e8f,species,Plantae,"",Euphorbia formosana,1,t0053646,misapplied
 7798c374-c6a3-449b-942e-c69f48dc0d20,species,Plantae,"",Euphorbia heterophylla,1,t0053642,accepted
@@ -645,9 +661,9 @@ d8a60cc0-0b30-4197-a777-11e6aff2856b,species,Plantae,"",Breynia officinalis,1,t0
 0211111f-9cdf-4524-aec9-1918ae3a6e72,species,Plantae,"",Glochidion zeylanicum,1,t0057941,accepted
 0211111f-9cdf-4524-aec9-1918ae3a6e72,species,Plantae,"",Glochidion zeylanicum,1,t0057942,misapplied
 0211111f-9cdf-4524-aec9-1918ae3a6e72,species,Plantae,"",Glochidion zeylanicum,1,t0057943,misapplied
+15d36f27-fcf9-4a18-be65-f8e377dd5916,species,Plantae,"",Glochidion lanyuense,1,[],
 cde46fcf-7992-472e-bc97-b0ffc9a336c6,species,Plantae,"",Geranium nepalense,1,t0074104,accepted
 cde46fcf-7992-472e-bc97-b0ffc9a336c6,species,Plantae,"",Geranium nepalense,1,t0053814,misapplied
-15d36f27-fcf9-4a18-be65-f8e377dd5916,species,Plantae,"",Glochidion lanyuense,1,[],
 9a3aa1b3-3142-4149-acd2-7a9f56e459ea,species,Plantae,"",Trapa bicornis,1,t0055638,not-accepted
 9a3aa1b3-3142-4149-acd2-7a9f56e459ea,species,Plantae,"",Trapa bicornis,2,t0055638,not-accepted
 7dfb00fb-8aa3-418c-a46c-3912f7dff5c4,species,Plantae,"",Trapa maximowiczii,1,t0106954,not-accepted
@@ -670,10 +686,10 @@ e4d379bd-463a-4599-8f3a-36937eed35e6,species,Plantae,"",Citrus taiwanica,1,t0053
 e4d379bd-463a-4599-8f3a-36937eed35e6,species,Plantae,"",Citrus taiwanica,2,t0053032,not-accepted
 b9bb95d5-b5fc-4cfa-b885-d443f1f8f927,species,Plantae,"",Clausena anisum-olens,1,t0053038,accepted
 b9bb95d5-b5fc-4cfa-b885-d443f1f8f927,species,Plantae,"",Clausena anisum-olens,1,t0054510,misapplied
-0773c56b-3969-43a6-b746-0cb3653fed8c,species,Plantae,"",Murraya koenigii,1,t0132150,accepted
-0773c56b-3969-43a6-b746-0cb3653fed8c,species,Plantae,"",Murraya koenigii,1,t0054510,misapplied
 6a6e6193-bb63-455c-b9e7-8c93f5155398,species,Plantae,"",Zanthoxylum integrifolium,1,,
 6a6e6193-bb63-455c-b9e7-8c93f5155398,species,Plantae,"",Zanthoxylum integrifolium,2,t0069843,not-accepted
+0773c56b-3969-43a6-b746-0cb3653fed8c,species,Plantae,"",Murraya koenigii,1,t0132150,accepted
+0773c56b-3969-43a6-b746-0cb3653fed8c,species,Plantae,"",Murraya koenigii,1,t0054510,misapplied
 cc493af8-a078-470e-8d9d-434d8d647833,species,Plantae,"",Hibiscus cannabinus,1,t0053930,accepted
 cc493af8-a078-470e-8d9d-434d8d647833,species,Plantae,"",Hibiscus cannabinus,1,t0053929,misapplied
 d5eb147a-c0ad-4a53-87b8-a37f32fc1191,species,Plantae,"",Reevesia formosana,1,t0055050,accepted
@@ -688,11 +704,11 @@ c726c183-e41b-448c-8d46-57c49b0cd999,species,Plantae,"",Cardamine flexuosa,1,t01
 c726c183-e41b-448c-8d46-57c49b0cd999,species,Plantae,"",Cardamine flexuosa,1,t0040626,misapplied
 23f59fa7-4dba-4b60-a517-0b0005a7ae0d,species,Plantae,"",Loranthus delavayi,1,t0054322,accepted
 23f59fa7-4dba-4b60-a517-0b0005a7ae0d,species,Plantae,"",Loranthus delavayi,2,,
+01fd4277-ba3d-48bc-9773-61ab6e53cb70,species,Plantae,"",Polygonum virginianum,1,[],
 231eb538-ff68-4df9-bf92-796738c06b32,species,Plantae,"",Drymaria cordata,1,t0107106,accepted
 231eb538-ff68-4df9-bf92-796738c06b32,species,Plantae,"",Drymaria cordata,1,t0053451,misapplied
 57bdf9cc-0abe-4b28-9997-2f12f944892d,species,Plantae,"",Silene morrisonmontana,1,t0055347,accepted
 57bdf9cc-0abe-4b28-9997-2f12f944892d,species,Plantae,"",Silene morrisonmontana,2,t0055347,not-accepted
-01fd4277-ba3d-48bc-9773-61ab6e53cb70,species,Plantae,"",Polygonum virginianum,1,[],
 271a6741-a4bf-4e1e-8096-4f57554c6cdc,species,Plantae,"",Achyranthes bidentata,1,t0106573,accepted
 271a6741-a4bf-4e1e-8096-4f57554c6cdc,species,Plantae,"",Achyranthes bidentata,1,t0052533,misapplied
 c137876b-384e-462f-bd8e-95e36fcb8301,species,Plantae,"",Chenopodium acuminatum,1,t0073189,accepted
@@ -724,6 +740,9 @@ e567e88a-876c-4afb-8464-6f77d452b9f2,species,Plantae,"",Lysimachia candida,2,,
 6a1eebc6-2903-4c2c-9d9c-a11239a1e507,species,Plantae,"",Lysimachia congestiflora,1,t0054355,misapplied
 40a0a41d-f63d-4b76-95dc-652805fbf9a5,species,Plantae,"",Lysimachia leucantha,1,t0054359,accepted
 40a0a41d-f63d-4b76-95dc-652805fbf9a5,species,Plantae,"",Lysimachia leucantha,1,t0054352,misapplied
+1997995e-0c30-4c53-bf89-3c27692bb007,species,Plantae,"",Maesa montana,1,[],
+b8f1921c-8488-4453-8ada-1a3370a1b74d,species,Plantae,"",Lysimachia sikokiana,1,t0123841,accepted
+b8f1921c-8488-4453-8ada-1a3370a1b74d,species,Plantae,"",Lysimachia sikokiana,1,t0054351,misapplied
 16bd5145-9289-4056-b3aa-821808f82c49,species,Plantae,"",Symplocos caudata,1,t0055495,accepted
 16bd5145-9289-4056-b3aa-821808f82c49,species,Plantae,"",Symplocos caudata,1,t0055510,misapplied
 d2e081c5-8e16-48ed-aef9-79c7a0acc326,species,Plantae,"",Symplocos cochinchinensis,1,t0069498,accepted
@@ -731,9 +750,6 @@ d2e081c5-8e16-48ed-aef9-79c7a0acc326,species,Plantae,"",Symplocos cochinchinensi
 941e3656-68c2-445e-abba-5987126081c9,species,Plantae,"",Symplocos glauca,1,t0058321,accepted
 941e3656-68c2-445e-abba-5987126081c9,species,Plantae,"",Symplocos glauca,1,t0069499,misapplied
 941e3656-68c2-445e-abba-5987126081c9,species,Plantae,"",Symplocos glauca,1,t0055503,misapplied
-1997995e-0c30-4c53-bf89-3c27692bb007,species,Plantae,"",Maesa montana,1,[],
-b8f1921c-8488-4453-8ada-1a3370a1b74d,species,Plantae,"",Lysimachia sikokiana,1,t0123841,accepted
-b8f1921c-8488-4453-8ada-1a3370a1b74d,species,Plantae,"",Lysimachia sikokiana,1,t0054351,misapplied
 40377e4f-3065-45f8-814e-4698d4bbdbc6,species,Plantae,"",Actinidia callosa,1,t0103669,accepted
 40377e4f-3065-45f8-814e-4698d4bbdbc6,species,Plantae,"",Actinidia callosa,1,t0033592,misapplied
 40377e4f-3065-45f8-814e-4698d4bbdbc6,species,Plantae,"",Actinidia callosa,1,t0033594,misapplied
@@ -769,7 +785,6 @@ ff65348d-84a7-49cd-b38d-7554da0ca8a4,species,Plantae,"",Mussaenda albiflora,2,t0
 31aed5a7-7d09-4759-9fa2-9fa4eb58288b,species,Plantae,"",Lasianthus formosensis,1,t0054177,misapplied
 7eddf7fa-3f8c-41aa-a382-83f019dbbead,species,Plantae,"",Nertera depressa,1,t0058626,not-accepted
 7eddf7fa-3f8c-41aa-a382-83f019dbbead,species,Plantae,"",Nertera depressa,1,t0105990,misapplied
-00c9644a-8ff4-492c-a74d-6bcfc5f5cefa,species,Plantae,"",Neanotis kwangtungensis,1,[],
 0fa0121f-6920-4c80-a7f7-aa46afc0c608,species,Plantae,"",Gentiana davidii,1,t0074098,accepted
 0fa0121f-6920-4c80-a7f7-aa46afc0c608,species,Plantae,"",Gentiana davidii,1,t0057932,misapplied
 bd47006a-df67-4760-acae-801c704b35f6,species,Plantae,"",Swertia tozanensis,1,t0055489,accepted
@@ -779,6 +794,7 @@ bd47006a-df67-4760-acae-801c704b35f6,species,Plantae,"",Swertia tozanensis,1,t00
 6370724a-8a97-46d8-a8a1-e0a51843c47c,species,Plantae,"",Tripterospermum cordifolium,1,t0055674,misapplied
 c235dddc-9f0e-4b49-867e-35847771d45b,species,Plantae,"",Tripterospermum lanceolatum,1,t0058453,accepted
 c235dddc-9f0e-4b49-867e-35847771d45b,species,Plantae,"",Tripterospermum lanceolatum,1,t0058454,misapplied
+00c9644a-8ff4-492c-a74d-6bcfc5f5cefa,species,Plantae,"",Neanotis kwangtungensis,1,[],
 8dc75528-d819-4d59-98b4-060215bfa33b,species,Plantae,"",Pergularia odoratissima,1,[],
 5dd3efbd-443f-47f6-865f-50bbf2f7d28c,species,Plantae,"",Heliotropium strigosum,1,t0106258,not-accepted
 5dd3efbd-443f-47f6-865f-50bbf2f7d28c,species,Plantae,"",Heliotropium strigosum,1,t0053913,misapplied
@@ -796,18 +812,18 @@ f7531057-1225-459f-a18d-64f5ee1206c6,species,Plantae,"",Ipomoea indica,1,t012417
 726dde5a-bfeb-4122-8cb9-70f238c13be9,species,Plantae,"",Lycopersicon lycopersicum,1,[],
 6469c6df-f90a-4baf-ac94-6eb470aa5e52,species,Plantae,"",Jasminum lanceolarium,1,t0058102,accepted
 6469c6df-f90a-4baf-ac94-6eb470aa5e52,species,Plantae,"",Jasminum lanceolarium,1,t0054116,misapplied
-9c721dd7-4b88-490d-838b-4e5f573d1d59,species,Plantae,"",Cyrtandra cumingii,1,t0125414,accepted
-9c721dd7-4b88-490d-838b-4e5f573d1d59,species,Plantae,"",Cyrtandra cumingii,1,t0125413,misapplied
 a5033995-7921-4c54-81d0-e19c7f21b044,species,Plantae,"",Rhynchoglossum obliquum,1,t0075656,accepted
 a5033995-7921-4c54-81d0-e19c7f21b044,species,Plantae,"",Rhynchoglossum obliquum,1,t0086977,misapplied
 c2fb127c-9876-46e0-89cd-636fd3df5699,species,Plantae,"",Plantago major,1,t0054866,accepted
 c2fb127c-9876-46e0-89cd-636fd3df5699,species,Plantae,"",Plantago major,1,t0075396,misapplied
 02fe5464-caba-485b-b4b8-72fbe484a88e,species,Plantae,"",Limnophila aromatica,1,t0027056,accepted
 02fe5464-caba-485b-b4b8-72fbe484a88e,species,Plantae,"",Limnophila aromatica,1,t0046082,misapplied
-81d66fcc-7daf-41f0-a221-1195e77adc16,species,Plantae,"",Scrophularia kakudensis,1,[],
+9c721dd7-4b88-490d-838b-4e5f573d1d59,species,Plantae,"",Cyrtandra cumingii,1,t0125414,accepted
+9c721dd7-4b88-490d-838b-4e5f573d1d59,species,Plantae,"",Cyrtandra cumingii,1,t0125413,misapplied
 6658d283-459a-4aeb-9001-1feeda6a2a10,species,Plantae,"",Lindernia nummularifolia,1,t0125155,accepted
 6658d283-459a-4aeb-9001-1feeda6a2a10,species,Plantae,"",Lindernia nummularifolia,1,t0074594,misapplied
 1fe1eb9d-f02e-4bc9-958d-6cd41ae0b57f,species,Plantae,"",Justicia ciliata,1,[],
+81d66fcc-7daf-41f0-a221-1195e77adc16,species,Plantae,"",Scrophularia kakudensis,1,[],
 46f2303d-2bc5-42f5-ac7a-c873d28c25b1,species,Plantae,"",Hemigraphis reptans,1,t0046167,accepted
 46f2303d-2bc5-42f5-ac7a-c873d28c25b1,species,Plantae,"",Hemigraphis reptans,2,t0101389,accepted
 83873958-9ed7-484d-9c08-f3b07d432b54,species,Plantae,"",Stachytarpheta cayennensis,1,t0102321,accepted
@@ -847,19 +863,19 @@ b5059839-d4c5-485a-880f-6c26246e810d,species,Plantae,"",Artemisia mongolica,2,t0
 5c07b401-fe77-4e95-9667-82d4c77a76f3,species,Plantae,"",Aster takasagomontanus,2,,
 ec775f1a-13d9-4855-a46c-80e1f66cd003,species,Plantae,"",Aster asagrayi,1,t0040295,not-accepted
 ec775f1a-13d9-4855-a46c-80e1f66cd003,species,Plantae,"",Aster asagrayi,2,t0040295,accepted
+9164c378-ef51-4423-a166-1a979c73a97d,species,Plantae,"",Bidens alba,1,[],
 3d4826a5-0421-4110-ba12-dcad84270569,species,Plantae,"",Gnaphalium japonicum,1,t0053832,accepted
 3d4826a5-0421-4110-ba12-dcad84270569,species,Plantae,"",Gnaphalium japonicum,1,t0053831,misapplied
 af49eee2-34cf-4c23-bab3-e482a769bf6a,species,Plantae,"",Gnaphalium purpureum,1,t0053835,accepted
 af49eee2-34cf-4c23-bab3-e482a769bf6a,species,Plantae,"",Gnaphalium purpureum,1,t0053833,misapplied
-9164c378-ef51-4423-a166-1a979c73a97d,species,Plantae,"",Bidens alba,1,[],
 b2e1d0a6-9863-4bc5-a09f-ec6f55b43ea1,species,Plantae,"",Anaphalis nepalensis,1,t0124490,accepted
 b2e1d0a6-9863-4bc5-a09f-ec6f55b43ea1,species,Plantae,"",Anaphalis nepalensis,1,t0040159,misapplied
 474c0af4-a776-4eeb-865f-7ce918ee469d,species,Plantae,"",Ixeris japonica,1,[],
 50d90673-a0ec-4ea5-b4a7-b4f9d4f188da,species,Plantae,"",Paraprenanthes melanantha,1,[],
-9a1960d0-4b43-42a6-896c-5b6486a2cf20,species,Plantae,"",Parasenecio monantha,1,t0106217,not-accepted
-9a1960d0-4b43-42a6-896c-5b6486a2cf20,species,Plantae,"",Parasenecio monantha,1,t0054697,misapplied
 d3b605b1-cdaf-42fc-bc65-b0f59dfafc5e,species,Plantae,"",Emilia javanica,1,t0053530,not-accepted
 d3b605b1-cdaf-42fc-bc65-b0f59dfafc5e,species,Plantae,"",Emilia javanica,1,t0053528,misapplied
+9a1960d0-4b43-42a6-896c-5b6486a2cf20,species,Plantae,"",Parasenecio monantha,1,t0106217,not-accepted
+9a1960d0-4b43-42a6-896c-5b6486a2cf20,species,Plantae,"",Parasenecio monantha,1,t0054697,misapplied
 1204232c-c761-454b-8b04-6a9b03a8db68,species,Plantae,"",Abelia chinensis,1,t0052515,accepted
 1204232c-c761-454b-8b04-6a9b03a8db68,species,Plantae,"",Abelia chinensis,1,t0086584,misapplied
 7a963849-ce78-4832-a1e4-da8dab25872c,species,Plantae,"",Hydrocotyle nepalensis,1,t0074327,not-accepted
@@ -867,8 +883,8 @@ d3b605b1-cdaf-42fc-bc65-b0f59dfafc5e,species,Plantae,"",Emilia javanica,1,t00535
 991ed2ef-738e-48e4-b93a-d2388b4b6f1a,species,Plantae,"",Hedera helix,1,t0053902,accepted
 991ed2ef-738e-48e4-b93a-d2388b4b6f1a,species,Plantae,"",Hedera helix,1,t0057987,misapplied
 3d386bd4-861d-4619-9482-1422895ab78f,species,Plantae,"",Pimpinella tagawae,1,[],
-728f20b9-5d32-4c66-88c6-0b78ca44b1b6,species,Plantae,"",Archangiopteris henryi,1,[],
 5547ec58-ddc6-4051-8688-dccccc969117,species,Plantae,"",Angelica japonica,1,[],
+728f20b9-5d32-4c66-88c6-0b78ca44b1b6,species,Plantae,"",Archangiopteris henryi,1,[],
 7623b29a-b858-4962-97b0-61d59e8bd413,infraspecies,Plantae,"",Huperzia serrata longipetiolata,1,t0058031,not-accepted
 7623b29a-b858-4962-97b0-61d59e8bd413,infraspecies,Plantae,"",Huperzia serrata longipetiolata,2,t0058031,not-accepted
 ae3df992-2344-49ec-8671-fb83e5bf7c00,infraspecies,Plantae,"",Huperzia serrata myriophyllifolia,1,t0026336,not-accepted
@@ -891,11 +907,10 @@ e7ca7c60-6a8d-4c9b-8597-0a56a99d8c18,infraspecies,Plantae,"",Athyrium iseanum an
 bd045ed4-c065-4e94-bd41-a603afb2acd6,infraspecies,Plantae,"",Athyrium oppositipinnum oppositipinnum,1,[],
 998d4106-3d42-47d5-8923-60c1e1e5b489,infraspecies,Plantae,"",Dryopteris wallichiana nepalensis,1,t0085098,accepted
 998d4106-3d42-47d5-8923-60c1e1e5b489,infraspecies,Plantae,"",Dryopteris wallichiana nepalensis,1,t0057292,misapplied
+7e1d8f45-9534-4bc8-9419-bdaa915a06fa,infraspecies,Plantae,"",Hypodematium crenatum loyalii,1,[],
 15c43675-dc4a-4c63-96e0-e3ee0f12909b,infraspecies,Plantae,"",Pinus massoniana massoniana,1,[],
 3cdaeaf0-c671-4edc-89b9-94aca3b0ab74,infraspecies,Plantae,"",Keteleeria davidiana formosana,1,t0058106,accepted
 3cdaeaf0-c671-4edc-89b9-94aca3b0ab74,infraspecies,Plantae,"",Keteleeria davidiana formosana,2,,
-7e1d8f45-9534-4bc8-9419-bdaa915a06fa,infraspecies,Plantae,"",Hypodematium crenatum loyalii,1,[],
-ce85e6b5-7895-4322-ab6f-5c8c5dfd69c7,infraspecies,Plantae,"",Cheirostylis tortilacinia rubrifolia,1,[],
 3c8d3dad-40c3-45bc-a27b-ca50186c6812,infraspecies,Plantae,"",Machilus obovatifolius taiwuensis,1,[],
 93422774-6a89-4c83-baf1-ce88f5ecac68,infraspecies,Plantae,"",Smilax bracteata verruculosa,1,t0055375,not-accepted
 93422774-6a89-4c83-baf1-ce88f5ecac68,infraspecies,Plantae,"",Smilax bracteata verruculosa,2,t0055375,accepted
@@ -903,19 +918,17 @@ c90e0ef2-1813-4bc4-a392-70e274a8f2a6,infraspecies,Plantae,"",Tricyrtis formosana
 c90e0ef2-1813-4bc4-a392-70e274a8f2a6,infraspecies,Plantae,"",Tricyrtis formosana formosana,2,t0058450,not-accepted
 c123ef9f-1722-429c-9af8-0644d3bde1c5,infraspecies,Plantae,"",Tricyrtis formosana stolonifera,1,t0058450,not-accepted
 c123ef9f-1722-429c-9af8-0644d3bde1c5,infraspecies,Plantae,"",Tricyrtis formosana stolonifera,2,,
-d2f09a9a-5397-422d-875e-1f22a49e0154,infraspecies,Plantae,"",Cheirostylis tortilacinia tortilacinia,1,[],
-544f3e5d-29db-43ae-92e3-7bef7fb030f1,infraspecies,Plantae,"",Cheirostylis tortilacinia wutaiensis,1,[],
 bb8d63a5-fcd7-40c5-be68-2d7149fcf989,infraspecies,Plantae,"",Machilus obovatifolius obovatifolius,1,[],
 8647e30d-c757-4af6-8502-288b315074f1,infraspecies,Plantae,"",Camphora officinarum officinarum,1,[],
 95ef91aa-d02a-4560-a0f6-a67bac39a98d,infraspecies,Plantae,"",Goodyera similis albonervosa,1,t0086843,accepted
 95ef91aa-d02a-4560-a0f6-a67bac39a98d,infraspecies,Plantae,"",Goodyera similis albonervosa,2,t0086843,not-accepted
 110eabc8-70be-4e78-b060-903ab4246090,infraspecies,Plantae,"",Oberonia insularis rotunda,1,[],
 110eabc8-70be-4e78-b060-903ab4246090,infraspecies,Plantae,"",Oberonia insularis rotunda,2,[],
-61f569fb-5aa5-4157-ad66-f5a1c7af2e9d,infraspecies,Plantae,"",Odontochilus brevistylis candidus,1,[],
 5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,1,t0102295,accepted
 5623551a-59fa-4b45-a01e-fa53657b7716,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,2,t0057517,not-accepted
 9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,1,t0102295,accepted
 9711a88c-f488-4997-9572-cc49e81de6e6,infraspecies,Plantae,"",Zeuxine strateumatica rupicola,2,t0057517,not-accepted
+d2f09a9a-5397-422d-875e-1f22a49e0154,infraspecies,Plantae,"",Cheirostylis tortilacinia tortilacinia,1,[],
 10da2525-8cff-4e84-9708-7d8e5cc0d236,infraspecies,Plantae,"",Carex gentilis nakaharae,1,t0087360,accepted
 10da2525-8cff-4e84-9708-7d8e5cc0d236,infraspecies,Plantae,"",Carex gentilis nakaharae,2,,
 74629838-deec-4237-bea7-6ffe30f80bb9,infraspecies,Plantae,"",Carex mitrata aristata,1,t0087361,accepted
@@ -941,8 +954,6 @@ b7c29b73-051e-4c96-9c6a-863a2b98e0aa,infraspecies,Plantae,"",Pueraria lobata tho
 8b1cc637-4582-4d5f-a94e-4bc031b1c7db,infraspecies,Plantae,"",Eriobotrya deflexa koshunensis,2,t0087642,not-accepted
 cbf9bb85-c388-46d2-949b-7b247c04fd39,infraspecies,Plantae,"",Osteomeles anthyllidifolia subrotunda,1,t0058670,accepted
 cbf9bb85-c388-46d2-949b-7b247c04fd39,infraspecies,Plantae,"",Osteomeles anthyllidifolia subrotunda,2,t0058670,not-accepted
-02090170-6acc-40cf-af8d-2b6caf7bce7b,infraspecies,Plantae,"",Eriobotrya deflexa deflexa,1,t0124208,accepted
-02090170-6acc-40cf-af8d-2b6caf7bce7b,infraspecies,Plantae,"",Eriobotrya deflexa deflexa,2,t0124208,not-accepted
 0aeb22ab-4b64-4881-af24-180a7e78dfbb,infraspecies,Plantae,"",Rhaphiolepis indica impressivena,1,[],
 0c4a4845-cbf9-4062-ad3a-36cb3654a9f9,infraspecies,Plantae,"",Rubus pseudoacer flexuosus,1,t0084623,accepted
 0c4a4845-cbf9-4062-ad3a-36cb3654a9f9,infraspecies,Plantae,"",Rubus pseudoacer flexuosus,2,t0084623,not-accepted
@@ -950,11 +961,13 @@ d862f629-e0bb-4102-98b9-f163abef5ee4,infraspecies,Plantae,"",Rubus pungens oldha
 d862f629-e0bb-4102-98b9-f163abef5ee4,infraspecies,Plantae,"",Rubus pungens oldhamii,1,t0102125,misapplied
 dd69a02c-358e-4150-b575-7d944948ae8a,infraspecies,Plantae,"",Ficus sarmentosa nipponica,1,t0046315,accepted
 dd69a02c-358e-4150-b575-7d944948ae8a,infraspecies,Plantae,"",Ficus sarmentosa nipponica,2,,
+9c7de4d3-8a09-4f31-830c-32783aac1f32,infraspecies,Plantae,"",Rubus croceacanthus glaber,1,t0102126,accepted
+9c7de4d3-8a09-4f31-830c-32783aac1f32,infraspecies,Plantae,"",Rubus croceacanthus glaber,1,t0055139,misapplied
+9c7de4d3-8a09-4f31-830c-32783aac1f32,infraspecies,Plantae,"",Rubus croceacanthus glaber,1,t0059204,misapplied
+02090170-6acc-40cf-af8d-2b6caf7bce7b,infraspecies,Plantae,"",Eriobotrya deflexa deflexa,1,t0124208,accepted
+02090170-6acc-40cf-af8d-2b6caf7bce7b,infraspecies,Plantae,"",Eriobotrya deflexa deflexa,2,t0124208,not-accepted
 7d0af78c-5b21-43c3-8c92-2a45f23b9824,infraspecies,Plantae,"",Hypericum geminiflorum simplicistylum,1,t0058051,accepted
 7d0af78c-5b21-43c3-8c92-2a45f23b9824,infraspecies,Plantae,"",Hypericum geminiflorum simplicistylum,2,,
-9c7de4d3-8a09-4f31-830c-32783aac1f32,infraspecies,Plantae,"",Rubus croceacanthus glaber,1,t0102126,accepted
-9c7de4d3-8a09-4f31-830c-32783aac1f32,infraspecies,Plantae,"",Rubus croceacanthus glaber,1,t0059204,misapplied
-9c7de4d3-8a09-4f31-830c-32783aac1f32,infraspecies,Plantae,"",Rubus croceacanthus glaber,1,t0055139,misapplied
 90249bab-7515-4b2c-bd53-67b7cebeaa72,infraspecies,Plantae,"",Circaea alpina imaicola,1,t0084590,accepted
 90249bab-7515-4b2c-bd53-67b7cebeaa72,infraspecies,Plantae,"",Circaea alpina imaicola,2,t0084590,not-accepted
 90249bab-7515-4b2c-bd53-67b7cebeaa72,infraspecies,Plantae,"",Circaea alpina imaicola,3,,
@@ -963,7 +976,6 @@ f1e5b507-bdc7-4fe5-99c3-fe816bd5fc61,infraspecies,Plantae,"",Acer buergerianum f
 d3227d37-d07e-4728-bb03-239a30369cfe,infraspecies,Plantae,"",Acer palmatum pubescens,1,t0086589,accepted
 d3227d37-d07e-4728-bb03-239a30369cfe,infraspecies,Plantae,"",Acer palmatum pubescens,2,,
 f2081c23-bcdf-4dcd-b494-4280c6908547,infraspecies,Plantae,"",Citrus nobilis sunki,1,[],
-35b6cb36-b0eb-4f2b-b488-1e96ec0dd975,infraspecies,Plantae,"",Lysimachia remota remota,1,[],
 d03fab47-2742-45a2-8717-d1527d61c2e7,infraspecies,Plantae,"",Dianthus superbus longicalycinus,1,t0053364,not-accepted
 d03fab47-2742-45a2-8717-d1527d61c2e7,infraspecies,Plantae,"",Dianthus superbus longicalycinus,2,t0053364,not-accepted
 fc05c8b7-3d58-4549-ab93-bb81d26f0b83,infraspecies,Plantae,"",Silene fortunei fortunei,1,t0058255,not-accepted
@@ -972,8 +984,8 @@ fc05c8b7-3d58-4549-ab93-bb81d26f0b83,infraspecies,Plantae,"",Silene fortunei for
 3725a54e-ad88-4a3c-9dc3-e42d50ead006,infraspecies,Plantae,"",Achyranthes aspera rubrofusca,2,t0052533,accepted
 68016ae9-f35f-4acc-b04b-38e72296403a,infraspecies,Plantae,"",Chenopodium acuminatum virgatum,1,t0084589,accepted
 68016ae9-f35f-4acc-b04b-38e72296403a,infraspecies,Plantae,"",Chenopodium acuminatum virgatum,2,,
-69c1b7de-8e55-42c2-8004-f3c2888d13c5,infraspecies,Plantae,"",Symplocos sonoharae formosana,1,[],
 31a3a1ad-fe2f-4df2-abba-0928241744b8,infraspecies,Plantae,"",Sida rhombifolia alnifolia,1,[],
+35b6cb36-b0eb-4f2b-b488-1e96ec0dd975,infraspecies,Plantae,"",Lysimachia remota remota,1,[],
 898999d1-60d0-451b-9974-c8ac9653d828,infraspecies,Plantae,"",Mitrastemon yamamotoi kanehirae,1,[],
 a068c3c2-e0fc-4cf6-b0df-fa1680c05b2a,infraspecies,Plantae,"",Gentiana flavomaculata flavomaculata,1,t0086538,accepted
 a068c3c2-e0fc-4cf6-b0df-fa1680c05b2a,infraspecies,Plantae,"",Gentiana flavomaculata flavomaculata,2,t0086538,not-accepted
@@ -985,6 +997,7 @@ a068c3c2-e0fc-4cf6-b0df-fa1680c05b2a,infraspecies,Plantae,"",Gentiana flavomacul
 73309fb6-51df-46b7-8ce5-db0ba89d891a,infraspecies,Plantae,"",Rhynchotechum discolor incisum,1,t0086978,accepted
 73309fb6-51df-46b7-8ce5-db0ba89d891a,infraspecies,Plantae,"",Rhynchotechum discolor incisum,2,t0086978,not-accepted
 73309fb6-51df-46b7-8ce5-db0ba89d891a,infraspecies,Plantae,"",Rhynchotechum discolor incisum,3,t0086978,not-accepted
+69c1b7de-8e55-42c2-8004-f3c2888d13c5,infraspecies,Plantae,"",Symplocos sonoharae formosana,1,[],
 92f83302-a2f2-4d93-b7f4-54c0896cf9e5,infraspecies,Plantae,"",Lycopus lucidus formosanus,1,[],
 90227064-1a8a-4d76-88a5-86c144d689d8,infraspecies,Plantae,"",Mentha arvensis piperascens,1,t0084606,not-accepted
 90227064-1a8a-4d76-88a5-86c144d689d8,infraspecies,Plantae,"",Mentha arvensis piperascens,2,t0084606,accepted
@@ -992,12 +1005,12 @@ a068c3c2-e0fc-4cf6-b0df-fa1680c05b2a,infraspecies,Plantae,"",Gentiana flavomacul
 29b697e9-df2a-4668-a696-0628bf323c0f,infraspecies,Plantae,"",Helwingia japonica formosana,2,t0136604,not-accepted
 d2fa392d-dcb5-4eaf-971b-0e0e2ae0812c,infraspecies,Plantae,"",Solidago virgaurea leiocarpa,1,t0055397,not-accepted
 d2fa392d-dcb5-4eaf-971b-0e0e2ae0812c,infraspecies,Plantae,"",Solidago virgaurea leiocarpa,2,t0055397,not-accepted
+79c72cd6-0ecb-462c-93b0-5411ecd72162,infraspecies,Plantae,"",Arabidopsis halleri gemmifera,1,t0052608,not-accepted
+79c72cd6-0ecb-462c-93b0-5411ecd72162,infraspecies,Plantae,"",Arabidopsis halleri gemmifera,2,t0052608,accepted
 6ba70f18-09ce-4922-950f-a7d52beb7a49,infraspecies,Plantae,"",Youngia japonica formosana,1,t0084635,accepted
 6ba70f18-09ce-4922-950f-a7d52beb7a49,infraspecies,Plantae,"",Youngia japonica formosana,2,t0084635,not-accepted
 15750db9-76d4-4a5b-aa8c-c9cc901cb2dd,infraspecies,Plantae,"",Pittosporum illicioides angustifolium,1,t0086951,accepted
 15750db9-76d4-4a5b-aa8c-c9cc901cb2dd,infraspecies,Plantae,"",Pittosporum illicioides angustifolium,2,t0086951,not-accepted
-79c72cd6-0ecb-462c-93b0-5411ecd72162,infraspecies,Plantae,"",Arabidopsis halleri gemmifera,1,t0052608,not-accepted
-79c72cd6-0ecb-462c-93b0-5411ecd72162,infraspecies,Plantae,"",Arabidopsis halleri gemmifera,2,t0052608,accepted
 f4f7a53e-75cd-45b0-beb6-f4dac90811ee,species,Plantae,"",Blindia acuta,1,[],
 09940411-6824-4e20-ae7d-e584285a8eed,infraspecies,Plantae,"",Andreaea rupestris fauriei,1,t0040163,accepted
 09940411-6824-4e20-ae7d-e584285a8eed,infraspecies,Plantae,"",Andreaea rupestris fauriei,2,t0040163,not-accepted

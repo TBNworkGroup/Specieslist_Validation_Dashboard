@@ -1,14 +1,9 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,TC_simple_name,TC_taxon_status,TC_is_in_taiwan
-49e7c14b-438f-4952-ac66-363d498040e1,order,Animalia,t0001800,Poecilostomatoida,Cyclopoida,accepted,TRUE
 05afcbaa-57cc-475b-aaa2-84f847a81a6a,order,Animalia,t0002132,Scalpelliiformes,Scalpellomorpha,accepted,TRUE
-7598d2d0-e427-486a-b775-21fdec16afb5,order,Animalia,t0001930,Lampridiformes,Lampriformes,accepted,TRUE
 25341c2d-9242-49b3-b8f4-42b242fd2d2e,order,Animalia,t0002002,Mytiloida,Mytilida,accepted,TRUE
 aab869af-3661-47da-bf86-86f2a9220067,family,Animalia,t0004191,Urocteidae,Oecobiidae,accepted,TRUE
 f1074b32-b17c-4a10-b5c0-21717b28b7d4,family,Animalia,t0004083,Archaeobalanidae,Balanidae,accepted,TRUE
-2d9c8b72-3c4d-489d-8ad7-99a5f6ff85b2,family,Animalia,t0004013,Oxynaspididae,Poecilasmatidae,accepted,TRUE
 1f990f65-b360-43c9-ab2c-2e7ec9b1917d,genus,Animalia,t0012329,Cosell,Cosella,accepted,TRUE
-2e733415-0075-49ea-b5b1-1203b3d59efd,genus,Animalia,t0021530,Lariniaria,Larinia,accepted,TRUE
-d20f865f-92f1-4027-b466-9c56df747dc6,genus,Animalia,t0021530,Lipocrea,Larinia,accepted,TRUE
 ff2ea52c-1d12-413f-8472-d3e347364221,genus,Animalia,t0015639,Takachihoa,Pycnaxis,accepted,TRUE
 72bb4713-6919-47ab-99a3-ab280038b6c2,genus,Animalia,t0018261,Pseudotriaeris,Xyphinus,accepted,TRUE
 02531bda-5ccf-4287-9b3d-51f0980929bf,genus,Animalia,t0016383,Pakawops,Siamspinops,accepted,TRUE
@@ -21,7 +16,6 @@ ff2ea52c-1d12-413f-8472-d3e347364221,genus,Animalia,t0015639,Takachihoa,Pycnaxis
 4eeb1d83-39f4-4f27-a614-a618924a575a,genus,Animalia,t0019151,Melophus,Emberiza,accepted,TRUE
 d7f255c4-e0b0-47ed-92d1-bdd324b75a83,genus,Animalia,t0013635,Orthriophis,Elaphe,accepted,TRUE
 aa4db525-a5f4-4988-8515-1aaa73abd4d6,genus,Animalia,t0021950,Symphyllia,Lobophyllia,accepted,TRUE
-9f6903db-461a-4f45-ad5e-23ff84ab01ec,genus,Animalia,t0011480,Caulastrea,Caulastraea,accepted,TRUE
 6517e621-ed85-4e63-98b2-e371358e4bc0,genus,Animalia,t0015036,Pompholys,Pompholyx,accepted,TRUE
 5d8cb9a4-52cd-48bd-a636-f351207048ea,family,Animalia,t0006406,Megasildae,Megaspilidae,accepted,TRUE
 981a465c-16ad-455d-a342-9334084373b6,genus,Animalia,t0014139,Strangaliella,Parastrangalis,accepted,TRUE
@@ -30,7 +24,6 @@ c71e4c49-439f-44ff-a4b0-edf58dc4c83f,genus,Animalia,t0015132,Priotyrranus,Prioty
 d2bba599-d2f6-4296-8a0a-942a59dfafa2,genus,Animalia,t0009646,Verania,Micraspis,accepted,TRUE
 70e9e210-e87a-4853-9ecc-720650542b9a,genus,Animalia,t0015283,Psammobius,Psammodius,accepted,TRUE
 d5a83005-3ebf-4ef6-8dbc-629473a90d0b,genus,Animalia,t0016418,Silvanophus,Silvanoprus,accepted,TRUE
-79b7b7f8-b98e-46cb-bec2-d5b7583edd0a,genus,Animalia,t0015501,Pseudoxyroptila,Pseudoxyroptilatila,accepted,TRUE
 24ab3ac7-3aa9-4386-8689-cbfb2d943216,genus,Animalia,t0013815,Palionebris,Trachydora,accepted,TRUE
 fa240400-c653-43e6-bec6-dc3a95e86e5c,genus,Animalia,t0012742,Namatopogon,Nematopogon,accepted,TRUE
 6807e765-4c1c-488e-b857-8713729b6dcd,genus,Animalia,t0017666,Triantennaria,Tripartita,accepted,TRUE
@@ -40,42 +33,30 @@ d0e5d24d-1e18-45b0-90e9-6cc44cb2ed95,genus,Animalia,t0021822,Limnophlia,Limnophi
 78dd95bc-1847-465e-9451-a3aff3275875,genus,Animalia,t0006932,Cutilia,Melanozosteria,accepted,TRUE
 0d03e98d-e8c9-4eba-bbd7-584876beb2e3,species,Animalia,t0061247,Demodex bolliculorum,Demodex folliculorum,accepted,TRUE
 b32b28fb-197a-4d09-bf27-d3273d86152f,species,Animalia,t0069957,Acanthyphyra quadrispinosa,Acanthephyra quadrispinosa,accepted,TRUE
-d7aa5caa-80b8-43ed-9a24-bb30e6543c98,species,Animalia,t0083358,Parasesarma bidens,Parasesarma continentale,accepted,TRUE
 9fc6ccff-8cad-45f0-b5ce-b0a569fb56fc,species,Animalia,t0036652,Prionocrangon ommatosteres,Prionocrangon dofleini,accepted,TRUE
 c043df1f-d6cd-48f2-93b9-92067b9a5728,species,Animalia,t0036655,Prionocrangon parvispina,Prionocrangon paucispina,accepted,TRUE
 9d666500-e6e2-403f-a47e-8e1a1671acf0,species,Animalia,t0062861,Epigrapsus notatus,Grapsodes notatus,accepted,TRUE
 adbd3452-9727-4af7-a8e7-55247da718b2,species,Animalia,t0029085,Eupilumnus globosus,Globopilumnus globosus,accepted,TRUE
-1f6a6a36-9894-4059-b7a4-02c12a90c792,species,Animalia,t0078081,Cheloniba testudinaria,Chelonibia testudinaria,accepted,TRUE
 c93623fa-dfad-4bbd-b894-8de90edd25c5,species,Animalia,t0078081,Chelonibia patula,Chelonibia testudinaria,accepted,TRUE
-b4f41769-4eae-4108-aa3d-4b144a14a559,species,Animalia,t0056210,Parascorpaena picta,Scorpaena miostoma,accepted,TRUE
 8c0493f2-d382-4195-acb4-19a4ae145e8c,species,Animalia,t0032488,Rhinopias aphanes,Rhinopias frondosa,accepted,TRUE
-ce3dc45b-359c-4642-8311-0e5c0a759d02,species,Animalia,t0027352,Equulites leuciscus,Equulites berbis,accepted,TRUE
 7767a7d9-d6c3-40aa-9132-a9dec5f59426,species,Animalia,t0027352,Equulites absconditus,Equulites berbis,accepted,TRUE
-bc268fee-8f3a-4721-bea9-c2f23c19bfd6,species,Animalia,t0028443,Uranoscopus oligolepis,Uranoscopus affinis,accepted,TRUE
 914eca70-e78c-42e1-9529-95074a7c0335,species,Animalia,t0033390,Thryssa kammalensis,Thrissina kammalensis,accepted,FALSE
 fda73faa-192f-4ec4-a2ad-4b33d1d6ce89,species,Animalia,t0098886,Sinosuthora webbiana,Suthora webbiana,accepted,TRUE
 07691bf1-5775-4255-9ce1-0cef40dd558d,species,Animalia,t0098358,Parus minor,Parus cinereus,accepted,TRUE
 c3d7eb24-c683-40c1-a077-93141d28ae33,species,Animalia,t0099759,Accipiter trivirgatus,Lophospiza trivirgata,accepted,TRUE
 aafb6332-190b-4cc6-ab49-27acef3386b4,species,Animalia,t0122139,Ara chloropterus,Ara chloroptera,accepted,TRUE
-9aefd3a9-04f1-4da4-838f-d0d25e5e7d31,species,Animalia,t0029968,Bubulcus ibis,Ardea coromanda,accepted,TRUE
-a8ef68fa-3ae3-4b70-b9d0-d824a2f95e9e,species,Animalia,t0085187,Aerodramus germani,Aerodramus fuciphagus,accepted,TRUE
+6b3d895e-4eb2-45d2-b88d-a2d2342c8c6e,species,Animalia,t0124472,Dopasia formosensis,Dopasia harti,accepted,FALSE
 0f0a2b6b-2f97-47b3-95a1-a470d88da78b,species,Animalia,t0033440,Torpedo tokionis,Tetronarce tokionis,accepted,TRUE
-04f131e8-0372-4782-94cc-bd93f6b3cea9,species,Animalia,t0027899,Meretrix lusoria,Meretrix taiwanica,accepted,TRUE
 2a9ea413-6c1c-41f4-9d0a-5cecb5c0757a,species,Animalia,t0027899,Meretrix petechialis,Meretrix taiwanica,accepted,TRUE
-bbce3beb-16e8-41ff-9bf5-747fc5882c64,species,Animalia,t0038018,Ruditapes variegata,Ruditapes aspera,accepted,TRUE
-7ea2b245-7090-4a3b-919b-bfb0d70dc7c9,species,Animalia,t0076212,Barbatia bicolorata,Barbatia amygdalumtostum,accepted,TRUE
 d901f355-fe48-45ed-b33d-ced9f55813c1,species,Animalia,t0027332,Laternula siphonata,Laternula anatina,accepted,TRUE
 44b5bf37-844a-47e7-8fee-2334de595d76,species,Animalia,t0069478,Nebularia vexillum,Strigatella vexillum,accepted,TRUE
 88ebef8d-27a5-4e2f-8338-1c49fe98c6bc,species,Animalia,t0062122,Drupa ricinus,Sistrum ricinus,accepted,TRUE
-313f5906-214c-49c3-8ccf-3c983adb3ee6,species,Animalia,t0033291,Tenguella granulata,Arakawania granulata,accepted,TRUE
 49089cca-9a11-4898-81c3-8c0c96e6b6cc,species,Animalia,t0079143,Conus chaldeus,Conus chaldaeus,accepted,TRUE
-77d771f4-eecb-4fd6-907e-6b9f93631e7c,species,Animalia,t0066919,Latirus craticulatus,Turrilatirus craticulatus,accepted,TRUE
 8217ff28-809c-4de8-848e-23095b66c46d,species,Animalia,t0038298,Camaena succincta,Satsuma succincta,accepted,TRUE
 101a910d-5460-4c56-b4ac-d9f0f8fbe9e2,species,Animalia,t0037075,Assiminea latericea,Pseudomphala latericea,accepted,TRUE
 60bd333c-8c57-45cd-a62f-9acf3c66b355,species,Animalia,t0046662,Assiminea hayashii,Taiwanassiminea hayasii,accepted,TRUE
 a6d1e31f-4232-4778-a469-ac853cacc6cb,species,Animalia,t0085423,Cerithidea cingulata,Pirenella microptera,accepted,TRUE
 35ce4163-15cf-4344-9c1f-ae130d8929dc,species,Animalia,t0046390,Eratoena callosa,Sukerato callosa,accepted,TRUE
-ba38cc06-f5d3-4141-b5bb-9132a048c9fa,species,Animalia,t0027879,Melanoides tuberculatus,Melanoides tuberculata,accepted,TRUE
 40c59304-db37-4090-af28-0ae4b0fc808c,species,Animalia,t0097224,Aphanoconia hungerfordianum,Aphanoconia hungerfordiana,accepted,TRUE
 1bc31544-37a0-4204-9458-353286837d49,species,Animalia,t0062700,Entemnotrochus salmiana,Mikadotrochus salmianus,accepted,TRUE
 841b4d58-d5a5-47bf-b5dd-e476291f6158,species,Animalia,t0062698,Entemnotrochus hirasei,Mikadotrochus hirasei,accepted,TRUE
@@ -84,20 +65,12 @@ ad0b4890-98ee-42c5-bca0-dc56d5948fa6,species,Animalia,t0038723,Phalium inornatum
 529e6153-a3e2-4c42-8ad0-79a08b701999,species,Animalia,t0032772,Phalium bisulcatum,Semicassis bisulcata,accepted,TRUE
 7b677bee-4186-425b-afbe-f670bb5de16d,species,Animalia,t0098423,Phalium glabratum,Semicassis glabrata,accepted,FALSE
 fd5eeed7-387d-4355-b2ba-88876643c79c,species,Animalia,t0086136,Polinices didyma,Neverita didyma,accepted,TRUE
-8e92e329-637d-4b0c-b1e3-9122d7ab9463,species,Animalia,t0065608,Hippeutis (Helicorbis),Hippeutis umbilicalis,accepted,TRUE
-146d85d9-e9f4-4495-a1ea-f2134eff2bce,species,Animalia,t0077637,Caulastrea furcata,Caulastraea furcata,accepted,TRUE
-ac69dcea-5c74-4a17-ab06-fccb61d59256,species,Animalia,t0077638,Caulastrea tumida,Caulastraea tumida,accepted,TRUE
-054e7c2b-fd8c-412e-9a15-84fdce8a92fe,species,Animalia,t0077636,Caulastrea echinulata,Caulastraea echinulata,accepted,TRUE
-6b78b501-ae66-458f-91e5-d20bec1ee674,species,Animalia,t0076702,Brachionus calyciflorus,Brachionus pala,accepted,TRUE
 76a7d6ff-9cf2-4307-a314-edf62ba768c8,species,Animalia,t0038473,Schizocerca diversicornis,Brachionus diversicornis,accepted,TRUE
-7496a820-f3f4-4700-ac80-2c12a490c1ba,species,Animalia,t0078993,Temnaspis sauteri,Colobaspis sauteri,deleted,TRUE
 3f868d57-a9a8-461a-8207-40371abe6fa4,species,Animalia,t0037037,Micromulciber gressitti,Notomulciber gressitti,accepted,TRUE
 6ebb7bf8-6d8b-4e03-8b9c-6a526b47f5f4,species,Animalia,t0028137,Sybra baculina,Mycerinopsis maculiclunis,accepted,TRUE
 6cc4a524-250b-444f-bc06-2b76aa698c94,species,Animalia,t0098587,Priotyrranus closteroides,Priotyrannus closteroides,accepted,TRUE
-b02a4c07-c88d-4225-bcdb-8a5130365ce1,species,Animalia,t0065727,Coenonica tonensis,Coenonica granigera,accepted,TRUE
 c4240b77-ccaf-4775-a690-0ef86e54e4f5,species,Animalia,t0065906,Hybrdolinus diabolicus,Hybridolinus diabolicus,accepted,TRUE
 996a3080-72f2-4852-8d7b-9d91e02713c6,species,Animalia,t0047834,Trichophya kursowai,Trichophya kurosawai,accepted,TRUE
-73b075e1-bde0-4911-bab6-a96d56db18c6,species,Animalia,t0069224,Alesia discolor,Micraspis discolor,accepted,TRUE
 fb9c012a-a208-417c-82fa-b88f10c3e675,species,Animalia,t0068259,Macroilleis hauser,Macroilleis hauseri,accepted,TRUE
 f5f4616e-d192-4303-8721-bd26126a4ff1,species,Animalia,t0036797,Pania luteopustulata,Propylea luteopustulata,accepted,TRUE
 7a2b65a2-e444-40f7-8f88-3d5119c0ff5e,species,Animalia,t0036056,Platynaspidius babai,Phymatosternus babai,accepted,TRUE
@@ -109,11 +82,10 @@ d227dac9-831d-4387-8785-d5af10077751,species,Animalia,t0082262,Onthophagus (Para
 58ea06b0-be1d-49da-84aa-23e40e96ade8,species,Animalia,t0049191,Zonitis miwai,Zonitomorpha miwai,accepted,TRUE
 aa83599a-8b71-4bed-b809-4bc2305cfca4,species,Animalia,t0068305,Macrosiagon bipunctata,Macrosiagon bifasciata,accepted,TRUE
 d5f299b7-e36d-4402-b1eb-6cffa6e9a4ed,species,Animalia,t0068306,Macrosiagon cyaniveste,Macrosiagon pusilla,accepted,TRUE
-d96e96b6-f259-4633-b621-4a95f95f15d2,species,Animalia,t0028197,Mythimna guanyuana,Mythimna snelleni,accepted,TRUE
 9d8a9dee-0be4-4741-a053-09b20768ce2f,species,Animalia,t0029680,Hilarographa calyx,Thaumatographa mesostigmatias,accepted,TRUE
-f03c2c87-d4b8-4e85-b231-18e61ca93b5f,species,Animalia,t0029070,Eugoa formosicola,Eugoa bipunctata,accepted,TRUE
 92ef4150-113c-4c8e-bf16-254bab01fe46,species,Animalia,t0084774,Erasmia pulchella,Erasmia sangaica,accepted,TRUE
 438f5f34-9533-4e60-9afa-4cc06e64c9a3,species,Animalia,t0050572,Deuterocopus triannulatus,Deuterocopus socotranus,accepted,TRUE
+5f0519c2-dc9a-49cf-999e-1a9fd98caf44,species,Animalia,t0032307,Pseudoxyroptilatila oenophanes,Pseudoxyroptila oenophanes,accepted,TRUE
 9462838c-e1ec-4cc5-825e-09f46158dd0f,species,Animalia,t0051160,Glanycus tricolor,Glanycus insolitus,accepted,TRUE
 6cfab3d9-fe44-4449-aa3b-51b1f2309580,species,Animalia,t0099054,Tagiades tethys,Daimio tethys,accepted,TRUE
 98bf4954-a511-48c2-bf35-ce4e9db0dd35,species,Animalia,t0096091,Athyma jina,Limenitis jina,accepted,TRUE
@@ -158,7 +130,6 @@ f5959089-155c-4991-a1e1-bd78a7c63622,species,Animalia,t0047547,Tomostethus katon
 521dda68-9165-4d5f-97c0-c0c669d8fcac,species,Animalia,t0067177,Leptocimbex formosana,Leptocimbex formosanus,accepted,TRUE
 034af4bf-5c0a-48ad-aeba-adbd7160f3b5,species,Animalia,t0039909,Amblyopone sakaii,Stigmatomma sakaii,accepted,TRUE
 81298c42-bd7b-4c44-a5e5-4a998f52c953,species,Animalia,t0047869,Triclistus aitkini,Triclistus aitkeni,accepted,TRUE
-b4571813-f837-43a2-9dbd-72c4efe32783,species,Animalia,t0039626,Stenodynerus chinensis,Stenodyneru chinensis,accepted,TRUE
 8eb2e7f1-9ef3-4fee-9652-d6125692a585,species,Animalia,t0072186,Arge flavicollis,Arge captiva,accepted,TRUE
 ded2c84b-0beb-4bb2-84b2-755da9b5a120,species,Animalia,t0078456,Cibdela janthina,Cibdela maculipennis,accepted,TRUE
 e313124c-3122-4e5a-8b27-e5ee89a8fc40,species,Animalia,t0082876,Pampsilota sinensis,Tanyphatnidea sinensis,accepted,TRUE
@@ -174,8 +145,6 @@ b8455d0d-8ae5-4f0a-8d6c-ddac679b2505,species,Animalia,t0035963,Plastosciara corn
 4150a3f5-6e09-4b45-a46a-1704a84ba381,species,Animalia,t0079812,Culicoides arakawai,Culicoides arakawae,accepted,TRUE
 da23bf02-df63-499d-85b6-f47b0c61e178,species,Animalia,t0038186,Harpagophalla reciproca,Seniorwhitea princeps,accepted,TRUE
 a15a6b4e-ef90-418f-a9a4-4483376d076f,species,Animalia,t0032591,Sarcophaga orchidea,Parasarcophaga misera,accepted,TRUE
-07e5d6ee-cf0d-4048-933e-16a986180662,species,Animalia,t0062461,Elephantomyia (Elephantomyia),Elephantomyia luculenta,accepted,TRUE
-8ce908ab-06eb-4702-b2d8-bfc6c1685c71,species,Animalia,t0062462,Elephantomyia (Elephantomyia),Elephantomyia serotina,accepted,TRUE
 2c4d7b4d-f81e-4b2b-be99-8648849d44fb,species,Animalia,t0067456,Limonia alticola,Dicranomyia alticola,accepted,TRUE
 f6343ae2-80c3-4dc2-bad2-5ea50dbedf31,species,Animalia,t0079753,Ctenophora laneipes,Pselliophora laneipes,accepted,TRUE
 18f4d59e-6bb1-4cdd-a593-60dd54e881ae,species,Animalia,t0047471,Tipula nigrorubra,Tipula holoserica,accepted,TRUE
@@ -194,7 +163,5 @@ d84b2034-e095-4c66-9028-bc26f018dfa1,species,Animalia,t0061935,Dolophilodes boru
 d9318ff4-c04f-46bc-a8e6-d8ffd15aedb1,species,Animalia,t0037859,Rhyacophila similis,Rhyacophila remingtoni,accepted,TRUE
 b329804f-42b8-4965-81b8-8f10c03e9ddf,species,Animalia,t0036396,Polycentropus inaequalis,Polyplectropus inaequalis,accepted,TRUE
 c985a5bc-442d-4630-a6fb-a8f256b3f5ad,species,Animalia,t0062790,Eoxizicus taiwanensis,Xizicus taiwanensis,accepted,TRUE
-0a1f3c88-0e94-4db9-862a-af2c5346c310,species,Animalia,t0028584,Platnickina mneon,Yunohamella lyrica,accepted,FALSE
 8aacd5f2-f294-4e27-ba0a-3b42ad7e80a6,species,Animalia,t0081956,Ocrisiona frenata,Kelawakaju frenata,accepted,FALSE
-7ae2e664-34bf-4a09-a7e1-c763b3a01899,species,Animalia,t0030651,Omphalomia hirta,Condate angulina,accepted,TRUE
 4d7cfa82-26dc-4323-b698-fdcccba2837e,species,Animalia,t0098697,Pyrgus maculatus,Syrichtus maculatus,accepted,TRUE

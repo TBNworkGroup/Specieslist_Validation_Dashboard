@@ -42561,7 +42561,7 @@ f6eb509e-2477-496c-bb49-572eca18f7c9,species,Animalia,t0036815,Prosopocoilus mot
 9b2bbd59-ddca-477c-b65e-cae3644d0cb9,species,Animalia,t0098608,Prosopocoilus astacoides,species,Animalia,accepted,TRUE
 03594257-96d3-4553-91ca-e68921a37538,species,Animalia,t0098609,Prosopocoilus forficula,species,Animalia,accepted,TRUE
 e6f3367d-1ef4-4607-91bb-36538eeac008,species,Animalia,t0098132,Odontolabis siva,species,Animalia,accepted,TRUE
-9a87c8e7-44fc-422d-b06a-2e1e64a61c6c,species,Animalia,t0098658,Pseudorhaetus sinicus,species,Animalia,accepted,TRUE
+9a87c8e7-44fc-422d-b06a-2e1e64a61c6c,species,Animalia,t0098658,Pseudorhaetus sinicus,species,Animalia,deleted,TRUE
 bb1ba9cb-8b3d-4e0c-ae5c-251c7ad84bc3,species,Animalia,t0098724,Rhaetulus crenatus,species,Animalia,accepted,TRUE
 be820efc-7a53-408c-bcbb-de6b37a9ba0d,species,Animalia,t0070431,Aethina concinna,species,Animalia,accepted,TRUE
 82917192-3f64-41e1-a7b1-afd102642a07,species,Animalia,t0070433,Aethina inconspicua,species,Animalia,accepted,TRUE
@@ -61437,7 +61437,6 @@ d968e603-3ada-48a3-84d0-4b9656d49dc3,infraspecies,Animalia,t0085964,Neolucanus m
 822a99a9-5800-4185-a300-a765985a0a7b,infraspecies,Animalia,t0086155,Prosopocoilus astacoides blanchardi,subspecies,Animalia,accepted,TRUE
 f1ffe0ff-ff66-4c7b-80a2-f2ae5f00112a,infraspecies,Animalia,t0086156,Prosopocoilus forficula austerus,subspecies,Animalia,accepted,TRUE
 fc35daea-a871-4aa0-820f-b90eb5897d94,infraspecies,Animalia,t0085996,Odontolabis siva parryi,subspecies,Animalia,accepted,TRUE
-63dfe149-f831-4819-be76-3e4637c53da4,infraspecies,Animalia,t0032295,Pseudorhaetus sinicus concolor,subspecies,Animalia,accepted,TRUE
 bd7cae12-7efb-4727-a697-d4620f5522e3,infraspecies,Animalia,t0086206,Rhaetulus crenatus crenatus,subspecies,Animalia,accepted,TRUE
 d2965c2c-fc78-4713-b3e4-9560cbbf8494,infraspecies,Animalia,t0085783,Ipidia variolosa latior,subspecies,Animalia,accepted,TRUE
 9687d1a9-a581-4be2-8f37-4f2805aa670d,infraspecies,Animalia,t0085883,Megauchenia quadricollis rotundata,subspecies,Animalia,accepted,TRUE
