@@ -7,7 +7,8 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20261118"  # 舉例
+modified_date <- format(Sys.Date(), "%Y%m%d")
+#modified_date <- "20261118"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/test_version/TTsplist_test_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -546,10 +547,65 @@ for (i in 1:nrow(df_TT_without_species)) {
 
 
 
-df_TT_without_species$TT_URL <- sprintf("https://vvtaxatree.tbn.org.tw/taxa/%s", df_TT_without_species$taxonUUID)
+df_TT_without_species$reason <- "沒有種以下階層"
+
+# 1. 設定預期父分類階層
+rank_rules <- tibble::tribble(
+  ~taxonRank,      ~expected_parentRank,
+  # "phylum",       "kingdom",
+  # "class",        "phylum",
+  # "order",        "class",
+  # "family",       "order",
+  # "genus",        "family",
+  "species",      "genus",
+  "infraspecies", "species"
+)
+
+# 2. 整理分類群資料
+df_TT_taxon <- df_TTsplist %>%
+  dplyr::select(
+    taxonUUID, taxonRank, kingdom,
+    simplifiedScientificName, parentUUID
+  ) %>%
+  mutate(
+    taxonRank = tolower(trimws(as.character(taxonRank)))
+  )
+
+# 3. 建立父分類群資料，沿用你重新命名的欄位
+df_TT_parent <- df_TT_taxon %>%
+  transmute(
+    parentUUID = taxonUUID,
+    parent_taxonRank = taxonRank,
+    parent_name = simplifiedScientificName
+  )
+
+# 4. 篩出父分類階層不符合規則的紀錄
+df_TT_parent_rank_mismatch <- df_TT_taxon %>%
+  inner_join(
+    df_TT_parent,
+    by = "parentUUID",
+    relationship = "many-to-one"
+  ) %>%
+  inner_join(
+    rank_rules,
+    by = "taxonRank"
+  ) %>%
+  filter(parent_taxonRank != expected_parentRank)
+
+df_TT_parent_rank_mismatch$reason <- "上階層對應錯誤"
 
 
-fwrite(df_TT_without_species, "../../data/output/TT_to_TC_beta/TT_without_species.csv")
+
+df_TT_Taxonomic_Hierarchy_Error <- bind_rows(df_TT_parent_rank_mismatch, df_TT_without_species)
+
+df_TT_Taxonomic_Hierarchy_Error$TT_URL <- sprintf("https://taxatree.tbn.org.tw/taxa/%s", df_TT_Taxonomic_Hierarchy_Error$taxonUUID)
+
+
+
+
+fwrite(df_TT_Taxonomic_Hierarchy_Error, "../../data/output/TT_to_TC_beta/TT_Taxonomic_Hierarchy_Error.csv")
+
+
 
 
 # ------------------------------------------------------------------

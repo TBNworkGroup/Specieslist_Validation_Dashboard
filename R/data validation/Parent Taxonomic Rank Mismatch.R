@@ -4,11 +4,11 @@ library(dplyr)
 # 1. 設定預期父分類階層
 rank_rules <- tibble::tribble(
   ~taxonRank,      ~expected_parentRank,
-  "phylum",       "kingdom",
-  "class",        "phylum",
-  "order",        "class",
-  "family",       "order",
-  "genus",        "family",
+  # "phylum",       "kingdom",
+  # "class",        "phylum",
+  # "order",        "class",
+  # "family",       "order",
+  # "genus",        "family",
   "species",      "genus",
   "infraspecies", "species"
 )
