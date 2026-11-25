@@ -51,6 +51,8 @@ t0033180,Species,t0017035,Synoicus chinensis,native,TRUE,II,NEN,LC,輕度,t00331
 t0100994,Subspecies,t0033180,Synoicus chinensis chinensis,native,TRUE,"",NEN,"","",t0033180,保育等級不同,protected,https://taicol.tw/zh-hant/taxon/t0100994
 t0033180,Species,t0017035,Synoicus chinensis,native,TRUE,II,NEN,LC,輕度,t0033180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0033180
 t0100994,Subspecies,t0033180,Synoicus chinensis chinensis,native,TRUE,"",NEN,"","",t0033180,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0100994
+t0033210,Species,t0017087,Tachysurus brevianalis,native,TRUE,"",NVU,"","",t0033210,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0033210
+t0137190,Subspecies,t0033210,Pseudobagrus brevianalis taiwanensis,"",TRUE,"","","","",t0033210,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0137190
 t0033607,Species,t0009028,Adiantum capillus-veneris,native,TRUE,"",NLC,LC,"",t0033607,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0033607
 t0087609,Subspecies,t0033607,Adiantum capillus-veneris subsp. lanyuanum,native,TRUE,"",,"","",t0033607,國內紅皮書不同,redlist,https://taicol.tw/zh-hant/taxon/t0087609
 t0033607,Species,t0009028,Adiantum capillus-veneris,native,TRUE,"",NLC,LC,"",t0033607,IUCN紅皮書不同,iucn,https://taicol.tw/zh-hant/taxon/t0033607

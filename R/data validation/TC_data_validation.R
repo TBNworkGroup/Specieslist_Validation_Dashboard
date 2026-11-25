@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20261111"  # 舉例
+modified_date <- "20261118"  # 舉例
 
 
 # 先抓第一頁
@@ -29,6 +29,15 @@ for (i in sequence) {
   print(i)
 }
 
+start_offset <- nrow(df_TCsplist)
+
+for (i in seq(from = start_offset, to = pg * 300, by = 300)) {
+  splist <- fromJSON(sprintf(
+    "https://api.taicol.tw/v2/taxon?limit=300&offset=%d", i
+  ))
+  df_TCsplist <- rbind(df_TCsplist, splist$data)
+  print(i)
+}
 
 # highertaxon <- fromJSON(sprintf("https://api.taicol.tw/v2/higherTaxa?taxon_id=%s", df_TCsplist$taxon_id[33609]))
 # df_highertaxon <- highertaxon$data

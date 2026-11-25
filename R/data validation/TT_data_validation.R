@@ -7,7 +7,7 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20261111"  # 舉例
+modified_date <- "20261118"  # 舉例
 
 # (2) 讀取檔案 & 篩選欄位
 df_TTsplist <- fread(sprintf("../../data/input/TT/TTsplist_%s.csv", modified_date), sep = ",", fill=TRUE, encoding = "UTF-8", colClasses="character", header=TRUE)
@@ -751,6 +751,34 @@ for (i in 1:nrow(df_speciesinfraspecies_attribute_mismatch)) {
 }
 
 
+
+
+df_TT_taxon <- df_TTsplist %>%
+  select(
+    taxonUUID, taxonRank, kingdom, simplifiedScientificName, parentUUID
+  )
+
+df_TT_infraspecies <- df_TT_taxon %>%
+  filter(
+    taxonRank %in% "infraspecies"
+  )
+
+df_TT_parent <- df_TT_taxon %>% 
+  select(taxonUUID, taxonRank, simplifiedScientificName)%>%
+  setnames(., c("taxonUUID", "taxonRank", "simplifiedScientificName"), c("parentUUID", "parent_taxonRank", "parent_name"))
+
+
+infrataxoncheck <- df_TT_infraspecies %>%
+  inner_join(
+    df_TT_parent,
+    by = c(
+      "parentUUID" = "parentUUID"
+    )
+  ) |> 
+  filter(!(parent_taxonRank %in% "species"))
+
+
+fwrite(infrataxoncheck, "../../data/output/TT_infrataxoncheck.csv")
 
 
 
