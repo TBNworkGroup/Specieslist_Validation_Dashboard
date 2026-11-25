@@ -1,9 +1,10 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,TC_taxon_id,TC_taxon_status,TC_is_in_taiwan
+57ec2a7c-cd34-44ad-b6d5-2bc4d5385c93,class,Animalia,t0000204,Chondrichthyes,t0002891,accepted,FALSE
 1fac4bd1-a247-4d55-9ca7-fb5c9e618208,class,Animalia,t0000723,Trematoda,t0002899,deleted,TRUE
 810b4a50-36c5-4cfa-8426-f7fd1bc7ff81,family,Animalia,"",Lorisidae,t0107454,accepted,FALSE
 26464dbe-41ae-4663-86dc-8314a93861d0,genus,Animalia,"",Ovis,t0107125,accepted,FALSE
-c198e721-573e-4551-b5f8-0c1f89eb51b6,genus,Animalia,"",Panthera,t0091712,accepted,TRUE
 ee3aa6e0-e276-4a70-993d-b118cff258e0,genus,Animalia,"",Helarctos,t0107162,accepted,FALSE
+c198e721-573e-4551-b5f8-0c1f89eb51b6,genus,Animalia,"",Panthera,t0091712,accepted,TRUE
 f6e5eb70-cb8c-46d2-af39-1604970ecc97,genus,Animalia,"",Vulpes,t0107147,accepted,FALSE
 7c28ca48-33ba-4c6f-8696-7d9e28004a6f,species,Animalia,t0086415,Velarifictorus ornatus,t0096638,deleted,TRUE
 911e3b0f-cbd0-4d95-9509-eb2e063de7ea,species,Animalia,t0085439,Anarhynchus mongolus,t0097638,accepted,TRUE

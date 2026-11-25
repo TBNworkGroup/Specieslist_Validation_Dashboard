@@ -7,7 +7,8 @@ sapply(usepackage, library, character.only = TRUE)
 
 
 # (1) 假設你有一個 modified_date 變數；如果沒有，就直接指定檔名。
-modified_date <- "20261118"  # 舉例
+modified_date <- format(Sys.Date(), "%Y%m%d")
+#modified_date <- "20261118"  
 
 
 # 先抓第一頁
@@ -57,7 +58,8 @@ df_export[, higher_taxa := vapply(
   character(1)
 )]
 
-
+df_export <- df_export %>%
+  distinct()
 
 fwrite(df_export, sprintf("../../data/input/TC/TCsplist_%s.csv", modified_date))
 

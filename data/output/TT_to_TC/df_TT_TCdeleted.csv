@@ -1,5 +1,4 @@
 TT_taxonUUID,TT_taxonRank,TT_kingdom,TT_taiCOLNameCode,TT_simplifiedScientificName,TC_rank,TC_kingdom,TC_taxon_status,TC_is_in_taiwan,TC_new_taxon_id,TT_URL
-a4bf4963-5d24-4e02-9b11-b8a2ce74bfab,class,Animalia,t0002887,Actinopterygii,class,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/a4bf4963-5d24-4e02-9b11-b8a2ce74bfab
 2acef9af-41e3-4c23-99cb-797e43ddb55c,order,Animalia,t0003090,Stomiiformes,order,Animalia,deleted,TRUE,t0002183,https://taxatree.tbn.org.tw/taxa/2acef9af-41e3-4c23-99cb-797e43ddb55c
 30e4355e-8837-4e46-8d71-f9b93a73e72f,family,Animalia,t0006045,Gnathophyllidae,family,Animalia,deleted,TRUE,t0004262,https://taxatree.tbn.org.tw/taxa/30e4355e-8837-4e46-8d71-f9b93a73e72f
 d7ae9bec-bc23-436e-ba55-9695e8fa3ad5,family,Animalia,t0006183,Hymenoceridae,family,Animalia,deleted,FALSE,t0004262,https://taxatree.tbn.org.tw/taxa/d7ae9bec-bc23-436e-ba55-9695e8fa3ad5
@@ -17,6 +16,8 @@ d891ac88-920a-44d4-a510-800a66aa01b0,species,Animalia,t0099209,Totanus scaphus,s
 e3783794-425a-454e-b32e-e3f6d0995dcb,species,Animalia,t0099210,Totanus sinicus,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/e3783794-425a-454e-b32e-e3f6d0995dcb
 2ef4f990-b653-44ee-b391-0e5c5b55e6dc,species,Animalia,t0099206,Totanus derjugini,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/2ef4f990-b653-44ee-b391-0e5c5b55e6dc
 9e7b74f0-5540-4473-91a6-6be4430675aa,species,Animalia,t0099207,Totanus dextrilobatus,species,Animalia,deleted,TRUE,"",https://taxatree.tbn.org.tw/taxa/9e7b74f0-5540-4473-91a6-6be4430675aa
+9c2abbb7-5698-48e6-b591-d95a61afeab8,species,Animalia,t0050811,Enneapterygius rubicauda,species,Animalia,deleted,TRUE,t0050804,https://taxatree.tbn.org.tw/taxa/9c2abbb7-5698-48e6-b591-d95a61afeab8
+3371fa25-aac9-4a0f-aad3-bb470fae6798,species,Animalia,t0050186,Cephaloscyllium umbratile,species,Animalia,deleted,TRUE,t0050184,https://taxatree.tbn.org.tw/taxa/3371fa25-aac9-4a0f-aad3-bb470fae6798
 4a9a75b8-0a55-4c92-ad81-216224d2fbfb,species,Animalia,t0067410,Limiscala billeeanum,species,Animalia,deleted,TRUE,t0062944,https://taxatree.tbn.org.tw/taxa/4a9a75b8-0a55-4c92-ad81-216224d2fbfb
 4a723390-8e42-4f7e-b36f-a3ca20e2f925,species,Animalia,t0083533,Parviscala paumotense,species,Animalia,deleted,TRUE,t0062962,https://taxatree.tbn.org.tw/taxa/4a723390-8e42-4f7e-b36f-a3ca20e2f925
 df09dba9-3769-4bd0-b684-806f9a9eef8d,species,Animalia,t0083845,Perotrochus hirasei,species,Animalia,deleted,TRUE,t0062698,https://taxatree.tbn.org.tw/taxa/df09dba9-3769-4bd0-b684-806f9a9eef8d
