@@ -765,7 +765,7 @@ function initDataTableNomencl(dataArray) {
       filtered = filtered.filter(d => d.groupID === selectedGroupID);
     }
     if (myDataTable4) {
-      myDataTable5.clear().destroy();
+      myDataTable4.clear().destroy();
     }
     fillTableBodyNomencl(filtered);
     myDataTable4 = $('#nomencl-error-table').DataTable({ pageLength: 10 });
